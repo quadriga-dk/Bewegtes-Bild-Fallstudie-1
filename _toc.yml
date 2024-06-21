@@ -7,6 +7,7 @@ parts:
   - caption: Einführung
     chapters: 
       - file: Kapitel_I/Einführung_in_datengestützte_Filmanalyse
+      - file: Kapitel_I/test
   - caption: Vertiefung und Aufgaben
     chapters: 
       - file: Kapitel_II/Aufgabe_A
