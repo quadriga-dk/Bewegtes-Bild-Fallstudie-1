@@ -14,20 +14,4 @@ parts:
     chapters: 
       - file: Kapitel_III/Zusammenfassung
 
-#  - caption: Entwicklungsumgebung
-#    chapters:
-#      - file: template/develop/intro
-#     - file: template/develop/git
-#      - file: template/develop/unix
-#      - file: template/develop/python
-#      - file: template/develop/jupyter_book
-#      - file: template/develop/editor
-#  - caption: Datentypen und Formatierung
-#    chapters:
-#      - file: template/formatting/markdown
-#      - file: template/formatting/notebooks
-#      - file: template/formatting/markdown-notebooks
-#  - caption: Assessment
-#    chapters:
-#      - file: template/assessment/introduction
-#      - file: template/assessment/jupyterquiz
+

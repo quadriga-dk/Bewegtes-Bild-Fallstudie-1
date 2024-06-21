@@ -1,9 +1,8 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: Template Book
-author: |
-  <a ref="https://quadriga-dk.de">QUADRIGA</a>
+title: "Bewegtes Bild: Emotionalisierungen"
+author: Derya Demir & Matthias Grotkopp
 logo: logo.jpg
 copyright: "2024"
 exclude_patterns: [_build, Thumbs.db, .DS_Store, "**.ipynb_checkpoints", conda, README.md]
