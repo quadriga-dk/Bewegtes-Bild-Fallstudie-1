@@ -4,20 +4,27 @@
 format: jb-book
 root: intro
 parts:
-  - caption: Entwicklungsumgebung
-    chapters:
-      - file: develop/intro
-      - file: develop/git
-      - file: develop/unix
-      - file: develop/python
-      - file: develop/jupyter_book
-      - file: develop/editor
-  - caption: Datentypen und Formatierung
-    chapters:
-      - file: formatting/markdown
-      - file: formatting/notebooks
-      - file: formatting/markdown-notebooks
-  - caption: Assessment
-    chapters:
-      - file: assessment/introduction
-      - file: assessment/jupyterquiz
+  - caption: Einführung
+    chapters: Kapitel_I/Einführung_in_Datengestützte_Filmanalyse
+  - caption: Vertiefung und Aufgaben
+    chapters: Kapitel_II/Aufgabe_A
+  - caption: Zusammenfassung
+    chapters: Kapitel_III/Zusammenfassung
+
+#  - caption: Entwicklungsumgebung
+#    chapters:
+#      - file: template/develop/intro
+#     - file: template/develop/git
+#      - file: template/develop/unix
+#      - file: template/develop/python
+#      - file: template/develop/jupyter_book
+#      - file: template/develop/editor
+#  - caption: Datentypen und Formatierung
+#    chapters:
+#      - file: template/formatting/markdown
+#      - file: template/formatting/notebooks
+#      - file: template/formatting/markdown-notebooks
+#  - caption: Assessment
+#    chapters:
+#      - file: template/assessment/introduction
+#      - file: template/assessment/jupyterquiz
