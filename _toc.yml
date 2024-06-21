@@ -5,11 +5,14 @@ format: jb-book
 root: intro
 parts:
   - caption: Einführung
-    chapters: Kapitel_I/Einführung_in_Datengestützte_Filmanalyse
+    chapters: 
+      - file: Kapitel_I/Einführung_in_Datengestützte_Filmanalyse
   - caption: Vertiefung und Aufgaben
-    chapters: Kapitel_II/Aufgabe_A
+    chapters: 
+      - file: Kapitel_II/Aufgabe_A
   - caption: Zusammenfassung
-    chapters: Kapitel_III/Zusammenfassung
+    chapters: 
+      - file: Kapitel_III/Zusammenfassung
 
 #  - caption: Entwicklungsumgebung
 #    chapters:
