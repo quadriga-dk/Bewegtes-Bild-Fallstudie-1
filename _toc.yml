@@ -14,5 +14,8 @@ parts:
   - caption: Zusammenfassung
     chapters: 
       - file: Kapitel_III/Zusammenfassung
+  - caption: Bibliographie
+    chapters:
+      - file: Bibliographie
 
 
