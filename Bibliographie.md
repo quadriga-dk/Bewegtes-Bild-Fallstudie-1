@@ -1,3 +1,3 @@
-# Bibliographie
+# Referenzen
 ```{bibliography}
 ```
