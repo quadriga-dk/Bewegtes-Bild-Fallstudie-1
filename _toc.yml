@@ -6,7 +6,7 @@ root: intro
 parts:
   - caption: Einführung
     chapters: 
-      - file: Kapitel_I/Einführung_in_datengestützte_Filmanalyse
+      - file: Kapitel_I/Einführung_in_die_datengestützte_Filmanalyse
       - file: Kapitel_I/test
   - caption: Vertiefung und Aufgaben
     chapters: 
