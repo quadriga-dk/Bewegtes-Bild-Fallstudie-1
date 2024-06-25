@@ -8,6 +8,7 @@ parts:
     chapters: 
       - file: Kapitel_I/Einführung_in_die_datengestützte_Filmanalyse
       - file: Kapitel_I/Information_und_Material
+      - file: Kapitel_I/Aufbau_der_Übungen
       - file: Kapitel_I/test
   - caption: Vertiefung und Aufgaben
     chapters: 

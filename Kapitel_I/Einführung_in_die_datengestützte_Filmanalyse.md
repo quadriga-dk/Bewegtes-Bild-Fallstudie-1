@@ -27,5 +27,5 @@ Eine wichtiges Anliegen der Fallstudie ist es, die Emotionalisierung als subjekt
 *Die zentralen Aufgaben der Fallstudie umfassen...*
 * filmwissenschaftliche Methoden als digitale Methoden verständlich zu machen
 * die Übertragung basisschematischer Ansätze der Filmanalyse in webbasierte Semantik nach semantic triple-Prinzipien
-* ein grundlegendes Verständnis für digitale Annotationsarbeit (timeline based video analysis) 
+* ein grundlegendes Verständnis für digitale Annotationsarbeit (*timeline based video analysis*) 
 * die Qualifizierung der Annotationsmetadaten im Kontext der Fragestellung der Fallstudie zu intendierten Emotionalisierungen
