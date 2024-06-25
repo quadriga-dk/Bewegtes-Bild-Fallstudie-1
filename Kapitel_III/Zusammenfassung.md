@@ -1,4 +1,4 @@
 ---
 lang: de-DE
 ---
-# Zusammenfassung
+# Diskussion und Reflexion

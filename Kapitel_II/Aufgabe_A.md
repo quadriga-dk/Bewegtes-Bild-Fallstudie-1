@@ -1,4 +1,4 @@
 ---
 lang: de-DE
 ---
-# Aufgabe A
+# Aufgabe A: Tabellarische Annotation
