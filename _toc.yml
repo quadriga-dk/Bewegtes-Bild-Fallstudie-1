@@ -8,13 +8,25 @@ parts:
     chapters: 
       - file: Kapitel_I/Einführung_in_die_datengestützte_Filmanalyse
       - file: Kapitel_I/Information_und_Material
+      - file: Kapitel_I/Technische_Voraussetzungen
   - caption: Vertiefung und Aufgaben
     chapters: 
       - file: Kapitel_II/Aufbau_der_Übungen
+  - caption: Tabellarische Annotation
+    chapters:
       - file: Kapitel_II/Aufgabe_A
+      - file: Kapitel_II/Übung_A
+  - caption: Annotieren mit Tools
+    chapters:
       - file: Kapitel_II/Aufgabe_B
+  - caption: Einarbeiten in die Filmontologie
+    chapters:
       - file: Kapitel_II/Aufgabe_C
+  - caption: Annotieren mit einer Filmontologie
+    chapters:
       - file: Kapitel_II/Aufgabe_D
+  - caption: Visualisierung
+    chapters:
       - file: Kapitel_II/Aufgabe_E
   - caption: Zusammenfassung
     chapters: 
