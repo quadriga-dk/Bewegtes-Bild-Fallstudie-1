@@ -2,10 +2,12 @@
 lang: de-DE
 ---
 # Deskriptive Filmanalyse
-In diesem Kapitel werden die Basics tabellarischer Annotationsarbeit abgedeckt:
+In diesem Kapitel werden die Grundlagen tabellarischer Annotationsarbeit abgedeckt.
 +++
 [Untersuchungsgegenstand](Aufbau_der_Übungen) <br>
 [Durchführung und Schritte](Aufgabe_A_UK-2) <br>
+[Übung](Aufgabe_A_UK-3) <br>
+[Resümee](Aufgabe_A_UK-4)
 :::{dropdown} Grob- und Feinlernziele
 **Groblernziel**
 +++
@@ -36,4 +38,4 @@ Um nachvollziehen zu können, wie der Zusammenhang zwischen einem filmanalytisch
 +++
 Für die erste Übung – besonders geeignet für Einsteiger*innen ohne Vorwissen und Interessierte am Umgang mit deskriptiven Methoden der Filmanalyse –  werden tabellarische Annotationsdaten erstellt.
 +++
-LET'S GET STARTED 🚀 **→**
+LET'S GET STARTED 🚀 ➡️

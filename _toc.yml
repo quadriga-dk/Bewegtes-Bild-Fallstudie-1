@@ -17,6 +17,8 @@ parts:
       - file: Kapitel_II/Aufgabe_A
       - file: Kapitel_II/Aufgabe_A_UK-1
       - file: Kapitel_II/Aufgabe_A_UK-2
+      - file: Kapitel_II/Aufgabe_A_UK-3
+      - file: Kapitel_II/Aufgabe_A_UK-4
   - caption: Annotieren mit Tools
     chapters:
       - file: Kapitel_II/Aufgabe_B
