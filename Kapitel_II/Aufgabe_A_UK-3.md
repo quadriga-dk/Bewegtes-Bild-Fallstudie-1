@@ -1,8 +1,10 @@
 # Übung, Ergebnisauswertung und Diskussion
 
-Dieses Unterkapitel soll als Übung dazu dienen, die Ergebnisse aus der tabellarischen Annotation punktuell vergleichen und auswerten zu können. 
-Ebenso soll anhand der Auswertung der Ergebnisse diskutiert werden, welche Vor- und Nachteile sich aus dem Kontext der Übung für eine allgemeine Perspektive deskriptiver Methoden ableiten lassen. 
+Dieses Unterkapitel soll als Übung dazu dienen, die Ergebnisse aus der tabellarischen Annotation punktuell vergleichen und auswerten zu können.
+Ebenso soll anhand der Auswertung der Ergebnisse diskutiert werden, welche Vor- und Nachteile sich aus dem Kontext der Übung für eine allgemeine Perspektive deskriptiver Methoden ableiten lassen.
+
 ## Frage 1
+
 Welche alternative Segmentierungsmethode neben der Einteilung in Einstellungen erscheint als sinnvoll? <br>
 QUIZ EINBINDEN
 +++
@@ -17,12 +19,16 @@ Die nachfolgende Tabelle zeigt eine beispielhafte Segmentierungsstruktur. Hier w
 
 Annotation als Verlaufsdynamik (Ausschnitt)
 ```
+
 ```{attention} Bei einer (manuellen) tabellarischen Annotation gibt es keine Option, Visualisierungen automatisch generieren zu lassen. Hierfür müssen externe Programme oder Tools genutzt werden.
 ```
+
 :::
+
 ## Frage 2
+
 Welche Einstellungen weisen die längste Dauer auf? Bitte *drei Antworten* auswählen. <br>
-MULTIPLE CHOICE 
+MULTIPLE CHOICE
 :::{dropdown} Antwort
 Um die Dauer einer Einstellung bei der tabellarischen Annotation zu erheben, können unterschiedliche Verfahren gewählt werden. Zum Beispiel kann eine Einstellung abgespielt und gleichzeitig eine Stoppuhr ⏰ eingesetzt werden. So kann ermittelt werden, welche Einstellungen die längste Dauer aufweisen. Da dieses Verfahren manuell durchgeführt werden muss, ist die Fehleranfälligkeit verhältnismäßig hoch.
 +++
@@ -35,24 +41,36 @@ Abstrakten Zahlen, wie zum Beipiel die kommunizierte 2 Grad-Grenze, werden affek
 :width: 600px
 :align: center
 ```
+
 :::
+
 ## Frage 3
+
 ````{margin}
 ```{hint} Als **Found Footage** wird Bildmaterial bezeichnet, das aus anderen medialen Kontexten stammt und wahrnehmbar aus den audiovisuellen Zusammenhängen eines Films heraussticht. 
 Found Footage, also die Einbettung 'vorgefunden Materials', ist eine Gestaltungsmethode filmischer Inszenierung und kann auf vielfältige Weise eingesetzt werden.
 ```
 ````
+
 Welche Formen von **Found Footage** sind zu sehen? *Mehrere Antworten* sind möglich. <br>
 MULTIPLE CHOICE
 :::{dropdown} Antwort
 Im Kontext des Ausschnitts verweisen die Aufnahmen auf das historische wie auch politische Ereignis der 15. Klimakonferenz in Kopenhagen im Jahr 2009 der UNFCCC (15th Conference of the Parties to the United Nations Framework Convention on Climate Change). <br>
 Durch die 'Camcorder-Ästhetik' unterscheiden sich diese Aufnahmen hinsichtlich ihrer Gestaltung von den anderen Inszenierungweisen des Films und heben sich deutlich ab. <br>
-Das Found Footage-Material wird in dem Videoausschnitt als Bild-in-Bild-Komposition eingebettet. Als Referenzobjekt für die Entfernung, beispielsweise für die Bestimmung von Einstellungsgrößen, können hier entweder die Menschen und/oder das gesamte Arrangement (inkl. der umgebenden Rahmung) gesetzt werden. 
+Das Found Footage-Material wird in dem Videoausschnitt als Bild-in-Bild-Komposition eingebettet. Als Referenzobjekt für die Entfernung, beispielsweise für die Bestimmung von Einstellungsgrößen, können hier entweder die Menschen und/oder das gesamte Arrangement (inkl. der umgebenden Rahmung) gesetzt werden.
+
 ```{image} ../assets/Found-Footage-Reihe.png
 :width: 600px
 :align: center
 ```
+
 :::
+
+## Frage 4
+
+Wie oft werden 2D-Animationen eingesetzt? <br>
+QUIZ EINBINDEN
+
 ## Diskussion: Vor- und Nachteile
 
 Welche Vor- und Nachteile ergeben sich aus der bisherigen Arbeit mit der Methode der tabellarischen Annotation?
@@ -69,7 +87,6 @@ Welche Vor- und Nachteile ergeben sich aus der bisherigen Arbeit mit der Methode
 |                                                                                                | Kein Export der Daten möglich                                                                                      |
 |                                                                                                | Keine Maschinenlesbarkeit                                                                                          |
 
-
-Die tabellarische Annotation ist für einen Einstieg in Methoden deskriptiver Analyse gut geeignet. Sie kann die Arbeit am Filmmaterial sinnvoll ergänzen sowie im Kontext wissenschaftlicher Arbeiten eingesetzt werden, um auf konkrete analytische Beschreibungen verweisen zu können. Insofern ist die tabellarische Annotation ein einfaches Hilfsmittel. 
+Die tabellarische Annotation ist für einen Einstieg in Methoden deskriptiver Analyse gut geeignet. Sie kann die Arbeit am Filmmaterial sinnvoll ergänzen sowie im Kontext wissenschaftlicher Arbeiten eingesetzt werden, um auf konkrete analytische Beschreibungen verweisen zu können. Insofern ist die tabellarische Annotation ein einfaches Hilfsmittel.
 +++
-Wie gezeigt werden konnte, gibt es zwar Möglichkeiten manuelle Annotationen ebenfalls als Verlaufsdynamiken zu visualisieren (Tools für Tabellen, Bildbearbeitungsprogramme o.Ä.), jedoch gibt es keine Exportmöglichkeiten für solche Visualisierungen. Da es keine festgelegte Annotationstaxonomie gibt, fehlt hier auch eine Grundlage für filmübergreifende Vergleiche. Ebenso ist das Moment der zeitlichen Beschaffenheit des Materials schwer einzuholen. Dies ist dem Umstand der Trennung von Player und Dokument geschuldet, denn es gibt keine ‚synchrone‘ Annotationsmöglichkeit durch das Fehlen der Einbindung des Videos und der Einbettung einer Timeline. Die Auswertung der Daten erfolgt, wie wir es hier durch die Abfrage von Ergebnissen und Quantitäten versucht haben zu reproduzieren, nur punktuell. Eine maschinenlesbare Produktion der Daten als visuelle Verlaufsdynamik ist nicht möglich. 
+Wie gezeigt werden konnte, gibt es zwar Möglichkeiten manuelle Annotationen ebenfalls als Verlaufsdynamiken zu visualisieren (Tools für Tabellen, Bildbearbeitungsprogramme o.Ä.), jedoch gibt es keine Exportmöglichkeiten für solche Visualisierungen. Da es keine festgelegte Annotationstaxonomie gibt, fehlt hier auch eine Grundlage für filmübergreifende Vergleiche. Ebenso ist das Moment der zeitlichen Beschaffenheit des Materials schwer einzuholen. Dies ist dem Umstand der Trennung von Player und Dokument geschuldet, denn es gibt keine ‚synchrone‘ Annotationsmöglichkeit durch das Fehlen der Einbindung des Videos und der Einbettung einer Timeline. Die Auswertung der Daten erfolgt, wie wir es hier durch die Abfrage von Ergebnissen und Quantitäten versucht haben zu reproduzieren, nur punktuell. Eine maschinenlesbare Produktion der Daten als visuelle Verlaufsdynamik ist nicht möglich.

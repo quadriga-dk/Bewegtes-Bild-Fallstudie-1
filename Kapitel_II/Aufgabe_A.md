@@ -4,19 +4,25 @@ lang: de-DE
 # Deskriptive Filmanalyse
 In diesem Kapitel werden die Grundlagen tabellarischer Annotationsarbeit abgedeckt.
 +++
-[Untersuchungsgegenstand](Aufbau_der_Übungen) <br>
+*Wir befinden uns hier:*
+![Aufgabe 1](../assets/Aufgabenstruktur-01.png)
++++
+## Kapitelübersicht
+
+[Untersuchungsgegenstand](Aufgabe_A_UK-1) <br>
 [Durchführung und Schritte](Aufgabe_A_UK-2) <br>
-[Übung](Aufgabe_A_UK-3) <br>
+[Übung, Ergebnisauswertung und Diskussion](Aufgabe_A_UK-3) <br>
 [Resümee](Aufgabe_A_UK-4)
+
 :::{dropdown} Grob- und Feinlernziele
 **Groblernziel**
 +++
-Mithilfe datengestützter filmanalytischer Methoden können Metadaten zu audiovisuellem Material hergestellt sowie als Inszenierungsmuster qualifiziert werden.
+Mithilfe datengestützter filmanalytischer Methoden können Metadaten zu audiovisuellem Material hergestellt werden.
 +++
 **Feinlernziele**
 1. Basisschematische Parameter können erkannt und Segmente identifiziert werden.
 2. Den Segmenten und Parametern können Inhalte bzw. Werte beigeordnet werden.
-3. Die Ergebnisse können filmanalytisch qualifiziert werden.
+3. Die Ergebnisse können filmanalytisch qualifiziert und kontextualisiert werden.
 :::
 
 

@@ -11,9 +11,52 @@ Zur Durchführung von Annotationen nutzen wir die frei zugänglichen Programme A
 
 ## Installationsanleitung Advene für Linux mit einer Parallels-Lizenz
 
-Die Development-Version für Linux kann auch über eine Parallels-Lizenz für Linux genutzt werden. Hierzu muss eine Lizenz (kostenpflichtig) erworben werden. 
-
-```{hint} Im Rahmen wissenschaftlicher Projekte zu Datenanalysen (Data Science) werden solche Lizenzen auch häufig von Arbeitgebern oder Institutionen übernommen. Es lohnt sich also nachzufragen! 
+````{margin}
+```{attention} 
+*Parallels* ist eine kostenpflichtige virtuelle Maschine eines anderen Herstellers.
 ```
+````
+
+Die Development-Version für Linux kann auch über eine Parallels-Lizenz für Linux genutzt werden. 
+
 ### Schritt-für-Schritt Anleitung
 
+Für das Installationspaket und -anleitung siehe: http://advene.org/download.html#download
++++
+#### Einrichtung Repository
++++
+Um *Ubuntu* zu erlauben aus einem unbekannten Repository sich Daten herunterladen zu dürfen, wird hier das Git-Repository des Entwicklers Olivier Aubert als vertrauenswürdige Quelle im System hinterlegt:
++++
+`sudo wget --quiet -O /etc/apt/sources.list.d/advene.list https://olivieraubert.net/advene/debian/binary/advene.list` 
++++
+`wget --quiet -O - https://olivieraubert.net/olivieraubert.asc | sudo apt-key add -`
+
+#### Installation Advene
+
+Nach der Einrichtung des Repositorys erfolgt nun die tatsächliche Installation des Programms selbst.
+
+`sudo apt update && sudo apt install advene advene-full`
+
+#### Development Version
+
+Aktuellste Entwicklungen der Software können in der Development-Version benutzt werden. Um alle notwendigen Hilfsprogramme auf dem Rechner zu haben, muss zunächst die aktuell veröffentlichte Advene Version installiert werden (siehe oben).
+
+Danach kann durch die folgenden Eingaben die Development-Version aus dem Git-Repository des Entwicklers bezogen werden:
+
+`mkdir src`
++++
+`cd src`
++++
+`git clone https://github.com/oaubert/advene.git`
++++
+
+````{margin}
+```{attention} 
+Start via Programm-Icon öffnet den regulären Release!
+```
+````
+Um nun die Development-Version von Advene zu öffnen, bei jedem Start die folgenden Schritte befolgen:
+
+`cd src/advene`
++++
+`GDK_BACKEND=x11 advene`
