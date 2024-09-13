@@ -9,7 +9,6 @@ In diesem Kapitel werden die Grundlagen tabellarischer Annotationsarbeit abgedec
 +++
 ## Kapitelübersicht
 
-[Untersuchungsgegenstand](Aufgabe_A_UK-1) <br>
 [Durchführung und Schritte](Aufgabe_A_UK-2) <br>
 [Übung, Ergebnisauswertung und Diskussion](Aufgabe_A_UK-3) <br>
 [Resümee](Aufgabe_A_UK-4)

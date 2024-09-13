@@ -27,15 +27,24 @@ Für das Installationspaket und -anleitung siehe: http://advene.org/download.htm
 +++
 Um *Ubuntu* zu erlauben aus einem unbekannten Repository sich Daten herunterladen zu dürfen, wird hier das Git-Repository des Entwicklers Olivier Aubert als vertrauenswürdige Quelle im System hinterlegt:
 +++
-`sudo wget --quiet -O /etc/apt/sources.list.d/advene.list https://olivieraubert.net/advene/debian/binary/advene.list` 
-+++
-`wget --quiet -O - https://olivieraubert.net/olivieraubert.asc | sudo apt-key add -`
+<pre>
+
+sudo wget --quiet -O /etc/apt/sources.list.d/advene.list 
+https://olivieraubert.net/advene/debian/binary/advene.list
+
+wget --quiet -O - https://olivieraubert.net/olivieraubert.asc | sudo apt-key add -
+
+</pre>
 
 #### Installation Advene
 
 Nach der Einrichtung des Repositorys erfolgt nun die tatsächliche Installation des Programms selbst.
 
-`sudo apt update && sudo apt install advene advene-full`
+<pre>
+
+sudo apt update && sudo apt install advene advene-full
+
+</pre>
 
 #### Development Version
 
@@ -43,20 +52,20 @@ Aktuellste Entwicklungen der Software können in der Development-Version benutzt
 
 Danach kann durch die folgenden Eingaben die Development-Version aus dem Git-Repository des Entwicklers bezogen werden:
 
-`mkdir src`
-+++
-`cd src`
-+++
-`git clone https://github.com/oaubert/advene.git`
-+++
+<pre>
+
+mkdir src
+
+cd src
+
+git clone https://github.com/oaubert/advene.git
+
+</pre>
+
 
 ````{margin}
 ```{attention} 
 Start via Programm-Icon öffnet den regulären Release!
 ```
 ````
-Um nun die Development-Version von Advene zu öffnen, bei jedem Start die folgenden Schritte befolgen:
-
-`cd src/advene`
-+++
-`GDK_BACKEND=x11 advene`
+Bei jedem Start kann nun mit `cd src/advene` sowie `GDK_BACKEND=x11 advene` die Development-Version von Advene geöffnet werden.

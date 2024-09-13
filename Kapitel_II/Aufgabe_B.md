@@ -19,8 +19,8 @@ Mithilfe digitaler Annotationsverfahren können Metadaten zu audiovisuellem Mate
 +++
 **Feinlernziele**
 1. Die Basisfunktionen der Tools können verstanden und angeeignet werden.
-2. Mit den Tools werden können Annotationstypen sowie Annotationen erstellt werden.
-3. Durch die Daten können Inszenierungsmuster erkannt werden.
+2. Mit den Tools können Annotationstypen sowie Annotationen erstellt werden.
+3. Durch die Daten können Inszenierungsmuster erkannt und miteinander verglichen werden.
 :::
 
 Für die Annotation mit digitalen Tools soll im Folgenden mit Advene und Elan gearbeitet werden. Beide Programme ermöglichen die Herstellung von Annotationsdaten auf einer Timeline sowie die Einbettung von Videos. <br>
