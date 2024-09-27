@@ -7,7 +7,7 @@
  Bevor wir mit der eigentlichen Annotationsarbeit beginnen, ist es notwendig, ähnlich wie bei der [Tabellarischen Annotation](Aufgabe_A), die Parameter festzulegen, die als Spuren auf der Timeline annotiert werden sollen. Für eine erste Vergleichsbasis nutzen wir dieselben Parameter, die wir bereits in der tabellarischen Annotation verwendet haben ([s. Fig. 3](#kurzdefinition-parameter)). Dieses Mal gehen wir aber minimal kleinteiliger vor:
 
 ******************
-* Einstellungen
+* Einstellungsnummer
 * Dauer in Sekunden
 * Einstellungsgröße
 * Setting
@@ -20,5 +20,5 @@
 * Licht 
 ******************
 
-Das sind die Parameter, die wir in dieser Übung annotieren möchten. Wie geht es weiter? <br>
-Als nächstes installieren wir Advene. Unter dem Punkt [Technische Voraussetzungen](../Kapitel_I/Technische_Voraussetzungen) finden sich die Links und Anweisungen zur Installation. Ist Advene installiert, kann mit der Annotationsarbeit begonnen werden. Hierzu machen wir uns im nächsten Schritt mit den Funktionsweisen vertraut. 
+Das sind die Parameter (also Spuren) die wir in dieser Übung annotieren möchten. Wie geht es weiter? <br>
+Als nächstes installieren wir die Programme Advene und Elan. Unter dem Punkt [Technische Voraussetzungen](../Kapitel_I/Technische_Voraussetzungen) finden sich die Links und Anweisungen zur Installation. Sind die Anwendungen installiert, kann mit der Annotationsarbeit begonnen werden. Hierzu machen wir uns im nächsten Schritt mit den Funktionsweisen vertraut. 

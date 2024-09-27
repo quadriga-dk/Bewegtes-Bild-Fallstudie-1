@@ -3,7 +3,7 @@ lang: de-DE
 ---
 # Einführung
 
-In diesem Kapitel soll das Annotieren mit Tools erprobt werden.
+In diesem Kapitel soll das Annotieren mit Tools durch Freitexteingaben erprobt werden.
 +++
 *Wir befinden uns hier:*
 ![Aufgabe 1](../assets/Aufgabenstruktur-02.png)
@@ -22,9 +22,16 @@ Mithilfe digitaler Annotationsverfahren können Metadaten zu audiovisuellem Mate
 2. Mit den Tools können Annotationstypen sowie Annotationen erstellt werden.
 3. Durch die Daten können Inszenierungsmuster erkannt und miteinander verglichen werden.
 :::
-
+````{margin}
+```{seealso} 
+Erläuterungen zum Begriff "Annotation" gibt es [hier](Aufgabe_A).
+```
+````
 Für die Annotation mit digitalen Tools soll im Folgenden mit Advene und Elan gearbeitet werden. Beide Programme ermöglichen die Herstellung von Annotationsdaten auf einer Timeline sowie die Einbettung von Videos. <br>
 Die Annotationen in dieser Übung basieren auf Freitexteingaben. Das bedeutet, dass keine Klassifierzierungschemata filmanalytischer Parameter oder Werte der Annotationsarbeit zugrunde liegen. 
-Die konkrete Arbeit mit einem solchen Schema, einer sogenannten Ontologie, wird Teil der nächsten drei Aufgaben sein. Zunächst soll es hier darum gehen, grundlegende Funktionen zu erlernen und anwenden zu können. 
+Die konkrete Arbeit mit einem solchen Schema, einer sogenannten Ontologie, wird Teil der nächsten drei Aufgaben sein. Zunächst soll es hier darum gehen, grundlegende Funktionen von Tools zu erlernen und anzuwenden. **Toolagnostische Perspektiven** sollen damit ebenfalls adressiert werden. 
+```{admonition} Was ist mit "toolagnostischen Perspektiven" gemeint?
+Insbesondere oft im Kontext der Softwareentwicklung oder in der IT-Infrastuktur verwendeter Begriff, meint toolagnostisch, dass bestimmte Methoden, Konzepte oder Frameworks unabhängig von einem spezifischen Werkzeug angewendet werden können. Wichtig ist, dass das Prinzip oder die Methode mit verschiedenen Tools umgesetzt werden kann. Das Framework für unsere Fallstudie ist somit die Entwicklung einer maschinenlesbaren, filmanalytischen Ontologie (mehr zur Ontologie im [dritten Kapitel](Aufgabe_C)).
+```
 +++
 Los geht es! 💥
