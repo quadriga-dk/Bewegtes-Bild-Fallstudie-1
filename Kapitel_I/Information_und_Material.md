@@ -14,7 +14,7 @@ Digitale Methoden ermöglichen eine empirisch fundierte Auseinandersetzung mit B
 +++
 ````{margin}
 ```{admonition} Was ist eine Datenontologie?
-Eine Ontologie nach Semantic Web Standards ist ein semantisches Modell, das Wissen struktuiert. Sie beschreibt und ordnet Begriffe und Beziehungen zueinander, um das formulierte Wissen maschinenlesbar zu machen. Spezifische Sprachen für Ontologien, wie z.B. **RDF**, **OWL** oder **XSD**, ermöglichen Standards für die Formulierung von Ontologien. Mehr Infos: [Einarbeiten in die Filmontologie](/Kapitel_II/Aufgabe_C).
+Eine Ontologie nach Semantic Web Standards ist ein semantisches Modell, das Wissen struktuiert. Sie beschreibt und ordnet Begriffe und Beziehungen zueinander, um das formulierte Wissen maschinenlesbar zu machen. Spezifische Sprachen, wie z.B. **RDF**, **OWL** oder **XSD**, ermöglichen Standards für die Formulierung von Ontologien. Mehr Infos: [Einarbeiten in die Filmontologie](/Kapitel_II/Aufgabe_C).
 ```
 ````
 Durch digitale Herangehensweisen können Systematiken für filmanalytische Konzepte entwickelt und diese in den Kontext bestehender semantic web-Prinzipien eingegliedert werden. Dabei steht die Frage im Mittelpunkt, wie eine systematische Formulierung datenspezifischer sowie webbasierter Formate in eine filmanalytische Ontologie transformiert werden kann. Ontologie in diesem Kontext verstehen wir als ein Ordnungsprinzip, durch welches Informationseinheiten miteinander verknüpft werden können. Semantic Web basierte Ontologien können als Technologien beschrieben werden, die Metadaten sowohl maschinenlesbar als auch repräsentationsfähig machen.
@@ -31,7 +31,10 @@ Eine einheitliche Systematisierung gibt es dabei nicht. Durch Ansätze verschied
 * Kinofenster: https://www.kinofenster.de/lehrmaterial/glossar/
 +++
 ```{seealso}
-**Empirische Methoden & weiterführende Literatur:**
-* Freie Universität Berlin: https://www.empirische-medienaesthetik.fu-berlin.de/emaex-system/emaex_kurzversion/index.html
-* Bellour, R. (1969, October). Les Oiseaux: Analyse d'une séquence. Cahiers du cinéma, 216.
+**Weiterführende Literatur:**
+* Pantenburg/Hagener (2020): Handbuch Filmanalyse, Wiesbaden: Springer
+* Benjamin Beil/Jürgen Kühnel/Christian Neuhaus (2016): Studienhandbuch Filmanalyse: Ästhetik und Dramaturgie des Spielfilms, Paderborn: Wilhelm Fink
+
+* David Bordwell/Kristin Thompson (2008): Film Art. An Introduction, Boston: McGraw Hill
+* John Hill (1998): The Oxford Guide to Film Studies
 ```

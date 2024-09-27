@@ -31,7 +31,10 @@ Für die Annotation mit digitalen Tools soll im Folgenden mit Advene und Elan ge
 Die Annotationen in dieser Übung basieren auf Freitexteingaben. Das bedeutet, dass keine Klassifierzierungschemata filmanalytischer Parameter oder Werte der Annotationsarbeit zugrunde liegen. 
 Die konkrete Arbeit mit einem solchen Schema, einer sogenannten Ontologie, wird Teil der nächsten drei Aufgaben sein. Zunächst soll es hier darum gehen, grundlegende Funktionen von Tools zu erlernen und anzuwenden. **Toolagnostische Perspektiven** sollen damit ebenfalls adressiert werden. 
 ```{admonition} Was ist mit "toolagnostischen Perspektiven" gemeint?
-Insbesondere oft im Kontext der Softwareentwicklung oder in der IT-Infrastuktur verwendeter Begriff, meint toolagnostisch, dass bestimmte Methoden, Konzepte oder Frameworks unabhängig von einem spezifischen Werkzeug angewendet werden können. Wichtig ist, dass das Prinzip oder die Methode mit verschiedenen Tools umgesetzt werden kann. Das Framework für unsere Fallstudie ist somit die Entwicklung einer maschinenlesbaren, filmanalytischen Ontologie (mehr zur Ontologie im [dritten Kapitel](Aufgabe_C)).
+Insbesondere oft im Kontext der Softwareentwicklung oder in der IT-Infrastuktur verwendeter Begriff, meint toolagnostisch, dass bestimmte Methoden, Konzepte oder Frameworks unabhängig von einem spezifischen Werkzeug angewendet werden können. Wichtig ist, dass das Prinzip oder die Methode mit verschiedenen Tools umgesetzt werden kann. Das Framework für unsere Fallstudie ist somit die Entwicklung einer maschinenlesbaren, filmanalytischen Ontologie (mehr Infos zum Begriff der "Datenontologie" gibt es unter [Weiterführende Informationen](/Kapitel_I/Information_und_Material) sowie im [dritten Kapitel](Aufgabe_C)).
 ```
-+++
+```{attention}
+**KLEINER HINWEIS** ⬇️ ⬇️ ⬇️ <br>
+Im Kapitel [Annotieren mit einer Filmontologie](Aufgabe_D) gibt es ein auf die Arbeit mit einer spezifisch entwickelten Ontologie angepassten Video Quick Guide zu den Basisfunktionen zu Advene. Da dieser Quick Guide ebenso komplexere Prozesse adressiert, die wir hier noch nicht anwenden, haben wir uns in diesem Arbeitsschritt dazu entschieden, lediglich die notwendigen Funktionen für eine reine Freitextannotation zu dokumentieren. Wer sich hier bereits die komplexeren Funktionen aneignen möchte, kann sich das Video selbstverständlich anschauen. 
+```
 Los geht es! 💥
