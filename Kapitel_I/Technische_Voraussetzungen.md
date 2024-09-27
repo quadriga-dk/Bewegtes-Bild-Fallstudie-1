@@ -3,7 +3,7 @@ lang: de-DE
 ---
 # Technische Voraussetzungen
 
-Zur Durchführung von Annotationen nutzen wir die frei zugänglichen Programme Advene und Elan. Instruktionen sowie Hinweise zum Download finden sich [hier](https://www.advene.org/download.html#download) (für Advene) sowie [hier](https://archive.mpi.nl/tla/elan/download) (für Elan). 
+Zur Durchführung von Annotationen nutzen wir die frei zugänglichen Programme Advene und ELAN. Instruktionen sowie Hinweise zum Download finden sich [hier](https://www.advene.org/download.html#download) (für Advene) sowie [hier](https://archive.mpi.nl/tla/elan/download) (für Elan). 
 +++
 Über die [Projektseite](https://github.com/oaubert/advene/) auf Github kann ebenfalls die Advene Development-Version für Linux gedownloaded werden. 
 
