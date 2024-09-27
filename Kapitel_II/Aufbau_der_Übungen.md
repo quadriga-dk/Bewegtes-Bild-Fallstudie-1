@@ -7,7 +7,7 @@ Die Fallstudie ist unterteilt in verschiedene Aufgabenbereiche. Jeder Aufgabenbe
 
 * Anhand des ausgewählten Videos sollen in einem [**ersten Schritt**](#Aufgabe_A) tabellarische Annotationsdaten erfasst werden.
 +++
-* Der [**zweite Schritt**](#Aufgabe_B) umfasst die Herstellung und Anreicherung von Annotationsdaten mit Tools. Dafür soll beispielhaft mit den Videoannotationstools [Advene](https://www.advene.org/) und [Elan](https://archive.mpi.nl/tla/elan) gearbeitet werden.
+* Der [**zweite Schritt**](#Aufgabe_B) umfasst die Herstellung und Anreicherung von Annotationsdaten mit Tools. Dafür soll beispielhaft mit den Videoannotationstools [Advene](https://www.advene.org/) und [ELAN](https://archive.mpi.nl/tla/elan) gearbeitet werden.
 +++
 * Anschließend sollen die basisschematischen Parameter filmanalytischer Termini im [**dritten Schritt**](#Aufgabe_C) nach semantic triple-Prinzip in eine Filmontologie überführt werden.
 +++

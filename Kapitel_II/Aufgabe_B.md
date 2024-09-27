@@ -27,7 +27,7 @@ Mithilfe digitaler Annotationsverfahren können Metadaten zu audiovisuellem Mate
 Erläuterungen zum Begriff "Annotation" gibt es [hier](Aufgabe_A).
 ```
 ````
-Für die Annotation mit digitalen Tools soll im Folgenden mit Advene und Elan gearbeitet werden. Beide Programme ermöglichen die Herstellung von Annotationsdaten auf einer Timeline sowie die Einbettung von Videos. <br>
+Für die Annotation mit digitalen Tools soll im Folgenden mit Advene und ELAN gearbeitet werden. Beide Programme ermöglichen die Herstellung von Annotationsdaten auf einer Timeline sowie die Einbettung von Videos. <br>
 Die Annotationen in dieser Übung basieren auf Freitexteingaben. Das bedeutet, dass keine Klassifierzierungschemata filmanalytischer Parameter oder Werte der Annotationsarbeit zugrunde liegen. 
 Die konkrete Arbeit mit einem solchen Schema, einer sogenannten Ontologie, wird Teil der nächsten drei Aufgaben sein. Zunächst soll es hier darum gehen, grundlegende Funktionen von Tools zu erlernen und anzuwenden. **Toolagnostische Perspektiven** sollen damit ebenfalls adressiert werden. 
 ```{admonition} Was ist mit "toolagnostischen Perspektiven" gemeint?
@@ -37,4 +37,29 @@ Insbesondere oft im Kontext der Softwareentwicklung oder in der IT-Infrastuktur 
 **KLEINER HINWEIS** ⬇️ ⬇️ ⬇️ <br>
 Im Kapitel [Annotieren mit einer Filmontologie](Aufgabe_D) gibt es ein auf die Arbeit mit einer spezifisch entwickelten Ontologie angepassten Video Quick Guide zu den Basisfunktionen zu Advene. Da dieser Quick Guide ebenso komplexere Prozesse adressiert, die wir hier noch nicht anwenden, haben wir uns in diesem Arbeitsschritt dazu entschieden, lediglich die notwendigen Funktionen für eine reine Freitextannotation zu dokumentieren. Wer sich hier bereits die komplexeren Funktionen aneignen möchte, kann sich das Video selbstverständlich anschauen. 
 ```
+## Parameterbestimmung und -erweiterung
+
+````{margin}
+```{note} Aus der ersten Übung hat sich gezeigt, dass Parameter, wie z.B. Sound oder Kamera, mehrere Inhaltsebenen haben können. Damit wir diese Elemente ebenfalls abdecken, splitten wir für diese beiden Beispiele (also Sound & Kamera) die Parameter in je einzelne Bestandteile. 
+```
+````
+ Bevor wir mit der eigentlichen Annotationsarbeit beginnen, ist es notwendig, ähnlich wie bei der [Tabellarischen Annotation](Aufgabe_A), die Parameter festzulegen, die als Spuren auf der Timeline annotiert werden sollen. Für eine erste Vergleichsbasis nutzen wir dieselben Parameter, die wir bereits in der tabellarischen Annotation verwendet haben ([s. Fig. 3](#kurzdefinition-parameter)). Dieses Mal gehen wir aber minimal kleinteiliger vor:
+
+******************
+* Einstellungsnummer
+* Dauer in Sekunden
+* Einstellungsgröße
+* Setting
+* Montage
+* **Kamerabewegung**
+* **Kameraperspektive**
+* **Musik**
+* **Dialog**
+* Farbe
+* Licht 
+******************
+
+Das sind die Parameter (also Spuren) die wir in dieser Übung annotieren möchten. Wie geht es weiter? <br>
+Als nächstes installieren wir die Programme Advene und ELAN. Unter dem Punkt [Technische Voraussetzungen](../Kapitel_I/Technische_Voraussetzungen) finden sich die Links und Anweisungen zur Installation. Sind die Anwendungen installiert, kann mit der Annotationsarbeit begonnen werden. Hierzu machen wir uns im nächsten Schritt mit den Funktionsweisen vertraut.
++++
 Los geht es! 💥
