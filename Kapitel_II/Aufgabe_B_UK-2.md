@@ -1,7 +1,7 @@
 # Annotieren mit *ELAN*
 In diesem Unterkapitel soll das Annotationstool ELAN vorgestellt sowie die wesentlichen Funktionen und Bedienungsweisen kurz und übersichtlich umrissen werden. Umfassende Anleitungen aller Grundfunktionen im Detail können auf der [Seite des Entwicklers](https://archive.mpi.nl/tla/elan) eingesehen werden. Ein ausführliches Manual steht ebenfalls hier zum Download bereit. MANUAL ZUM DOWNLOAD BEREITSTELLEN
 +++
-ELAN (Eudico Linguistik Annotator) ist eine Open Source Transkriptions- und Annotationssoftware für Mediendateien mit Schwerpunkt Video. ELAN kennzeichnet sich insbesondere durch die Möglichkeit der Herstellung multimodaler Annotationen aus, wie zum Beispiel durch simultane Annotationsarbeiten an Bild und Ton. 
+ELAN (Eudico Linguistik Annotator) ist eine Open Source Transkriptions- und Annotationssoftware für Mediendateien mit Schwerpunkt Video. Entwickelt wurde die Software vom [Max Planck Institute for Psychlinguistics](https://www.mpi.nl/). ELAN kennzeichnet sich insbesondere durch die Möglichkeit der Herstellung multimodaler Annotationen aus, wie zum Beispiel durch simultane Annotationsarbeiten an Bild und Ton. 
 +++
 Ähnlich wie in Advene, können in ELAN ebenfalls Annotationen auf einer Timeline angefertigt werden. Durch verschiedene Exportmöglichkeiten in andere Formate (wie z.B. als **CSV-File**) können die Annotationsergebnisse für Präsentationen und andere Projekte genutzt werden.
 
@@ -145,3 +145,5 @@ Wie bei der Annotation mit Advene, werden auch hier Parameter wie Dialog, Sound 
 5.	Überprüfen und Annotationen ggf. nachbearbeiten 
 +++
 6.	Für die Weiterverarbeitung der Daten das Projekt in ein Zielformat exportieren
++++
+Zum Abgleich der Annotationsergebnisse steht hier unser ausgefülltes ELAN-Projekt als **.eaf-Datei** zum Download bereit.
