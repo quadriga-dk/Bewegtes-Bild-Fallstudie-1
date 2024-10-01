@@ -29,3 +29,9 @@ Die **Navigation der Timeline** erfolgt durch den grauen Balken unter der Wieder
 Die **Größenskalierung** der Timeline erfolgt über den Regler am unteren rechten Rand.
 +++
 Im Fenster rechts neben dem Videoplayer kann unter 'Steuerung' die Wiedergabegeschwindigkeit des Videos angepasst werden. 
+![screenshot-A2-10](../_images/A2-S10.png)
+*In welchen Fällen ist die Regulierung der Wiedergabegeschwindigkeit sinnvoll?*
+:::{dropdown} Antwort
+Manchmal kann es sehr nützlich sein, die Wiedergabegeschwindigkeit an den eigenen **Annotationsrhythmus** anzupassen. Einige Einstellungen können als sehr schnell wahrgenommen werden. Die Reduzierung der Geschwindigkeit kann helfen, dass jene Bildinhalte, die man als Werte in den Annotationen anlegen möchte, auch tatsächlich präzise erfasst werden. 
+:::
+Solbald das Video mit dem ELAN-Projekt verknüpft ist, können Annotationszeilen – *tiers* gennant – sowie Annotationen angelegt werden. Wie das genau funktioniert, wird auf der nächsten Seite erklärt. 

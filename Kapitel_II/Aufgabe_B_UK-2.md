@@ -12,7 +12,7 @@ Mit einem Klick auf das Plus-Symbol am linken Rand der Timeline können nun unse
 +++
 Nun erscheint der neu erstellte Annotationstyp. Um diesen zu bearbeiten, beispielsweise zur Anpassung der Farbe, können mit einem Rechtsklick auf den Typen Änderungen vorgenommen werden. Änderungen im Edit-Fenster müssen immer bestätigt werden.
 ```{hint}
-Bestimmungen im Register Advanced können für diese Annotationsübung erstmal ignoriert werden. 
+Bestimmungen im Register 'Advanced' können für diese Annotationsübung erstmal ignoriert werden. 
 ```
 ![screenshot-A2-04](../_images/A2-S04.png)
 +++
@@ -51,7 +51,7 @@ Darüber hinaus können Annotationen aus einer Spur kopiert und gelöscht sowie 
 Da wir bei einigen Typen je Einstellung annotieren, müssen wir natürlich nicht jedes Mal die Einstellungsgrenzen neu setzen. Hierfür reicht es, wenn wir die Annotationssegmentierung des Annotationstypen **Einstellungsnummer** in jene andere Typen kopieren, die wir auch nach diesem Schema annotieren möchten. 
 :::
 ```{hint} 
-Wer die tabellarische Annotation bereits vollständig erarbeitet hat, kann natürlich die Daten aus der ersten Tabelle übernehmen und beim annotieren eintragen. 
+Wer die tabellarische Annotation bereits vollständig erarbeitet hat, kann natürlich die Daten aus der ersten Tabelle übernehmen und beim Annotieren eintragen. 
 ```
 Ist das Paket vollständig ausgefüllt? Dann können die Ergebnisse mit unserer Musterlösung vergleichen werden. 
 +++

@@ -5,7 +5,7 @@ Die für *unseren* Workflow wichtigen Funktionen sollen im Folgenden in einem Sc
 
 ## Einrichtung, Bedienung und Interface
 
-Wird die Anwendung gestartet, öffnet sich automatisch ein leeres Template bzw. ein Paket, das als advenespezifische **'.azp'** Datei gespeichert werden kann. Das Paket (Package) enthält zunächst ein einfaches **'simple text'** Schema (mit dem Wert: `text/plain`), mit dem wir in dieser Übung arbeiten werden. 
+Wird die Anwendung gestartet, öffnet sich automatisch ein leeres Template bzw. ein Paket, das als advenespezifische **.azp** Datei gespeichert werden kann. Das Paket (Package) enthält zunächst ein einfaches **'simple text'** Schema (mit dem Wert: `text/plain`), mit dem wir in dieser Übung arbeiten werden. 
 ```{admonition} Formen für Annotationstypen
 Andere Schemata bzw. Annotationstypen, wie z.B. `JSON data` oder `Keyword list`, stehen ebenfalls zur Verfügung. Unter "Annotation Types" im [Userguide](https://github.com/oaubert/advene/wiki/AdveneUserGuide) finden sich ausführliche Informationen zu den einzelnen Typen.
 ```
