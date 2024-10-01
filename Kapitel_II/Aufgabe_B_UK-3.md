@@ -18,9 +18,14 @@ Wird die Anwendung gestartet öffnet sich zunächst ein blankes Interface. In de
 :height: 400px
 :name: a2-s09
 ```
-Sobald die Datei verknüpft ist, erscheint die Annotationsoberfläche. Unter der Videoanzeige ist eine **Wiedergabesteuerung** zu sehen. Die Steuerung kann über die Scroll,- Frame-, oder Sekundentasten vorgenommen werden. 
+Sobald die Datei verknüpft ist, erscheint die Annotationsoberfläche. Unter der Videoanzeige ist eine **Wiedergabesteuerung** zu sehen. Die Steuerung kann über die Scroll,- Pixel,- Frame-, oder Sekundentasten vorgenommen werden. 
 +++
-Mit Aktivierung des **Auswahlmodus** wird bei Wiedergabe oder vorwärts/rückwärts-Bewegung der Wiedergabesteuerung der gespielte Bereich markiert. Der Auswahlmodus kann über die Auswahlsteuerung neben der Wiedergabesteuerung angepasst werden. 
+Der **Auswahlsteuerung** neben der Wiedergabesteuerung kann angepasst werden. Folgende Optionen (der Reihenfolge nach) sind möglich: <br>
+1. Ausgewählter Bereich wird abgespielt
+2. Auswahl wird aufgehoben
+3. Fadenkreuz bewegt sich an den Anfang oder an das Ende des markierten Bereichs
+4. Der Cursor springt zur vorigen/nächsten oder drüber/drunterliegenden Annotation
+5. 'Auswahl-Modus aktivieren': Bereich wird bei Wiedergabe oder vorwärt/rückwärts-Bewegung markiert
 +++
 Der **Schleifenmodus** spielt den ausgewählten Bereich im Loop ab.
 +++
@@ -30,6 +35,7 @@ Die **Größenskalierung** der Timeline erfolgt über den Regler am unteren rech
 +++
 Im Fenster rechts neben dem Videoplayer kann unter 'Steuerung' die Wiedergabegeschwindigkeit des Videos angepasst werden. 
 ![screenshot-A2-10](../_images/A2-S10.png)
++++
 *In welchen Fällen ist die Regulierung der Wiedergabegeschwindigkeit sinnvoll?*
 :::{dropdown} Antwort
 Manchmal kann es sehr nützlich sein, die Wiedergabegeschwindigkeit an den eigenen **Annotationsrhythmus** anzupassen. Einige Einstellungen können als sehr schnell wahrgenommen werden. Die Reduzierung der Geschwindigkeit kann helfen, dass jene Bildinhalte, die man als Werte in den Annotationen anlegen möchte, auch tatsächlich präzise erfasst werden. 
