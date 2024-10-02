@@ -6,7 +6,7 @@ lang: de-DE
 In diesem Kapitel soll das Annotieren mit Tools durch Freitexteingaben erprobt werden.
 +++
 *Wir befinden uns hier:*
-![Aufgabe 1](../assets/Aufgabenstruktur-02.png)
+![Aufgabe 2](../assets/Aufgabenstruktur-02.png)
 
 ## Kapitelübersicht
 
