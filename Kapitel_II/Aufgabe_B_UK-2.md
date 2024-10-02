@@ -1,15 +1,15 @@
-# Annotieren mit *ELAN*
+# Annotieren mit ELAN
 In diesem Unterkapitel soll das Annotationstool ELAN vorgestellt sowie die wesentlichen Funktionen und Bedienungsweisen kurz und übersichtlich umrissen werden. Umfassende Anleitungen aller Grundfunktionen im Detail können auf der [Seite des Entwicklers](https://archive.mpi.nl/tla/elan) eingesehen werden. Ein ausführliches Manual steht ebenfalls hier zum Download bereit. MANUAL ZUM DOWNLOAD BEREITSTELLEN
 +++
-ELAN (Eudico Linguistik Annotator) ist eine Open Source Transkriptions- und Annotationssoftware für Mediendateien mit Schwerpunkt Video. Entwickelt wurde die Software vom [Max Planck Institute for Psychlinguistics](https://www.mpi.nl/). ELAN kennzeichnet sich insbesondere durch die Möglichkeit der Herstellung multimodaler Annotationen aus, wie zum Beispiel durch simultane Annotationsarbeiten an Bild und Ton. 
+ELAN (Eudico Linguistik Annotator) ist eine Open Source Transkriptions- und Annotationssoftware für Mediendateien mit Schwerpunkt Video. Entwickelt wurde die Software vom [Max Planck Institute for Psycholinguistics](https://www.mpi.nl/). ELAN kennzeichnet sich insbesondere durch die Möglichkeit der Herstellung multimodaler Annotationen aus, wie zum Beispiel durch simultane Annotationsarbeiten an Bild und Ton. 
 +++
-Ähnlich wie in Advene, können in ELAN ebenfalls Annotationen auf einer Timeline angefertigt werden. Durch verschiedene Exportmöglichkeiten in andere Formate (wie z.B. als **CSV-File**) können die Annotationsergebnisse für Präsentationen und andere Projekte genutzt werden.
+Ähnlich wie in Advene, können in ELAN ebenfalls Annotationen auf einer Timeline angefertigt werden. Durch verschiedene Exportmöglichkeiten in andere Formate (wie z.B. als **CSV**-Datei) können die Annotationsergebnisse für Präsentationen und andere Projekte genutzt werden.
 
 ## Interface, Bedienung und Einrichtung
 
 ````{margin}
 ```{important} 
-Die Videodatei ist erstmal undefiniert. Um Sicherheitskopien erstellen zu können, muss die Datei (im elanspezifischen **.eaf** Format) gespeichert werden. Hierzu unter 'Datei > Speichern unter…' die Datei benennen und speichern. Anschließend ebenfalls unter 'Datei' die automatische Sicherheitskopie aktivieren.
+Die Videodatei ist erstmal undefiniert. Um Sicherheitskopien erstellen zu können, muss die Datei (im elanspezifischen **.eaf**-Format) gespeichert werden. Hierzu unter 'Datei > Speichern unter…' die Datei benennen und speichern. Anschließend ebenfalls unter 'Datei' die automatische Sicherheitskopie aktivieren.
 ```
 ````
 Wird die Anwendung gestartet öffnet sich zunächst ein blankes Interface. In der Menüleiste am oberen Rand kann die Videodatei, die annotiert werden soll, über den Reiter 'Datei' und 'Neu' hinzugefügt werden.
@@ -127,7 +127,7 @@ Zum Löschen der Werte über 'Zeile' auf 'Entferne Annotationen oder Werte' klic
 
 ELAN-Projekte können in unterschiedliche Datenformate exportiert werden. Hierzu unter 'Datei' auf 'Exportieren als' gehen. Eine Liste an Exportformaten wird angezeigt. Der Export ermöglicht die Weiterverarbeitung der Daten, zum Beispiel als **CSV-File**. Eine ausführliche Anleitung der einzelnen Formate kann [hier](https://www.mpi.nl/corpus/html/elan/ch01s04.html#Sec_Export_as) eingesehen werden.
 
-## ## Schritt-für-Schritt Durchführung 
+## Schritt-für-Schritt Durchführung 
 
 1.	Elan starten und Videodatei verknüpfen
 +++

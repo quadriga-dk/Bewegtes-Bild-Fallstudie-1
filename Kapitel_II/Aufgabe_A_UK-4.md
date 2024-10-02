@@ -1,4 +1,4 @@
-# Resümee
+# Methodenreflexion
 
 Filme und andere Bewegtbilder sind zeitliche Medien. Diese zeitliche Beschaffenheit ist auch in Bezug auf die Erfassung, Erhebung und Auswertung filmanalytischer Daten von großer Relevanz. Zwar kann eine tabellarische Annotation ein geeignetes und schnell zugängliches Mittel sein, um auf bestimmte deskriptive Beschreibungen verweisen zu können, ein wesentlicher Nachteil besteht jedoch darin, dass Verläufe, Strukturen, Rhythmen oder Dynamiken nicht präzise genug erfasst werden können.
 Die Annotation durchgehender Spuren bzw. Verläufe, z.B. das Spektrum von Lichtverhältnissen oder der Einsatz eines musikalischen Stückes, ist für eine ganzheitliche Analyse audiovisueller Muster entscheidend.

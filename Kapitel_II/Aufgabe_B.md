@@ -11,6 +11,8 @@ In diesem Kapitel soll das Annotieren mit Tools durch Freitexteingaben erprobt w
 ## Kapitelübersicht
 
 [Annotieren mit Advene](Aufgabe_B_UK-1) <br>
+[Annotieren mit Elan](Aufgabe_B_UK-2) <br>
+[Methodenreflexion](Aufgabe_B_UK-3)
 
 :::{dropdown} Grob- und Feinlernziele
 **Groblernziel**
@@ -19,8 +21,8 @@ Mithilfe digitaler Annotationsverfahren können Metadaten zu audiovisuellem Mate
 +++
 **Feinlernziele**
 1. Die Basisfunktionen der Tools können verstanden und angeeignet werden.
-2. Mit den Tools können Annotationstypen sowie Annotationen erstellt werden.
-3. Durch die Daten können Inszenierungsmuster erkannt und miteinander verglichen werden.
+2. Mit den Tools können Annotationstypen sowie Annotationen nach spezifischen Segmentierungen erstellt werden.
+3. Durch die Daten können Inszenierungsmuster erkannt werden.
 :::
 ````{margin}
 ```{seealso} 
@@ -35,7 +37,7 @@ Insbesondere oft im Kontext der Softwareentwicklung oder in der IT-Infrastuktur 
 ```
 ```{attention}
 **KLEINER HINWEIS** ⬇️ ⬇️ ⬇️ <br>
-Im Kapitel [Annotieren mit einer Filmontologie](Aufgabe_D) gibt es ein auf die Arbeit mit einer spezifisch entwickelten Ontologie angepassten Video Quick Guide zu den Basisfunktionen zu Advene. Da dieser Quick Guide ebenso komplexere Prozesse adressiert, die wir hier noch nicht anwenden, haben wir uns in diesem Arbeitsschritt dazu entschieden, lediglich die notwendigen Funktionen für eine reine Freitextannotation zu dokumentieren. Wer sich hier bereits die komplexeren Funktionen aneignen möchte, kann sich das Video selbstverständlich anschauen. 
+Im Kapitel [Annotieren mit einer Filmontologie](Aufgabe_D) gibt es ein auf die Arbeit mit einer spezifisch entwickelten Ontologie angepassten Video Quick Guide zu den Basisfunktionen von Advene. Da dieser Quick Guide ebenso komplexere Prozesse adressiert, die wir hier noch nicht anwenden, haben wir uns in diesem Arbeitsschritt dazu entschieden, lediglich die notwendigen Funktionen für eine reine Freitextannotation zu dokumentieren. Wer sich hier bereits die komplexeren Funktionen aneignen möchte, kann sich das Video selbstverständlich anschauen. 
 ```
 ## Parameterbestimmung und -erweiterung
 

@@ -11,7 +11,7 @@ In diesem Kapitel werden die Grundlagen tabellarischer Annotationsarbeit abgedec
 
 [Durchführung und Schritte](Aufgabe_A_UK-2) <br>
 [Übung, Ergebnisauswertung und Diskussion](Aufgabe_A_UK-3) <br>
-[Resümee](Aufgabe_A_UK-4)
+[Methodenreflexion](Aufgabe_A_UK-4)
 
 :::{dropdown} Grob- und Feinlernziele
 **Groblernziel**
@@ -21,7 +21,7 @@ Mithilfe datengestützter filmanalytischer Methoden können Metadaten zu audiovi
 **Feinlernziele**
 1. Basisschematische Parameter können erkannt und Segmente identifiziert werden.
 2. Den Segmenten und Parametern können Inhalte bzw. Werte beigeordnet werden.
-3. Die Ergebnisse können filmanalytisch qualifiziert und kontextualisiert werden.
+3. Die Ergebnisse können filmanalytisch ausgewertet und kontextualisiert werden.
 :::
 
 
