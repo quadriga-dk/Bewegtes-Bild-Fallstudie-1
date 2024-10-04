@@ -34,7 +34,7 @@ ______________________
 * Weitwinkelobjektiv
 * Zoom
 ______________________
-Diese Begriffe sollen in diese vorgebene Matrix DOWNLOAD an Ebenen, Typen und Werten eingeordnet werden: 
+Diese Begriffe sollen in diese vorgebene [Matrix](../assets/Einarbeiten_in_die_Filmontologie_Aufgabe_1_Quadriga.docx) an Ebenen, Typen und Werten eingeordnet werden: 
 ```{figure} ../assets/Matrix-A3.png
 ---
 align: center
@@ -44,3 +44,11 @@ name: matrix-aufgabe-3
 
 Matrix: Ebenen, Typen, Werte
 ```
+## Aufgabe 2
+Wie könnte die Freitext-Beschreibung “**Hier gibt es eine langsame Kamerafahrt nach links**” als Triple aussehen? MULTIPLE CHOICE
+:::{dropdown} Lösung
+"Segment X" "hat im Type Kamerabewegung Typ den Wert" "Kamerafahrt" **+** <br> 
+"Segment X" "hat im Type Kamerabewegung Richtung den Wert" "links" **+**
+<br> 
+"Segment X" "hat im Type Kamerabewegung Geschwindigkeit den Wert" "langsam" 
+:::
