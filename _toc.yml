@@ -30,6 +30,7 @@ parts:
     chapters:
       - file: Kapitel_II/Aufgabe_C
       - file: Kapitel_II/Aufgabe_C_UK-1
+      - file: Kapitel_II/Aufgabe_C_UK-2
   - caption: 4. Annotieren mit einer Filmontologie
     chapters:
       - file: Kapitel_II/Aufgabe_D
