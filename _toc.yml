@@ -40,6 +40,8 @@ parts:
   - caption: 5. Datenvisualisierung
     chapters:
       - file: Kapitel_II/Aufgabe_E
+      - file: Kapitel_II/Aufgabe_E_UK-1
+      - file: Kapitel_II/Aufgabe_E_UK-2
   - caption: Zusammenfassung
     chapters: 
       - file: Kapitel_III/Zusammenfassung

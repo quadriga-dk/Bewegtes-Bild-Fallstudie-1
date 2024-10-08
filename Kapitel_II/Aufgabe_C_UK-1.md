@@ -1,4 +1,4 @@
-# Übung
+# Übung zu Semantic Web Prinzipien
 ## Aufgabe 1
 
 Im Folgenden ist eine alphabetisch sortierte Liste mit basisschematischen Begriffen der Filmanalyse zu sehen:
@@ -52,4 +52,4 @@ Wie könnte die Freitext-Beschreibung “**Hier gibt es eine langsame Kamerafahr
 <br> 
 "Segment X" "hat im Type Kamerabewegung Geschwindigkeit den Wert" "langsam" 
 :::
-EVTL. MULTIPLE CHOICE FÜR: WIE KÖNNTE DIESES TRIPLE IN RDF FORMULIERT SEIN? TRIPLE STORE??
+EVTL. MULTIPLE CHOICE FÜR: WIE KÖNNTE DIESES TRIPLE IN RDF FORMULIERT SEIN? TRIPLE STORE ALS LÖSUNG??

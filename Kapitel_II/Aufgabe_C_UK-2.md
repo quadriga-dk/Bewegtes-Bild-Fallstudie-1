@@ -106,7 +106,7 @@ Die Ontologie selbst stellt das methodische Framework bereit, welches als grundl
 Grundsätzlich gilt, dass es sich bei dieser Ontologie um ein Datenframework handelt. Das heißt, dass die Ontologie in ihren Prinzipien und ihrer Logik **toolagnostisch** ist.
 :::{dropdown} **Was bedeutet toolagnostisch?**
 Insbesondere oft im Kontext der Softwareentwicklung oder in der IT-Infrastuktur verwendeter Begriff, meint toolagnostisch, dass bestimmte Methoden, Konzepte oder Frameworks unabhängig von einem spezifischen Werkzeug angewendet werden können. Wichtig ist, dass das Prinzip oder die Methode mit verschiedenen Tools umgesetzt werden kann. <br> 
-Das Framework ist somit die Entwicklung einer maschinenlesbaren, filmanalytischen Ontologie, welche im Rahmen des AdA-Projekts in die Funktionsweisen von Advene integriert wurde. Die Möglichkeit der Integrierung in andere Tools, wie z.B. [ELAN](https://archive.mpi.nl/tla/elan) steht somit offen und ist in der Theorie umsetzbar. 
+Das Framework ist somit die Entwicklung einer maschinenlesbaren, filmanalytischen Ontologie, welche im Rahmen des AdA-Projekts in die Funktionsweisen von Advene integriert wurde. Die Möglichkeit der Integrierung in andere Tools, wie z.B. [ELAN](https://archive.mpi.nl/tla/elan), steht somit offen und ist in der Theorie umsetzbar. 
 :::
 ```
 Mit einem [Template](../assets/AdA_template_07_2021.azp), das auf der Filmontologie basiert, können in Advene semantisch strukturierte Annotationsdaten hergestellt werden. Zudem gibt es eine *AdA Corpus Analysis View*, welche ein gebündeltes Set an Annotationstypen für die Annotationsarbeit bereithält. 
