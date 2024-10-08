@@ -10,6 +10,11 @@ In diesem Kapitel sollen die Prinzpien von Semantic Web anhand der Überführung
 
 ## Kapitelübersicht
 
+[Semantic Web Prinzipien](Aufgabe_C) <br>
+[Übung](Aufgabe_C_UK-1) <br>
+[AdA-Filmontologie: Filmanalyse und Semantic Web](Aufgabe_C_UK-2)
+
+
 :::{dropdown} Grob- und Feinlernziele
 **Groblernziel**
 +++
