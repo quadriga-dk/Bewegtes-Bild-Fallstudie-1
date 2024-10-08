@@ -1,4 +1,4 @@
 ---
 lang: de-DE
 ---
-# Diskussion und Reflexion
+# Reflexion und Ausblick

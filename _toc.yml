@@ -34,6 +34,9 @@ parts:
   - caption: 4. Annotieren mit einer Filmontologie
     chapters:
       - file: Kapitel_II/Aufgabe_D
+      - file: Kapitel_II/Aufgabe_D_UK-1
+      - file: Kapitel_II/Aufgabe_D_UK-2
+      - file: Kapitel_II/Aufgabe_D_UK-3
   - caption: 5. Datenvisualisierung
     chapters:
       - file: Kapitel_II/Aufgabe_E

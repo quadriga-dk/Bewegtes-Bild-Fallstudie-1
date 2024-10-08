@@ -79,6 +79,23 @@ Da wir bei einigen Typen je Einstellung annotieren, müssen wir natürlich nicht
 ```{hint} 
 Wer die tabellarische Annotation bereits vollständig erarbeitet hat, kann natürlich die Daten aus der ersten Tabelle übernehmen und beim Annotieren eintragen. 
 ```
+# Zusammenfassung der Schritte
+
+1. Advene starten und Videodatei verknüpfen
+````{margin}
+Jedes neue Package enthält bereits eine standartisiert eingestellte Annotationsspur ('text annotation'). Diese ggf. im Vorgeld löschen!
+````
+2. Annotationstypen erstellen 
++++
+````{margin}
+Hier auf die Segmentierungslogik achten!
+````
+3. Als nächstes können nun die Annotationen auf der Timeline erstellt werden. Wer sehr präzise Annotationsgrenzen haben möchte, kann über die Frametaste in der Wiedergabesteuerung Annotationsabschnitte erstellen und anpassen
++++
+4. Überprüfen und Annotationen ggf. nachbearbeiten
++++
+5. Für die Weiterverarbeitung der Daten das Package in ein Zielformat exportieren
+
 Ist das Paket vollständig ausgefüllt? Dann können die Ergebnisse mit unserer Musterlösung vergleichen werden. 
 +++
 Als nächstes wiederholen wir die Annotationsarbeit mit einem anderen Tool – und zwar ELAN. Dieser Schritt soll insbesondere dazu dienen, toolagnostische Perspektiven für Datenanalysen zu veranschaulichen. 

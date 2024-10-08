@@ -127,7 +127,7 @@ Zum Löschen der Werte über 'Zeile' auf 'Entferne Annotationen oder Werte' klic
 
 ELAN-Projekte können in unterschiedliche Datenformate exportiert werden. Hierzu unter 'Datei' auf 'Exportieren als' gehen. Eine Liste an Exportformaten wird angezeigt. Der Export ermöglicht die Weiterverarbeitung der Daten, zum Beispiel als **CSV-File**. Eine ausführliche Anleitung der einzelnen Formate kann [hier](https://www.mpi.nl/corpus/html/elan/ch01s04.html#Sec_Export_as) eingesehen werden.
 
-## Schritt-für-Schritt Durchführung 
+# Zusammenfassung der Schritte
 
 1.	Elan starten und Videodatei verknüpfen
 +++
