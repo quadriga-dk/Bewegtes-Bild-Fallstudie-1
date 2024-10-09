@@ -1,1 +1,1 @@
-# Annotationsergebnisse: Vergleich und Übung
+# Annotationsergebnisse: Datenabgleich und -erläuterung
