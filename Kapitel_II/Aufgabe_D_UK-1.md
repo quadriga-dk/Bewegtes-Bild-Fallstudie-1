@@ -65,7 +65,7 @@ Mit der Funktion 'Search/replace content' können die erstellten und bereinigten
 |-----------------------------------|---------------------------------------|
 | Shot                              | Setting                               |
 | Shot Duration                     | Found Footage                         |
-| Figure Macro                      | Animation                             |
+| Montage Figure Macro                      | Animation                             |
 | Field Size                        | Dialogue Text                         |
 | Image Intrinsic Movement          | Image Brightness                      |
 | Movement Direction                | Colour Range                          |
