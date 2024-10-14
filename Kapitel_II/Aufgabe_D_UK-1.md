@@ -30,7 +30,10 @@ MULTIPLE CHOICE EINFÜGEN
 ```{admonition} **Übung**
 1. *Welche Schritte müssen vollzogen werden, damit die automatischen Erkenneralgorithmen durchgeführt werden?*
 :::{dropdown} Lösung
-HIER LÖSUNGSWEG NOCH EINFÜGEN
+Um die automatische Videoanalyse durchzuführen auf 'File' und 'Process Video' gehen. Anschließend öffnet sich der 'Importer'. 
+Was muss unter 'Filter' ausgewählt werden, damit die Einstellungsgrenzen automatisch generiert werden? >> MULTIPLE CHOICE <br>
+A: ShotdetectApp importer <br>
+B: Scene change detection 
 :::
 2. *Warum müssen die Einstellungen renummeriert werden?*
 :::{dropdown} Lösung
@@ -42,7 +45,52 @@ Nicht jede Einstellungsgrenze wird korrekt gesetzt. Daher ist es notwendig mit d
 *Welchem Annotationstypen können die Untertitel zugeordnet werden?* <br>
 MULTIPLE CHOICE EINFÜGEN
 ```
-7.	Annotationen als Zeiteinheiten auf der Timeline für jeden Annotationstypen erstellen und den Annotationen via Short Cuts und Quick Fill (s. Ontologie) oder Freitext-Inhalte bzw. Werte zuordnen.
+7.	Annotationen als Zeiteinheiten auf der Timeline für jeden Annotationstypen erstellen. Den Annotationen via Short Cuts und Quick Fill (s. Ontologie) oder durch Freitext-Eingabe Werte zuordnen.
+```{image} ../_images/A4-S03.png
+:height: 350px
+:name: a4-s03
+```
+```{image} ../_images/A4-S02.png
+:height: 250px
+:name: a4-s02
+```
+Für einige Annotationstypen haben wir die Annotationen als Verläufe angelegt, für andere haben wir nach dem Einstellungsprinzip segmentiert. Folgende Übersicht soll als Annotationshilfe dienen:
+````{margin}
+```{tip}
+Mit der Funktion 'Search/replace content' können die erstellten und bereinigten Annotationen, die beispielsweise für den Typ 'Montg | Shot' als Einstellungen segmentiert wurden, in jede weitere Spur kopiert werden, die ebenfalls nach dem Einstellungsprinzip segmentiert wird. Um alle bereits darin enthaltenen Werte zu löschen, das 'Replace by' Feld leer lassen.
+```
+````
++++
+| Segmentierung nach Einstellung    | Segmentierung nach Verlauf            |
+|-----------------------------------|---------------------------------------|
+| Shot                              | Setting                               |
+| Shot Duration                     | Found Footage                         |
+| Figure Macro                      | Animation                             |
+| Field Size                        | Dialogue Text                         |
+| Image Intrinsic Movement          | Image Brightness                      |
+| Movement Direction                | Colour Range                          |
+| Camera Angle                      | Dominant Movement Direction           |
+| Image Content                     | Recording/Playback Speed              |
+|                                   | Dialogue Emotion                      |
+|                                   | Sound Gesture Dynamics                |
+|                                   | Music Mood                            |
+|                                   | Body Language Emotion        |
+
+```{admonition} **Übung**
+*Für einige Annotationstypen können Syntaxelemente verwendet werden. Was beschreiben die Werte **[TO]** sowie **[VS]** jeweils?*
+:::{dropdown} Lösung
+**[TO]**: Beschreibt die Möglichkeit, ein Syntaxelement zu verwenden, das
+eine kontinuierliche Entwicklung zwischen zwei Werten anzeigt. <br>
+**[VS]**: Beschreibt die Möglichkeit, ein Syntaxelement zu verwenden, das
+zwei kontrastierende Werte verbindet.
+:::
+*Für wie viele Annotationstypen des Core-Templates können Syntaxelemente verwendet werden?* <br>
+QUIZ EINFÜGEN (entweder MC oder Numerischer Wert)
+```
+8.	Überprüfung und Bereinigung mit der Checker-Funktion
++++
+9.	Das finale Package kann [visualisiert](Aufgabe_D) und auch in andere Dateiformate exportiert werden
+
 
 
 

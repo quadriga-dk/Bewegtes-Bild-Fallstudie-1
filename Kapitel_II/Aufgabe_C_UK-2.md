@@ -104,7 +104,7 @@ Die [eMAEX-Methode](https://ada.cinepoetics.org/resource/2021/05/19/eMAEXannotat
 Die Ontologie selbst stellt das methodische Framework bereit, welches als grundlegendes Analysegerüst für die Videoannotation genutzt werden kann. Die Annotationen werden in der frei zugänglichen Videoannotationssoftware [Advene](https://www.advene.org/) angelegt. Hierzu wurden in enger Kollaboration mit dem Entwickler von Advene die Funktionsweisen angepasst und erweitert, um den spezifischen Anforderungen  filmwissenschaftlicher Analyse gerecht zu werden und diese direkt mit der entwickelten Ontologie zu verknüpfen. 
 ```{important}
 Grundsätzlich gilt, dass es sich bei dieser Ontologie um ein Datenframework handelt. Das heißt, dass die Ontologie in ihren Prinzipien und ihrer Logik **toolagnostisch** ist.
-:::{dropdown} **Was bedeutet toolagnostisch?**
+:::{dropdown} Was bedeutet toolagnostisch?
 Insbesondere oft im Kontext der Softwareentwicklung oder in der IT-Infrastuktur verwendeter Begriff, meint toolagnostisch, dass bestimmte Methoden, Konzepte oder Frameworks unabhängig von einem spezifischen Werkzeug angewendet werden können. Wichtig ist, dass das Prinzip oder die Methode mit verschiedenen Tools umgesetzt werden kann. <br> 
 Das Framework ist somit die Entwicklung einer maschinenlesbaren, filmanalytischen Ontologie, welche im Rahmen des AdA-Projekts in die Funktionsweisen von Advene integriert wurde. Die Möglichkeit der Integrierung in andere Tools, wie z.B. [ELAN](https://archive.mpi.nl/tla/elan), steht somit offen und ist in der Theorie umsetzbar. 
 :::
