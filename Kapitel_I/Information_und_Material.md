@@ -24,7 +24,7 @@ Durch digitale Herangehensweisen können Systematiken für filmanalytische Konze
 Im Bereich der Filmanalyse existieren bereits eine Vielzahl von Ansätzen und Methoden, um einerseits das Vokabular und andererseits ebenso die Techniken zu systematisieren und zu strukturieren. 
 Eine einheitliche Systematisierung gibt es dabei nicht. Durch Ansätze verschiedener Akteur:innen, Institutionen und deren Arbeiten gibt es jedoch Zugänge zu unterschiedlichen Glossaren, Nachschlagewerken sowie Verfahren, in denen Begriffe, Definitionen und Funktionsweisen filmanalytischer Termini erläutert, zusammengefasst sowie öffentlich zugänglich gemacht werden. Um sich eine Übersicht zu verschaffen, wird hier eine kleine Auswahl bereitgestellt. **Diese Informationen bilden den Grundstein für ein Basisverständnis filmanalytischer Arbeit.** 
 +++
-**Glossare & Nachschlagewerke (z.B. für Grundbegriffe):**
+### Glossare & Nachschlagewerke (z.B. für Grundbegriffe):
 * Universität Wien: https://filmanalyse.at
 * Netzwerk Cinema: https://www.netzwerk-cinema.ch/uploads/files/Glossaire_reaseau_cinema_ch.pdf
 * Universität Kiel: https://filmlexikon.uni-kiel.de/

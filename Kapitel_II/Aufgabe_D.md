@@ -23,7 +23,7 @@ Mithilfe von Annotationsdaten, die auf Basis einer filmanalytischen Ontologie er
 1. Die AdA Filmontolgie kann eingerichtet und implementierte automatische Erkenneralgorithmen durchgeführt werden.
 2. Die Funktionen der Segmentierungsbereinigung können angewendet werden.
 3. Ein Set an Annotationsdaten kann mit der Ada Filmontologie erstellt werden.
-4. Mit diesen  Annotationsdaten können audiovisuelle Inszenierungsmuster als Strategien einer Affektrhetorik qualifiziert werden.
+4. Mit diesen  Annotationsdaten können audiovisuelle Inszenierungsmuster erkannt werden.
 :::
 
 Im vorigen Kapitel haben wir gezeigt, wie anhand von Semantic Web Prinzipien eine filmanalytische Ontologie entstehen kann. Mehr Infos dazu, was eine filmanalytische Datenontolgie ist und leistet, gibt es [hier](Aufgabe_C) <br>

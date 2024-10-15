@@ -6,7 +6,7 @@ Für die Arbeit mit dem AdA-Template muss Advene installiert sein und ausgeführ
 
 1.	Download des [AdA-Templates](../assets/AdA_template_07_2021.azp), der [AdA-Filmontologie](../assets/Ada_Filmontologie_Deu_23_07_2021.pdf) und des [Manuals](../assets/Manual_Advene_AdA_D_Vers1_0.pdf).
 +++
-2.	Öffnung der Anwendung Advene. Wird die Developement-Version von Advene über eine Parallels-Lizenz für Linux genutzt, muss einer dieser beiden Befehle im Ubuntu-Terminal eingegeben werden: <br>
+2.	Öffnung der Anwendung Advene. Wird die Developement-Version von Advene über eine virtuelle Maschine für Linux genutzt, muss einer dieser beiden Befehle im Ubuntu-Terminal eingegeben werden: <br>
 `cd src/advene` oder `GDK_BACKEND=x11 advene`. Advene öffnet automatisch bei jedem Start ein neues Paket als advenespezifische **.azp-Datei**. 
 +++
 3.	Template-.azp in das Paket laden und das Video verknüpfen.
@@ -57,7 +57,7 @@ MULTIPLE CHOICE EINFÜGEN
 Für einige Annotationstypen haben wir die Annotationen als Verläufe angelegt, für andere haben wir nach dem Einstellungsprinzip segmentiert. Folgende Übersicht soll als Annotationshilfe dienen:
 ````{margin}
 ```{tip}
-Mit der Funktion 'Search/replace content' können die erstellten und bereinigten Annotationen, die beispielsweise für den Typ 'Montg | Shot' als Einstellungen segmentiert wurden, in jede weitere Spur kopiert werden, die ebenfalls nach dem Einstellungsprinzip segmentiert wird. Um alle bereits darin enthaltenen Werte zu löschen, das 'Replace by' Feld leer lassen.
+Mit der Funktion 'Search/replace content' können die erstellten und bereinigten Annotationen, die beispielsweise für den Typ 'Montg | Shot' als Einstellungen segmentiert wurden, in jede weitere Spur kopiert werden, die ebenfalls nach dem Einstellungsprinzip segmentiert wird. Um alle darin enthaltenen Werte zu löschen, das 'Replace by' Feld leer lassen.
 ```
 ````
 +++
