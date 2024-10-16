@@ -70,4 +70,8 @@ Im Rahmen des AdA-Projekts wurde als Teil des AdA-Toolkits ein Manual entwickelt
 ```
 1.	Videos anschauen und Manual (bei Bedarf) hinzuziehen <br>
 2.	Advene starten und loslegen! 🎬
++++
+```{seealso}
+Unseren Workflow mit einigen Übungsfragen haben wir auf der nächsten Seite notiert. 
+```
 

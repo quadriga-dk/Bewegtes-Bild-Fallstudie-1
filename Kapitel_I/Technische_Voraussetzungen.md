@@ -3,14 +3,15 @@ lang: de-DE
 ---
 # Technische Voraussetzungen
 
-Zur Durchführung von Annotationen nutzen wir die frei zugänglichen Programme Advene und ELAN. Instruktionen sowie Hinweise zum Download für MacOS, Windows sowie Linux gibt es [hier](https://www.advene.org/download.html#download) (für Advene) sowie [hier](https://archive.mpi.nl/tla/elan/download) (für Elan).
+Zur Durchführung von Annotationen nutzen wir die frei zugänglichen Programme **Advene** und **ELAN**. Instruktionen sowie Hinweise zum Download für MacOS, Windows sowie Linux gibt es [hier](https://www.advene.org/download.html#download) (für Advene) sowie [hier](https://archive.mpi.nl/tla/elan/download) (für Elan).
++++
 Über die [Projektseite](https://github.com/oaubert/advene/) auf Github kann ebenfalls die Advene Development-Version für Linux gedownloaded werden. 
 
 ## Installationsanleitung Advene für Linux mit einer virtuellen Maschine
 
 ````{margin}
 ```{attention} 
-Beispielsweise ist *Parallels* ist eine kostenpflichtige virtuelle Maschine eines anderen Herstellers.
+*Parallels Desktop* ist beispielsweise eine kostenpflichtige virtuelle Maschine eines anderen Herstellers.
 ```
 ````
 
