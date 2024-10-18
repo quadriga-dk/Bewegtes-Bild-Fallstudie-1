@@ -1,0 +1,34 @@
+[
+    {
+        "question": "Welche alternative Segmentierungsmethode neben der Einteilung in Einstellungen erscheint als sinnvoll?",
+        "type": "many_choice",
+        "answers": [
+            {
+                "answer": "Falsche Antwort",
+                "correct": false,
+                "feedback": "Die Möglichkeit einer Anordnungs-Aufgabe gibt es nicht."
+            },
+            {
+                "answer": "richtige Antwort",
+                "correct": true,
+                "feedback": "Richtig. Diese Frage wurde mit diesem Fragetyp umgesetzt."
+            }
+        ]
+    },
+    {
+        "question": "Welche alternative Segmentierungsmethode neben der Einteilung in Einstellungen erscheint als sinnvoll?",
+        "type": "many_choice",
+        "answers": [
+            {
+                "answer": "Falsche Antwort",
+                "correct": false,
+                "feedback": "Die Möglichkeit einer Anordnungs-Aufgabe gibt es nicht."
+            },
+            {
+                "answer": "richtige Antwort",
+                "correct": true,
+                "feedback": "Richtig. Diese Frage wurde mit diesem Fragetyp umgesetzt."
+            }
+        ]
+    }
+]

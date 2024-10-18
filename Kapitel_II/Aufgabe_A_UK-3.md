@@ -1,3 +1,22 @@
+---
+jupytext:
+  formats: md:myst
+  text_representation:
+    extension: .md
+    format_name: myst
+kernelspec:
+  display_name: Python 3
+  language: python
+  name: python3
+---
+```{code-cell} ipython3
+:tags: [remove-cell]
+from jupyterquiz import display_quiz
+
+import sys
+sys.path.append("..")
+from quadriga_config import colors
+```
 # Übung, Ergebnisauswertung und Diskussion
 
 Dieses Unterkapitel soll als Übung dazu dienen, die Ergebnisse aus der tabellarischen Annotation punktuell vergleichen und auswerten zu können.
@@ -7,6 +26,10 @@ Ebenso soll anhand der Auswertung der Ergebnisse diskutiert werden, welche Vor- 
 
 Welche alternative Segmentierungsmethode neben der Einteilung in Einstellungen erscheint als sinnvoll? <br>
 QUIZ EINBINDEN
+```{code-cell} ipython3
+:tags: [remove-input]
+display_quiz("../quizzes/A_UK-3_Quiz_1.json", colors = colors.jupyterquiz)
+```
 +++
 :::{dropdown} Antwort
 Durch das Segmentieren in Dynamiken können ganz spezifische Verläufe, wie z.B. eine durchgehende musikalische Spur, die über die Dauer einer einzelnen Einstellung hinaus geht, annotiert werden. Da wir es bei diesem Beispiel mit einem kurzen Ausschnitt zu tun haben, ist eine Einteilung in Szenen weniger ergiebig.  
