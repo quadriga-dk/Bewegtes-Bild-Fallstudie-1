@@ -15,4 +15,5 @@ Veröffentlicht wurde der Film bzw. der Videoausschnitt im Jahr 2013 sowohl auf 
 | **Erschienen auf**  | [Youtube](https://www.youtube.com/watch?v=5KtGg-Lvxso) und auf https://act.350.org/signup/math-movie/ |
 | **Verzeichnete Aufrufe** | 42.284 (Stand: Juli 2024)                    |
 | **Lizenz**          | Creative Commons-Lizenz mit Quellenangabe (Wiederverwendung erlaubt) |
-                        
+
+<a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=71ca2ea8-b7ee-492f-a9ef-b20300a665d3&start=62" target="_blank">Video ab Sekunde 62</a>
