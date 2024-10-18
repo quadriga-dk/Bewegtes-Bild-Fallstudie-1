@@ -68,4 +68,4 @@ Für diesen Zweck hat das BMBF-geförderte Projekt ["Affektrhetoriken des Audiov
 Eine Auflistung aller Subjekte/Individuen, Prädikate/Klassen/Typen oder Objekte/Eigenschaften/Werte eines Wissensgebiets wird in diesem Kontext als “**Ontologie**” bezeichnet. <br>
 Insofern beschreiben Ontologien ein semantisches Modell, das Wissen struktuiert. Sie beschreiben und ordnen Begriffe und Beziehungen zueinander, um das formulierte Wissen maschinenlesbar zu machen. Wie bereits erwähnt, ermöglichen spezifische Sprachen, wie z.B. **RDF**, **OWL** oder **XSD**, Standards für die Formulierung sowie Formalisierung von Ontologien.
 +++
-Bevor wir jedoch hier im Detail auf die AdA-Filmontologie eingehen, haben wir ein paar Übungen erstellt, die nachvollziehbar machen sollen, wie diese Ontologie einige grundlegende Vokabularien formalästhetischer Beschreibung systematisiert erfasst.
+Bevor wir jedoch hier im Detail auf die AdA-Filmontologie eingehen, haben wir ein paar Übungen erstellt, die nachvollziehbar machen sollen, wie diese Ontologie einige grundlegende Vokabularien formalästhetischer Beschreibung systematisiert erfasst...
