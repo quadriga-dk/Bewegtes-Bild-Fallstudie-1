@@ -10,20 +10,20 @@ Von einer tabellarischen Annotation bis zur Visualisierung von multimodalen und 
 +++
 Die Fallstudie ist unterteilt in fünf Arbeitsschritte, die Gliederung ist links in der Menüleiste jederzeit einsehbar.
 
-## Aufbau der Übungen
+# Aufbau der Übungen
 Die Fallstudie ist unterteilt in verschiedene Aufgabenbereiche. Jeder Aufgabenbereich verfolgt die Umsetzung verschiedener Lernziele. Am Ende jeder Aufgabe sollen alle Nutzende in der Lage sein, die in den Lernzielen formulierten Anforderungen umzusetzen und durch bereitgestellte Lösungsstrategien umfassend zu vergleichen. Die Aufgaben sind modularisiert, d.h., dass die vorangegangene Aufgabe keine Voraussetzung für die darauffolgende darstellt. Nutzende mit mehr Vorwissen können folglich Aufgaben überspringen. Einsteiger:innen oder Nutzende ohne vertiefende Kentnisse können sich am Verlauf der Aufgaben orientieren, um sich notwendiges Vorwissen anzueignen.
 
-### Kurzbeschreibung der Aufgaben
+## Kurzbeschreibung der Aufgaben
 
 * Anhand des ausgewählten Videos sollen in einem [**ersten Schritt**](#Kapitel_II/Aufgabe_A) tabellarische Annotationsdaten erfasst werden. Dazu wird auf Grundlage filmanalytischer Basisparameter ein Einstellungsprotokoll erstellt.
 +++
-* Der [**zweite Schritt**](#Kapitel_II/Aufgabe_B)umfasst die Herstellung und Anreicherung von Annotationsdaten mit Tools. Dafür soll beispielhaft mit den Videoannotationstools [Advene](https://www.advene.org/) und [ELAN](https://archive.mpi.nl/tla/elan) gearbeitet werden.
+* Der [**zweite Schritt**](#Kapitel_II/Aufgabe_B) umfasst die Herstellung und Anreicherung von Annotationsdaten mit Tools. Beispielhaft soll mit den Videoannotationstools [Advene](https://www.advene.org/) und [ELAN](https://archive.mpi.nl/tla/elan) gearbeitet werden.
 +++
 * Anschließend sollen die basisschematischen Parameter filmanalytischer Termini im [**dritten Schritt**](#Kapitel_II/Aufgabe_C) nach Semantic Web Prinzipien in eine Filmontologie überführt werden.
 +++
-* Der [**vierte Schritt**](#Kapitel_II/Aufgabe_D)umfasst die Implementierung und das Arbeiten mit einer Filmontologie zur Herstellung von Annotationsdaten mit dem Tool Advene.
+* Der [**vierte Schritt**](#Kapitel_II/Aufgabe_D) umfasst die Implementierung und das Arbeiten mit einer Filmontologie zur Herstellung von Annotationsdaten mit dem Tool Advene.
 +++
-* Im [**fünften Schritt**](#Kapitel_II/Aufgabe_E)sollen die Daten als Verlaufsdynamiken visualisiert, die Visualisierung angepasst und die Daten ausgewertet bzw. qualifiziert werden.
+* Im [**fünften Schritt**](#Kapitel_II/Aufgabe_E) sollen die Daten als Verlaufsdynamiken visualisiert, die Visualisierung angepasst und die Daten ausgewertet bzw. qualifiziert werden.
 +++
 Die folgende Übersicht zeigt den Fluss der Aufgabenstruktur und die notwendigen Kompetenzen zur Durchführung der jeweiligen Übungen der Fallstudie:
 +++
@@ -36,6 +36,6 @@ name: aufgabenaufbau-oer
 Aufgabenfluss der OER
 ```
 ```{attention}
-Die ersten beiden Aufgaben sollen ein Basisverständnis für das filmanalytische Arbeiten abdecken. Die Aufgabenstruktur soll insofern den Zusammenhang zwischen einem Einstellungsprotokoll, der Handhabung von Annotationstools hin zu der Entwicklung und Bedieung einer komplexen, maschinenlesbaren Ontologie reproduzieren. Wer bereits die notwendigen Kompetenzen der ersten beiden Aufgaben beherrscht, empfehlen wir den Einstieg ab Aufgabe 3.
+Ein wichtiges Anliegen der Fallstudie ist es den Zusammenhang zwischen einem Einstellungsprotokoll, der Handhabung von Annotationstools hin zu der Entwicklung und Bedieung einer komplexen, maschinenlesbaren Ontologie verständlich zu machen. Wer jedoch bereits die notwendigen Kompetenzen der ersten beiden Aufgaben beherrscht, kann ab Aufgabe C beginnen.
 ```
-Im nächsten Kapitel stellen wir die für unsere Fallstudie relevanten theoretischen Grundlagen vor.
+Im nächsten Kapitel stellen wir die für unsere Fallstudie relevanten Informationen sowie theoretischen Grundlagen vor. Der Fokus liegt hierbei auf der Vermittlung empirischer Herangehensweisen datengestützter Filmanalyse. 
