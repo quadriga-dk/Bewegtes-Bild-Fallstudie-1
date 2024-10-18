@@ -64,8 +64,6 @@ Die mit OntoViz erstellte [interaktive Visualisierung](https://ada.cinepoetics.o
 Visualisierung mit OntoViz
 ```
 
-<iframe src="https://ada.cinepoetics.org/ontoviz/" scrolling="no" width="100%" height="1000px" title="ontoviz"></iframe>
-
 ### Annotationsmodell und Architektur
 
 Die Ontologie umfasst ein Annotationsmodell für semantische Videoannotationen. Annotationsdaten werden auf Basis des [WC3 Web Annotation Data Model](https://www.w3.org/TR/annotation-model/) erstellt. Sie bestehen immer aus einem "Annotationtarget" (also ein Ziel, hier: ein Zeitfragment eines Videos) sowie einen "Annotationbody" (also dem Inhalt der Annotation mit Informationen zu Annotationstypen/-werten, Autor und weiteren Metadaten). Das Videofragment basiert auf der Vewendung des [W3C Media Fragment URI](https://www.w3.org/TR/media-frags/) Spezifikation.
