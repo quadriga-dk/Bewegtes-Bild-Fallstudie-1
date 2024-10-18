@@ -9,11 +9,8 @@ parts:
       - file: Kapitel_I/Einführung_in_die_datengestützte_Filmanalyse
       - file: Kapitel_I/Information_und_Material
       - file: Kapitel_I/Empirische_Methoden
+      - file: Kapitel_I/Untersuchungsgegenstand
       - file: Kapitel_I/Technische_Voraussetzungen
-  - caption: Vertiefung und Aufgaben
-    chapters: 
-      - file: Kapitel_II/Aufbau_der_Übungen
-      - file: Kapitel_II/Untersuchungsgegenstand
   - caption: 1. Tabellarische Annotation
     chapters:
       - file: Kapitel_II/Aufgabe_A

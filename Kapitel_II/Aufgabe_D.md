@@ -31,14 +31,14 @@ In diesem Schritt soll es nun darum gehen mit der AdA-Filmontologie in der Video
 ```{admonition} Kurz erklärt: Was ist die AdA-Filmontologie?
 Die AdA-Filmontologie ist ein von der BMBF-geförderten Nachwuchsgruppe "[Affektrhetoriken des Audiovisuellen](https://www.ada.cinepoetics.fu-berlin.de/index.html)" (kurz: AdA) nach Semantic Web Standards entwickelts systematisches Beschreibungsvokabular filmanalytischer Konzepte und Termini. Sie ist zur Anwendung für komplexe und feingleiderige Videoannotationen ausgelegt. Die Ontologie ermöglicht die Herstellung und Visualisierung filmanalytischer Annotationsdaten. Mehr Infos und weiterführende Links gibt es in diesem [Book](Aufgabe_C_UK-2) sowie [hier](https://www.ada.cinepoetics.fu-berlin.de/Methoden/index.html) und [hier](https://www.cinepoetics.fu-berlin.de/methods/3_Tools/1_Vokabular_der_AdA-Filmontologie/index.html).
 ```
-Untersuchungsgegenstand unserer Fallstudie sind Online-Videos zur Klimakrise. Entlang eines Videobeispiels soll diese Übung sowohl die Annotationsschritte als auch etwaige offene Fragen und Probleme, die sich während des Annotationsprozesses ergeben, skizzieren. Das Video ist als Download in diesem [Book](Untersuchungsgegenstand) verfügbar. 
+Untersuchungsgegenstand unserer Fallstudie sind Online-Videos zur Klimakrise. Entlang eines Videobeispiels soll diese Übung sowohl die Annotationsschritte als auch etwaige offene Fragen und Probleme, die sich während des Annotationsprozesses ergeben, skizzieren. Das Video ist als Download in diesem [Book](../Kapitel_I/Untersuchungsgegenstand.md) verfügbar. 
 +++
 Grundlage für die Annotationsarbeit in der Videoannotationssoftware Advene ist das [AdA-Template](../assets/AdA_template_07_2021.azp). Das AdA-Template ist ein Annotationspaket, welches das Vokabular der AdA-Ontologie bereits als vordefinierte Vorlage enthält.
 ```{hint}
 Wer erst bei diesem Schritt einsteigt, kann sich notwendiges Vorwissen jeweils hier aneignen:
 +++
 [Einführung in die datengestütze Filmanalyse](../Kapitel_I/Einführung_in_die_datengestützte_Filmanalyse) <br>
-[Untersuchungsgegenstand](/Kapitel_II/Untersuchungsgegenstand) <br>
+[Untersuchungsgegenstand](../Kapitel_I/Untersuchungsgegenstand) <br>
 [Einarbeiten in die Filmontologie](/Kapitel_II/Aufgabe_C)
 ```
 ## Videotutorials
