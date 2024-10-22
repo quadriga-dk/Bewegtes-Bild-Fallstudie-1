@@ -2,7 +2,21 @@
 
 In unserem Video-Quickguide zur AdA-Timeline werden Aufbau und Funktion, verschiedene Anpassungsoptionen in der Darstellung sowie Exportmöglichkeiten erläutert. Für detaillierte Beschreibungen zu allen Optionen empfehlen wir das [Manual](../assets/Manual_Advene_AdA_D_Vers1_0.pdf).
 +++
-VIDEO EINBINDEN
+Eine kurze Inhaltsübersicht soll zur Orientierung dienen. Wer ab einem bestimmten Inhaltsabschnitt starten möchte, kann auf den in Klammern beigefügten Link klicken. Das Video in voller Länge ist unten abrufbar.
++++
+## Video: AdA-Timeline
+
+* Introduction: AdA Timeline
+* Opening the AdA Timeline in Advene
+* Structure and Functionality
+* Display Customization (URL, Edit Window, and Syntax Elements)  
+* The Syntax 
+* Setting for Types
+* Saving Timeline Settings
+* Export
+
+<iframe src="https://videoup.uni-potsdam.de/Panopto/Pages/Embed.aspx?id=e1e937e6-7bd3-43fa-a4f3-b20300a66b54&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
 # Die wichtigsten Schritte im Überblick
 
 ## Timeline aufrufen
