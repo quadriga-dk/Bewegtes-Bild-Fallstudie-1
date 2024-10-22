@@ -54,7 +54,7 @@ Nun geht es darum, die Annotationen für die erstellten Parameter/Typen zu erste
 +++
 In der Übung [Tabellarische Annotation](Aufgabe_A) haben wir zunächst jeden Parameter je Einstellung annotiert. Dort haben wir aber festgestellt, dass diese Form der Segmentierung nicht immer sinnvoll ist, insbesondere dann, wenn man Verläufe und Dynamiken herausarbeiten möchte (s. hierfür auch [Fig. 4](#verlaufsdynamik)).
 +++
-```{admonition} **Übung**
+```{admonition} Übung
 *Welche Annotationstypen können nach welcher Logik folglich annotiert werden?* QUIZ EINBINDEN
 :::{dropdown} Antwort
 Die Typen **Einstellungsnummer**, **Dauer**, **Einstellungsgröße**, **Montage**, **Kameraperspektive** sowie **Kamerabewegung**  annotieren wir zunächst Einstellung für Einstellung, denn hier ist es wichtig, die Relationen, Wiederholungen und Veränderungen von Einstellung zu Einstellung sichtbar zu machen. Die Typen **Setting**, **Musik**, **Dialog**, **Licht** sowie **Farbe** werden nach ihren je spezifischen Verläufen annotiert. 
@@ -75,13 +75,13 @@ Es empfiehlt sich schon während der Annotation die Datei zu speichern, um mögl
 klicken und die Datei benennen sowie abspeichern. 
 ```
 Darüber hinaus können Annotationen aus einer Spur kopiert und gelöscht sowie in andere Spuren kopiert oder verschoben werden. 
-```{admonition} **Übung**
+```{admonition} Übung
 *Wofür kann diese Funktion sinnvoll sein?*
 :::{dropdown} Antwort
 Da wir bei einigen Typen je Einstellung annotieren, müssen wir natürlich nicht jedes Mal die Einstellungsgrenzen neu setzen. Hierfür reicht es, wenn wir die Annotationssegmentierung des Annotationstypen **Einstellungsnummer** in jene andere Typen kopieren, die wir auch nach diesem Schema annotieren möchten. 
 :::
 ```
-```{hint} 
+```{tip} 
 Wer die tabellarische Annotation bereits vollständig erarbeitet hat, kann natürlich die Daten aus der ersten Tabelle übernehmen und beim Annotieren eintragen. 
 ```
 # Zusammenfassung der Schritte

@@ -23,12 +23,12 @@ Die AdA Corpus Analysis View bietet eine Basisauswahl an Annotationstypen, mit d
 :height: 250px
 :name: a4-s01
 ```
-```{admonition} **Übung**
+```{admonition} Übung
 *Für unseren Beispielgegenstand haben wir die Auswahl der Annotationstypen an das Video angepasst. Welcher Typ wurde zur Corpus View hinzugefügt? Und welcher wurde weggelassen?* <br>
 MULTIPLE CHOICE EINFÜGEN
 ```
 5.	Durchführung automatischer Erkenneralgorithmen und Überprüfung der Einstellungen mit der Validation View. Anschließend Bereinigung und Renummerierung der Einstellungen (Video: XX, Manual: S. 116)
-```{admonition} **Übung**
+```{admonition} Übung
 1. *Welche Schritte müssen vollzogen werden, damit die automatischen Erkenneralgorithmen durchgeführt werden?*
 :::{dropdown} Lösung
 Um die automatische Videoanalyse durchzuführen auf 'File' und 'Process Video' gehen. Anschließend öffnet sich der 'Importer'. 
@@ -42,7 +42,7 @@ Nicht jede Einstellungsgrenze wird korrekt gesetzt. Daher ist es notwendig mit d
 :::
 ```
 6.	Download der Untertitel von YouTube und Import der Untertitel (Video: XX, Manual: S. 126ff)
-```{admonition} **Übung**
+```{admonition} Übung
 *Welchem Annotationstypen können die Untertitel zugeordnet werden?* <br>
 MULTIPLE CHOICE EINFÜGEN
 ```
@@ -78,7 +78,7 @@ Mit der Funktion 'Search/replace content' können die erstellten und bereinigten
 |                                   | Music Mood                            |
 |                                   | Body Language Emotion        |
 
-```{admonition} **Übung**
+```{admonition} Übung
 *Für einige Annotationstypen können Syntaxelemente verwendet werden. Was beschreiben die Werte **[TO]** sowie **[VS]** jeweils?*
 :::{dropdown} Lösung
 **[TO]**: Beschreibt die Möglichkeit, ein Syntaxelement zu verwenden, das

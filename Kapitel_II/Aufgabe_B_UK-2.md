@@ -36,7 +36,7 @@ Die **Größenskalierung** der Timeline erfolgt über den Regler am unteren rech
 Im Fenster rechts neben dem Videoplayer kann unter 'Steuerung' die Wiedergabegeschwindigkeit des Videos angepasst werden. 
 ![screenshot-A2-10](../_images/A2-S10.png)
 +++
-```{admonition} **Übung**
+```{admonition} Übung
 *In welchen Fällen ist die Regulierung der Wiedergabegeschwindigkeit sinnvoll?*
 :::{dropdown} Antwort
 Manchmal kann es sehr nützlich sein, die Wiedergabegeschwindigkeit an den eigenen **Annotationsrhythmus** anzupassen. Einige Einstellungen können als sehr schnell wahrgenommen werden. Die Reduzierung der Geschwindigkeit kann helfen, dass jene Bildinhalte, die man als Werte in den Annotationen anlegen möchte, auch tatsächlich präzise erfasst werden. 
