@@ -15,7 +15,7 @@ Die Timeline wird mit dem Standard Browser geöffnet. Die URL kann jedoch auch i
 In Advene muss zunächst das mit dem AdA-Template erstellte Annotationspaket geöffnet werden. Anschließend kann über das W3-Symbol in der Icon-Leiste eine Visualisierungsform ausgewählt werden. Hier entweder die online oder offline Version der Timeline auswählen. Wir arbeiten in dieser Übung mit der online Variante. 
 ```{image} ../_images/A5-S02.png
 :align: center
-:height: 250px
+:height: 300px
 :name: a2-s02
 ```
 ```{hint}
@@ -66,4 +66,47 @@ Wird ein spezifischer Zeitabschnitt über die zoom control für die Anzeige gew�
 Der Timecode kann über das Edit-Fenster angepasst werden. Hierzu einfach die genauen Zeiteingaben eintragen. 
 ![screenshot-A5-06](../_images/A5-S06.png)
 
+````{margin}
+```{hint}
+Wie ein Video mit der Timeline verknüpft werden kann, wird im Manual ab S. 148 im Detail beschrieben. 
+```
+```` 
+Danach können verschiedene Syntaxelemente eingesetzt werden, zum Beispiel `reference=`, um den Annotationstyp festzulegen, der als Referenzspur verwendet wird, oder `media=`, um ein Video einzubinden. Nach dem Element `types=` werden die einzelnen Annotationstypen, die in der Visualisierung angezeigt werden sollen, angegeben. Als Name wird dabei immer die 'Id' des Annotationstyps verwendet. Die Ids der Annotationstypen werden mit einem Komma voneinander getrennt. Kopieren kann man die Id direkt aus Advene mit einem Rechtsklick auf den Annotationstyp und dann auf 'Copy id'.
++++
+Nach der Id können für jeden Annotationstyp in einer Klammer verschiedene Darstellungsoptionen angegeben werden (s. [Übersicht der Syntaxelemente](../assets/Übersicht-Syntaxelemente-AdA-Timeline.pdf))
++++
+Die Eingabe erfolgt immer in der Syntaxform DARSTELLUNGOPTION:WERT, ein Beispiel für die Darstellung als Histogramm wäre: `representation:hist`.
+![screenshot-A5-07](../_images/A5-S07.png)
+```{attention}
+Zur korrekten Konfigurierung der Darstellung den Wert `height` jeweils anpassen.
+```
+````{margin}
+Die Farbschemata können unter https://vega.github.io/vega/docs/schemes/ abgerufen werden.
+````
+Beispielsweise kann die Farbe der Balken über das Syntaxelement `colorscheme` geändert werden. Hier ist ein Beispiel für `colorscheme:purplered` zu sehen:
+![screenshot-A5-08](../_images/A5-S08.png)
 
+Werden für einen Annotationstyp mehrere Optionen definiert, werden diese mit einem Leerzeichen voneinander getrennt.
+
+### Darstellungsformen
+
+Es gibt verschiedene Darstellungsformen, um die Timeline zu konfigurieren. Umfassende Informationen zu **allen** Darstellungsformen sind auf S. 138 im Manual einsehbar. Hier die wichtigsten in Kürze:
+
+* **Säulenansicht**, z.B. zur Darstellung von des Schnittrhythmus. Breite und Höhe der einzelnen Blöcke entsprechen in dieser Darstellung jeweils der Dauer einer Annotation.
+* **Balkendiagramm**: Die Annotationen werden in Zeilen mit je eigenen Farben als Balken angezeigt.
+* **Wellenform**: Nummerische Werte können als Wellenform dargestellt werden.
+* **Einzeilige Darstellung**: Eine einzeilige Darstellung bietet sich bei Annotationstypen ohne Überlappungen von Werten an.
+* **Farbwerte**: Balkendiagramm, bei dem die Balkenfarben den annotierten Farben entsprechen. 
+![screenshot-A5-09](../_images/A5-S09.png)
+
+## Visualisierungsansicht speichern und exportieren
+
+Um die erstellten Visualisierungen zu speichern, empfiehlt es sich den Inhalt des Edit-Fensters in ein gängiges Textprogramm zu kopieren. Öffnet man die Timeline erneut, so kann man den kopierten Inhalt einfügen und die gespeicherte Ansicht anzeigen lassen.
+```{danger}
+Um keine Ansichtsdaten zu verlieren, sollte zum Speichern der gewünschten Konfiguration wie oben beschrieben vorgegangen werden! Das Speichern über den 'Save'-Button im Edit-Fenster funktioniert nicht.
+```
+Um die Timeline-Visualisierung zu exportieren, auf die drei Punkte am oberen linken Rand klicken und eine Option auswählen. Für Publikationen oder Präsentationen bietet sich der Export als PNG-Datei an. 
++++
+Im nächsten Schritt soll das Konfigurieren der Timeline erprobt werden. Ebenso sollen im letzten Teil unserer Fallstudie mit der Konfiguration der Timeline die Annotations- und Visualisierungsdaten filmanalytisch qualifiziert werden. Damit beziehen wir uns auf die eingangs formulierten Fragestellungen:
+> 1. Wie können datengestützte Methoden für die Qualifizierung von filmwissenschaftlichen Analysen nutzbar gemacht werden? <br>
+> 2. Inwiefern können durch empirisch hergestellte quantifizierbare Daten Aussagen über die Qualifizierung audiovisueller Inszenierungsdynamiken und den damit verbundenen Affizierungen getroffen werden?

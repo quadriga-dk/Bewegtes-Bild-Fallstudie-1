@@ -50,4 +50,6 @@ Folgende Schritte sollen als Anweisung dienen, um die Durchführung der tabellar
 3. *Vergleichen*: Die Ergebnisse können mit der bereitgestellten Musterlösung verglichen werden
 ```{attention} Die Annotationen bzw. Annotationsmethode kann sich in einigen Punkten auch unterscheiden. Entscheidend ist, dass filmanalytische Daten in einem ersten Schritt erfasst und verglichen werden können.
 ```
-Die Tabelle liegt ausgefüllt vor 👏 ? Dann geht es zum nächsten Schritt ➡️
+Die Tabelle liegt ausgefüllt vor 👏 ? Dann geht es zum nächsten Schritt ➡️ 
++++
+Für einen Vergleich der Daten kann unsere Musterlösung heruntergeladen werden.
