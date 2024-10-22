@@ -54,7 +54,8 @@ Für die Annotationsarbeit mit der Ontologie in Advene haben wir zwei Videotutor
 :height: 400px
 :name: videotutorial-inhalte
 ```
-VIDEOS HIER EINBINDEN
+<iframe src="https://videoup.uni-potsdam.de/Panopto/Pages/Embed.aspx?id=cf912751-5223-4132-80bb-b20300a60e55&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
 ## Weiterführende Infos und Material
 
 Beide Videotutorials bieten gute Einstiegshilfen und Erklärungen der wichtigsten Funktionen und Anwendungen für die Arbeit mit der AdA-Filmontologie. Als Quick Guides sollen sie somit einen schnellen Start in die Annotationsarbeit ermöglichen. 
