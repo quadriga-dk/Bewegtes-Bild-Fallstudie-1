@@ -48,13 +48,35 @@ Wer erst bei diesem Schritt einsteigt, kann sich notwendiges Vorwissen jeweils h
 Die Videotutorials sind auf Englisch. Ein ausführliches Manual in deutscher Sprache (s.u.) steht ebenfalls zur Verfügung.
 ```
 ````
-Für die Annotationsarbeit mit der Ontologie in Advene haben wir zwei Videotutorials erstellt (s.u.). Hier in Kürze eine Inhaltsübersicht zu den Videos:
-```{image} ../assets/Videotutorial-Inhalte.png
-:align: center
-:height: 400px
-:name: videotutorial-inhalte
-```
+Für die Annotationsarbeit mit der Ontologie in Advene haben wir zwei Videotutorials erstellt. Eine kurze Inhaltsübersicht soll zur Orientierung dienen. Wer ab einem bestimmten Inhaltsabschnitt starten möchte, kann auf den in Klammern beigefügten Link klicken. Unten sind die Videos in voller Länge abrufbar.
+
+### Video: Advene Basics
+
+* The Interface: Menus Videoplayer, Timeline
+* Setup: Package and Video File
+* Annotation Types: Creating, Editing, Displaying, Deleting
+* Automatic Video Analysis
+* Creating annotations: creating, merging, deleting, copying or moving, editing
+* Edit View 
+* Search and Replace
+* Quick Edit & Quick Fill
+* Table View
+* Export & Visualization
+
 <iframe src="https://videoup.uni-potsdam.de/Panopto/Pages/Embed.aspx?id=cf912751-5223-4132-80bb-b20300a60e55&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
+### Video: AdA-Template
+
+* Ada-Template: Package
+* AdA Corpus Analysis View
+* Annotation Types in Timeline
+* Process Video, Shot Validation & Subtitles 
+* Scene Segmentation 
+* Packages: Splitting, Merging, Importing
+* Annotate with Short Cuts
+* Checker Function
+
+<iframe src="https://videoup.uni-potsdam.de/Panopto/Pages/Embed.aspx?id=71ca2ea8-b7ee-492f-a9ef-b20300a665d3&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
 ## Weiterführende Infos und Material
 
