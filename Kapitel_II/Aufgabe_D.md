@@ -63,7 +63,7 @@ Für die Annotationsarbeit mit der Ontologie in Advene haben wir zwei Videotutor
 * Table View
 * Export & Visualization
 
-<iframe src="https://videoup.uni-potsdam.de/Panopto/Pages/Embed.aspx?id=cf912751-5223-4132-80bb-b20300a60e55&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+<iframe src="https://videoup.uni-potsdam.de/Panopto/Pages/Embed.aspx?id=cf912751-5223-4132-80bb-b20300a60e55&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
 ### Video: AdA-Template
 
@@ -76,7 +76,7 @@ Für die Annotationsarbeit mit der Ontologie in Advene haben wir zwei Videotutor
 * Annotate with Short Cuts
 * Checker Function
 
-<iframe src="https://videoup.uni-potsdam.de/Panopto/Pages/Embed.aspx?id=71ca2ea8-b7ee-492f-a9ef-b20300a665d3&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+<iframe src="https://videoup.uni-potsdam.de/Panopto/Pages/Embed.aspx?id=71ca2ea8-b7ee-492f-a9ef-b20300a665d3&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
 ## Weiterführende Infos und Material
 
