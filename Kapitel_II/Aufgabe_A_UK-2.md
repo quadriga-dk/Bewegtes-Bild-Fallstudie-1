@@ -12,7 +12,20 @@ Die vier Grundeinheiten des Films
 *Ein Schritt-für-Schritt-Guide*
 * Als erstes werden Basisparameter für die zu analysierenden Segmente festgelegt; die Auswahl der zu untersuchenden Basisparameter soll dazu dienen, die zentralen kompositorischen Einheiten filmischer Intensitäten und Bewegungen als deskriptive Analysemuster in einem ersten Schritt greifen zu können.
 +++
-Kurzdefinitionen zu dem ausgewählten Basisparametern können hier eingesehen werden:
+````{margin}
+```{admonition} Kategorisierung von "Bildinhalt"
+Des weiteren haben wir den Parameter "Bildinhalt" hinzugefügt und diesen wie folgt kategorisiert: 
+1. Bühne
+2. Publikum
+3. 2D-Animation
+4. Found Footage
+5. Interview
++++
+Es können auch ausführlichere Beschreibungen eingetragen werden. Wir haben uns für eine allgemeine Kategorisierung entschieden.
+```
+````
+
+Kurzdefinitionen zu den ausgewählten Basisparametern können hier eingesehen werden:
 ```{figure} ../assets/Kurzdefinition-Parameter.png
 :width: 600px
 :name: kurzdefinition-parameter
@@ -31,9 +44,9 @@ Bei ganzen Filmen ist es zunächst sinnvoller nach Sequenzen und/oder Szenen zu 
 ```
 ````
 * Anschließend wird eine Segmentierungslogik, nach der der Videoclip analysiert werden soll, festgelegt. Wir haben uns, aufgrund der Länge des Gegenstandes, für eine Segmentierung in **Einstellungen** entschieden ([s. Fig. 2](#grundeinheiten-film)). 
-* Sobald die Grundstruktur der zu analysierenden Einheiten steht, kann mit der tabellarischen Annotation begonnen werden, d.h., dass den Parametern Inhalte bzw. Werte beigeordnet werden, die aus der Inszenierung des Videos hervorgehen.
+* Sobald die Grundstruktur der zu analysierenden Einheiten steht, kann mit der tabellarischen Annotation begonnen werden, d.h., dass den Parametern Inhalte bzw. Werte beigeordnet werden, die aus der Inszenierung des Videos hervorgehen. Ein Template (als [Word-Datei](../assets/Tabellarische-Annotation-Template-Quadriga.docx) und [PDF](../assets/Tabellarische-Annotation-Template-Quadriga.pdf)) zum Ausfüllen des Einstellungsprotokolls kann hier heruntergeladen werden.
 ## Tabellarischer Auszug (Exemplar)
-| Nr. | Dauer (sec.) | Screenshot | Setting | Einstellungsgröße | Montage | Kamera | Ton/Musik | Farbe | Licht |
+| Nr. | Dauer (sec.) | Screenshot | Bildinhalt | Einstellungsgröße | Montage | Kamera | Ton/Musik | Farbe | Licht |
 |-----|--------------|------------|------------|--------------------|-------------------|----------------------------------|-----------|-------|-------|
 | 01  | 05'' |![S01](../assets/S01.png)| Bühne | medium shot        | harter Schnitt   | low-angle; Fahrt: leicht>links     | Dialog/Rede (onscreen) | schwarz | dunkel |
 | 02  | 07'' | ![S02](../assets/S02.png) | 2D-Animation | closeup           | harter Schnitt   | high-angle; Fahrt: unten>oben     | Dialog/Rede /Gelächter (offscreen) | weiß, braun, rot | dunkel; hell |
@@ -52,4 +65,4 @@ Folgende Schritte sollen als Anweisung dienen, um die Durchführung der tabellar
 ```
 Die Tabelle liegt ausgefüllt vor 👏 ? Dann geht es zum nächsten Schritt ➡️ 
 +++
-Für einen Vergleich der Daten kann unsere Musterlösung heruntergeladen werden.
+Für einen Vergleich der Daten kann unsere [Musterlösung](../assets/Tabellarische-Annotation-Musterlösung-Quadriga.pdf) heruntergeladen werden.

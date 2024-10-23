@@ -1,6 +1,10 @@
 # AdA-Timeline: Funktionsweisen, Bedienung, Anpassung
 
-In unserem Video-Quickguide zur AdA-Timeline werden Aufbau und Funktion, verschiedene Anpassungsoptionen in der Darstellung sowie Exportmöglichkeiten erläutert. Für detaillierte Beschreibungen zu allen Optionen empfehlen wir das [Manual](../assets/Manual_Advene_AdA_D_Vers1_0.pdf).
+````{margin}
+```{note}
+Das Videotutorial ist auf Englisch. Für eine deutsche Fassung bitte das Manual verwenden.
+````
+In dem Video-Quickguide zur AdA-Timeline (Quelle/creative common: Stratil, Huthmann, Demir) werden Aufbau und Funktion, verschiedene Anpassungsoptionen in der Darstellung sowie Exportmöglichkeiten erläutert. Für detaillierte Beschreibungen zu allen Optionen empfehlen wir das [Manual](../assets/Manual_Advene_AdA_D_Vers1_0.pdf).
 +++
 Eine kurze Inhaltsübersicht soll zur Orientierung dienen. Wer ab einem bestimmten Inhaltsabschnitt starten möchte, kann auf den in Klammern beigefügten Link klicken. Das Video in voller Länge ist unten abrufbar.
 +++

@@ -48,7 +48,7 @@ Wer erst bei diesem Schritt einsteigt, kann sich notwendiges Vorwissen jeweils h
 Die Videotutorials sind auf Englisch. Ein ausführliches Manual in deutscher Sprache (s.u.) steht ebenfalls zur Verfügung.
 ```
 ````
-Für die Annotationsarbeit mit der Ontologie in Advene haben wir zwei Videotutorials erstellt. Eine kurze Inhaltsübersicht soll zur Orientierung dienen. Wer ab einem bestimmten Inhaltsabschnitt starten möchte, kann auf den in Klammern beigefügten Link klicken. Unten sind die Videos in voller Länge abrufbar.
+Für die Annotationsarbeit mit der Ontologie wurden zwei Videotutorials erstellt (Quelle/creative common: Stratil, Huthmann, Demir). Eine kurze Inhaltsübersicht soll zur Orientierung dienen. Wer ab einem bestimmten Inhaltsabschnitt starten möchte, kann auf den in Klammern beigefügten Link klicken. Unten sind die Videos in voller Länge abrufbar.
 
 ### Video: Advene Basics
 
