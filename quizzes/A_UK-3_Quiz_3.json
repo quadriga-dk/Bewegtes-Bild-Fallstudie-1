@@ -1,0 +1,49 @@
+[
+    {
+        "question": "Welche Formen von Found Footage sind zu sehen? Mehrere Antworten sind möglich.",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "code": "Cartoonzeichnungen",
+                "correct": false
+            
+            }, 
+            {
+                "code": "Überwachungsaufnahmen",
+                "correct": false
+            
+            }, 
+            {
+                "code": "Archivfotografie",
+                "correct": true
+            
+            }, 
+            {
+                "code": "Zeitgenössisches Material",
+                "correct": false
+            
+            }, 
+            {
+                "code": "Heimvideo",
+                "correct": false
+            
+            }, 
+            {
+                "code": "Historisches Material",
+                "correct": true
+            
+            },
+
+            {
+                "code": "Unterrichtsfilm",
+                "correct": false 
+            },
+            {
+                "code": "Nachrichten",
+                "correct": false
+                
+            }
+           
+        ]
+    }
+]

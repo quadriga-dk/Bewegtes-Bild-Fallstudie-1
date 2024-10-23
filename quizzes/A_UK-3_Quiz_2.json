@@ -1,0 +1,58 @@
+[
+    {
+        "question": "Welche Einstellungen haben die längste Dauer? Bitte drei Antworten auswählen.",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "code": "E05",
+                "correct": false
+            
+            }, 
+            {
+                "code": "E29",
+                "correct": true
+            
+            }, 
+            {
+                "code": "E06",
+                "correct": false
+            
+            }, 
+            {
+                "code": "E20",
+                "correct": false
+            
+            }, 
+            {
+                "code": "E22",
+                "correct": true
+            
+            }, 
+            {
+                "code": "E02",
+                "correct": false
+            
+            },
+
+
+            {
+                "code": "E30",
+                "correct": true
+                
+            },
+            {
+                "code": "E17",
+                "correct": false 
+            },
+            {
+                "code": "E31",
+                "correct": false
+                
+            },
+            {
+                "code": "E12",
+                "correct": false
+            }
+        ]
+    }
+]

@@ -4,30 +4,14 @@
         "type": "many_choice",
         "answers": [
             {
-                "answer": "Falsche Antwort",
+                "answer": "Einteilung in Szenen",
                 "correct": false,
-                "feedback": "Die Möglichkeit einer Anordnungs-Aufgabe gibt es nicht."
+                "feedback": "In unserem Videogegenstand ist die Einteilung in Szenen aufgrund der Länge des Videos nicht sinnvoll."
             },
             {
-                "answer": "richtige Antwort",
+                "answer": "Einteilung in Dynamiken",
                 "correct": true,
-                "feedback": "Richtig. Diese Frage wurde mit diesem Fragetyp umgesetzt."
-            }
-        ]
-    },
-    {
-        "question": "Welche alternative Segmentierungsmethode neben der Einteilung in Einstellungen erscheint als sinnvoll?",
-        "type": "many_choice",
-        "answers": [
-            {
-                "answer": "Falsche Antwort",
-                "correct": false,
-                "feedback": "Die Möglichkeit einer Anordnungs-Aufgabe gibt es nicht."
-            },
-            {
-                "answer": "richtige Antwort",
-                "correct": true,
-                "feedback": "Richtig. Diese Frage wurde mit diesem Fragetyp umgesetzt."
+                "feedback": "Richtig. Durch die Einteilung in Dynamiken können größere Spektren annotiert werden."
             }
         ]
     }
