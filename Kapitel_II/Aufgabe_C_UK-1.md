@@ -1,3 +1,23 @@
+---
+jupytext:
+  formats: md:myst
+  text_representation:
+    extension: .md
+    format_name: myst
+kernelspec:
+  display_name: Python 3
+  language: python
+  name: python3
+---
+```{code-cell} ipython3
+:tags: [remove-cell]
+from jupyterquiz import display_quiz
+
+import sys
+sys.path.append("..")
+from quadriga_config import colors
+```
+
 # Übung zu Semantic Web Prinzipien
 ## Aufgabe 1
 
@@ -45,11 +65,8 @@ name: matrix-aufgabe-3
 Matrix: Ebenen, Typen, Werte
 ```
 ## Aufgabe 2
-Wie könnte die Freitext-Beschreibung “**Hier gibt es eine langsame Kamerafahrt nach links**” als Triple aussehen? MULTIPLE CHOICE
-:::{dropdown} Lösung
-"Segment X" "hat im Type Kamerabewegung Typ den Wert" "Kamerafahrt" **+** <br> 
-"Segment X" "hat im Type Kamerabewegung Richtung den Wert" "links" **+**
-<br> 
-"Segment X" "hat im Type Kamerabewegung Geschwindigkeit den Wert" "langsam" 
-:::
-EVTL. MULTIPLE CHOICE FÜR: WIE KÖNNTE DIESES TRIPLE IN RDF FORMULIERT SEIN? TRIPLE STORE ALS LÖSUNG??
+
+```{code-cell} ipython3
+:tags: [remove-input]
+display_quiz("../quizzes/C_UK-2_Quiz_1.json", colors = colors.jupyterquiz)
+```

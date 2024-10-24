@@ -1,3 +1,23 @@
+---
+jupytext:
+  formats: md:myst
+  text_representation:
+    extension: .md
+    format_name: myst
+kernelspec:
+  display_name: Python 3
+  language: python
+  name: python3
+---
+```{code-cell} ipython3
+:tags: [remove-cell]
+from jupyterquiz import display_quiz
+
+import sys
+sys.path.append("..")
+from quadriga_config import colors
+```
+
 # Annotieren mit ELAN
 In diesem Unterkapitel soll das Annotationstool ELAN vorgestellt sowie die wesentlichen Funktionen und Bedienungsweisen kurz und übersichtlich umrissen werden. Umfassende Anleitungen aller Grundfunktionen im Detail können unter "Documentation" auf der [Seite des Entwicklers](https://archive.mpi.nl/tla/elan) aufgerufen werden. Ein Quick Guide vom Entwickler [Max Planck Institute for Psycholinguistics](https://www.mpi.nl/) kann [hier](https://www.mpi.nl/tools/elan/docs/How-to-pages_9.pdf) eingesehen werden.
 +++
@@ -36,12 +56,15 @@ Die **Größenskalierung** der Timeline erfolgt über den Regler am unteren rech
 Im Fenster rechts neben dem Videoplayer kann unter 'Steuerung' die Wiedergabegeschwindigkeit des Videos angepasst werden. 
 ![screenshot-A2-10](../_images/A2-S10.png)
 +++
-```{admonition} Übung
-*In welchen Fällen ist die Regulierung der Wiedergabegeschwindigkeit sinnvoll?*
-:::{dropdown} Antwort
+
+`````{admonition} In welchen Fällen ist die Regulierung der Wiedergabegeschwindigkeit sinnvoll?
+:class: tip
+````{admonition} Antwort
+:class: dropdown
 Manchmal kann es sehr nützlich sein, die Wiedergabegeschwindigkeit an den eigenen **Annotationsrhythmus** anzupassen. Einige Einstellungen können als sehr schnell wahrgenommen werden. Die Reduzierung der Geschwindigkeit kann helfen, dass jene Bildinhalte, die man als Werte in den Annotationen anlegen möchte, auch tatsächlich präzise erfasst werden. 
-:::
-```
+````
+`````
+
 Solbald das Video mit dem ELAN-Projekt verknüpft ist, können Annotationszeilen – "Tiers" gennant – sowie Annotationen angelegt werden. 
 # Annotationszeilen (Tiers) und Annotationen
 ## Zeilen
@@ -97,8 +120,10 @@ Die Zeitformate **PAL** oder **NTSC** beziehen sich auf die Bildfrequenz – als
 Die Frame Rate eines Videos kann über gängige Videoabspielprogramme herausgefunden werden. Hierzu die Metadateninformationen abrufen: 
 Beispielsweise unter VLC im Abspielmodus mit cmd + I (Mac)  bzw. Strg + J (Windows) und dann unter 'Codecdetails > Bildwiederholrate'.
 ```
-```{admonition} **Übung**
-*Welche Framerate hat unser Beispielvideo und welches Zeitformat muss gewählt werden?* QUIZ EINBINDEN
+
+```{code-cell} ipython3
+:tags: [remove-input]
+display_quiz("../quizzes/B_UK-3_Quiz_1.json", colors = colors.jupyterquiz)
 ```
 
 ### Annotationen bearbeiten 
