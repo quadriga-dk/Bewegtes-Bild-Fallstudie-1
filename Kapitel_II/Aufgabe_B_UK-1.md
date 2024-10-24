@@ -1,3 +1,23 @@
+---
+jupytext:
+  formats: md:myst
+  text_representation:
+    extension: .md
+    format_name: myst
+kernelspec:
+  display_name: Python 3
+  language: python
+  name: python3
+---
+```{code-cell} ipython3
+:tags: [remove-cell]
+from jupyterquiz import display_quiz
+
+import sys
+sys.path.append("..")
+from quadriga_config import colors
+```
+
 # Annotieren mit Advene 
 
 Für detailreiche Erklärungen zu der Bedienung von Advene stehen [hier](https://github.com/oaubert/advene/wiki/AdveneUserGuide)  sowie [hier](https://www.advene.org/screencasts.html#screencasts) Userguides zur Verfügung, in denen die wesentlichen Funktionen und Optionen von Advene erklärt werden. <br>
@@ -53,20 +73,23 @@ Die Annotationstypen können mit einem Klick auf den bunten Kreis nach Belieben 
 Nun geht es darum, die Annotationen für die erstellten Parameter/Typen zu erstellen. Doch nach welcher Segmentierungslogik sollen die Annotationen erstellt werden?
 +++
 In der Übung [Tabellarische Annotation](Aufgabe_A) haben wir zunächst jeden Parameter je Einstellung annotiert. Dort haben wir aber festgestellt, dass diese Form der Segmentierung nicht immer sinnvoll ist, insbesondere dann, wenn man Verläufe und Dynamiken herausarbeiten möchte (s. hierfür auch [Fig. 4](#verlaufsdynamik)).
-+++
-```{admonition} Übung
-*Welche Annotationstypen können nach welcher Logik folglich annotiert werden?* QUIZ EINBINDEN
-:::{dropdown} Antwort
-Die Typen **Einstellungsnummer**, **Dauer**, **Einstellungsgröße**, **Montage**, **Kameraperspektive** sowie **Kamerabewegung**  annotieren wir zunächst Einstellung für Einstellung, denn hier ist es wichtig, die Relationen, Wiederholungen und Veränderungen von Einstellung zu Einstellung sichtbar zu machen. Die Typen **Setting**, **Musik**, **Dialog**, **Licht** sowie **Farbe** werden nach ihren je spezifischen Verläufen annotiert. 
-:::
+
+```{code-cell} ipython3
+:tags: [remove-input]
+display_quiz("../quizzes/B_UK-2_Quiz_1.json", colors = colors.jupyterquiz)
 ```
+
+:::{dropdown} Ausklappen für ausführliche Antwort
+Die Typen **Dauer**, **Einstellungsgröße**, **Montage**, **Kameraperspektive** sowie **Kamerabewegung**  annotieren wir zunächst Einstellung für Einstellung, denn hier ist es wichtig, die Relationen, Wiederholungen und Veränderungen von Einstellung zu Einstellung sichtbar zu machen. Die Typen **Bildinhalt**, **Musik**, **Dialog**, **Licht** sowie **Farbe** werden nach ihren je spezifischen Verläufen annotiert. 
+:::
+
 ````{margin}
 ```{hint} 
 Mit der Loop-Taste am rechten unteren Rand des Videoplayers werden angelegte Annotationen im Loop abgespielt.
 ![screenshot-A2-08](../_images/A2-S08.png)
 ```
 ````
-Um eine neue Annotation zu erstellen, einfach mit der rechten Maustaste in die gewünschte Spur klicken und 'New annotation at mouse position' oder 'New annotation at player time' auswählen – abhängig davon, ob die neue Annotation nach der Position des Mauszeigers oder anhand des aktuellen Videoplayer-Timecodes erstellt werden soll (letzteres ist natürlich immer präziser). Danach wird der erstellten Annotation durch Freitexteingabe ein Inhalt zugeordnet. Hierzu mit dem Mauszeiger auf die gewünschte Annotation (diese wird durch einen schwarzen Balken umrandet) und mit 'Enter' das Textfeld öffnen. Erneut durch 'Enter' das Textfeld schließen.
+Nachdem die Festlegung auf eine Segmentierungsmethode steht, können die Annotationen erstellt werden. Um eine neue Annotation zu erstellen, einfach mit der rechten Maustaste in die gewünschte Spur klicken und 'New annotation at mouse position' oder 'New annotation at player time' auswählen – abhängig davon, ob die neue Annotation nach der Position des Mauszeigers oder anhand des aktuellen Videoplayer-Timecodes erstellt werden soll (letzteres ist natürlich immer präziser). Danach wird der erstellten Annotation durch Freitexteingabe ein Inhalt zugeordnet. Hierzu mit dem Mauszeiger auf die gewünschte Annotation (diese wird durch einen schwarzen Balken umrandet) und mit 'Enter' das Textfeld öffnen. Erneut durch 'Enter' das Textfeld schließen.
 ![screenshot-A2-06](../_images/A2-S06.png)
 Falls eine Annotation auf einer nicht erwünschten Timelineposition erstellt wird, kann diese folgendermaßen angepasst werden: entweder durch Ausrichtung der Annotationsgrenze per Drag and Drop an einer anderen Annotation der Spur (die sogenannte 'align'-Funktion) oder durch die einzelne Bearbeitung der Anfangs- und Endzeit der Annotation (im Edit-Fenster). Zur Bearbeitung der Annotation im Edit-Fenster mit einem Rechtsklick auf die Annotation und dann auf 'Edit'.
 ![screenshot-A2-07](../_images/A2-S07.png)
@@ -75,26 +98,31 @@ Es empfiehlt sich schon während der Annotation die Datei zu speichern, um mögl
 klicken und die Datei benennen sowie abspeichern. 
 ```
 Darüber hinaus können Annotationen aus einer Spur kopiert und gelöscht sowie in andere Spuren kopiert oder verschoben werden. 
-```{admonition} Übung
-*Wofür kann diese Funktion sinnvoll sein?*
-:::{dropdown} Antwort
-Da wir bei einigen Typen je Einstellung annotieren, müssen wir natürlich nicht jedes Mal die Einstellungsgrenzen neu setzen. Hierfür reicht es, wenn wir die Annotationssegmentierung des Annotationstypen **Einstellungsnummer** in jene andere Typen kopieren, die wir auch nach diesem Schema annotieren möchten. 
-:::
-```
+
+````{margin}
 ```{tip} 
 Wer die tabellarische Annotation bereits vollständig erarbeitet hat, kann natürlich die Daten aus der ersten Tabelle übernehmen und beim Annotieren eintragen. 
 ```
+````
+
+`````{admonition} Wofür kann diese Funktion sinnvoll sein?
+:class: tip
+````{admonition} Antwort
+:class: dropdown
+Da wir bei einigen Typen je Einstellung annotieren, müssen wir natürlich nicht jedes Mal die Einstellungsgrenzen neu setzen. Hierfür reicht es, wenn wir die Annotationssegmentierung des Annotationstypen **Einstellungsnummer** in jene andere Typen kopieren, die wir auch nach diesem Schema annotieren möchten. 
+````
+`````
+
 # Zusammenfassung der Schritte
 
 1. Advene starten und Videodatei verknüpfen
 ````{margin}
-Jedes neue Package enthält bereits eine standartisiert eingestellte Annotationsspur ('text annotation'). Diese ggf. im Vorgeld löschen!
+```{attention}
+Jedes neue Package enthält bereits eine standartisiert eingestellte Annotationsspur ('text annotation'). Diese ggf. im Vorfeld löschen!
+```
 ````
 2. Annotationstypen erstellen 
 +++
-````{margin}
-Hier auf die Segmentierungslogik achten!
-````
 3. Als nächstes können nun die Annotationen auf der Timeline erstellt werden. Wer sehr präzise Annotationsgrenzen haben möchte, kann über die Frametaste in der Wiedergabesteuerung Annotationsabschnitte erstellen und anpassen
 +++
 4. Überprüfen und Annotationen ggf. nachbearbeiten

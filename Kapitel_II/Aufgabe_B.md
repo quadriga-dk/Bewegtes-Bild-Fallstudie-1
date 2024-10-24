@@ -52,7 +52,7 @@ Im Kapitel [Annotieren mit einer Filmontologie](Aufgabe_D) gibt es ein auf die A
 * Einstellungsnummer
 * Dauer in Sekunden
 * Einstellungsgröße
-* Setting
+* Bildinhalt
 * Montage
 * **Kamerabewegung**
 * **Kameraperspektive**
