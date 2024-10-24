@@ -76,7 +76,7 @@ In der Übung [Tabellarische Annotation](Aufgabe_A) haben wir zunächst jeden Pa
 
 ```{code-cell} ipython3
 :tags: [remove-input]
-display_quiz("../quizzes/B_UK-2_Quiz_1.json", colors = colors.jupyterquiz)
+display_quiz("../quizzes/B_UK-1_Quiz_1.json", colors = colors.jupyterquiz)
 ```
 
 :::{dropdown} Ausklappen für ausführliche Antwort

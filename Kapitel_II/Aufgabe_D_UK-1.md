@@ -1,3 +1,23 @@
+---
+jupytext:
+  formats: md:myst
+  text_representation:
+    extension: .md
+    format_name: myst
+kernelspec:
+  display_name: Python 3
+  language: python
+  name: python3
+---
+```{code-cell} ipython3
+:tags: [remove-cell]
+from jupyterquiz import display_quiz
+
+import sys
+sys.path.append("..")
+from quadriga_config import colors
+```
+
 # Annotation mit dem AdA-Template: Schritte und Arbeitsprozess
 
 Für die Arbeit mit dem AdA-Template muss Advene installiert sein und ausgeführt werden. Installationsanweisungen und Hinweise gibt unter [Technische Voraussetzungen](../Kapitel_I/Technische_Voraussetzungen).
@@ -23,29 +43,40 @@ Die AdA Corpus Analysis View bietet eine Basisauswahl an Annotationstypen, mit d
 :height: 250px
 :name: a4-s01
 ```
-```{admonition} Übung
-*Für unseren Beispielgegenstand haben wir die Auswahl der Annotationstypen an das Video angepasst. Welcher Typ wurde zur Corpus View hinzugefügt? Und welcher wurde weggelassen?* <br>
-MULTIPLE CHOICE EINFÜGEN
+
+```{code-cell} ipython3
+:tags: [remove-input]
+display_quiz("../quizzes/D_UK-1_Quiz_1.json", colors = colors.jupyterquiz)
 ```
+
 5.	Durchführung automatischer Erkenneralgorithmen und Überprüfung der Einstellungen mit der Validation View. Anschließend Bereinigung und Renummerierung der Einstellungen (Video: XX, Manual: S. 116)
-```{admonition} Übung
-1. *Welche Schritte müssen vollzogen werden, damit die automatischen Erkenneralgorithmen durchgeführt werden?*
-:::{dropdown} Lösung
-Um die automatische Videoanalyse durchzuführen auf 'File' und 'Process Video' gehen. Anschließend öffnet sich der 'Importer'. 
-Was muss unter 'Filter' ausgewählt werden, damit die Einstellungsgrenzen automatisch generiert werden? >> MULTIPLE CHOICE <br>
-A: ShotdetectApp importer <br>
-B: Scene change detection 
-:::
-2. *Warum müssen die Einstellungen renummeriert werden?*
-:::{dropdown} Lösung
-Nicht jede Einstellungsgrenze wird korrekt gesetzt. Daher ist es notwendig mit der Shot Validation die Einstellungsgrenzen zu korrigieren. Dieser Schritt ist unerlässlich und bildet die Grundlage für alle weiteren Annotationsspuren, die nach dem Einstellungsprinzip annotiert werden 
-:::
+
+`````{admonition} Welche Schritte müssen vollzogen werden, damit die automatischen Erkenneralgorithmen durchgeführt werden?
+:class: tip
+````{admonition} Antwort
+:class: dropdown
+Um die automatische Videoanalyse durchzuführen auf ‘File’ und ‘Process Video’ gehen. Anschließend öffnet sich der ‘Importer’. Unter 'Filter' werden Auswahloptionen angezeigt.
+`````
+
+```{code-cell} ipython3
+:tags: [remove-input]
+display_quiz("../quizzes/D_UK-1_Quiz_2.json", colors = colors.jupyterquiz)
 ```
+
+`````{admonition} Warum müssen die Einstellungen renummeriert werden?
+:class: tip
+````{admonition} Antwort
+:class: dropdown
+Nicht jede Einstellungsgrenze wird korrekt gesetzt. Daher ist es notwendig mit der Shot Validation die Einstellungsgrenzen zu korrigieren. Dieser Schritt ist unerlässlich und bildet die Grundlage für alle weiteren Annotationsspuren, die nach dem Einstellungsprinzip annotiert werden.
+`````
+
 6.	Download der Untertitel von YouTube und Import der Untertitel (Video: XX, Manual: S. 126ff)
-```{admonition} Übung
-*Welchem Annotationstypen können die Untertitel zugeordnet werden?* <br>
-MULTIPLE CHOICE EINFÜGEN
+
+```{code-cell} ipython3
+:tags: [remove-input]
+display_quiz("../quizzes/D_UK-1_Quiz_3.json", colors = colors.jupyterquiz)
 ```
+
 7.	Annotationen als Zeiteinheiten auf der Timeline für jeden Annotationstypen erstellen. Den Annotationen via Short Cuts und Quick Fill (s. Ontologie) oder durch Freitext-Eingabe Werte zuordnen (Video: XX, Manual: S. 69ff & 131ff)
 ```{image} ../_images/A4-S03.png
 :height: 350px
@@ -78,17 +109,21 @@ Mit der Funktion 'Search/replace content' können die erstellten und bereinigten
 |                                   | Music Mood                            |
 |                                   | Body Language Emotion        |
 
-```{admonition} Übung
-*Für einige Annotationstypen können Syntaxelemente verwendet werden. Was beschreiben die Werte **[TO]** sowie **[VS]** jeweils?*
-:::{dropdown} Lösung
+
+`````{admonition} Für einige Annotationstypen können Syntaxelemente verwendet werden. Was beschreiben die Werte **[TO]** sowie **[VS]** jeweils?
+:class: tip
+````{admonition} Antwort
+:class: dropdown
 **[TO]**: Beschreibt die Möglichkeit, ein Syntaxelement zu verwenden, das
 eine kontinuierliche Entwicklung zwischen zwei Werten anzeigt. <br>
 **[VS]**: Beschreibt die Möglichkeit, ein Syntaxelement zu verwenden, das
 zwei kontrastierende Werte verbindet.
-:::
+`````
+
+
 *Für wie viele Annotationstypen des Core-Templates können Syntaxelemente verwendet werden?* <br>
 QUIZ EINFÜGEN (entweder MC oder Numerischer Wert)
-```
+
 8.	Überprüfung und Bereinigung mit der Checker-Funktion (Video: XX, Manual: S. 91ff)
 +++
 9.	Das finale Package kann [visualisiert](Aufgabe_D) und auch in andere Dateiformate exportiert werden (Video: XX, Manual: S. 106ff & 133ff)

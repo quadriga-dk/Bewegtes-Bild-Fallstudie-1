@@ -1,0 +1,55 @@
+[
+    {
+        "question": "Für unseren Beispielgegenstand haben wir die Auswahl der Annotationstypen an das Video angepasst. Welcher Typ wurde zur Corpus View hinzugefügt?",
+        "type": "many_choice",
+        "answers": [
+            {
+                "answer": "Visual Pattern",
+                "correct": false,
+                "feedback": "Die Antwort ist falsch, dieser Typ wurde dem Core-Template nicht hinzugefügt."
+            },
+            {
+                "answer": "Animation",
+                "correct": true,
+                "feedback": "Korrekt. Wir haben zusätzlich den Typ 'Animation' für die Annotation eingebunden, da für das Video die animierten Infografiken entscheidend sind."
+            },
+            {
+                "answer": "Depth of Field",
+                "correct": false,
+                "feedback": "Die Antwort ist falsch, dieser Typ wurde dem Core-Template nicht hinzugefügt."
+            }, 
+            {
+                "answer": "Dominant Acoustic Level",
+                "correct": false,
+                "feedback": "Die Antwort ist falsch, dieser Typ wurde dem Core-Template nicht hinzugefügt."
+            }
+           
+        ]
+    },
+    {
+        "question": "Und welcher Typ wurde weggelassen?",
+        "type": "many_choice",
+        "answers": [
+            {
+                "answer": "Scene",
+                "correct": true,
+                "feedback": "Korrekt, wir haben den Typ 'Scene' weggelassen. Da das Video sehr kurz ist, ist eine Segmentierung in Szenen nicht notwendig."
+            },
+            {
+                "answer": "Setting",
+                "correct": false,
+                "feedback": "Die Antwort ist falsch, den Typ 'Setting' haben wir im Core-Template gelassen."
+            }, 
+            {
+                "answer": "Image Brightness",
+                "correct": false,
+                "feedback": "Die Antwort ist falsch, den Typ 'Image Brightness' haben wir im Core-Template gelassen."
+            }, 
+            {
+                "answer": "Camera Angle",
+                "correct": false,
+                "feedback": "Die Antwort ist falsch, den Typ 'Camera Angle' haben wir im Core-Template gelassen."
+            }
+        ]
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "question": "Welchem Annotationstypen können die Untertitel zugeordnet werden?",
+        "type": "many_choice",
+        "answers": [
+            {
+                "answer": "Dialogue Emotion",
+                "correct": false,
+                "feedback": "Inkorrekt, unter 'Dialogue Emotion' werden die emotionalen Klangfarben akustischer Sprachäußerungen annotiert."
+                
+            },
+            {
+                "answer": "Image Content",
+                "correct": false,
+                 "feedback": "Inkorrekt, unter 'Image Content' werden ausschließlich dargestellte Elemente (Figuren, Objekte, Orte) annotiert."
+            }, 
+            {
+                "answer": "Dialogue Text",
+                "correct": true,
+                "feedback": "Korrekt, unter 'Dialogue Text' werden die Untertitel annotiert."
+            }, 
+            {
+                "answer": "Body Language Emotion",
+                "correct": false,
+                "feedback": "Inkorrekt, unter 'Body Language Emotion' wird die wahrgenommene emotionale Qualität der Körpersprache annotiert."
+            }
+        ]
+    }
+]

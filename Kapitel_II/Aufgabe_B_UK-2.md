@@ -123,7 +123,7 @@ Beispielsweise unter VLC im Abspielmodus mit cmd + I (Mac)  bzw. Strg + J (Windo
 
 ```{code-cell} ipython3
 :tags: [remove-input]
-display_quiz("../quizzes/B_UK-3_Quiz_1.json", colors = colors.jupyterquiz)
+display_quiz("../quizzes/B_UK-2_Quiz_1.json", colors = colors.jupyterquiz)
 ```
 
 ### Annotationen bearbeiten 

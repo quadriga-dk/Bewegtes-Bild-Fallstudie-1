@@ -1,58 +1,34 @@
 [
     {
-        "question": "Welche Parameter werden folglich nach Verläufen annotiert?",
-        "type": "multiple_choice",
+        "question": "Welche Framerate hat das Video?",
+        "type": "many_choice",
         "answers": [
             {
-                "code": "Musik",
-                "correct": true
-            
-            }, 
-            {
-                "code": "Montage",
-                "correct": false
-            
-            }, 
-            {
-                "code": "Kameraperspektive",
-                "correct": false
-            
-            }, 
-            {
-                "code": "Licht",
-                "correct": true
-            
-            }, 
-            {
-                "code": "Kamerabewegung",
-                "correct": false
-            
-            }, 
-            {
-                "code": "Dauer der Einstellung",
-                "correct": false
-            
+                "answer": "23.976024",
+                "correct": true,
+                "feedback": "Korrekt. Die Framerate beträgt 23 FPS."
             },
             {
-                "code": "Farbe",
-                "correct": true 
-            },
-            {
-                "code": "Dialog",
-                "correct": true
-                
-            },
-            {
-                "code": "Bildinhalt",
-                "correct": true
-                
-            },
-            {
-                "code": "Einstellungsgröße",
-                "correct": false
-                
+                "answer": "30.963053",
+                "correct": false,
+                "feedback": "Diese Antwort ist falsch. Die Framerate liegt nicht bei 30 FPS."
             }
-           
+        ]
+    },
+    {
+        "question": "Welche Zeitformat muss gewählt werden",
+        "type": "many_choice",
+        "answers": [
+            {
+                "answer": "PAL",
+                "correct": true,
+                "feedback": "Da die Framerate bei knapp unter 25 liegt, ist PAL das korrekte Zeitformat."
+            },
+            {
+                "answer": "NTSC",
+                "correct": false,
+                "feedback": "Diese Antwort ist falsch. Die Framerate liegt nicht bei 30 FPS."
+            }
         ]
     }
 ]

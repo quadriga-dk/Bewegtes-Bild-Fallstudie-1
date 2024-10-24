@@ -68,5 +68,5 @@ Matrix: Ebenen, Typen, Werte
 
 ```{code-cell} ipython3
 :tags: [remove-input]
-display_quiz("../quizzes/C_UK-2_Quiz_1.json", colors = colors.jupyterquiz)
+display_quiz("../quizzes/C_UK-1_Quiz_1.json", colors = colors.jupyterquiz)
 ```

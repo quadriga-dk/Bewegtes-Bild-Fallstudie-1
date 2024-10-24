@@ -1,0 +1,58 @@
+[
+    {
+        "question": "Welche Parameter werden folglich nach Verläufen annotiert?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "code": "Musik",
+                "correct": true
+            
+            }, 
+            {
+                "code": "Montage",
+                "correct": false
+            
+            }, 
+            {
+                "code": "Kameraperspektive",
+                "correct": false
+            
+            }, 
+            {
+                "code": "Licht",
+                "correct": true
+            
+            }, 
+            {
+                "code": "Kamerabewegung",
+                "correct": false
+            
+            }, 
+            {
+                "code": "Dauer der Einstellung",
+                "correct": false
+            
+            },
+            {
+                "code": "Farbe",
+                "correct": true 
+            },
+            {
+                "code": "Dialog",
+                "correct": true
+                
+            },
+            {
+                "code": "Bildinhalt",
+                "correct": true
+                
+            },
+            {
+                "code": "Einstellungsgröße",
+                "correct": false
+                
+            }
+           
+        ]
+    }
+]

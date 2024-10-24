@@ -1,0 +1,17 @@
+[
+    {
+        "question": "Was muss ausgewählt werden, damit die Einstellungsgrenzen automatisch generiert werden?",
+        "type": "many_choice",
+        "answers": [
+            {
+                "answer": "ShotdetectApp importer",
+                "correct": false
+                
+            },
+            {
+                "answer": "Scene change detection",
+                "correct": true
+            }
+        ]
+    }
+]
