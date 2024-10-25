@@ -1,0 +1,14 @@
+[
+    {
+        "question": "Für wie viele Annotationstypen des Core-Templates können Syntaxelemente verwendet werden?",
+        "type": "numeric",
+        "answers": [
+            {
+                "type": "value",
+                "value": 7,
+                "correct": true,
+                "feedback": "Genau, es sind 7."
+            }
+        ]
+    }
+]

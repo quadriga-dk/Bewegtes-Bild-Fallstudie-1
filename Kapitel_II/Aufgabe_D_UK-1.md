@@ -67,7 +67,7 @@ display_quiz("../quizzes/D_UK-1_Quiz_2.json", colors = colors.jupyterquiz)
 :class: tip
 ````{admonition} Antwort
 :class: dropdown
-Nicht jede Einstellungsgrenze wird korrekt gesetzt. Daher ist es notwendig mit der Shot Validation die Einstellungsgrenzen zu korrigieren. Dieser Schritt ist unerlässlich und bildet die Grundlage für alle weiteren Annotationsspuren, die nach dem Einstellungsprinzip annotiert werden.
+Nicht jede Einstellungsgrenze wird korrekt gesetzt. Daher ist es notwendig mit der Shot Validation die Einstellungsgrenzen zu korrigieren. Dieser Schritt ist unerlässlich und bildet die Grundlage für alle weiteren Annotationsspuren, die nach dem Einstellungsprinzip annotiert werden. Nach der Bereinigung mit der Shot Validation sind die Einstellungsnummern i.d.R. nicht mehr korrekt. Diese müssen dann überprüft und angepasst werden.
 `````
 
 6.	Download der Untertitel von YouTube und Import der Untertitel (Video: XX, Manual: S. 126ff)
@@ -120,9 +120,14 @@ eine kontinuierliche Entwicklung zwischen zwei Werten anzeigt. <br>
 zwei kontrastierende Werte verbindet.
 `````
 
+```{code-cell} ipython3
+:tags: [remove-input]
+display_quiz("../quizzes/D_UK-1_Quiz-4.json", colors = colors.jupyterquiz)
+```
 
-*Für wie viele Annotationstypen des Core-Templates können Syntaxelemente verwendet werden?* <br>
-QUIZ EINFÜGEN (entweder MC oder Numerischer Wert)
+:::{dropdown} Ausklappen für ausführliche Antwort
+Die Verwendung von Syntaxelementen ermöglicht es kontinuierliche Entwicklungen wie auch synchrone Kontraste, die beispielsweise innerhalb einer Einstellung auftauchen, miteinander zu verbinden. Ein gutes Beispiel für für die Verwendung des Syntaxelement [TO] ist der Wechsel von Einstellungsgrößen innerhalb einer Einstellung. Ein gutes Beispiel für die Verwendung des Syntaxelement [VS] sind synchron inszenierte Dialog Emotionen bei mehreren Figuren innerhalb einer Einstellung.
+:::
 
 8.	Überprüfung und Bereinigung mit der Checker-Funktion (Video: XX, Manual: S. 91ff)
 +++

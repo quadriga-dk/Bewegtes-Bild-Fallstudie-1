@@ -1,3 +1,23 @@
+---
+jupytext:
+  formats: md:myst
+  text_representation:
+    extension: .md
+    format_name: myst
+kernelspec:
+  display_name: Python 3
+  language: python
+  name: python3
+---
+```{code-cell} ipython3
+:tags: [remove-cell]
+from jupyterquiz import display_quiz
+
+import sys
+sys.path.append("..")
+from quadriga_config import colors
+```
+
 # Annotationsergebnisse: Datenabgleich und -erläuterung
 
 Sobald die Annotationsarbeit für das Video abgeschlossen ist, kann das Paket mit unserer Musterlösung verglichen werden. Die Lösungsdatei steht hier zum Download bereit. 
@@ -8,19 +28,21 @@ Trotz der Verwendung der Ontologie können sich Annotationsentscheidungen von Pe
 ## Importfunktion
 
 In Advene gibt es die Möglichkeit ein bestehendes Packages in ein anderes zu importieren.
+
+`````{admonition} Wofür kann in diesem Schritt die Importfunktion nützlich sein?
+:class: tip
+````{admonition} Antwort
+:class: dropdown
+Diese Funktion ist hilfreich, um beispielsweise verschiedene Annotationen, die zum gleichen Video erstellt wurden, miteinander zu vergleichen.
 +++
-*Wofür kann in diesem Schritt die Importfunktion nützlich sein?*
-:::{dropdown} Antwort
-Diese Funktion ist hilfreich, um beispielsweise verschiedene Annotationen, die zum gleichen Video erstellt wurden, miteinander zu vergleichen. 
+Hierzu folgende Schritte durchführen:
 +++
-Hierzu folgende Schritte durchführen: 
-+++
-1.	Unter "File" die Option "Import package" anklicken
-2.	Das zu importierende Packet auswählen
-3.	Im "Package importer view" zur Unterscheidung der Annotationstypen einen Titelzusatz, wie z.B. IMPORTED, angeben. Dieser Zusatz wird hinter die importierten Annotationstypen gehängt
-4.	Anschließen die gewünschten Annotationstypen, die importiert werden sollen, anklicken 
-5.	Die importierten Annotationstypen stehen nun zur Verfügung und können in der Timeline View angezeigt werden
-:::
+1. Unter “File” die Option “Import package” anklicken
+2. Das zu importierende Packet auswählen
+3. Im “Package importer view” zur Unterscheidung der Annotationstypen einen Titelzusatz, wie z.B. IMPORTED, angeben. Dieser Zusatz wird hinter die importierten Annotationstypen gehängt
+4. Anschließend die gewünschten Annotationstypen, die importiert werden sollen, anklicken
+5. Die importierten Annotationstypen stehen nun zur Verfügung und können in der Timeline View angezeigt werden
+`````
 
 Ein ausführlicherer Guide für das Importieren findet sich sowohl unter Punkt 3.3 (S. 45ff) im Manual als auch im zweiten Videotutorial (Video: XX)
 
@@ -119,12 +141,14 @@ Die dazugehörigen Annotationen können unter folgenden UUIDs gefunden werden: `
 Die dazugehörige Einstellung ist hier nochmal als Ausschnitt zu sehen: <br>
 VIDEO EINFÜGEN 
 
-```{admonition} Übung
-*Welcher weiterer Annotationstyp korreliert mit dem Timelaps?* <br>
-MULTIPLE CHOICE
-:::{dropdown} Antwort
+```{code-cell} ipython3
+:tags: [remove-input]
+display_quiz("../quizzes/D_UK-2_Quiz-1.json", colors = colors.jupyterquiz)
+```
+
+:::{dropdown} Aufklappen für ausführliche Antwort
 Die Bewegungsrichtung der Kamera korreliert mit den Timelaps. Mit der Änderung der Bewegungsrichtung synchron zu dem Einsatz des Timelaps entsteht eine dynamische Bildkomposition, die sich durch Geschwindkeitszunahme sowie Bewegungsveränderung von der restlichen zeitlichen Anordnung des Videos unterscheidet. 
 Interessant ist ebenso, dass die markantesten Bewegungsveränderungen der Kamera mit den animierten Einstellungen einhergehen. Die 2D-Animationen wirken, insbesondere im Kontrast zu den im Vergleich recht statischen Szenen auf der Bühne oder im Interview, wesentlich energetischer.
 :::
-```
+
 ### Inszenierungsmuster erkennen

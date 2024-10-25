@@ -1,0 +1,29 @@
+[
+    {
+        "question": "Welcher weiterer Annotationstyp korreliert mit dem Timelaps?",
+        "type": "many_choice",
+        "answers": [
+            {
+                "answer": "Music Mood",
+                "correct": false
+                
+                
+            },
+            {
+                "answer": "Camera Angle",
+                "correct": false
+                
+            }, 
+            {
+                "answer": "Camera Movement Direction",
+                "correct": true
+                
+            }, 
+            {
+                "answer": "Body Language Emotion",
+                "correct": false
+                
+            }
+        ]
+    }
+]
