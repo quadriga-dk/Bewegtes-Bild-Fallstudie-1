@@ -2,18 +2,19 @@
 lang: de-DE
 ---
 # Einführung
-
-In diesem Kapitel soll das Annotieren mit Tools durch Freitexteingaben erprobt werden.
-+++
-*Wir befinden uns hier:*
-![Aufgabe 2](../assets/Aufgabenstruktur-02.png)
-
 ## Kapitelübersicht
 
 [Einführung](Aufgabe_B) <br>
 [Annotieren mit Advene](Aufgabe_B_UK-1) <br>
 [Annotieren mit Elan](Aufgabe_B_UK-2) <br>
-[Methodenreflexion](Aufgabe_B_UK-3)
+[Methodenreflexion und Resümee](Aufgabe_B_UK-3)
++++
+In diesem Kapitel soll das Annotieren mit Tools durch Freitexteingaben erprobt werden.
++++
+*Wir befinden uns hier:*
+![Aufgabe 2](../assets/Aufgabenstruktur-02.png)
+
+Hierzu wird zunächst eine Parameterbestimmung und -erweiterung vorgenommen. Mit der Bestimmung unserer Parameter können wir uns anschließend der Annotationsarbeit widmen. Im Kapitel [Annotieren mit Advene](Aufgabe_B_UK-1) machen wir uns mit den Funktionsweisen von Advene vertraut und erstellen Annotationstypen sowie Annotationen. Im Kapitel [Annotieren mit ELAN](Aufgabe_B_UK-2) wiederholen wir diesen Schritt mit dem Tool ELAN. Im Anschluss besprechen wir die angewandte [Methode](Aufgabe_B_UK-3).
 
 :::{dropdown} Grob- und Feinlernziele
 **Groblernziel**
@@ -22,15 +23,17 @@ Mithilfe digitaler Annotationsverfahren können Metadaten zu audiovisuellem Mate
 +++
 **Feinlernziele**
 1. Die Basisfunktionen der Tools können verstanden und angeeignet werden.
-2. Mit den Tools können Annotationstypen sowie Annotationen nach spezifischen Segmentierungen erstellt werden.
-3. Durch die Daten können Inszenierungsmuster erkannt werden.
+2. Mit den Tools können Annotationstypen sowie Freitextannotationen nach spezifischen Segmentierungen auf einer Timeline erstellt werden.
 :::
 ````{margin}
 ```{seealso} 
 Erläuterungen zum Begriff "Annotation" gibt es [hier](Aufgabe_A).
 ```
 ````
-Für die Annotation mit digitalen Tools soll im Folgenden mit Advene und ELAN gearbeitet werden. Beide Programme ermöglichen die Herstellung von Annotationsdaten auf einer Timeline sowie die Einbettung von Videos. <br>
+
+## Freitextannotationen
+
+Die Programme Advene und ELAN ermöglichen die Herstellung von Annotationsdaten auf einer Timeline sowie die Einbettung von Videos. <br>
 Die Annotationen in dieser Übung basieren auf Freitexteingaben. Das bedeutet, dass keine Klassifierzierungschemata filmanalytischer Parameter oder Werte der Annotationsarbeit zugrunde liegen. 
 Die konkrete Arbeit mit einem solchen Schema, einer sogenannten Ontologie, wird Teil der nächsten drei Aufgaben sein. Zunächst soll es hier darum gehen, grundlegende Funktionen von Tools zu erlernen und anzuwenden. **Toolagnostische Perspektiven** sollen damit ebenfalls adressiert werden. 
 ```{admonition} Was ist mit "toolagnostischen Perspektiven" gemeint?

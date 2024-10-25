@@ -1,1 +1,1 @@
-# Empirische Methoden
+# Empirische Medienästhetik: Die eMAEX-Methode

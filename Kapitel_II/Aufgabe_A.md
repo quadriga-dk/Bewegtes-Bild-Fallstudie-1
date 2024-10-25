@@ -6,7 +6,7 @@ lang: de-DE
 [Deskriptive Filmanalyse](Aufgabe_A) <br>
 [Durchführung und Schritte](Aufgabe_A_UK-2) <br>
 [Übung, Ergebnisauswertung und Diskussion](Aufgabe_A_UK-3) <br>
-[Methodenreflexion](Aufgabe_A_UK-4)
+[Methodenreflexion und Resümee](Aufgabe_A_UK-4)
 +++
 In diesem Kapitel werden die Grundlagen tabellarischer Annotationsarbeit abgedeckt.
 +++

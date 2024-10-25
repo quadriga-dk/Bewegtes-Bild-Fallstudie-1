@@ -1,7 +1,7 @@
 ---
 lang: de-DE
 ---
-# Einführung in die datengestützte Filmanalyse
+# Einführung in die datengestützte Filmanalyse, Forschungsfragen und Lernziele
 
 Videoinhalte spielen auf den Plattformen der sozialen Medien eine immer stärkere Rolle – nicht nur in Fragen der Unterhaltung, sondern auch der politischen Meinungsbildung. Die Klimakrise als eines der wichtigsten gesellschaftlichen Themen und Konflikten unserer Zeit ist dabei keine Ausnahme. Umfangreich und heterogen sind die Diskurse, in denen die Krise mit Bewegtbildern kommuniziert und die Kommunikation dieser Krise selbst kommentiert, reflektiert, verstärkt oder unterdrückt wird. Das zentrale Telos dieser Videoinhalte ist nur zu einem kleinen Teil der Wissenstransfer und das Verstehen wissenschaftlicher Erkenntnisse. Vielmehr spielen Fragen der Emotionalisierung sowohl im Hinblick auf politische Meinungsbildung oder aktivistische Mobilisierung als auch in Hinblick auf Klimaleugnung und rechter Propaganda eine zentrale Rolle.
 
