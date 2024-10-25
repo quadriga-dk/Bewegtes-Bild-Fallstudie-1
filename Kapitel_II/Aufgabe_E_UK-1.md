@@ -121,7 +121,7 @@ Es gibt verschiedene Darstellungsformen, um die Timeline zu konfigurieren. Umfas
 
 Um die erstellten Visualisierungen zu speichern, empfiehlt es sich den Inhalt des Edit-Fensters in ein gängiges Textprogramm zu kopieren. Öffnet man die Timeline erneut, so kann man den kopierten Inhalt einfügen und die gespeicherte Ansicht anzeigen lassen.
 ```{danger}
-Um keine Ansichtsdaten zu verlieren, sollte zum Speichern der gewünschten Konfiguration wie oben beschrieben vorgegangen werden! Das Speichern über den 'Save'-Button im Edit-Fenster funktioniert nicht.
+Um keine Ansichtsdaten zu verlieren, sollte zum Speichern der gewünschten Konfiguration wie oben beschrieben vorgegangen werden! Das Speichern über den 'Save'-Button im Edit-Fenster ist nicht möglich.
 ```
 Um die Timeline-Visualisierung zu exportieren, auf die drei Punkte am oberen linken Rand klicken und eine Option auswählen. Für Publikationen oder Präsentationen bietet sich der Export als PNG-Datei an. 
 +++

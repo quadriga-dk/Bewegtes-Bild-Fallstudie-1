@@ -92,10 +92,15 @@ Für einige Annotationstypen haben wir die Annotationen als Verläufe angelegt, 
 Mit der Funktion 'Search/replace content' können die erstellten und bereinigten Annotationen, die beispielsweise für den Typ 'Montg | Shot' als Einstellungen segmentiert wurden, in jede weitere Spur kopiert werden, die ebenfalls nach dem Einstellungsprinzip segmentiert wird. Um alle darin enthaltenen Werte zu löschen, das 'Replace by' Feld leer lassen.
 ```
 ````
+
+````{margin}
+Die Annotation des Typs 'Volume' wird über automatischer Erkenner als Verlauf generiert.
+````
+
 +++
 | Segmentierung nach Einstellung    | Segmentierung nach Verlauf            |
 |-----------------------------------|---------------------------------------|
-| Shot                              | Setting                               |
+| Shot (semi-automatische Generierung)                              | Setting                               |
 | Shot Duration                     | Found Footage                         |
 | Montage Figure Macro                      | Animation                             |
 | Field Size                        | Dialogue Text                         |

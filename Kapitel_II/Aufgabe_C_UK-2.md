@@ -113,7 +113,7 @@ Das Framework ist somit die Entwicklung einer maschinenlesbaren, filmanalytische
 Mit einem [Template](../assets/AdA_template_07_2021.azp), das auf der Filmontologie basiert, können in Advene semantisch strukturierte Annotationsdaten hergestellt werden. Zudem gibt es eine *AdA Corpus Analysis View*, welche ein gebündeltes Set an Annotationstypen für die Annotationsarbeit bereithält. 
 +++
 Im Rahmen dieser Fallstudie zur Auswertung von Affektrhetoriken in Online-Videos zur Klimakrise haben wir Annotationen mit der *AdA Corpus Analysis View* erstellt. <br>
-Im nächsten Kapitel erläutern wir im Detail, wie wir (semi-)automatisch generierte Annotationen mit dem Core-Template in Advene erstellt und bereinigt haben. Zwei Videotutorials sowie ein umfangreiches Manual sollen dabei helfen, die einzelnen Schritte nachvollziehen und eigenständig ausführen zu können. 
+In der nächsten Aufgabe erläutern wir im Detail, wie wir (semi-)automatisch generierte Annotationen mit dem Core-Template in Advene erstellt und bereinigt haben. Zwei Videotutorials sowie ein umfangreiches Manual sollen dabei helfen, die einzelnen Schritte nachvollziehen und eigenständig ausführen zu können. 
 
 
 

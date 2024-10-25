@@ -3,17 +3,18 @@ lang: de-DE
 ---
 # Semantic Web Prinzipien
 
+## Kapitelübersicht
+[Semantic Web Prinzipien](Aufgabe_C) <br>
+[Übung](Aufgabe_C_UK-1) <br>
+[AdA-Filmontologie: Filmanalyse und Semantic Web](Aufgabe_C_UK-2) <br>
+[Resümee](Aufgabe_C_UK-3)
++++
 In diesem Kapitel sollen die Prinzpien von Semantic Web anhand der Überführung filmanalytischen Grundvokabulars in eine Ontolgie nachvollzogen und reproduziert werden.
 +++
 *Wir befinden uns hier:*
 ![Aufgabe 3](../assets/Aufgabenstruktur-03.png)
 
-## Kapitelübersicht
-
-[Semantic Web Prinzipien](Aufgabe_C) <br>
-[Übung](Aufgabe_C_UK-1) <br>
-[AdA-Filmontologie: Filmanalyse und Semantic Web](Aufgabe_C_UK-2)
-
+Wie funktionieren semantische Triple? In einem ersten Schritt wird erklärt, was semantische Triple sind und wie ihre Datenstruktur funktioniert. Anschließend wird erläutert, wie solche Triple für filmanalytische Grundbegriffe aussehen können. Eine [Übung zur Überführung der Grundbegriffe in Triple-Strukturen](Aufgabe_C_UK-1) soll helfen, die zuvor erläuterten Prinzipien zu reproduzieren. Wie eine komplexe auf Semantic Web basierende Filmontologie entwickelt wurde, wird im Kapitel [AdA-Filmontolgie: Filmanalyse und Semantic Web](Aufgabe_C_UK-2) ausführlich erklärt und mit Beispielen veranschaulicht. 
 
 :::{dropdown} Grob- und Feinlernziele
 **Groblernziel**
