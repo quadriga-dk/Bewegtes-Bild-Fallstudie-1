@@ -36,6 +36,6 @@ name: aufgabenaufbau-oer
 Aufgabenfluss der OER
 ```
 ```{attention}
-Ein wichtiges Anliegen der Fallstudie ist es den Zusammenhang zwischen einem Einstellungsprotokoll, der Handhabung von Annotationstools hin zu der Entwicklung und Bedieung einer komplexen, maschinenlesbaren Ontologie verständlich zu machen. Wer jedoch bereits die notwendigen Kompetenzen der ersten beiden Aufgaben beherrscht, kann ab Aufgabe C beginnen.
+Ein wichtiges Anliegen der Fallstudie ist es den Zusammenhang zwischen einem Einstellungsprotokoll, der Handhabung von Annotationstools hin zu der Entwicklung und Bedienung einer komplexen, maschinenlesbaren Ontologie verständlich zu machen. Wer jedoch bereits die notwendigen Kompetenzen der ersten beiden Aufgaben beherrscht, kann ab Aufgabe C beginnen.
 ```
 Im nächsten Kapitel stellen wir die für unsere Fallstudie relevanten Informationen sowie theoretischen Grundlagen vor. Der Fokus liegt hierbei auf der Vermittlung empirischer Herangehensweisen datengestützter Filmanalyse. 

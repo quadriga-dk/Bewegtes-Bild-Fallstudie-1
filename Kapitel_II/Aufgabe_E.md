@@ -21,8 +21,8 @@ Mithilfe von Annotationsdaten, die auf Basis einer filmanalytischen Ontologie er
 +++
 **Feinlernziele**
 1. Die mit der AdA-Filmontologie erstellten Annotationen können visualisiert und die Visualisierungsoptionen angepasst werden.
-2. Temporale und multimodale Muster können erkannt und differenziert werden.
-3. Auf Grundlage der Qualifizierung dieser Muster können Hypothesen präsentiert werden. 
+2. Temporale und multimodale Muster können erkannt, differenziert  und ausgewertet werden.
+3. Auf Grundlage der Qualifizierung dieser Muster können Hypothesen abgeleitet und präsentiert werden. 
 :::
 
 Wie können Annotationsdaten repräsentierfähig gemacht werden und welche Möglichkeiten der Datenexploration kann es geben? <br>

@@ -23,7 +23,8 @@ Mithilfe digitaler Annotationsverfahren können Metadaten zu audiovisuellem Mate
 +++
 **Feinlernziele**
 1. Die Basisfunktionen der Tools können verstanden und angeeignet werden.
-2. Mit den Tools können Annotationstypen sowie Freitextannotationen nach spezifischen Segmentierungen auf einer Timeline erstellt werden.
+2. Mit den Tools können Annotationstypen zusammengestellt werden.
+3. Nach spezifischer Segmentierung können Annotationen erstellt und Werte für die Annotationen bestimmt werden.
 :::
 ````{margin}
 ```{seealso} 

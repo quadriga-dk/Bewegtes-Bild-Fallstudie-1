@@ -86,10 +86,13 @@ elements' auswählen. Im sich öffnenden Fenster die Option 'Ids' (am Ende der L
 ````
 Die UUID dieser Annotation ist folgende: `0aac70ea-219b-11ef-9bca-90b11c948b9a`
 +++
-*Warum ist die Festlegung auf einen Wert in dieser Einstellung schwierig?*
-:::{dropdown} Antwort
+
+`````{admonition} Warum ist die Festlegung auf einen Wert in dieser Einstellung schwierig?
+:class: tip
+````{admonition} Antwort
+:class: dropdown
 Auf eine 2D simulierte Ansicht eines Papierblocks blendet sich von links nach rechts der in blau gefärbte Schriftzug "The Numbers" ein. Diese Ansicht erinnert an eine Präsentationsfolie. Obwohl die Einstellung im Verhältnis zu unserem Standpunkt nah wirken mag, lässt sich eine Distanz nicht eindeutig festlegen, da die Einbettung in eine räumliche Umgebung fehlt, die eine Skalierung zulassen würde. 
-:::
+`````
 
 #### 2D-Animationen
 
@@ -151,4 +154,48 @@ Die Bewegungsrichtung der Kamera korreliert mit den Timelaps. Mit der Änderung 
 Interessant ist ebenso, dass die markantesten Bewegungsveränderungen der Kamera mit den animierten Einstellungen einhergehen. Die 2D-Animationen wirken, insbesondere im Kontrast zu den im Vergleich recht statischen Szenen auf der Bühne oder im Interview, wesentlich energetischer.
 :::
 
-### Inszenierungsmuster erkennen
+### Advene-Timeline und Weiterentwicklung der Timeline
+
+Die Timeline innerhalb Advenes ist bereits eine Form von Visualisierung, mit der Inszenierungsmuster erkennbar werden. Was die Synchronizität, Temporalität und Multimodalität der einzelnen Spuren angeht, ist sie jedoch nur begrenzt lesbar. Eine speziell entwickelte Visualisierung, die diese Dynamiken unter der Möglichkeit spezifischer Konfigurationsoptionen ins Zentrum der Analyse rückt, ist also ein wichtiger Schritt zur Anpassung der Datenqualifizierung an die konkreten Modalitäten von Bewegtbildmedien. <br>
+
+````{margin}
+```{admonition} Was ist die AdA-Timeline?
+Die AdA-Timeline ist eine dynamische, individuell konfigurierbare browserbasierte Timeline-Ansicht, mit der die mit der AdA-Ontologie erstellten Annotationen visualisiert werden können.
+```
+````
+Eine ausführliche Datenexploration sowie Hypothesenpräsentation führen dahingehend mit der AdA-Timeline im Kapitel [Datenvisualisierung](Aufgabe_E) durch. 
+
+## Miteinbeziehung weiterer Annotationstypen 
+
+Für eine präzise und vollständige Annotation empfiehlt es sich mit allen Annotationstypen der Ontologie zu arbeiten. Da die Annotation aller Typen der Ontologie weitaus mehr Zeit in Anspruch nimmt, als im Rahmen der Übungen vorgesehen, haben wir für die Annotation mit dem AdA Core Template entschieden. 
++++
+Wie sieht es mit den Annotationstypen 'Splitscreen', 'Frame-in-Frame' oder 'Visual Pattern' aus? Inwiefern könnten diese Typen die spezifischen audiovisuellen Eigenschaften unseres Beispielgegenstandes hervorheben?
+
+### Splitscreen
+
+Eine sehr dominante und für das Video entscheidende Inszenierungsmodalität ist die Verwendung von Splitscreens. Insgesamt zwei Splitscreens werden in den Animationsabschnitten eingesetzt und sind in ihrer Darstellung identisch.
+
+![screenshot-A4-S09](../_images/A4-S09.png)
+
+In den je abgetrennten Screens werden die drei kritischen Zahlen für eine Einhaltung der 2-Grad-Grenze in Bezug auf den Co2-Austoß als visuelle Einheit inszeniert. 
++++
+Durch die Miteinbeziehung der Annotationstypen für Splitscreens könnten die Häufigkeit, die Anzahl der verwendeten Splitscreens innerhalb einer Einstellung und darüber hinaus die Splitscreen-Dynamiken erfasst werden.  
+
+### Frame-in-Frame
+
+Die auffälligsten Frame-in-Frame Kompositionen finden sich in den Einstellungen, die Found Footage Material einbinden. Die Frame-in-Frame Anordnung markiert somit einen klaren visuellen Bruch in der gesamten Bilddynamik und ordnet das gezeigte Material in den Verwendungszusammenhang des Videos ein.
+
+```{image} ../assets/Found-Footage-Reihe.png
+:width: 700px
+:align: center
+```
+Ebenso könnte diskutiert werden, inwiefern sowohl die Frame-in-Frame Kompositionen des Found Footage Materials als auch die animierten Einstellungen Teil des Vortragsarrangements auf der Bühne sind, wie in dem ersten Bild der Reihe sowie in diesem diesem Beispiel zu sehen ist:
+
+Sichtbar hier wird eine Screen-within-Screen Inszenierung, die unter dem Annotationstyp Frame-in-Frame ebenfalls berücksichigt werden kann. 
++++
+Eine freitextliche Erhebung von Frame-in-Frame Kompositionen könnte die spezifischen Modalitäten dieser Inszenierungsmuster für eine Datenanalyse sinnvoll ergänzen. 
+
+### Visual Pattern
+
+
+
