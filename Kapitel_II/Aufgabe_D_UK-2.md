@@ -156,20 +156,20 @@ Interessant ist ebenso, dass die markantesten Bewegungsveränderungen der Kamera
 
 ### Advene-Timeline und Weiterentwicklung der Timeline
 
-Die Timeline innerhalb Advenes ist bereits eine Form von Visualisierung, mit der Inszenierungsmuster erkennbar werden. Was die Synchronizität, Temporalität und Multimodalität der einzelnen Spuren angeht, ist sie jedoch nur begrenzt lesbar. Eine speziell entwickelte Visualisierung, die diese Dynamiken unter der Möglichkeit spezifischer Konfigurationsoptionen ins Zentrum der Analyse rückt, ist also ein wichtiger Schritt zur Anpassung der Datenqualifizierung an die konkreten Modalitäten von Bewegtbildmedien. <br>
+Die Timeline in Advene ist bereits eine Form von Visualisierung, mit der Inszenierungsmuster erkennbar werden. Was die Synchronizität, Temporalität und Multimodalität der einzelnen Spuren angeht, ist sie jedoch nur begrenzt lesbar. Eine speziell entwickelte Visualisierung, die diese Dynamiken unter der Möglichkeit spezifischer Konfigurationsoptionen ins Zentrum der Analyse rückt, ist also ein wichtiger Schritt zur Anpassung der Datenqualifizierung an die konkreten Anforderungen filmwissenschaftlicher Analyse. <br>
 
 ````{margin}
 ```{admonition} Was ist die AdA-Timeline?
 Die AdA-Timeline ist eine dynamische, individuell konfigurierbare browserbasierte Timeline-Ansicht, mit der die mit der AdA-Ontologie erstellten Annotationen visualisiert werden können.
 ```
 ````
-Eine ausführliche Datenexploration sowie Hypothesenpräsentation führen dahingehend mit der AdA-Timeline im Kapitel [Datenvisualisierung](Aufgabe_E) durch. 
+Eine ausführliche Datenexploration sowie Hypothesenpräsentation führen wir dahingehend mit der AdA-Timeline im Kapitel [Datenvisualisierung](Aufgabe_E) durch. 
 
 ## Miteinbeziehung weiterer Annotationstypen 
 
-Für eine präzise und vollständige Annotation empfiehlt es sich mit allen Annotationstypen der Ontologie zu arbeiten. Da die Annotation aller Typen der Ontologie weitaus mehr Zeit in Anspruch nimmt, als im Rahmen der Übungen vorgesehen, haben wir für die Annotation mit dem AdA Core Template entschieden. 
+Für eine präzise und vollständige Annotation empfiehlt es sich mit allen Annotationstypen der Ontologie zu arbeiten. Da die Annotation aller Typen der Ontologie weitaus mehr Zeit in Anspruch nimmt als im Rahmen der Übungen vorgesehen, haben wir uns für die Annotation mit dem AdA Core-Template entschieden. 
 +++
-Wie sieht es mit den Annotationstypen 'Splitscreen', 'Frame-in-Frame' oder 'Visual Pattern' aus? Inwiefern könnten diese Typen die spezifischen audiovisuellen Eigenschaften unseres Beispielgegenstandes hervorheben?
+Wie sieht jedoch mit den Annotationstypen 'Splitscreen', 'Frame-in-Frame' oder 'Visual Pattern' aus? Inwiefern könnten diese Typen die spezifischen Charakteristika unseres Beispielgegenstandes hervorheben?
 
 ### Splitscreen
 
@@ -189,13 +189,25 @@ Die auffälligsten Frame-in-Frame Kompositionen finden sich in den Einstellungen
 :width: 700px
 :align: center
 ```
-Ebenso könnte diskutiert werden, inwiefern sowohl die Frame-in-Frame Kompositionen des Found Footage Materials als auch die animierten Einstellungen Teil des Vortragsarrangements auf der Bühne sind, wie in dem ersten Bild der Reihe sowie in diesem diesem Beispiel zu sehen ist:
+Ebenso könnte diskutiert werden, inwiefern sowohl die Frame-in-Frame Einbindungen des Found Footage Materials als auch die animierten Einstellungen Teil des Vortragsarrangements auf der Bühne sind, wie in dem ersten Bild der Reihe als auch in diesem diesem Beispiel zu sehen ist:
 
-Sichtbar hier wird eine Screen-within-Screen Inszenierung, die unter dem Annotationstyp Frame-in-Frame ebenfalls berücksichigt werden kann. 
+```{image} ../_images/A4-S10.png
+:align: center
+:height: 300px
+:name: A4-S10
+```
+
+Sichtbar hier wird eine Screen-within-Screen Gestaltung, die unter dem Annotationstyp Frame-in-Frame ebenfalls Berücksichtigung findet und annotiert werden kann. 
 +++
-Eine freitextliche Erhebung von Frame-in-Frame Kompositionen könnte die spezifischen Modalitäten dieser Inszenierungsmuster für eine Datenanalyse sinnvoll ergänzen. 
+Eine freitextliche Erhebung von Frame-in-Frame Kompositionen könnte die spezifischen Modalitäten dieser Inszenierungsmuster für eine Datenanalyse insofern sinnvoll ergänzen. 
 
 ### Visual Pattern
 
+Unter dem Annotationstyp 'Visual Pattern' werden abstrakte Muster oder Formen erfasst. Insbesondere in den animierten Einstellungen könnten unter Miteinbeziehung dieses Annotationstyps grafische Elemente, Synchronizitäten von Mustern und abstrakte Visualisierungsstrukturen bestimmt werden. Ein Beispiel für eine Annotation der Werte 'centre Figure, circular' wäre folgende Ansicht:
 
-
+```{image} ../_images/A4-S11.png
+:align: center
+:height: 300px
+:name: A4-S11
+```
+Insgesamt bietet das Framework der Ontologie sehr umfangreiche und spezifische Annotationsoptionen, die an den zu untersuchenden Gegenstand angepasst und jederzeit erweitert werden können. Dies ermöglicht die Herstellung feingliederiger Mikroanalysen auf der Basis von allumfassenden Annotationsdaten. 

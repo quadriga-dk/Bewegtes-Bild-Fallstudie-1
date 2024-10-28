@@ -86,7 +86,17 @@ display_quiz("../quizzes/D_UK-1_Quiz_3.json", colors = colors.jupyterquiz)
 :height: 250px
 :name: a4-s02
 ```
-Für einige Annotationstypen haben wir die Annotationen als Verläufe angelegt, für andere haben wir nach dem Einstellungsprinzip segmentiert. Folgende Übersicht soll als Annotationshilfe dienen:
+
+```{tip}
+Für die Erstellung korrekter bzw. präsizer Start- und Endzeit der Annotationen kann die Wiedergabegeschwindigkeit angepasst und mit den Frame-Tasten gearbeitet werden.
+```
+
+Für einige Annotationstypen haben wir die Annotationen als Verläufe angelegt, für andere haben wir nach dem Einstellungsprinzip segmentiert. Folgende Tabelle soll als Annotationshilfe dienen:
+
+```{attention}
+Diese Annotationssegmentierung kann von Gegenstand zu Gegenstand, je nach den Formen der Inszenierung, variieren. Für diese Übung soll die Tabelle lediglich als Orientierungshilfe dienen.
+```
+
 ````{margin}
 ```{tip}
 Mit der Funktion 'Search/replace content' können die erstellten und bereinigten Annotationen, die beispielsweise für den Typ 'Montg | Shot' als Einstellungen segmentiert wurden, in jede weitere Spur kopiert werden, die ebenfalls nach dem Einstellungsprinzip segmentiert wird. Um alle darin enthaltenen Werte zu löschen, das 'Replace by' Feld leer lassen.
@@ -98,21 +108,20 @@ Die Annotation des Typs 'Volume' wird über automatischer Erkenner als Verlauf g
 ````
 
 +++
-| Segmentierung nach Einstellung    | Segmentierung nach Verlauf            |
-|-----------------------------------|---------------------------------------|
-| Shot (semi-automatische Generierung)                              | Setting                               |
-| Shot Duration                     | Found Footage                         |
-| Montage Figure Macro                      | Animation                             |
-| Field Size                        | Dialogue Text                         |
-| Image Intrinsic Movement          | Image Brightness                      |
-|  Camera Angle               | Colour Range                          |
-|  Image Content                 | Dominant Movement Direction           |
-|                     | Recording/Playback Speed              |
-|                     | Camera Movement Direction             |
-|                                   | Dialogue Emotion                      |
-|                                   | Sound Gesture Dynamics                |
-|                                   | Music Mood                            |
-|                                   | Body Language Emotion        |
+| Segmentierung nach Einstellung      | Segmentierung nach Verlauf            |
+|-------------------------------------|---------------------------------------|
+| Shot (semi-automatische Generierung) | Setting                              |
+| Shot Duration                        | Found Footage                        |
+| Montage Figure Macro                 | Animation                            |
+| Field Size                           | Dialogue Text                        |
+| Image Intrinsic Movement             | Image Brightness                     |
+| Image Content                        | Colour Range                         |
+| Camera Angle                         | Dominant Movement Direction          |
+| Camera Movement Direction            | Recording/Playback Speed             |
+| Body Language Emotion                | Dialogue Emotion                     |
+|                                      | Sound Gesture Dynamics               |
+|                                      | Music Mood                           |
+|                                      | Montage Figure Macro                 |
 
 
 `````{admonition} Für einige Annotationstypen können Syntaxelemente verwendet werden. Was beschreiben die Werte **[TO]** sowie **[VS]** jeweils?
