@@ -50,4 +50,4 @@ Ziel der Methode ist eine empirisch-qualitative Durchführung vergleichender Stu
 ````
 
 
-Die eMAEX-Methode bildet die Forschungsgrundlage für empirische Untersuchungen im Bereich deskriptiver-qualitativer Filmanalyse und wurde im Rahmen des BMBF-geförderten Projekts "[Affektrhetoriken des Audiovisuellen](https://www.ada.cinepoetics.fu-berlin.de/)" in eine auf Semantic Web basierende Datenontologie weiterentwickelt. In den folgenden Kapiteln soll an die Arbeit mit einer solchen Ontologie herangeführt werden. Bevor wir damit beginnen, wird zunächst der Untersuchungsgegenstand unserer Fallstudie vorgestellt. 
+Die eMAEX-Methode bildet die Forschungsgrundlage für empirische Untersuchungen im Bereich deskriptiv-qualitativer Filmanalyse und wurde im Rahmen des BMBF-geförderten Projekts "[Affektrhetoriken des Audiovisuellen](https://www.ada.cinepoetics.fu-berlin.de/)" in eine auf Semantic Web basierende Datenontologie weiterentwickelt. In den folgenden Kapiteln soll an die Arbeit mit einer solchen Ontologie herangeführt werden. Bevor wir damit beginnen, wird zunächst der Untersuchungsgegenstand unserer Fallstudie thematisch eingeordnet und inhaltlich umrissen.

@@ -3,7 +3,7 @@ lang: de-DE
 ---
 # Einführung in die datengestützte Filmanalyse, Forschungsfragen und Lernziele
 
-Videoinhalte spielen auf den Plattformen der sozialen Medien eine immer stärkere Rolle – nicht nur in Fragen der Unterhaltung, sondern auch der politischen Meinungsbildung. Die Klimakrise als eines der wichtigsten gesellschaftlichen Themen und Konflikten unserer Zeit ist dabei keine Ausnahme. Umfangreich und heterogen sind die Diskurse, in denen die Krise mit Bewegtbildern kommuniziert und die Kommunikation dieser Krise selbst kommentiert, reflektiert, verstärkt oder unterdrückt wird. Das zentrale Telos dieser Videoinhalte ist nur zu einem kleinen Teil der Wissenstransfer und das Verstehen wissenschaftlicher Erkenntnisse. Vielmehr spielen Fragen der Emotionalisierung sowohl im Hinblick auf politische Meinungsbildung oder aktivistische Mobilisierung als auch in Hinblick auf Klimaleugnung und rechter Propaganda eine zentrale Rolle.
+Videoinhalte spielen auf den Plattformen der sozialen Medien eine immer stärkere Rolle – nicht nur in Fragen der Unterhaltung, sondern auch der politischen Meinungsbildung. Die Klimakrise als eines der wichtigsten gesellschaftlichen Themen und Konflikte unserer Zeit ist dabei keine Ausnahme. Umfangreich und heterogen sind die Diskurse, in denen die Krise mit Bewegtbildern kommuniziert und die Kommunikation dieser Krise selbst kommentiert, reflektiert, verstärkt oder unterdrückt wird. Das zentrale Telos dieser Videoinhalte ist nur zu einem kleinen Teil der Wissenstransfer und das Verstehen wissenschaftlicher Erkenntnisse. Vielmehr spielen Fragen der Emotionalisierung sowohl im Hinblick auf politische Meinungsbildung oder aktivistische Mobilisierung als auch in Hinblick auf Klimaleugnung und rechter Propaganda eine zentrale Rolle.
 
 Die Genres und Formate von klimabezogenen Videos sind hochgradig divers und ihre Clusterung unterscheidet sich zwischen den großen Plattformen. Oftmals lassen sich die kürzeren Videos nach den dominanten Modalitäten und Verfahren klassifizieren: Infografiken und Animationen, einzelne sprechende Personen oder Dialoge, Text in Verbindung mit Musik oder Musik in Verbindung mit Montagen von Naturmotiven oder Nachrichtenausschnitten, Aufzeichnungen von Protestaktionen uvm.– wobei ein beträchtlicher Anteil der Videos, insbesondere mit steigender Länge, aus Mischformen besteht. (Zeng & Yan 203)  
 
@@ -20,7 +20,7 @@ Die Fallstudie richtet sich an alle Promovierende, Wissenschaftler:innen, Akadem
 
 Die Groblernziele der Fallstudie umfassen: 
 1. Die Herstellung filmanalytischer Metadaten mithilfe datengestützter Methoden (Annotation) auf Basis einer Filmontologie
-2. Die Erkennung und Differenzierung audiovisueller Inszenierungsmuster, die durch Annotationsdaten hergestellt werden
+2. Das Erkennen und Differenzieren audiovisueller Inszenierungsmuster, die durch Annotationsdaten hergestellt werden
 3. Die Visualisierung und Qualifizierung der Datensets
 
 ## Zentrale Forschungsfragen und Aufgaben
