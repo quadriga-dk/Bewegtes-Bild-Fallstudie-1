@@ -21,7 +21,7 @@ from quadriga_config import colors
 # Annotationsergebnisse: Datenabgleich und -erläuterung
 
 
-Sobald die Annotationsarbeit für das Video abgeschlossen ist, kann das Paket mit unserer Musterlösung verglichen werden. Die Lösungsdatei steht hier zum Download bereit. Hier darauf achten, dass die Videodatei neu verknüpft werden muss.
+Sobald die Annotationsarbeit für das Video abgeschlossen ist, kann das Paket mit unserer Musterlösung verglichen werden. Die Lösungsdatei steht [hier](../assets/QUADRIGA-Fallstudie-Annotationspackage.azp) zum Download bereit. Hier darauf achten, dass die Videodatei neu verknüpft werden muss.
 
 +++
 ```{important} 
