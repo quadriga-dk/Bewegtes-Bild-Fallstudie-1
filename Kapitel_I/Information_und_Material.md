@@ -38,3 +38,4 @@ Eine einheitliche Systematisierung gibt es dabei nicht. Durch Ansätze verschied
 * David Bordwell/Kristin Thompson (2008): Film Art. An Introduction, Boston: McGraw Hill
 * John Hill (1998): The Oxford Guide to Film Studies
 ```
+Im nächsten Kapitel stellen wir eine im Rahmen filmwissenschaftlicher Forschung entwickelte Methode qualitativer Empirie vor. 
