@@ -24,7 +24,15 @@ from quadriga_config import colors
 
 Im Folgenden ist eine konfigurierte Visualisierung der Timeline zu sehen. 
 
-![screenshot-A5-S10](../_images/A5-S10.png)
+````{margin}
+➡️ Zum Vergrößern draufklicken oder ranzoomen
+````
+
+```{image} ../_images/A5-S10.png
+:align: center
+:height: 330px
+:name: A5-S10
+```
 
 ```{code-cell} ipython3
 :tags: [remove-input]
@@ -60,3 +68,39 @@ Für **ImageIntrinsicMovement** gilt:
 +++
 `labels`: der Wert `false` ist korrekt, wir haben die Timecode-Leiste für den Annotationstypen ausgeblendet.
 ```
+## Aufgabe 2
+
+Eine Visualisierung mit folgenden Eigenschaften soll erstellt werden:
++++
+In der genannten Reihenfolge sollen die Annotationstypen **Found Footage**, **Image Intrinsic Movement** und **Recording/Playback Speed** angezeigt werden. Eine Timecode-Leiste soll für alle drei Typen konfiguriert werden.
++++
+Der Annotationstyp **Found Footage** soll einzeilig mit einer Pixelhöhe von 30 dargestellt werden. Eine Legende mit dem Inhalt der Annotationen soll angezeigt werden. Als Farbschema soll `plasma` gewählt werden. 
++++
+Der Annotationstyp **Image Intrinsic Movement** soll als Histogramm mit einer Pixelhöhe von 100 angezeigt werden. Eine Legende mit dem Verlauf als `parsed` soll eingeblendet werden. Als Farbschema soll `pinkyellowgreen` gewählt werden.
++++
+Der Annotationstyp **Recording/Playback Speed** soll als Balkendiagramm mit einer Legende und den Annotationsinhalten im Farbschema `dark2` angezeigt werden.
+
+```{admonition} Lösung
+:class: dropdown
+Folgende Konfigurationen in der Syntax haben wir eingegeben, um die oben beschriebene Ansicht zu erhalten: 
+
+![screenshot-A5-11](../_images/A5-S11.png)
+
+Auf was besonders zu achten ist:
++++
+* Um die Syntaxelemente zu konfigurieren, müssen die Werte durch Klammern (ohne Leerzeichen) angegeben werden
+* Die Syntaxreihe für jeden Annotationstypen muss mit einem Komma abgeschlossen werden
+* Darstellungsoption und Wert werden mit einem Doppelpunkt ohne Leerzeichen voneinander getrennt
+* Mehrere Optionen für einen Annotationstypen werden durch Leerzeichen voneinander getrennt
+* Um eine einzeilige Darstellung zu konfigurieren, muss das Syntaxelement `single_line` angegeben werden (und nicht die Option `representation`)
+* Wird eine Timeline neu geöffnet, finden sich unter 'Expand' alle vordefinierten Syntaxeinstellungen. Die Timeline-Leiste ist bereits standardmäßig auf `labels:true` eingestellt und muss nicht nochmal definiert werden. Zum Ausblenden der Leiste muss die Option jedoch auf `labels:false` geändert werden
+* Nicht alle Annotationstypen können mit allen Repräsentationswerten angezeigt werden (hier am besten einfach ausprobieren!)
+
+So sieht die oben beschriebene Darstellung als Datenvisualisierung aus: <br>
+(...bitte ranzoomen für eine größere Ansicht)
+
+![screenshot-A5-12](../_images/A5-S12.png)
+
+```
+
+

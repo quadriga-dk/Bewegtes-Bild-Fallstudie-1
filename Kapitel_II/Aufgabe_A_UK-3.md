@@ -29,21 +29,22 @@ Ebenso soll anhand der Auswertung der Ergebnisse diskutiert werden, welche Vor- 
 display_quiz("../quizzes/A_UK-3_Quiz_1.json", colors = colors.jupyterquiz)
 ```
 
-:::{dropdown} Ausklappen für ausführliche Antwort
+`````{admonition} Ausführliche Erläuterung der Antwort
+:class: dropdown
 Durch das Segmentieren in Dynamiken können ganz spezifische Verläufe, wie z.B. eine durchgehende musikalische Spur, die über die Dauer einer einzelnen Einstellung hinaus geht, annotiert werden. Da wir es bei diesem Beispiel mit einem kurzen Ausschnitt zu tun haben, ist eine Einteilung in Szenen weniger ergiebig.  
 +++
-Die nachfolgende Tabelle zeigt eine beispielhafte Segmentierungsstruktur. Hier wurde das Material nach ganz spezifischen Verläufen annotiert. Wichtig ist die Herausarbeitung repetitiver Strukturen und Dynamiken, wie z.B. das Spektrum von Lichtverhältnissen.  
+Die nachfolgende Tabelle zeigt eine beispielhafte Segmentierungsstruktur. Hier wurde das Material nach ganz spezifischen Verläufen annotiert. Wichtig ist die Herausarbeitung repetitiver Strukturen und Dynamiken, wie z.B. das Spektrum von Lichtverhältnissen.
 
-```{figure} ../assets/Verlaufsdynamik-Ausschnitt.png
+````{figure} ../assets/Verlaufsdynamik-Ausschnitt.png
 :width: 1000px
 :name: verlaufsdynamik
 
 Annotation als Verlaufsdynamik (Ausschnitt)
-```
+````
 
 ```{attention} Bei einer (manuellen) tabellarischen Annotation gibt es keine Option, Visualisierungen automatisch generieren zu lassen. Hierfür müssen externe Programme oder Tools genutzt werden.
 ```
-:::
+`````
 
 ## Frage 2
 
@@ -51,7 +52,9 @@ Annotation als Verlaufsdynamik (Ausschnitt)
 :tags: [remove-input]
 display_quiz("../quizzes/A_UK-3_Quiz_2.json", colors = colors.jupyterquiz)
 ```
-:::{dropdown} Ausklappen für ausführliche Antwort
+
+```{admonition} Ausführliche Erläuterung der Antwort
+:class: dropdown
 Um die Dauer einer Einstellung bei der tabellarischen Annotation zu erheben, können unterschiedliche Verfahren gewählt werden. Zum Beispiel kann eine Einstellung abgespielt und gleichzeitig eine Stoppuhr ⏰ eingesetzt werden. So kann ermittelt werden, welche Einstellungen die längste Dauer aufweisen. Da dieses Verfahren manuell durchgeführt werden muss, ist die Fehleranfälligkeit verhältnismäßig hoch.
 +++
 **Doch was sagt die Dauer der jeweiligen Einstellungen über die Einstellung selbst aus?**
@@ -59,11 +62,9 @@ Um die Dauer einer Einstellung bei der tabellarischen Annotation zu erheben, kö
 In unserem Videobeispiel ist die Dauer der Einstellungen für eine Analyse zeitlicher Relationen relevant. Die Einstellungen mit der längsten Dauer sind überwiegend welche, in denen eine 2D-Animation Sachverhalte simuliert. Die 2D-Animationen werden eingesetzt, um komplexe Prozesse und Relationen, die Einfluss auf den Klimawandel haben, bildlich greifbar zu machen und aus ihrer Abstraktion zu lösen.
 Abstrakten Zahlen, wie zum Beipiel die kommunizierte 2 Grad-Grenze, werden affektive Bedeutungen ("Gefahr" oder "Bedrohung") beigemessen.
 
-```{image} ../assets/2D-Animationsverlauf.png
-:width: 600px
-:align: center
+![2d-animationsverlauf](../assets/2D-Animationsverlauf.png)
+
 ```
-:::
 
 ## Frage 3
 
@@ -78,17 +79,15 @@ Found Footage, also die Einbettung 'vorgefunden Materials', ist eine Gestaltungs
 display_quiz("../quizzes/A_UK-3_Quiz_3.json", colors = colors.jupyterquiz)
 ```
 
-:::{dropdown} Ausklappen für ausführliche Antwort
+```{admonition} Ausführliche Erläuterung der Antwort
+:class: dropdown
 Die Found Footage-Aufnahmen stammen von der 15. Klimakonferenz in Kopenhagen im Jahr 2009 der UNFCCC (15th Conference of the Parties to the United Nations Framework Convention on Climate Change). Durch die Einbindung dieses Videomaterials wird die historische wie auch politsche Dringlichkeit der Klimakrise als globales Problem klar herausgestellt. <br>
 Hinsichtlich ihrer Gestaltung unterscheiden sich die Found Footage-Aufnahmen von den anderen Inszenierungsweisen des Films und bilden eine sich zur Tonebene synchron verhaltene Montagekette. <br>
 Das Found Footage-Material wird in dem Videoausschnitt als Bild-in-Bild-Komposition eingebettet. Als Referenzobjekt für die Entfernung, beispielsweise für die Bestimmung von Einstellungsgrößen, können hier entweder die Menschen und/oder das gesamte Arrangement (inkl. der umgebenden Rahmung) gesetzt werden.
 
-```{image} ../assets/Found-Footage-Reihe.png
-:width: 600px
-:align: center
-```
+![found-footage-reihe](../assets/Found-Footage-Reihe.png)
 
-:::
+```
 
 ## Diskussion: Vor- und Nachteile
 
