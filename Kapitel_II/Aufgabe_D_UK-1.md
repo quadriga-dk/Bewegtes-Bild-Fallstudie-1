@@ -139,9 +139,10 @@ zwei kontrastierende Werte verbindet.
 display_quiz("../quizzes/D_UK-1_Quiz-4.json", colors = colors.jupyterquiz)
 ```
 
-:::{dropdown} Ausklappen für ausführliche Antwort
+```{admonition} Antwort
+:class: dropdown
 Die Verwendung von Syntaxelementen ermöglicht es kontinuierliche Entwicklungen wie auch synchrone Kontraste, die beispielsweise innerhalb einer Einstellung auftauchen, miteinander zu verbinden. Ein gutes Beispiel für für die Verwendung des Syntaxelement [TO] ist der Wechsel von Einstellungsgrößen innerhalb einer Einstellung. Ein gutes Beispiel für die Verwendung des Syntaxelement [VS] sind synchron inszenierte Dialog Emotionen bei mehreren Figuren innerhalb einer Einstellung.
-:::
+```
 
 8.	Überprüfung und Bereinigung mit der Checker-Funktion (Video: XX, Manual: S. 91ff)
 +++

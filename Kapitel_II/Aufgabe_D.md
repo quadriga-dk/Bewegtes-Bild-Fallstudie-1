@@ -16,12 +16,15 @@ In diesem Kapitel erstellen wir Annotationen mit einer Filmontologie.
 
 Im vorigen Kapitel haben wir gezeigt, wie anhand von Semantic Web Prinzipien eine filmanalytische Ontologie entstehen kann. Mehr Infos dazu, was eine filmanalytische Datenontolgie ist und leistet, gibt es [hier](Aufgabe_C) <br>
 In diesem Schritt soll es nun darum gehen mit der AdA-Filmontologie in der Videoannotationssoftware [Advene](https://www.advene.org/) zu arbeiten. 
+
 ```{admonition} Kurz erklärt: Was ist die AdA-Filmontologie?
+:class: dropdown
 Die AdA-Filmontologie ist ein von der BMBF-geförderten Nachwuchsgruppe "[Affektrhetoriken des Audiovisuellen](https://www.ada.cinepoetics.fu-berlin.de/index.html)" (kurz: AdA) nach Semantic Web Standards entwickelts systematisches Beschreibungsvokabular filmanalytischer Konzepte und Termini. Sie ist zur Anwendung für komplexe und feingleiderige Videoannotationen ausgelegt. Die Ontologie ermöglicht die Herstellung und Visualisierung filmanalytischer Annotationsdaten. Mehr Infos und weiterführende Links gibt es in diesem [Book](Aufgabe_C_UK-2) sowie [hier](https://www.ada.cinepoetics.fu-berlin.de/Methoden/index.html) und [hier](https://www.cinepoetics.fu-berlin.de/methods/3_Tools/1_Vokabular_der_AdA-Filmontologie/index.html).
 ```
 Hierzu werden im ersten Teil die jeweiligen [Schritte und der Workflow für die Annotationsarbeit](Aufgabe_D_UK-1) mit der AdA-Ontologie sowie dem AdA Core-Template skizziert. Zwei ausführliche Videotutorials, ein umfangreiches Manual und verschiedene Fragen sollen dabei helfen, die Funktionsweisen und Prozesse nachzuvollziehen. Im Kapitel [Annotationsergebnisse: Datenabgleich und -erläuterung](Aufgabe_D_UK-2) gibt es zunächst eine Übungsaufgabe, in der die zuvor erlenten Kompetenzen geprüft werden können. Anschließend werden die Entscheidungen, sowie Probleme und Grenzen der Ontologie diskutiert.
 
-:::{dropdown} Grob- und Feinlernziele
+```{admonition} GROB- UND FEINLERNZIELE
+:class: dropdown
 **Groblernziel**
 +++
 Mithilfe von Annotationsdaten, die auf Basis einer filmanalytischen Ontologie erstellt und visualisiert werden, können audiovisuelle Inszenierungsmuster erkannt und differenzieren werden.
@@ -30,7 +33,7 @@ Mithilfe von Annotationsdaten, die auf Basis einer filmanalytischen Ontologie er
 1. Die AdA Filmontolgie kann eingerichtet und implementierte automatische Erkenneralgorithmen durchgeführt werden.
 2. Die Funktionen der Segmentierungsbereinigung können angewendet werden.
 3. Ein Set an Annotationsdaten kann mit der Ada Filmontologie erstellt werden.
-:::
+```
 
 ## Untersuchungsgegenstand und Voraussetzungen
 

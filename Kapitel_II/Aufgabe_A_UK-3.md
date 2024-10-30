@@ -28,7 +28,7 @@ Ebenso soll anhand der Auswertung der Ergebnisse diskutiert werden, welche Vor- 
 :tags: [remove-input]
 display_quiz("../quizzes/A_UK-3_Quiz_1.json", colors = colors.jupyterquiz)
 ```
-+++
+
 :::{dropdown} Ausklappen für ausführliche Antwort
 Durch das Segmentieren in Dynamiken können ganz spezifische Verläufe, wie z.B. eine durchgehende musikalische Spur, die über die Dauer einer einzelnen Einstellung hinaus geht, annotiert werden. Da wir es bei diesem Beispiel mit einem kurzen Ausschnitt zu tun haben, ist eine Einteilung in Szenen weniger ergiebig.  
 +++
@@ -63,7 +63,6 @@ Abstrakten Zahlen, wie zum Beipiel die kommunizierte 2 Grad-Grenze, werden affek
 :width: 600px
 :align: center
 ```
-
 :::
 
 ## Frage 3

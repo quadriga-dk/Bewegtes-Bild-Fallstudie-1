@@ -151,10 +151,11 @@ VIDEO EINFÜGEN
 display_quiz("../quizzes/D_UK-2_Quiz-1.json", colors = colors.jupyterquiz)
 ```
 
-:::{dropdown} Aufklappen für ausführliche Antwort
+```{admonition} Antwort
+:class: dropdown
 Die Bewegungsrichtung der Kamera korreliert mit den Timelaps. Mit der Änderung der Bewegungsrichtung synchron zu dem Einsatz des Timelaps entsteht eine dynamische Bildkomposition, die sich durch Geschwindkeitszunahme sowie Bewegungsveränderung von der restlichen zeitlichen Anordnung des Videos unterscheidet. 
 Interessant ist ebenso, dass die markantesten Bewegungsveränderungen der Kamera mit den animierten Einstellungen einhergehen. Die 2D-Animationen wirken, insbesondere im Kontrast zu den im Vergleich recht statischen Szenen auf der Bühne oder im Interview, wesentlich energetischer.
-:::
+```
 
 ### Advene-Timeline und Weiterentwicklung der Timeline
 

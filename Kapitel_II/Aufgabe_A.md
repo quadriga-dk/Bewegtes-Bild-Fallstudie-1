@@ -17,7 +17,8 @@ Im ersten Unterkapitel [Durchführung und Schritte](../Kapitel_II/Aufgabe_A_UK-2
 +++
 Im zweiten Unterkapitel [Übung, Ergebnisauswertung und Diskussion](../Kapitel_II/Aufgabe_A_UK-3.md) widmen wir uns einer punktuellen Auswertung der Ergebnisse sowie der Diskussion über die Vor- und Nachteile dieser Methode. 
 
-:::{dropdown} Grob- und Feinlernziele
+```{admonition} GROB- UND FEINLERNZIELE
+:class: dropdown
 **Groblernziel**
 +++
 Mithilfe datengestützter filmanalytischer Methoden können Metadaten zu audiovisuellem Material hergestellt werden.
@@ -26,7 +27,7 @@ Mithilfe datengestützter filmanalytischer Methoden können Metadaten zu audiovi
 1. Basisschematische Parameter können erkannt und Segmente identifiziert werden.
 2. Den Segmenten und Parametern können Inhalte bzw. Werte beigeordnet werden.
 3. Die Ergebnisse können filmanalytisch ausgewertet und kontextualisiert werden.
-:::
+```
 
 
 
