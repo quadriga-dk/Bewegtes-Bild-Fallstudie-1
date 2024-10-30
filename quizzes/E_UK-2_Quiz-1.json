@@ -1,0 +1,27 @@
+[
+    {
+        "question": "Welche Syntaxelemente müssen eingegeben werden, damit diese Visualisierung konfiguriert wird?",
+        "type": "many_choice",
+        "answers": [
+            {
+                "answer": "DominantMovementDirection(colorfield:content labels:false representation:rectlegend:false colorscheme:paired), <br> ImageIntrinsicMovement(height:300 representation:wave labels:true)",
+                "correct": false,
+                "feedback": "Ups, das war die falsche Antwort. Versuchen wir es nochmal!"
+            }, 
+            {
+                "answer": "DominantMovementDirection(colorfield:parsed labels:true representation:hist legend:true colorscheme:greens), <br> ImageIntrinsicMovement(height:100 representation:line labels:false)",
+                "correct": false,
+                "feedback": "Ups, das war die falsche Antwort. Versuchen wir es nochmal!"
+            },
+            {
+                "answer": "DominantMovementDirection(colorfield:content labels:true representation:rect legend:true colorscheme:paired), <br> ImageIntrinsicMovement(height:100 representation:line labels:false)",
+                "correct": true,
+                "feedback": "Ja, genau richtig!"
+            },
+            {
+                "answer": "ImageIntrinsicMovement(height:100 representation:line labels:true), <br> DominantMovementDirection(colorfield:duration labels:true representation:rect legend:true colorscheme:darkblue)",
+                "feedback": "Ups, das war die falsche Antwort. Versuchen wir es nochmal!"
+            }
+        ]
+    }
+]
