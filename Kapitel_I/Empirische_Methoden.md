@@ -41,7 +41,7 @@ Ein Beispiel aus dem Film *A Walk in the Sun* (Lewis Milestone, USA 1945) zeigt 
 
 Ausführliche Informationen zum Drei-Stufen-Modell der eMAEX-Methode gibt es unter [Empirische Medienästhetik](https://www.empirische-medienaesthetik.fu-berlin.de/emaex-system/emaex_kurzversion/entwicklung_emaex/03_drei_ebenen_modell/index.html).
 +++
-Ziel der Methode ist eine empirisch-qualitative Durchführung vergleichender Studien auf verschiedenen Ebenen der filmischen Inszenierung. Ebenso sollen affektdramaturgische Verlaufsformen über die Geschichte des Genres hinweg untersuchbar gemacht werden. Dynamische Muster von Szenen etwa können so mit Blick auf eine ganz bestimmte Pathoskategorie verglichen oder die Einzelsegmente der kinematografischen Ausdrucksbewegung in einer Mikroanalyse beschrieben werden (QUELLE Kappelhoff/Bakels).
+Ziel der Methode ist eine empirisch-qualitative Durchführung vergleichender Studien auf verschiedenen Ebenen der filmischen Inszenierung. Ebenso sollen affektdramaturgische Verlaufsformen über die Geschichte des Genres hinweg untersuchbar gemacht werden. Dynamische Muster von Szenen etwa können so mit Blick auf eine ganz bestimmte Pathoskategorie verglichen oder die Einzelsegmente der kinematografischen Ausdrucksbewegung in einer Mikroanalyse beschrieben werden (Kappelhoff/Bakels).
 +++
 
 ````{margin}

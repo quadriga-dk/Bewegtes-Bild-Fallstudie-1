@@ -32,7 +32,7 @@ Mithilfe datengestützter filmanalytischer Methoden können Metadaten zu audiovi
 
 
 ## Annotation als Methode deskriptiver Filmanalyse
-Um Filme, Videos oder Bewegtbildmaterial für filmanalytische Arbeiten überhaupt erst greifbar machen zu können, ist es sinnvoll deskriptive Methoden anzuwenden. Ein bewährtes Werkzeug ist die Erstellung von (semantischen) Annotationen. Dieser Prozess kann entweder manuell durchgeführt werden oder automatisch bzw. semi-automatisch. Dabei sind die Ergebnisse, die durch Annotationen entstehen, am Ende auch immer selbst als Produkte oder Artefakte ihres Entstehungszusammenhangs zu begreifen. QUELLE EINFÜGEN
+Um Filme, Videos oder Bewegtbildmaterial für filmanalytische Arbeiten überhaupt erst greifbar machen zu können, ist es sinnvoll deskriptive Methoden anzuwenden. Ein bewährtes Werkzeug ist die Erstellung von (semantischen) Annotationen. Dieser Prozess kann entweder manuell durchgeführt werden oder automatisch bzw. semi-automatisch. Dabei sind die Ergebnisse, die durch Annotationen entstehen, am Ende auch immer selbst als Produkte oder Artefakte ihres Entstehungszusammenhangs zu begreifen (Horstmann/Seltmann 2023).
 ```{note}
 Im Kontext der Film- und Medienwissenschaft sind Annotationen als eine zeitbasierte Anreicherung von Filmen oder Videos um Metadaten bzw. Metainformationen zu verstehen.
 > __Siehe ebenfalls__: [Mehr Information zu Annotationen](https://zfdg.de/wp_2023_002)
@@ -42,7 +42,8 @@ Im Kontext der Film- und Medienwissenschaft sind Annotationen als eine zeitbasie
 :name: annotation-visualisierung
 ```
 
-Im Durchlauf der Fallstudie soll der Prozess von einer tabellarischen Annotationsarbeit bis zur Herstellung und Anreicherung von manuellen bzw. (semi)automatischen Annotationen via digitaler Tools und einer Filmontologie nachvollzogen und erprobt werden. 
+Im Durchlauf der Fallstudie soll der Prozess von einer tabellarischen Annotationsarbeit bis zur Herstellung von manuellen bzw. (semi)automatischen Annotationen via digitaler Tools und einer Filmontologie nachvollzogen und erprobt werden. 
+
 ## Warum tabellarische Annotationen?
 Um nachvollziehen zu können, wie der Zusammenhang zwischen einem filmanalytischen Grundvokabular und einer auf Semantic Web basierten Filmontologie zustande kommt, führt diese Fallstudie den aufeinander aufbauenden Prozess modellhaft durch. Damit soll insbesondere der Verlauf der Ideenentwicklung und Verwirklichung einer filmanalytischen Ontologie adressiert werden: Wie können filmanalytische Grundbegriffe empirisch systematisiert werden? Und wie kann die zeitliche Dynamik von Bewegtbildern auch in der analytischen Systematisierung eingeholt werden? 
 +++

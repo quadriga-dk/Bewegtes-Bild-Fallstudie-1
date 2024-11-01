@@ -52,7 +52,7 @@ Im Kapitel [Annotieren mit einer Filmontologie](Aufgabe_D) gibt es ein auf die A
 ```{note} Aus der ersten Übung hat sich gezeigt, dass Parameter, wie z.B. Sound oder Kamera, mehrere Inhaltsebenen haben können. Damit wir diese Elemente ebenfalls abdecken, splitten wir für diese beiden Beispiele (also Sound & Kamera) die Parameter in je einzelne Bestandteile. 
 ```
 ````
- Bevor wir mit der eigentlichen Annotationsarbeit beginnen, ist es notwendig, ähnlich wie bei der [Tabellarischen Annotation](Aufgabe_A), die Parameter festzulegen, die als Spuren auf der Timeline annotiert werden sollen. Für eine erste Vergleichsbasis nutzen wir dieselben Parameter, die wir bereits in der tabellarischen Annotation verwendet haben ([s. Fig. 3](../assets/Kurzdefinition-Parameter.png). Dieses Mal gehen wir aber minimal kleinteiliger vor:
+ Bevor wir mit der eigentlichen Annotationsarbeit beginnen, ist es notwendig, ähnlich wie bei der [Tabellarischen Annotation](Aufgabe_A), die Parameter festzulegen, die als Spuren auf der Timeline annotiert werden sollen. Für eine erste Vergleichsbasis nutzen wir dieselben Parameter, die wir bereits in der tabellarischen Annotation verwendet haben ([s. Fig. 3](../assets/Kurzdefinition-Parameter.png)). Dieses Mal gehen wir aber minimal kleinteiliger vor:
 
 ******************
 * Einstellungsnummer

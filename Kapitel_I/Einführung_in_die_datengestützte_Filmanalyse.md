@@ -29,7 +29,7 @@ Die Fallstudie umfasst drei zentrale Forschungsfragen, die durch die hier vermit
 2. Wie können datengestützte Methoden für die Qualifizierung von filmwissenschaftlichen Analysen nutzbar, weiterverbreitbar und zugänglich gemacht werden?
 3. Inwiefern können durch empirisch hergestellte quantifizierbare Daten Aussagen über die Qualifizierung audiovisueller Inszenierungsdynamiken und den damit verbundenen Affizierungen getroffen werden? 
 +++
-An einem exemplarischen Video sollen in einem dreistufigen Prozess filmanalytische Metadaten hergestellt werden, anhand derer sich Aussagen über die Inszenierungsdynamiken in Bezug auf intendierte Affizierungen treffen lassen. 
+An einem exemplarischen Video sollen in einem dreistufigen Prozess filmanalytische Primärdaten hergestellt werden, anhand derer sich Aussagen über die Inszenierungsdynamiken in Bezug auf intendierte Affizierungen treffen lassen. 
 ```{attention} 
 **Subjektive Einordnung der Daten vs. quantitative Erhebung**
 +++
@@ -37,6 +37,6 @@ Eine wichtiges Anliegen der Fallstudie ist es, die Emotionalisierung als subjekt
 ```
 *Die zentralen Aufgaben der Fallstudie umfassen...*
 * filmwissenschaftliche Methoden als digitale Methoden verständlich zu machen
-* die Übertragung basisschematischer Ansätze der Filmanalyse in webbasierte Semantik nach semantic triple-Prinzipien
+* die Übertragung basisschematischer Ansätze der Filmanalyse in webbasierte Semantik nach Semantic Triple Prinzipien
 * ein grundlegendes Verständnis für digitale Annotationsarbeit (*timeline based video analysis*) 
 * die Qualifizierung der Annotationsmetadaten im Kontext der Fragestellung der Fallstudie zu intendierten Emotionalisierungen

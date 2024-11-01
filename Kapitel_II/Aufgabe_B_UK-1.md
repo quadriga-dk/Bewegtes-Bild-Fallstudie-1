@@ -81,7 +81,7 @@ display_quiz("../quizzes/B_UK-1_Quiz_1.json", colors = colors.jupyterquiz)
 
 ```{admonition} Antwort
 :class: dropdown
-Die Typen **Dauer**, **Einstellungsgröße**, **Montage**, **Kameraperspektive** sowie **Kamerabewegung**  annotieren wir zunächst Einstellung für Einstellung, denn hier ist es wichtig, die Relationen, Wiederholungen und Veränderungen von Einstellung zu Einstellung sichtbar zu machen. Die Typen **Bildinhalt**, **Musik**, **Dialog**, **Licht** sowie **Farbe** werden nach ihren je spezifischen Verläufen annotiert. 
+Die Typen **Dauer**, **Einstellungsgröße**, **Montage** (hier annotieren wir die Form des Übergangs), **Kameraperspektive** sowie **Kamerabewegung**  annotieren wir zunächst Einstellung für Einstellung, denn hier ist es wichtig, die Relationen, Wiederholungen und Veränderungen von Einstellung zu Einstellung sichtbar zu machen. Die Typen **Bildinhalt**, **Musik**, **Dialog**, **Licht** sowie **Farbe** werden nach ihren je spezifischen Verläufen annotiert. 
 ```
 
 ````{margin}

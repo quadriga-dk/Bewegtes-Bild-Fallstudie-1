@@ -162,7 +162,7 @@ ELAN-Projekte können in unterschiedliche Datenformate exportiert werden. Hierzu
 +++
 2.	Automatische Sicherheitskopie aktivieren 
 ````{margin}
-Hier die default-Zeile im Vorfeld löschen oder umbenennen!
+➡️ Hier die default-Zeile im Vorfeld löschen oder umbenennen!
 ````
 3.	Sobald das Video verknüpft ist und die Datei gesichert wurde, kann mit der Annotation begonnen werden. Als erste legen wir auch hier unsere Parameter also "Tiers" in ELAN an, die Auswahl der Parameter entnehmen wir unserer [vorherigen Bestimmung](#Aufgabe_B)
 ````{margin}

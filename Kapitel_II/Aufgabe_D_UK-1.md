@@ -104,7 +104,7 @@ Mit der Funktion 'Search/replace content' können die erstellten und bereinigten
 ````
 
 ````{margin}
-Die Annotation des Typs 'Volume' wird über automatischer Erkenner als Verlauf generiert.
+➡️ Die Annotation des Typs 'Volume' wird über automatischer Erkenner als Verlauf generiert.
 ````
 
 +++

@@ -1,6 +1,6 @@
 # Methodenreflexion und Resümee
 
-## Resümee
+## Resümee des Kapitels
 
 Nach einer kurzen [Einführung](Aufgabe_D) haben wir mit bereitgestellten Videotutorials sowie einem umfangreichen Manual den [Workflow](Aufgabe_D_UK-1) für die Arbeit mit der AdA-Ontologie sowie dem Core-Template in Advene als Schritt-für-Schritt Anleitung skizziert. Hierzu wurden nach der Integrierung des Templates (semi-)automatische Erkenneralgorithmen durchgeführt sowie die Ergebnisse dieser Segmentierung bereinigt. Auf den Spuren der vordefinierten Annotationstypen wurden Annotationen nach einer konkreten Segmentierungslogik erstellt. 
 ____________________

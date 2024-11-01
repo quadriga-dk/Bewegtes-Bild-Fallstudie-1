@@ -32,7 +32,7 @@ Linked Open Data (LOD) ist ein Konzept nach Semantic Web Prinzipien, welches die
 **Linked Data**: Stellt sicher, dass die Daten miteinander verknüpft sind. <br>
 **Open Data**: Stellt sicher, dass die verknüpften Daten, z.B. Datenbanken von öffentlichen Einrichtungen oder Museen etc., frei und offen zugänglich sind.
 +++
-Mehr Infos: ...
+Mehr Infos zu den Prinzipien von Linked Open Data gibt es beispielsweise in einem [Tutorial](https://programminghistorian.org/en/lessons/intro-to-linked-data) von *Programming Historian*.
 ```
 ### Struktur der AdA-Ontologie
 
@@ -53,7 +53,7 @@ Definiert sind die filmanalytischen Konzepte, Begriffe und Beschreibungen auf de
 3. **Annotationswerte** beschreiben die je konkreten Eigenschaften, die ein Annotationstyp haben kann (z.B. Kamerabewegung: Tempo: langsam, mittel, schnell, wechselnd).
 +++
 ````{margin}
-Für eine Interaktion auf den Link klicken oder folgende Website öffnen: https://ada.cinepoetics.org/ontoviz/
+➡️ Für eine Interaktion auf den Link klicken oder folgende Website öffnen: https://ada.cinepoetics.org/ontoviz/
 ````
 Die mit OntoViz erstellte [interaktive Visualisierung](https://ada.cinepoetics.org/ontoviz/) zeigt ebenfalls exemplarisch die dreigliedrige Dimension der Ontologie (hier als Ausschnitt):
 ```{figure} ../assets/AdA-Struktur-Ontoviz.png

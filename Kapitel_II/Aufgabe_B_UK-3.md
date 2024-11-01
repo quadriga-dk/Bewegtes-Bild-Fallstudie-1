@@ -1,6 +1,6 @@
 # Methodenreflexion und Resümee
 
-## Resümee
+## Resümee des Kapitels
 
 In der Einführung des Kapitels [Annotieren mit Tools](Aufgabe_B) wurden zunächst die Tools kurz vorgestellt und die aus der ersten Aufgabe festgelegten Parameter minimal erweitert. Nach der Bestimmung der Parameter ging es an die [Annotationsarbeit mit Advene](Aufgabe_B_UK-1). Hierzu wurde Advene eingerichtet. Anschließend wurden Annotationstypen und Annotationen erstellt. Zur Veranschaulichung toolagnostischer Perspektiven wurde die [Annotationsarbeit mit ELAN](Aufgabe_B_UK-2) wiederholt. 
 
