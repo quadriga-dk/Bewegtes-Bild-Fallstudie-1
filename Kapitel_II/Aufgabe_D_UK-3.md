@@ -2,7 +2,15 @@
 
 ## Resümee
 
-Nach einer kurzen [Einführung](Aufgabe_D) haben wir mit bereitgestellten Videotutorials sowie einem umfangreichen Manual den [Workflow](Aufgabe_D_UK-1) für die Arbeit mit der AdA-Ontologie sowie dem Core-Template in Advene als Schritt-für-Schritt Anleitung skizziert. Hierzu wurden nach der Integrierung des Templates (semi-)automatische Erkenneralgorithmen durchgeführt sowie die Ergebnisse dieser Segmentierung bereinigt. Auf den Spuren der vordefinierten Annotationstypen wurden Annotationen nach einer konkreten Segmentierungslogik erstellt. Anschließend wurden die Ergebnisse als [Datenabgleich](Aufgabe_D_UK-2) bereitgestellt sowie die im Annotationsprozess vorherrschenden Probleme und Grenzen diskutiert.
+Nach einer kurzen [Einführung](Aufgabe_D) haben wir mit bereitgestellten Videotutorials sowie einem umfangreichen Manual den [Workflow](Aufgabe_D_UK-1) für die Arbeit mit der AdA-Ontologie sowie dem Core-Template in Advene als Schritt-für-Schritt Anleitung skizziert. Hierzu wurden nach der Integrierung des Templates (semi-)automatische Erkenneralgorithmen durchgeführt sowie die Ergebnisse dieser Segmentierung bereinigt. Auf den Spuren der vordefinierten Annotationstypen wurden Annotationen nach einer konkreten Segmentierungslogik erstellt. 
+____________________
+```{image} ../_images/A4-S12.png
+:align: center
+:height: 200px
+:name: A4-S12
+```
+____________________
+Anschließend wurden die Ergebnisse als [Datenabgleich](Aufgabe_D_UK-2) bereitgestellt sowie die im Annotationsprozess vorherrschenden Probleme und Grenzen diskutiert.
 
 ## Methodenreflexion
 

@@ -5,6 +5,12 @@ Unter der Leitung von [Prof. Dr. Hermann Kappelhoff](https://www.cinepoetics.fu-
 
 >Qualitativ-deskriptive Empirie heißt für uns, dass jede analytische Aussage, jede genretheoretische oder filmhistorische These am Gegenstand überprüfbar und nachvollziehbar ist.
 
+````{margin}
+```{admonition} Was verstehen wir unter "Ausdrucksbewegung"?
+Ausdrucksbewegung lässt sich mit Kappelhoff (2004) nach Plessner definieren als diejenige spezifische Dimension von Bewegung, die sich als Wahrnehmung einer zeitlichen Gestalt zeigt. Diese Bewegungsdimension bezieht alle formalen Ebenen filmischer Bilder ein (Farbe, Licht, Musik, Kadrierung, Montage usw.) insofern sie als Einheit einer zeitlichen Dynamik von Zuschauer:innen körperlich erlebt werden.
+```
+````
+
 Das Beschreibungsmodell der quantitativen Bewegtbildanalyse zielt auf die affektorientierte Funktion audiovisueller Bildinszenierungen auf der Grundlage ihrer zeitlichen Gestalt ab. Wie können analytische Beschreibungen ästhetische Strategien der Emotionalisierung anhand temporaler "Ausdrucksbewegungen" methodisch fassen?
 +++
 Um diese Frage zu beantworten, wurde ein dreistufiges Analysemodell entwickelt:
