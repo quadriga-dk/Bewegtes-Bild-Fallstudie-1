@@ -4,20 +4,20 @@
 ```{note}
 Das Videotutorial ist auf Englisch. Für eine deutsche Fassung bitte das Manual verwenden.
 ````
-In dem Video-Quickguide zur AdA-Timeline (Quelle/creative common: Stratil, Huthmann, Demir) werden Aufbau und Funktion, verschiedene Anpassungsoptionen in der Darstellung sowie Exportmöglichkeiten erläutert. Für detaillierte Beschreibungen zu allen Optionen empfehlen wir das [Manual](../assets/Manual_Advene_AdA_D_Vers1_0.pdf).
+In dem Video-Quickguide zur AdA-Timeline (Stratil, Huthmann, Demir) werden Aufbau und Funktion, verschiedene Anpassungsoptionen in der Darstellung sowie Exportmöglichkeiten erläutert. Für detaillierte Beschreibungen zu allen Optionen empfehlen wir das [Manual](../assets/Manual_Advene_AdA_D_Vers1_0.pdf).
 +++
-Eine kurze Inhaltsübersicht soll zur Orientierung dienen. Wer ab einem bestimmten Inhaltsabschnitt starten möchte, kann auf den in Klammern beigefügten Link klicken. Das Video in voller Länge ist unten abrufbar.
+Eine kurze Inhaltsübersicht soll zur Orientierung dienen. emir 2024). Eine kurze Inhaltsübersicht soll zur Orientierung dienen. Wer ab einem bestimmten Inhaltsabschnitt starten möchte, kann auf den jeweiligen Titel-Link klicken. Das Video in voller Länge ist unten abrufbar.
 +++
 ## Video: AdA-Timeline
 
-* Introduction: AdA Timeline
-* Opening the AdA Timeline in Advene
-* Structure and Functionality
-* Display Customization (URL, Edit Window, and Syntax Elements)  
-* The Syntax 
-* Setting for Types
-* Saving Timeline Settings
-* Export
+* <a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=e1e937e6-7bd3-43fa-a4f3-b20300a66b54&start=0" target="_blank">Introduction: AdA Timeline<a>
+* <a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=e1e937e6-7bd3-43fa-a4f3-b20300a66b54&start=21" target="_blank">Opening the AdA Timeline in Advene<a>
+* <a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=e1e937e6-7bd3-43fa-a4f3-b20300a66b54&start=96" target="_blank">Structure and Functionality<a>
+* <a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=e1e937e6-7bd3-43fa-a4f3-b20300a66b54&start=229" target="_blank">Display Customization (URL, Edit Window, and Syntax Elements)<a>  
+* <a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=e1e937e6-7bd3-43fa-a4f3-b20300a66b54&start=405" target="_blank">Setting for Types<a>
+* <a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=e1e937e6-7bd3-43fa-a4f3-b20300a66b54&start=660" target="_blank">Saving Timeline Settings<a>
+* <a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=e1e937e6-7bd3-43fa-a4f3-b20300a66b54&start=708" target="_blank">Export<a>
+
 
 <iframe src="https://videoup.uni-potsdam.de/Panopto/Pages/Embed.aspx?id=e1e937e6-7bd3-43fa-a4f3-b20300a66b54&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
