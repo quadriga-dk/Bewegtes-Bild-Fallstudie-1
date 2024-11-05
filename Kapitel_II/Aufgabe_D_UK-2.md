@@ -169,7 +169,8 @@ In diesem Screenshot ist die Erfassung solcher Timelaps in der Timeline zu sehen
 Die dazugehörigen Annotationen können unter folgenden UUIDs gefunden werden: `87b572d2-1dbb-11ef-a911-90b11c948b9a` sowie `ab1283ac-1dbb-11ef-b029-90b11c948b9a`
 
 Die dazugehörige Einstellung ist hier nochmal als Ausschnitt zu sehen: <br>
-VIDEO EINFÜGEN 
+
+<iframe src="https://videoup.uni-potsdam.de/Panopto/Pages/Embed.aspx?id=afd9f631-5349-4c2d-8f94-b21f00cfd0ac&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=true&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
 ```{code-cell} ipython3
 :tags: [remove-input]

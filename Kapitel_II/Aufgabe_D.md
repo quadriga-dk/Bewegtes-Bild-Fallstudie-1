@@ -88,7 +88,7 @@ Für die Annotationsarbeit mit der Ontologie wurden zwei Videotutorials erstellt
 
 Beide Videotutorials bieten gute Einstiegshilfen und Erklärungen der wichtigsten Funktionen und Anwendungen für die Arbeit mit der AdA-Filmontologie. Als Quick Guides sollen sie somit einen schnellen Start in die Annotationsarbeit ermöglichen. 
 +++
-Im Rahmen des AdA-Projekts wurde als Teil des AdA-Toolkits ein Manual entwickelt, welches darüber hinaus noch ausführlichere Anweisungen bereitstellt (QUELLE: Pfeilschifter et. al.). Detaillierte und spezifische Hilfen zu den je einzelnen Funktionen können dem Manual entnommen werden. Hier steht das Manual in deutscher Fassung zum Dowload bereit: [AdA-Manual](../assets/Manual_Advene_AdA_D_Vers1_0.pdf). Eine englische Version kann vom [AdA-Toolkit](https://www.ada.cinepoetics.fu-berlin.de/ada-toolkit/index.html) bezogen werden.
+Im Rahmen des AdA-Projekts wurde als Teil des AdA-Toolkits ein Manual entwickelt, welches darüber hinaus noch ausführlichere Anweisungen bereitstellt (Pfeilschifter et. al.). Detaillierte und spezifische Hilfen zu den je einzelnen Funktionen können dem Manual entnommen werden. Hier steht das Manual in deutscher Fassung zum Dowload bereit: [AdA-Manual](../assets/Manual_Advene_AdA_D_Vers1_0.pdf). Eine englische Version kann vom [AdA-Toolkit](https://www.ada.cinepoetics.fu-berlin.de/ada-toolkit/index.html) bezogen werden.
 
 ## Die nächsten Schritte...
 ```{image} ../assets/Laptop-Manual.png
