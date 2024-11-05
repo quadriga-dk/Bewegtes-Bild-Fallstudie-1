@@ -73,14 +73,13 @@ Für die Annotationsarbeit mit der Ontologie wurden zwei Videotutorials erstellt
 
 ### Video: AdA-Template
 
-* Ada-Template: Package
-* AdA Corpus Analysis View
-* Annotation Types in Timeline
-* Process Video, Shot Validation & Subtitles 
-* Scene Segmentation 
-* Packages: Splitting, Merging, Importing
-* Annotate with Short Cuts
-* Checker Function
+* <a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=71ca2ea8-b7ee-492f-a9ef-b20300a665d3&start=126" target="_blank">Ada-Template: Package</a>
+* <a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=71ca2ea8-b7ee-492f-a9ef-b20300a665d3&start=169" target="_blank">AdA Corpus Analysis View</a>
+* <a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=71ca2ea8-b7ee-492f-a9ef-b20300a665d3&start=226" target="_blank">Process Video, Shot Validation & Subtitles</a> 
+* <a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=71ca2ea8-b7ee-492f-a9ef-b20300a665d3&start=476" target="_blank">Scene Segmentation</a> 
+* <a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=71ca2ea8-b7ee-492f-a9ef-b20300a665d3&start=499" target="_blank">Packages: Splitting, Merging, Importing</a>
+* <a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=71ca2ea8-b7ee-492f-a9ef-b20300a665d3&start=623" target="_blank">Annotate with Short Cuts</a>
+* <a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=71ca2ea8-b7ee-492f-a9ef-b20300a665d3&start=698" target="_blank">Checker Function</a>
 
 <iframe src="https://videoup.uni-potsdam.de/Panopto/Pages/Embed.aspx?id=71ca2ea8-b7ee-492f-a9ef-b20300a665d3&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
