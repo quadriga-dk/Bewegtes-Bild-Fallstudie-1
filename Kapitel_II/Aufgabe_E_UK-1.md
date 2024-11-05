@@ -6,7 +6,7 @@ Das Videotutorial ist auf Englisch. Für eine deutsche Fassung bitte das Manual 
 ````
 In dem Video-Quickguide zur AdA-Timeline (Stratil, Huthmann, Demir) werden Aufbau und Funktion, verschiedene Anpassungsoptionen in der Darstellung sowie Exportmöglichkeiten erläutert. Für detaillierte Beschreibungen zu allen Optionen empfehlen wir das [Manual](../assets/Manual_Advene_AdA_D_Vers1_0.pdf).
 +++
-Eine kurze Inhaltsübersicht soll zur Orientierung dienen. emir 2024). Eine kurze Inhaltsübersicht soll zur Orientierung dienen. Wer ab einem bestimmten Inhaltsabschnitt starten möchte, kann auf den jeweiligen Titel-Link klicken. Das Video in voller Länge ist unten abrufbar.
+Eine kurze Inhaltsübersicht soll zur Orientierung dienen. Wer ab einem bestimmten Inhaltsabschnitt starten möchte, kann auf den jeweiligen Titel-Link klicken. Das Video in voller Länge ist unten abrufbar.
 +++
 ## Video: AdA-Timeline
 

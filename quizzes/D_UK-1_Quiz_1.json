@@ -1,10 +1,10 @@
 [
     {
-        "question": "Für unseren Beispielgegenstand haben wir die Auswahl der Annotationstypen an das Video angepasst. Welcher Typ wurde zur Corpus View hinzugefügt?",
+        "question": "Für unseren Beispielgegenstand haben wir die Auswahl der Annotationstypen an das Video angepasst. Die Ergänzung von welchem Annotationstyp ist am sinnvollsten?",
         "type": "many_choice",
         "answers": [
             {
-                "answer": "Visual Pattern",
+                "answer": "Light Contrast",
                 "correct": false,
                 "feedback": "Die Antwort ist falsch, dieser Typ wurde dem Core-Template nicht hinzugefügt."
             },
@@ -27,7 +27,7 @@
         ]
     },
     {
-        "question": "Und welcher Typ wurde weggelassen?",
+        "question": "Bei welchem Typ ist eine Annotation nicht sinnvoll?",
         "type": "many_choice",
         "answers": [
             {

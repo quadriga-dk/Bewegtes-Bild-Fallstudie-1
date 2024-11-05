@@ -43,6 +43,11 @@ Die AdA Corpus Analysis View bietet eine Basisauswahl an Annotationstypen, mit d
 :height: 250px
 :name: a4-s01
 ```
+````{margin}
+```{hint}
+Hierfür können die Annotationstypen auch mit der [Musterlösung](../assets/QUADRIGA-Fallstudie-Annotationspackage.azp) abgeglichen werden.
+```
+````
 
 ```{code-cell} ipython3
 :tags: [remove-input]

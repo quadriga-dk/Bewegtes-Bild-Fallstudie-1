@@ -46,7 +46,7 @@ Hierzu folgende Schritte durchführen:
 5. Die importierten Annotationstypen stehen nun zur Verfügung und können in der Timeline View angezeigt werden
 `````
 
-Ein ausführlicherer Guide für das Importieren findet sich sowohl unter Punkt 3.3 (S. 45ff) im Manual als auch im zweiten Videotutorial (Video: XX)
+Ein ausführlicherer Guide für das Importieren findet sich sowohl unter Punkt 3.3 (S. 45ff) im Manual als auch im zweiten Videotutorial (<a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=71ca2ea8-b7ee-492f-a9ef-b20300a665d3&start=499" target="_blank">Video: Packages: Splitting, Merging, Importing</a>)
 
 ## Error-Package: Fehlersuche & Korrektur
 
