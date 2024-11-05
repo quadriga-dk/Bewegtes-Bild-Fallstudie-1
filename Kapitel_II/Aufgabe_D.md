@@ -54,20 +54,20 @@ Wer erst bei diesem Schritt einsteigt, kann sich notwendiges Vorwissen jeweils h
 Die Videotutorials sind auf Englisch. Ein ausführliches Manual in deutscher Sprache (s.u.) steht ebenfalls zur Verfügung.
 ```
 ````
-Für die Annotationsarbeit mit der Ontologie wurden zwei Videotutorials erstellt (Quelle/creative common: Stratil, Huthmann, Demir). Eine kurze Inhaltsübersicht soll zur Orientierung dienen. Wer ab einem bestimmten Inhaltsabschnitt starten möchte, kann auf den in Klammern beigefügten Link klicken. Unten sind die Videos in voller Länge abrufbar.
+Für die Annotationsarbeit mit der Ontologie wurden zwei Videotutorials erstellt (Stratil, Huthmann, Demir 2024). Eine kurze Inhaltsübersicht soll zur Orientierung dienen. Wer ab einem bestimmten Inhaltsabschnitt starten möchte, kann auf den jeweiligen Titel-Link klicken. Unten sind die Videos in voller Länge abrufbar.
 
 ### Video: Advene Basics
 
-* The Interface: Menus Videoplayer, Timeline
-* Setup: Package and Video File
-* Annotation Types: Creating, Editing, Displaying, Deleting
-* Automatic Video Analysis
-* Creating annotations: creating, merging, deleting, copying or moving, editing
-* Edit View 
-* Search and Replace
-* Quick Edit & Quick Fill
-* Table View
-* Export & Visualization
+* <a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=cf912751-5223-4132-80bb-b20300a60e55&start=139" target="_blank">The Interface: Menus Videoplayer, Timeline</a>
+* <a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=cf912751-5223-4132-80bb-b20300a60e55&start=304" target="_blank">Setup: Package and Video File</a>
+* <a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=cf912751-5223-4132-80bb-b20300a60e55&start=451" target="_blank">Annotation Types: Creating, Editing, Displaying, Deleting</a>
+* <a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=cf912751-5223-4132-80bb-b20300a60e55&start=551" target="_blank">Automatic Video Analysis</a>
+* <a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=cf912751-5223-4132-80bb-b20300a60e55&start=687" target="_blank">Creating Annotations: Creating, Merging, Deleting, Copying or Moving, Editing</a>
+* <a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=cf912751-5223-4132-80bb-b20300a60e55&start=803" target="_blank">Edit View</a>
+* <a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=cf912751-5223-4132-80bb-b20300a60e55&start=826" target="_blank">Search and Replace</a>
+* <a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=cf912751-5223-4132-80bb-b20300a60e55&start=890" target="_blank">Quick Edit & Quick Fill</a>
+* <a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=cf912751-5223-4132-80bb-b20300a60e55&start=1070" target="_blank">Table View<a>
+* <a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=cf912751-5223-4132-80bb-b20300a60e55&start=1172" target="_blank">Export & Visualization</a>
 
 <iframe src="https://videoup.uni-potsdam.de/Panopto/Pages/Embed.aspx?id=cf912751-5223-4132-80bb-b20300a60e55&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
