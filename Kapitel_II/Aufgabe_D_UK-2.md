@@ -50,17 +50,42 @@ Ein ausführlicherer Guide für das Importieren findet sich sowohl unter Punkt 3
 
 ## Error-Package: Fehlersuche & Korrektur
 
-Im Folgenden steht hier ein Package bereit, in dem einige Fehler eingebaut sind.
-```{admonition} Übung
-*Welche Fehler konnten gefunden werden?*
-:::{dropdown} Antwort
-ANTWORT NOCH AUSFÜHREN
-:::
-*Wie können die Fehler korrigiert werden?*
-:::{dropdown} Antwort
-ANTWORT NOCH AUSFÜHREN
-:::
-```
+Im Folgenden steht hier ein [Package](../assets/QUADRIGA-Errorpackage.azp) bereit, in dem einige Fehler eingebaut sind.
+
+`````{admonition} Welche Fehler konnten gefunden werden?
+:class: tip
+````{admonition} Lösung
+:class: dropdown
+1. Auf der Spur 'Dialogue Text' wurden 2 Annotationen gelöscht
+![screenshot-A4-E-S01](../_images/A4-Errorpackage-S01.png)
+2. Auf der Spur 'Shot' wurden Annotationen gemerged und nicht renummeriert 
+![screenshot-A4-E-S02](../_images/A4-Errorpackage-S02.png)
+3. Auf der Spur 'Recording/Playback Speed' hat die erste Annotation einen falschen Wert ➡️ statt 'timelaps' müsste dort 'normal' eingetragen werden 
+4. Der Annotationstyp 'Volume' wurde gelöscht
++++
+Weitere Fehler können durch eine Überprüfung mit der Checker-Funktion gefunden werden. Um den Checker als View zu öffnen, oben in der Menüleiste auf 'View > Open View' gehen und den Checker anklicken. Folgende Fehler sind über den Checker auffindbar:
++++
+5. a) Overlapping: Annotationen, die sich in ihrer Dauer überlappen
+6. b) Completions: Undefinierte Keywords, die von den Keywords der Ada-Ontologie abweichen
+7. c) Empty Content: Annotationen ohne Inhalt
+![screenshot-A4-E-S03](../_images/A4-Errorpackage-S03.png)
+`````
+
+`````{admonition} Wie können die Fehler korrigiert werden?
+:class: tip
+````{admonition} Lösung
+:class: dropdown
+Es kann auch hier für einen direkten Abgleich nützlich sein das korrekte Annotationspaket zu importieren. 
++++
+Nachfolgend gehen wir alle Fehler kurz durch und stellen eine Lösung bereit:
++++
+1. Annotation neu hinzufügen und durch Freitext-Eingabe Untertitel als Annotionswert ergänzen. ODER: Import der Lösungsdatei und die fehlende Annotation aus der Spur reinkopieren; ebenso kann die Gesamtzahl der Annotationen für einen Typ durch einen Rechtsklick (ganz unten in der Pop-up-Liste) angezeigt werden, so kann durch die Überprüfung der Gesamtzahl der Annotationen für eine Spur direkt nach Abweichungen kontrolliert werden
+2. Shots wieder richtig segmentieren und korrekt renummerieren 
+3. Falschen Wert korrigieren 
+4. Durch Import des Templates kann der Annotationstyp 'Volume' erneut importiert werden. Anschließend automatische Erkenner für 'Waveform' durchführen und die automatisch generierte Annotation auf die Spur 'Volume' duplizieren; danach die neu erstellte Spur löschen (so bleibt die Spur als Teil der vordefinierten AdA-Syntax erhalten)
+5. a) Overlapping Annotations, b) Unspecified Keywords und c) Empty Content: hier zunächst die Checker Funktion aktivieren. Anschließend Fehler beheben indem für a) eine Korrektur des Timecodes für die sich überschneidenden Annotationen durchführt, für b) die richtigen Keywords gemäß Ontologie einträgt und c) den leeren Annotationen die richtigen Werte zuordnet
+`````
+
 ## Diskussion der Ergebnisse
 
 Mit der AdA-Filmontologie kann ermöglicht werden auf der Grundlage eines Klassifikationsschemas filmanalytische Beobachtungen zu systematisieren. Die Systematisierung ist also ein notwendiger Schritt, um Metadaten einerseits unter ganz spezifischen Kriterien herzustellen als auch anschließend vergleichen zu können. 
