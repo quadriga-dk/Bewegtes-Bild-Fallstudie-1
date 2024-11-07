@@ -27,9 +27,10 @@ Mithilfe von Annotationsdaten, die auf Basis einer filmanalytischen Ontologie er
 2. Temporale und multimodale Muster können erkannt, differenziert  und ausgewertet werden.
 3. Auf Grundlage der Qualifizierung dieser Muster sowie Exploration der Daten können Hypothesen abgeleitet und präsentiert werden. 
 ```
+## AdA-Timelime
 
 Wie können Annotationsdaten repräsentierfähig gemacht werden und welche Möglichkeiten der Datenexploration kann es geben? <br>
-Im Rahmen der AdA-Ontologie wurde die sogenannte AdA-Timeline, eine dynamische, browserbasierte Timeline-Ansicht entwickelt. Die mit der AdA-Ontologie hergestellten Annotationsdaten können somit direkt als Anordnungen visualisiert werden. Die AdA-Timeline ist sowohl ein Werkzeug zur Greifbarmachung empirischer Daten als auch selbst eine dynamische Datenansicht. Im Unterschied zu einer linearen Timelineansicht ist die AdA-Timeline flexibel anpassbar. Es gibt zahlreiche Visualisierungsoptionen, die es ermöglichen die zuvor erstellten Annotationsdaten in Form verschiedener Ansichten darzustellen. <br>
+Im Rahmen der AdA-Ontologie wurde die sogenannte AdA-Timeline, eine dynamische, HTML-basierte Timeline-Ansicht entwickelt. Die mit der AdA-Ontologie hergestellten Annotationsdaten können somit direkt als Anordnungen visualisiert werden. Die AdA-Timeline ist sowohl ein Werkzeug zur Greifbarmachung empirischer Daten als auch selbst eine dynamische Datenansicht. Im Unterschied zu einer linearen Timelineansicht ist die AdA-Timeline flexibel anpassbar. Es gibt zahlreiche Visualisierungsoptionen, die es ermöglichen die zuvor erstellten Annotationsdaten in Form verschiedener Ansichten darzustellen. <br>
 Dabei orientiert sich die Ansicht an Partituren: Zeitliche Dynamiken eines Films werden auf unterschiedlichen Gestaltungsebenen in ihrem Zusammenspiel lesbar. Die Annotationstypen der AdA-Filmontologie werden also – ähnlich wie Partituren – als synchrone Spuren untereinander dargestellt. 
 ![screenshot-A5-01](../_images/A5-S01.png)
 ```{important}
@@ -44,4 +45,4 @@ Deskriptive Methoden heben diese zeitliche Beschaffenheit von Filmen auf, indem 
 +++
 Welche Möglichkeiten deskriptiver Analyse kann es geben, um trotz dieser vorherrschenden Diskrepanz filmische Ausdrucksbewegungen auf empirischer Ebene greifbar zu machen? Mit der AdA-Timeline wurde – in Anlehnung an diese Fragestellung – eine Methode entwickelt, die den Fokus der Datenexploration- und Auswertung auf die temporale und multimodale Spezifik von Filmen und anderen Bewegtbildmedien richtet.
 +++
-Im nächsten Schritt machen wir uns mit den Funktionen und Anpassungsoptionen der AdA-Timeline vertraut. Grundlage für die Erstellung der Timeline ist ein mit der AdA-Ontologie erstelltes Annotationspaket. Hierzu kann das Paket aus der vorigen Übung verwendet werden. Ist das Paket aus Übung 4 noch nicht vollständig ausgefüllt, kann unsere Musterlösung verwendet werden.
+Im nächsten Schritt machen wir uns mit den Funktionen und Anpassungsoptionen der AdA-Timeline vertraut. Grundlage für die Erstellung der Timeline ist ein mit der AdA-Ontologie erstelltes Annotationspaket. Hierzu kann das Paket aus der vorigen Übung verwendet werden. Ist das Paket aus Übung 4 noch nicht vollständig ausgefüllt, kann mit unserer Musterlösung gearbeitet werden.

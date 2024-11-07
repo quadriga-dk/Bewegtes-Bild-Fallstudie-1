@@ -43,12 +43,12 @@ Am oberen Rand umfasst die Timeline zwei fixierte Spuren: 1. Die zoom control, m
 
 ````{margin}
 ```{note}
-Beim Öffnen ist die Referenzspur automatisch auf den Annotationstypen "shot" festgelegt. Dies kann über das Edit-Fenster geändert werden. Mehr Infos zur Anpassung s.u.
+Beim Öffnen ist die Referenzspur automatisch auf den Annotationstypen 'shot' festgelegt. Dies kann über das Edit-Fenster geändert werden. Mehr Infos zur Anpassung s.u.
 ```
 ````
 ![screenshot-A5-03](../_images/A5-S03.png)
 
-Die Zoom-Funktion erlaubt sowohl die Übersicht über einen gesamten Film als auch das beliebige Hineinzoomen in Detailansichten. Um den zoom control zu bedienen, die linke Maustaste gedrückt halten und den Bereich skalieren, der angezeigt werden soll. Den Browser danach aktualisieren.
+Die Zoom-Funktion erlaubt sowohl die Übersicht über einen gesamten Film als auch das beliebige Hineinzoomen in Detailansichten. Um die 'zoom control' zu bedienen, die linke Maustaste gedrückt halten und den Bereich skalieren, der angezeigt werden soll. Den Browser danach aktualisieren.
 +++
 Alle weiteren im Hauptbereich der Timeline angezeigten Spuren zeigen die einzelnen Annotationstypen untereinander. Sie sind auf den denselben Zeitabschnitt wie die Referenzspur bezogen, sodass alle untereinander angezeigten, spurenübergreifenden Werte zeitgleiche Phänomene adressieren.
 +++
