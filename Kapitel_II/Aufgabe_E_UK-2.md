@@ -102,5 +102,22 @@ So sieht die oben beschriebene Darstellung als Datenvisualisierung aus: <br>
 ![screenshot-A5-12](../_images/A5-S12.png)
 
 ```
+## Qualifizierung der Daten
 
+````{margin}
+```{important}
+Hier geht es einerseits um **Datenexploration**, d.h. wir fragen danach, welche Erkenntnisse liefern unsere Ergebnisse? Auf was für Auffälligkeiten stoßen wir in der Exploration der Daten? <br>
+Andererseits geht es um **Dateninterpretation**, d.h. danach zu fragen, wie die Daten unter Berücksichtigung bestimmter Ansätze, Fragestellungen und kritischen Beobachtungen qualifiziert werden können.
+```
+````
 
+Wie können wir diese zeitlichen Muster nun "lesen" bzw. filmanalytisch identifizieren, differenzieren und auswerten? Auf welche raumzeitlichen Wahrnehmungsschemata können die erhobenen Datensätze in Bezug auf die Qualifizierung unseres Untersuchungsgegenstandes verweisen? 
+Mittels der AdA-Timeline haben wir Visualisierungen erstellt, durch die eine datengestützte Auswertung unseres Untersuchungsgegenstandes vorgenommen werden soll. Exemplarisch soll anhand von Ausschnitten der Visualisierung eine Analyse vollzogen werden, durch die wir Hypothesen angelehnt an unsere eingangs gestellte Frage zur Affektrhetorik in Online-Videos zur Klimakrise präsentieren können.
++++
+Sowohl die Visualisierungen als auch die Annotationen selbst sollen jedoch nicht einzig als reines Hilfsmittel begriffen werden, die lediglich dazu dienen empirische Evidenz für vorab gegebene Erkenntnisse zu liefern. Wir begreifen den Prozess der Datenerhebung und die Annotationen sowie Visualisierungen der Annotationsdaten als genuine Medien und Verfahren des Denkens mit und über Bewegtbilder. 
+>Das heißt Visualisierungen sind Interfaces und Medien der Analyse, sie sind wesentlicher Bestandteil eines abduktiven Forschungsprozesses, der sich mit Annotationen (wiederum in Konstellationen mit den Bewegtbildern) auseinandersetzt (Jasper Stratil: Audiovisuelle Rhetorik
+als politische Intervention, S. 83). 
+
+### Dateninterpretation: Ausgangsthese und Formen ästhetischer Anordnungen 
+
+*Informationen zu diesem Teil folgen in Kürze.*
