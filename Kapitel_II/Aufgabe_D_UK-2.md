@@ -60,7 +60,7 @@ Im Folgenden steht hier ein [Package](../assets/QUADRIGA-Errorpackage.azp) berei
 ![screenshot-A4-E-S01](../_images/A4-Errorpackage-S01.png)
 2. Auf der Spur 'Shot' wurden Annotationen gemerged und nicht renummeriert 
 ![screenshot-A4-E-S02](../_images/A4-Errorpackage-S02.png)
-3. Auf der Spur 'Recording/Playback Speed' hat die erste Annotation einen falschen Wert ➡️ statt 'timelaps' müsste dort 'normal' eingetragen werden 
+3. Auf der Spur 'Recording/Playback Speed' hat die erste Annotation einen falschen Wert ➡️ statt 'timelapse' müsste dort 'normal' eingetragen werden 
 4. Der Annotationstyp 'Volume' wurde gelöscht
 +++
 Weitere Fehler können durch eine Überprüfung mit der Checker-Funktion gefunden werden. Um den Checker als View zu öffnen, oben in der Menüleiste auf 'View > Open View' gehen und den Checker anklicken. Folgende Fehler sind über den Checker auffindbar:
@@ -154,7 +154,7 @@ In Bezug auf unser Beispielvideo betrifft dies insbesondere jene Einstellungen, 
 ```
 ### Annotationstyp: Recording/Playback Speed
 
-Durch den Annotationstyp Recording/Playback Speed kann die Aufnahmegeschwindigkeit erfasst werden. Es gibt Annotationen von sehr kurzer Dauer, die einen Timelaps markieren. Definiert wird der Timelaps folgendermaßen:
+Durch den Annotationstyp Recording/Playback Speed kann die Aufnahmegeschwindigkeit erfasst werden. Es gibt Annotationen von sehr kurzer Dauer, die einen Timelaps markieren. Definiert wird der Timelapse folgendermaßen:
 
 > Noticeable acceleration of the viewers' time perception.
 Movements appear as unnaturally fast. Objects, such as
@@ -162,7 +162,7 @@ plants, that may otherwise be perceived as static can get
 animated through this technique in comparison to everyday
 perception.
 
-In diesem Screenshot ist die Erfassung solcher Timelaps in der Timeline zu sehen: 
+In diesem Screenshot ist die Erfassung solcher Timelapse in der Timeline zu sehen: 
 
 ![screenshot-A4-S08](../_images/A4-S08.png)
 
