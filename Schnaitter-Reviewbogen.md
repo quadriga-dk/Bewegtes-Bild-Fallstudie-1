@@ -6,7 +6,7 @@ author: "Schnaitter, Hannes"
 # Arbeitsnotizen
 ## Startseite
 - Die erste Grafik zum start ist super. Vielleicht ist es möglich, das Bildschirmfoto noch etwas hochauflösender zu machen?
-- [ ] externe Links nach dem neuen Standard markieren (ich erstelle dazu einen Issue und einen Pull-Request)
+- [ ] externe Links nach dem neuen Standard markieren (ich erstelle dazu einen Issue und einen Pull-Request [#2](https://github.com/quadriga-dk/Bewegtes-Bild-Fallstudie-1/pull/2))
 - 
 
 
