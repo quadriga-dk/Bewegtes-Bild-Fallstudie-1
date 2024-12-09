@@ -19,7 +19,7 @@ from quadriga_config import colors
 ```
 
 # Annotieren mit ELAN
-In diesem Unterkapitel soll das Annotationstool ELAN vorgestellt sowie die wesentlichen Funktionen und Bedienungsweisen kurz und übersichtlich umrissen werden. Umfassende Anleitungen aller Grundfunktionen im Detail können unter "Documentation" auf der [Seite des Entwicklers](https://archive.mpi.nl/tla/elan) aufgerufen werden. Ein Quick Guide vom Entwickler [Max Planck Institute for Psycholinguistics](https://www.mpi.nl/) kann [hier](https://www.mpi.nl/tools/elan/docs/How-to-pages_9.pdf) eingesehen werden.
+In diesem Unterkapitel soll das Annotationstool ELAN vorgestellt sowie die wesentlichen Funktionen und Bedienungsweisen kurz und übersichtlich umrissen werden. Umfassende Anleitungen aller Grundfunktionen im Detail können unter "Documentation" auf der <a href="https://archive.mpi.nl/tla/elan" class="external-link" target="_blank">Seite des Entwicklers</a> aufgerufen werden. Ein Quick Guide vom Entwickler <a href="https://www.mpi.nl/" class="external-link" target="_blank">Max Planck Institute for Psycholinguistics</a> kann <a href="https://www.mpi.nl/tools/elan/docs/How-to-pages_9.pdf" class="external-link" target="_blank">hier</a> eingesehen werden.
 +++
 ELAN (Eudico Linguistik Annotator) ist eine Open Source Transkriptions- und Annotationssoftware für Mediendateien mit Schwerpunkt Video. Entwickelt wurde die Software vom Max Planck Institute for Psycholinguistics. ELAN kennzeichnet sich insbesondere durch die Möglichkeit der Herstellung multimodaler Annotationen aus, wie zum Beispiel durch simultane Annotationsarbeiten an Bild und Ton. 
 +++
@@ -154,7 +154,7 @@ Zum Löschen der Werte über 'Zeile' auf 'Entferne Annotationen oder Werte' klic
 
 ## Exportieren
 
-ELAN-Projekte können in unterschiedliche Datenformate exportiert werden. Hierzu unter 'Datei' auf 'Exportieren als' gehen. Eine Liste an Exportformaten wird angezeigt. Der Export ermöglicht die Weiterverarbeitung der Daten, zum Beispiel als **CSV-File**. Eine ausführliche Anleitung der einzelnen Formate kann [hier](https://www.mpi.nl/corpus/html/elan/ch01s04.html#Sec_Export_as) eingesehen werden.
+ELAN-Projekte können in unterschiedliche Datenformate exportiert werden. Hierzu unter 'Datei' auf 'Exportieren als' gehen. Eine Liste an Exportformaten wird angezeigt. Der Export ermöglicht die Weiterverarbeitung der Daten, zum Beispiel als **CSV-File**. Eine ausführliche Anleitung der einzelnen Formate kann <a href="https://www.mpi.nl/corpus/html/elan/ch01s04.html#Sec_Export_as" class="external-link" target="_blank">hier</a> eingesehen werden.
 
 # Zusammenfassung der Schritte
 
