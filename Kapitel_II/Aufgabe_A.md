@@ -35,7 +35,7 @@ Mithilfe datengestützter filmanalytischer Methoden können Metadaten zu audiovi
 Um Filme, Videos oder Bewegtbildmaterial für filmanalytische Arbeiten überhaupt erst greifbar machen zu können, ist es sinnvoll deskriptive Methoden anzuwenden. Ein bewährtes Werkzeug ist die Erstellung von (semantischen) Annotationen. Dieser Prozess kann entweder manuell durchgeführt werden oder automatisch bzw. semi-automatisch. Dabei sind die Ergebnisse, die durch Annotationen entstehen, am Ende auch immer selbst als Produkte oder Artefakte ihres Entstehungszusammenhangs zu begreifen (Horstmann/Seltmann 2023).
 ```{note}
 Im Kontext der Film- und Medienwissenschaft sind Annotationen als eine zeitbasierte Anreicherung von Filmen oder Videos um Metadaten bzw. Metainformationen zu verstehen.
-> __Siehe ebenfalls__: [Mehr Information zu Annotationen](https://zfdg.de/wp_2023_002)
+> __Siehe ebenfalls__: <a href="https://zfdg.de/wp_2023_002" class="external-link" target="_blank">Mehr Information zu Annotationen</a>
 ```{image} ../assets/Annotation-Visualisierung.png
 :width: 400px
 :align: center

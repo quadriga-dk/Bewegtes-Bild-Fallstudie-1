@@ -20,7 +20,7 @@ from quadriga_config import colors
 
 # Annotieren mit Advene 
 
-Für detailreiche Erklärungen zu der Bedienung von Advene stehen [hier](https://github.com/oaubert/advene/wiki/AdveneUserGuide)  sowie [hier](https://www.advene.org/screencasts.html#screencasts) Userguides zur Verfügung, in denen die wesentlichen Funktionen und Optionen von Advene erklärt werden. <br>
+Für detailreiche Erklärungen zu der Bedienung von Advene stehen <a href="https://github.com/oaubert/advene/wiki/AdveneUserGuide" class="external-link" target="_blank">hier</a>  sowie <a href="https://www.advene.org/screencasts.html#screencasts" class="external-link" target="_blank">hier</a> Userguides zur Verfügung, in denen die wesentlichen Funktionen und Optionen von Advene erklärt werden. <br>
 Die für *unseren* Workflow wichtigen Funktionen sollen im Folgenden in einem Schritt-für-Schritt Guide reproduziert und nachvollzogen werden.
 
 ## Einrichtung, Bedienung und Interface
@@ -32,7 +32,7 @@ Ein **MIME Type** (Multipurpose Internet Mail Extensions) ist ein Standardformat
 ```
 ````
 ```{admonition} Content bzw. MIME Types für Annotationstypen
-Andere Schemata bzw. Content Types/MIME Types, wie z.B. `JSON data` oder `Keyword list`, stehen ebenfalls zur Verfügung. Unter "Annotation Types" im [Userguide](https://github.com/oaubert/advene/wiki/AdveneUserGuide) finden sich ausführliche Informationen zu den einzelnen Typen.
+Andere Schemata bzw. Content Types/MIME Types, wie z.B. `JSON data` oder `Keyword list`, stehen ebenfalls zur Verfügung. Unter "Annotation Types" im <a href="https://github.com/oaubert/advene/wiki/AdveneUserGuide" class="external-link" target="_blank">Userguide</a> finden sich ausführliche Informationen zu den einzelnen Typen.
 ```
 Im Zentrum der Anwendung ist ein Videoplayer sowie eine Timeline zu sehen. Am linken Rand erscheinen die Annotationstypen (in unserem Fall werden es die einzelnen zu analysierenden Parameter sein). 
 +++
