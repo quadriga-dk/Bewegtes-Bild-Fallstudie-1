@@ -52,7 +52,7 @@ Ein einfaches Beispiel:
 Dadurch ist die Abfrage, wie viele Einwohner die Hauptstadt von Deutschland habe, möglich: Was ist der Wert für das Prädikat "**hat Einwohnerzahl von**" für die Entität auf die das Prädikat "**ist die Hauptstadt von**" den Wert "**Deutschland**" hat?
 +++
 Wenn in einer Datenbank - bzw. nennt man diese Verlinkung von Triplen zusammen einen “**Graph**” – alle Informationen auf diese Weise formalisiert sind, lassen sich alle möglichen Relationen abfragen: Eine Liste aller Hauptstädte, eine Liste von Städten nach Einwohnerzahl etc. <br>
-Das Semantic Web arbeitet mit Sprachen zur Beschreibung der Inhalte, einer der bekanntesten ist "**RDF**" (Resource Description Framework). **RDF** ist eine Standardsprache zur Beschreibung von Ressourcen (Ressourcen können sein: ein Wort, ein Dokument, eine Grafik, eine Website usw.) im World Wide Web und wurde vom [World Wide Web Consortium](https://www.w3.org/) (W3C) entwickelt.
+Das Semantic Web arbeitet mit Sprachen zur Beschreibung der Inhalte, einer der bekanntesten ist "**RDF**" (Resource Description Framework). **RDF** ist eine Standardsprache zur Beschreibung von Ressourcen (Ressourcen können sein: ein Wort, ein Dokument, eine Grafik, eine Website usw.) im World Wide Web und wurde vom <a href="https://www.w3.org/" class="external-link" target="_blank">World Wide Web Consortium</a> (W3C) entwickelt.
 +++
 Nehmen wir unser Beispiel von oben, als semantisches Triple formuliert in RDF mit URLs als URIs können unsere Relationen folgendermaßen aussehen:
 
@@ -64,7 +64,7 @@ Wie kann nun eine solche Formalisierung für die Begriffe der Filmanalyse ausseh
 ## Filmanalytische Begriffe als semantische Triple
 
 Unser "Subjekt" ist immer "**Segment X**". Dieser Identifier ist zum einen verknüpft mit dem Film (Prädikat: "**ist aus**", Objekt: "**Film ABC**") und hat dort eine konkrete Anfangs- und Endzeit (Prädikat "**hat Timecode von**", Objekt: "**ff:ss:mm:hh - ff:ss:mm:hh**"). Diese Zeitangabe kann einer Einstellung entsprechen, einem einzelnen Frame oder einer freien Segmentierung. Zum anderen werden ihm auf verschiedenen Ebenen analytische Werte zugeschrieben. Damit diese Angaben als Relationen formulierbar sind, ist der erste Schritt, das Vokabular als Prädikate im Sinne von "**hat in einer bestimmten analytischen Dimension**" und Objekte der Art "**eine bestimmte Eigenschaft**" schematisch darzustellen.  
-Für diesen Zweck hat das BMBF-geförderte Projekt ["Affektrhetoriken des Audiovisuellen"](https://www.ada.cinepoetics.fu-berlin.de/) einen Prototyp der Formalisierung vorgenommen und die [Ada-Filmontologie](https://www.ada.cinepoetics.fu-berlin.de/ada-toolkit/index.html) publiziert. Die Annotationen haben darin stets das Format: "**Segment X**" "**hat auf dem analytischen Type Y**" "**den Value Z**" (für einen besseren Überblick sind die einzelnen Typen zusätzlich auf analytischen "**Leveln**" gebündelt).
+Für diesen Zweck hat das BMBF-geförderte Projekt <a href="https://www.ada.cinepoetics.fu-berlin.de/" class="external-link" target="_blank">"Affektrhetoriken des Audiovisuellen"</a> einen Prototyp der Formalisierung vorgenommen und die <a href="https://www.ada.cinepoetics.fu-berlin.de/ada-toolkit/index.html" class="external-link" target="_blank">Ada-Filmontologie</a> publiziert. Die Annotationen haben darin stets das Format: "**Segment X**" "**hat auf dem analytischen Type Y**" "**den Value Z**" (für einen besseren Überblick sind die einzelnen Typen zusätzlich auf analytischen "**Leveln**" gebündelt).
 
 ## Ontologie 
 
