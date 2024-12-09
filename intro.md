@@ -3,7 +3,7 @@
 :name: ada-timeline-intro
 ```
 ---
-Die vorliegende Fallstudie "Affektrhetorik in Online-Videos zur Klimakrise. Datengestützte Analysen audiovisueller Muster", die hier in Form einer [Open Educational Ressource](https://open-educational-resources.de/was-ist-oer-3-2/) als interaktives [Jupyter Book](https://jupyterbook.org/en/stable/intro.html) zur Verfügung steht, soll am Beispiel von Online-Videos zur Klimakrise modellhaft zeigen, inwiefern sich politische Zielsetzungen in audiovisuellen Diskursen auf die ihnen zugrunde liegenden Inszenierungsmuster beziehen lassen. 
+Die vorliegende Fallstudie "Affektrhetorik in Online-Videos zur Klimakrise. Datengestützte Analysen audiovisueller Muster", die hier in Form einer <a href="https://open-educational-resources.de/was-ist-oer-3-2/" class="external-link" target="_blank">Open Educational Ressource</a> als interaktives <a href="https://jupyterbook.org/en/stable/intro.html" class="external-link" target="_blank">Jupyter Book</a> zur Verfügung steht, soll am Beispiel von Online-Videos zur Klimakrise modellhaft zeigen, inwiefern sich politische Zielsetzungen in audiovisuellen Diskursen auf die ihnen zugrunde liegenden Inszenierungsmuster beziehen lassen. 
 Im Vordergrund des Forschungsansatzes steht die Fähigkeit, multimodale und temporale Muster durch die Herstellung und Visualisierung von Primärdaten erkennen und qualifizieren zu können. Zur Durchführung methodischer Analysen werden Annotationsdaten erstellt.
 +++
 Von einer tabellarischen Annotation bis zur Visualisierung von multimodalen und temporalen Verlaufsdynamiken soll gezeigt werden, wie anhand filmanalytischer Daten affektive Rhetoriken sowie Inszenierungsmuster in Online-Videos zur Klimakrise nachvollzogen werden können.
@@ -17,7 +17,7 @@ Die Fallstudie ist unterteilt in verschiedene Aufgabenbereiche. Jeder Aufgabenbe
 
 * Anhand des ausgewählten Videos sollen in einem [**ersten Schritt**](#Kapitel_II/Aufgabe_A) tabellarische Annotationsdaten erfasst werden. Dazu wird auf Grundlage filmanalytischer Basisparameter ein Einstellungsprotokoll erstellt.
 +++
-* Der [**zweite Schritt**](#Kapitel_II/Aufgabe_B) umfasst die Herstellung und Anreicherung von Annotationsdaten mit Tools. Beispielhaft soll mit den Videoannotationstools [Advene](https://www.advene.org/) und [ELAN](https://archive.mpi.nl/tla/elan) gearbeitet werden.
+* Der [**zweite Schritt**](#Kapitel_II/Aufgabe_B) umfasst die Herstellung und Anreicherung von Annotationsdaten mit Tools. Beispielhaft soll mit den Videoannotationstools <a href="https://www.advene.org/" class="external-link" target="_blank">Advene</a> und <a href="https://archive.mpi.nl/tla/elan" class="external-link" target="_blank">ELAN</a> gearbeitet werden.
 +++
 * Anschließend sollen die basisschematischen Parameter filmanalytischer Termini im [**dritten Schritt**](#Kapitel_II/Aufgabe_C) nach Semantic Web Prinzipien in eine Filmontologie überführt werden.
 +++

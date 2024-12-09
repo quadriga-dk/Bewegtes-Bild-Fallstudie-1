@@ -34,9 +34,9 @@ Kurzdefinitionen zu den Basisparametern
 ```
 ```{seealso}
 Für eine vertiefende Beschäftigung mit den Grundbegriffen empfehlen wir folgende Internetseiten bzw. Lektüre:
-* [Grundbegriffe Universität Wien](https://filmanalyse.at/)
-* [Netzwerk Cinema CH](https://www.netzwerk-cinema.ch/uploads/files/Glossaire_reaseau_cinema_ch.pdf)
-* Hagener/Pantenburg: [Handbuch Filmanalyse](https://link.springer.com/book/10.1007/978-3-658-13339-9)
+* <a href="https://filmanalyse.at/" class="external-link" target="_blank">Grundbegriffe Universität Wien</a>
+* <a href="https://www.netzwerk-cinema.ch/uploads/files/Glossaire_reaseau_cinema_ch.pdf" class="external-link" target="_blank">Netzwerk Cinema CH</a>
+* Hagener/Pantenburg: <a href="https://link.springer.com/book/10.1007/978-3-658-13339-9" class="external-link" target="_blank">Handbuch Filmanalyse</a>
 ```
 ````{margin}
 ```{note}
