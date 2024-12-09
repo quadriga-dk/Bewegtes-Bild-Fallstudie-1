@@ -3,6 +3,13 @@ lang: de-DE
 author: "Schnaitter, Hannes"
 ---
 
+# Arbeitsnotizen
+## Startseite
+- Die erste Grafik zum start ist super. Vielleicht ist es möglich, das Bildschirmfoto noch etwas hochauflösender zu machen?
+- [ ] externe Links nach dem neuen Standard markieren (ich erstelle dazu einen Issue und einen Pull-Request)
+- 
+
+
 # Internes Review
 
 ## Zielgruppe
