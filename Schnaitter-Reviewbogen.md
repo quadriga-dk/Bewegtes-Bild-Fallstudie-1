@@ -8,11 +8,20 @@ author: "Schnaitter, Hannes"
 - Die erste Grafik zum Start ist super.
   - [ ] Vielleicht ist es möglich, das Bildschirmfoto noch etwas hochauflösender zu machen?
 - [x] externe Links nach dem neuen Standard markieren (ich erstelle dazu einen Issue und einen Pull-Request [#2](https://github.com/quadriga-dk/Bewegtes-Bild-Fallstudie-1/pull/2))
+- Absatz 2 in intro.md
+  > Von einer tabbelarischen Annotation bis zur Visualisierung … nachvollzogen werden können.
+  Ist ziemlich kompliziert, wenn man von der Hälfte der Wörter die korrekte Bedeutung in der Filmwissenschaft nicht kennt.
+  - [ ] Ist das für die Zielgruppe verständlich?
+  - [ ] Wer ist die Zielgruppe genau?
+  - [ ] Werden diese Begriffe später noch definiert?
+  
+  Das ist ein Satz, bei dem auch ein Glossar helfen könnte. 
 - 
 
 # Vorgeschlagene Änderungen (in diesem branch bereits durchgeführt)
 - Umwandlung der admonition am Ende von intro.md in einen Hinweis.
   - [ ] Titel des Hinweises ggf. anpassen
+  - [ ] Gibt es eine Dopplung zum Abschnitt "Aufbau der Übungen"?
 - 
 
 # Internes Review
