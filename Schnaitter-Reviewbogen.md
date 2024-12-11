@@ -49,7 +49,7 @@ author: "Schnaitter, Hannes"
 - `Kapitel_I/Einführung_in_die_datengestützte_Filmanalyse.md`:33-35:
   - [ ] Umwandlung der admonition in `hinweis`
 - [ ] `Kapitel_I/Information_und_Material.md` Admonitions umgestellt auf QUADRIGA Varianten
-  - [ ] Umwandlung in eine Liste von Tools
+  - [x] Umwandlung in eine Liste von Tools -> wurde rückgängig gemacht
   - [ ] Umwandlung von `###` Glossare in seealso
   - [ ] ist `hinweis` passend für die `margin`-Notiz?
 
