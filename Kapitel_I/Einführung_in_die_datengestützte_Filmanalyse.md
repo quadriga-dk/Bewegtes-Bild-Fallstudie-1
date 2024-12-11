@@ -30,9 +30,9 @@ Die Fallstudie umfasst drei zentrale Forschungsfragen, die durch die hier vermit
 3. Inwiefern können durch empirisch hergestellte quantifizierbare Daten Aussagen über die Qualifizierung audiovisueller Inszenierungsdynamiken und den damit verbundenen Affizierungen getroffen werden? 
 +++
 An einem exemplarischen Video sollen in einem dreistufigen Prozess filmanalytische Primärdaten hergestellt werden, anhand derer sich Aussagen über die Inszenierungsdynamiken in Bezug auf intendierte Affizierungen treffen lassen. 
-```{attention} 
-**Subjektive Einordnung der Daten vs. quantitative Erhebung**
-+++
+```{admonition} Subjektive Einordnung der Daten vs. quantitative Erhebung
+:class: hinweis
+
 Eine wichtiges Anliegen der Fallstudie ist es, die Emotionalisierung als subjektives Erleben in Relation zu quantifizierbaren, objektivierbaren Metadaten zu setzen, d.h. die Bedeutung der Visualisierungen und der qualifizierenden Beschreibung als einen notwendigen Schritt anzusehen, um diese Subjektivierungseffekte des Filme-Sehens überhaupt erst greifen zu können. Daher ist es im Rahmen der Fallstudie wichtig, die erhobenen Datensätze stets qualifizierbar zu machen.
 ```
 *Die zentralen Aufgaben der Fallstudie umfassen...*

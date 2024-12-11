@@ -24,6 +24,8 @@ author: "Schnaitter, Hannes"
   - [ ] Gibt es eine Dopplung zum Abschnitt "Aufbau der Übungen"?
 - `Kapitel_I/Einführung_in_die_datengestützte_Filmanalyse.md`:14:
   - [ ] Korrektur der grammatischen Fälle
+- `Kapitel_I/Einführung_in_die_datengestützte_Filmanalyse.md`:33-35:
+  - [ ] Umwandlung der admonition in `hinweis` 
 
 # Internes Review
 
