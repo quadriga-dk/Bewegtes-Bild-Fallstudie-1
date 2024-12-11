@@ -35,6 +35,9 @@ name: aufgabenaufbau-oer
 
 Aufgabenfluss der OER
 ```
+## Für wen ist diese Fallstudie konzipiert und welche Lerninhalte werden vermittelt?
+Die Fallstudie richtet sich an alle Promovierende, Wissenschaftler:innen, Akademiker:innen oder Studierende, insbesondere der Fachrichtungen Film- und Medienwissenschaft, die Interesse am Umgang mit digitalen, filmanalytischen Daten haben. Vorkenntnisse sind vorteilhaft, jedoch keine notwendige Voraussetzung.
+
 ```{admonition} Hinweis: Vorerfahrung
 :class: hinweis
 Ein wichtiges Anliegen der Fallstudie ist es den Zusammenhang zwischen einem Einstellungsprotokoll, der Handhabung von Annotationstools hin zu der Entwicklung und Bedienung einer komplexen, maschinenlesbaren Ontologie verständlich zu machen. Wer jedoch bereits die notwendigen Kompetenzen der ersten beiden Aufgaben beherrscht, kann ab Aufgabe C beginnen.

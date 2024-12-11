@@ -14,9 +14,8 @@ Hier setzt die vorliegende Fallstudie an: Sie geht von der Prämisse aus, dass F
 Die intendierten Emotionalisierungsstrategien politisch motivierter Videos zur Klimakrise auf der vielseitig genutzten Videoplattform YouTube sind Untersuchungsgegenstand der vorliegenden filmanalytischen Fallstudie. Über die Kombination von (semi-) automatisierten und manuellen Annotationen sollen die intendierten Emotionalisierungen systematisch rekonstruiert sowie visualisiert und als Strategien einer Affektrhetorik (Vgl. Grotkopp 2021) qualifiziert werden.
 Die Studie gestaltet sich exemplarisch entlang der Auswahl eines konkreten und wiederverwendbaren Beispiels, um die Methoden und Probleme des Ansatzes transparent und zugänglich zu machen.
 
-## Für wen ist diese Fallstudie konzipiert und welche Lerninhalte werden vermittelt?
-Die Fallstudie richtet sich an alle Promovierende, Wissenschaftler:innen, Akademiker:innen oder Studierende, insbesondere der Fachrichtungen Film- und Medienwissenschaft, die Interesse am Umgang mit digitalen, filmanalytischen Daten haben. Vorkenntnisse sind vorteilhaft, jedoch keine notwendige Voraussetzung.
-### Was sind die Groblernziele der Fallstudie?
+
+## Was sind die Groblernziele der Fallstudie?
 
 Die Groblernziele der Fallstudie umfassen: 
 1. Die Herstellung filmanalytischer Metadaten mithilfe datengestützter Methoden (Annotation) auf Basis einer Filmontologie

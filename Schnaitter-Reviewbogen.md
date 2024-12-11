@@ -17,10 +17,10 @@ author: "Schnaitter, Hannes"
   - [ ] Werden diese Begriffe später noch definiert?
   
   Das ist ein Satz, bei dem auch ein Glossar helfen könnte. 
-
+- [ ] Auszeichnung der Lernziele mit der Admonition `lernziele`
 
 ## `Kapitel_I/Einführung_in_die_datengestützte_Filmanalyse.md`
-- [ ] Ist die Phrase "das zentrale Telos" in der Filmwissenschaft geläufig?
+- [x] Ist die Phrase "das zentrale Telos" in der Filmwissenschaft geläufig?
 - [ ] Literatur-Referenzen fehlen noch
 - Zeile 10:
   > Um einen gibt es Analysen der sentiment analysis und des topic modelling, […]
@@ -28,10 +28,9 @@ author: "Schnaitter, Hannes"
 - Zeile 11:
   > Keine dieser Herangehensweisen betrachtet aber die grundlegende medienästhetische Qualität von Videos als zeitlich sich entfaltenden, audiovisuellen Bewegtbildern in den Blick.
   - [ ] Grammatikfehler
-- [ ] Zeile 17-18: Ggf. könnte die Definition der Zielgruppe schon in der Einleitung stehen
-- [ ] Zeile 19-24: Lernziele in einem eigenen Abschnitt in einem neuen Teil (`part`) "Präambel"? (siehe Text FS1)
-  - [ ] Auszeichnung mit der Admonition `lernziele`
-- [ ] Zeile 26-42: Vielleicht als eigenständiger Abschnitt (`chapter`)
+- [x] Zeile 17-18: Ggf. könnte die Definition der Zielgruppe schon in der Einleitung stehen
+- [x] ~~Zeile 19-24: Lernziele in einem eigenen Abschnitt in einem neuen Teil (`part`) "Präambel"? (siehe Text FS1)~~
+- [ ] ~~Zeile 26-42: Vielleicht als eigenständiger Abschnitt (`chapter`)~~
 - [ ] Zeile 38-42: Der kursiv-gesetzte Satzanfang ist grafisch nicht so gut mit der Auflistung von Satzenden verbunden. Wäre hier eine `###` passender? Zudem haben die Satzenden keinen abschließenden Punkt.
 
 ## `Kapitel_I/Information_und_Material.md`
