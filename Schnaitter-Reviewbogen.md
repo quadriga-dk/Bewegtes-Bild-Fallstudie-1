@@ -4,6 +4,7 @@ author: "Schnaitter, Hannes"
 ---
 
 # Arbeitsnotizen
+
 ## Startseite
 - Die erste Grafik zum Start ist super.
   - [ ] Vielleicht ist es möglich, das Bildschirmfoto noch etwas hochauflösender zu machen?
@@ -16,7 +17,24 @@ author: "Schnaitter, Hannes"
   - [ ] Werden diese Begriffe später noch definiert?
   
   Das ist ein Satz, bei dem auch ein Glossar helfen könnte. 
-- 
+
+
+## `Kapitel_I/Einführung_in_die_datengestützte_Filmanalyse.md`
+- [ ] Ist die Phrase "das zentrale Telos" in der Filmwissenschaft geläufig?
+- [ ] Literatur-Referenzen fehlen noch
+- Zeile 10:
+  > Um einen gibt es Analysen der sentiment analysis und des topic modelling, […]
+  - [ ] sollte es nicht "die Analysen" oder "die Analysemethoden" heißen?
+- Zeile 11:
+  > Keine dieser Herangehensweisen betrachtet aber die grundlegende medienästhetische Qualität von Videos als zeitlich sich entfaltenden, audiovisuellen Bewegtbildern in den Blick.
+  - [ ] Grammatikfehler
+- [ ] Zeile 17-18: Ggf. könnte die Definition der Zielgruppe schon in der Einleitung stehen
+- [ ] Zeile 19-24: Lernziele in einem eigenen Abschnitt in einem neuen Teil (`part`) "Präambel"? (siehe Text FS1)
+  - [ ] Auszeichnung mit der Admonition `lernziele`
+- [ ] Zeile 26-42: Vielleicht als eigenständiger Abschnitt (`chapter`)
+- [ ] Zeile 38-42: Der kursiv-gesetzte Satzanfang ist grafisch nicht so gut mit der Auflistung von Satzenden verbunden. Wäre hier eine `###` passender? Zudem haben die Satzenden keinen abschließenden Punkt.
+
+
 
 # Vorgeschlagene Änderungen (in diesem branch bereits durchgeführt)
 - Umwandlung der admonition am Ende von `intro.md` in einen Hinweis.
