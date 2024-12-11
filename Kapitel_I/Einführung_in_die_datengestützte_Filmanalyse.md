@@ -34,8 +34,8 @@ An einem exemplarischen Video sollen in einem dreistufigen Prozess filmanalytisc
 
 Eine wichtiges Anliegen der Fallstudie ist es, die Emotionalisierung als subjektives Erleben in Relation zu quantifizierbaren, objektivierbaren Metadaten zu setzen, d.h. die Bedeutung der Visualisierungen und der qualifizierenden Beschreibung als einen notwendigen Schritt anzusehen, um diese Subjektivierungseffekte des Filme-Sehens überhaupt erst greifen zu können. Daher ist es im Rahmen der Fallstudie wichtig, die erhobenen Datensätze stets qualifizierbar zu machen.
 ```
-*Die zentralen Aufgaben der Fallstudie umfassen...*
-* filmwissenschaftliche Methoden als digitale Methoden verständlich zu machen
-* die Übertragung basisschematischer Ansätze der Filmanalyse in webbasierte Semantik nach Semantic Triple Prinzipien
-* ein grundlegendes Verständnis für digitale Annotationsarbeit (*timeline based video analysis*) 
-* die Qualifizierung der Annotationsmetadaten im Kontext der Fragestellung der Fallstudie zu intendierten Emotionalisierungen
+### Die zentralen Aufgaben der Fallstudie umfassen …
+* … filmwissenschaftliche Methoden als digitale Methoden verständlich zu machen.
+* … die Übertragung basisschematischer Ansätze der Filmanalyse in webbasierte Semantik nach Semantic Triple Prinzipien.
+* … ein grundlegendes Verständnis für digitale Annotationsarbeit (*timeline based video analysis*).
+* … die Qualifizierung der Annotationsmetadaten im Kontext der Fragestellung der Fallstudie zu intendierten Emotionalisierungen.

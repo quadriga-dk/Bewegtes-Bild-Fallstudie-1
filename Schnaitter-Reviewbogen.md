@@ -31,7 +31,7 @@ author: "Schnaitter, Hannes"
 - [x] Zeile 17-18: Ggf. könnte die Definition der Zielgruppe schon in der Einleitung stehen
 - [x] ~~Zeile 19-24: Lernziele in einem eigenen Abschnitt in einem neuen Teil (`part`) "Präambel"? (siehe Text FS1)~~
 - [ ] ~~Zeile 26-42: Vielleicht als eigenständiger Abschnitt (`chapter`)~~
-- [ ] Zeile 38-42: Der kursiv-gesetzte Satzanfang ist grafisch nicht so gut mit der Auflistung von Satzenden verbunden. Wäre hier eine `###` passender? Zudem haben die Satzenden keinen abschließenden Punkt.
+- [x] Zeile 38-42: Der kursiv-gesetzte Satzanfang ist grafisch nicht so gut mit der Auflistung von Satzenden verbunden. Wäre hier eine `###` passender? Zudem haben die Satzenden keinen abschließenden Punkt.
 
 ## `Kapitel_I/Information_und_Material.md`
 - [ ] Umbenennung der Markdown-Datei in `weiterführende_Informationen.md`?
