@@ -20,9 +20,17 @@ Eine Ontologie nach Semantic Web Standards ist ein semantisches Modell, das Wiss
 ```
 ````
 Durch digitale Herangehensweisen können Systematiken für filmanalytische Konzepte entwickelt und diese in den Kontext bestehender Semantic Web Prinzipien eingegliedert werden. Dabei steht die Frage im Mittelpunkt, wie eine systematische Formulierung datenspezifischer sowie webbasierter Formate in eine filmanalytische Ontologie transformiert werden kann. Ontologie in diesem Kontext verstehen wir als ein Ordnungsprinzip, durch welches Informationseinheiten miteinander verknüpft werden können. Semantic Web basierte Ontologien können als Technologien beschrieben werden, die Metadaten sowohl maschinenlesbar als auch repräsentationsfähig machen.
-```{admonition}
-:class: hinweis
-Es gibt verschiedene Tools, mit denen audiovisuelle Gegenstände (z.B. Videoclips oder Filmszenen) annotiert werden können. Zu den gängigsten zählen: <a href="https://www.advene.org/" class="external-link" target="_blank">Advene</a>, <a href="https://archive.mpi.nl/tla/elan" class="external-link" target="_blank">ELAN</a>, <a href="https://distantviewing.org/" class="external-link" target="_blank">Distant Viewing</a>, <a href="http://www.anvil-software.de/" class="external-link" target="_blank">Anvil</a> oder zum Beispiel die in der Entwicklungsphase stehende Software <a href="https://service.tib.eu/tibava" class="external-link" target="_blank">TIB AV-Analytics</a>. Hierbei gibt es webbasierte Anwendungstools sowie Software, die offline verwendet werden kann.
+
+```{admonition} Tools für die Annotation audiovisueller Gegenstände
+:class: seealso
+Es gibt verschiedene Tools, mit denen audiovisuelle Gegenstände (z.B. Videoclips oder Filmszenen) annotiert werden können. Zu den gängigsten zählen: 
+- <a href="https://www.advene.org/" class="external-link" target="_blank">Advene</a>, 
+- <a href="https://archive.mpi.nl/tla/elan" class="external-link" target="_blank">ELAN</a>,
+- <a href="https://distantviewing.org/" class="external-link" target="_blank">Distant Viewing</a>,
+- <a href="http://www.anvil-software.de/" class="external-link" target="_blank">Anvil</a> oder
+- <a href="https://service.tib.eu/tibava" class="external-link" target="_blank">TIB AV-Analytics</a> (noch in der Entwicklungsphase).
+
+Hierbei gibt es webbasierte Anwendungstools sowie Software, die offline verwendet werden kann.
 ```
 ## Welche Systematisierungsansätze, Methoden und Werkzeuge gibt es bereits?
 Im Bereich der Filmanalyse existieren bereits eine Vielzahl von Ansätzen und Methoden, um einerseits das Vokabular und andererseits ebenso die Techniken zu systematisieren und zu strukturieren. 
