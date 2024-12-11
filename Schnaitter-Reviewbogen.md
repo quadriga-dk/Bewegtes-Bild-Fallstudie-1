@@ -11,7 +11,9 @@ author: "Schnaitter, Hannes"
 - 
 
 # Vorgeschlagene Änderungen (in diesem branch bereits durchgeführt)
-
+- Umwandlung der admonition am Ende von intro.md in einen Hinweis.
+  - [ ] Titel des Hinweises ggf. anpassen
+- 
 
 # Internes Review
 
