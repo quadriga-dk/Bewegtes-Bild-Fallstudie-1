@@ -19,7 +19,7 @@ author: "Schnaitter, Hannes"
 - 
 
 # Vorgeschlagene Änderungen (in diesem branch bereits durchgeführt)
-- Umwandlung der admonition am Ende von intro.md in einen Hinweis.
+- Umwandlung der admonition am Ende von `intro.md` in einen Hinweis.
   - [ ] Titel des Hinweises ggf. anpassen
   - [ ] Gibt es eine Dopplung zum Abschnitt "Aufbau der Übungen"?
 - `Kapitel_I/Einführung_in_die_datengestützte_Filmanalyse.md`:14:
