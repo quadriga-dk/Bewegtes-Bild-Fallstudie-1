@@ -11,7 +11,7 @@ Von einer tabellarischen Annotation bis zur Visualisierung von multimodalen und 
 Die Fallstudie ist unterteilt in fünf Arbeitsschritte, die Gliederung ist links in der Menüleiste jederzeit einsehbar.
 
 # Aufbau der Übungen
-Die Fallstudie ist unterteilt in verschiedene Aufgabenbereiche. Jeder Aufgabenbereich verfolgt die Umsetzung verschiedener Lernziele. Am Ende jeder Aufgabe sollen alle Nutzende in der Lage sein, die in den Lernzielen formulierten Anforderungen umzusetzen und durch bereitgestellte Lösungsstrategien umfassend zu vergleichen. Die Aufgaben sind modularisiert, d.h., dass die vorangegangene Aufgabe keine Voraussetzung für die darauffolgende darstellt. Nutzende mit mehr Vorwissen können folglich Aufgaben überspringen. Einsteiger:innen oder Nutzende ohne vertiefende Kentnisse können sich am Verlauf der Aufgaben orientieren, um sich notwendiges Vorwissen anzueignen.
+Die Fallstudie ist unterteilt in verschiedene Aufgabenbereiche. Jeder Aufgabenbereich verfolgt die Umsetzung verschiedener Lernziele. Am Ende jeder Aufgabe sollen alle Nutzende in der Lage sein, die in den Lernzielen formulierten Anforderungen umzusetzen und durch bereitgestellte Lösungsstrategien umfassend zu vergleichen. Die Aufgaben sind modularisiert, d.h., dass die vorangegangene Aufgabe keine Voraussetzung für die darauffolgende darstellt. Nutzende mit mehr Vorwissen können folglich Aufgaben überspringen. Einsteiger:innen oder Nutzende ohne vertiefende Kenntnisse können sich am Verlauf der Aufgaben orientieren, um sich notwendiges Vorwissen anzueignen.
 
 ## Kurzbeschreibung der Aufgaben
 
