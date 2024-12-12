@@ -45,6 +45,9 @@ author: "Schnaitter, Hannes"
 - [ ] `assets/eMAEX-Pathosszene-Abfolge.png`: Die untere Hälfte des Screenshots ist nicht so gut lesbar wie die obere. Die obere Hälfte kann meiner Meinung nach so genutzt werden.
 - [ ] Die Datei heißt `Empirische_Methoden.md`, jedoch wird nur eine Methode vorgestellt. Umbenennung in `eMAEX-Methode.md`?
 
+## `Kapitel_I/Untersuchungsgegenstand.md`
+- keine inhaltlichen Anmerkungen
+
 
 # Vorgeschlagene Änderungen (in diesem branch bereits durchgeführt)
 - [x] Umwandlung der admonition am Ende von `intro.md` in einen Hinweis.
@@ -58,6 +61,9 @@ author: "Schnaitter, Hannes"
   - [x] Umwandlung in eine Liste von Tools -> wurde rückgängig gemacht
   - [ ] Umwandlung von `###` Glossare in seealso
   - [ ] ist `hinweis` passend für die `margin`-Notiz?
+- [ ] `Kapitel_I/Untersuchungsgegenstand.md`
+  - Anpassungen der admonitions
+  - Anpassung des Youtube-Links
 
 # Internes Review
 
