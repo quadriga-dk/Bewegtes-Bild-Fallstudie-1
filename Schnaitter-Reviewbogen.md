@@ -18,6 +18,7 @@ author: "Schnaitter, Hannes"
   
   Das ist ein Satz, bei dem auch ein Glossar helfen könnte. 
 - [ ] Auszeichnung der Lernziele mit der Admonition `lernziele`
+- [ ] Überarbeitung des Abschnitts `## Aufbau der Übungen
 
 ## `Kapitel_I/Einführung_in_die_datengestützte_Filmanalyse.md`
 - [x] Ist die Phrase "das zentrale Telos" in der Filmwissenschaft geläufig?
@@ -40,9 +41,9 @@ author: "Schnaitter, Hannes"
 
 
 # Vorgeschlagene Änderungen (in diesem branch bereits durchgeführt)
-- Umwandlung der admonition am Ende von `intro.md` in einen Hinweis.
-  - [ ] Titel des Hinweises ggf. anpassen
-  - [ ] Gibt es eine Dopplung zum Abschnitt "Aufbau der Übungen"?
+- [x] Umwandlung der admonition am Ende von `intro.md` in einen Hinweis.
+  - [x] Titel des Hinweises ggf. anpassen
+  - [x] Gibt es eine Dopplung zum Abschnitt "Aufbau der Übungen"?
 - `Kapitel_I/Einführung_in_die_datengestützte_Filmanalyse.md`:14:
   - [ ] Korrektur der grammatischen Fälle
 - `Kapitel_I/Einführung_in_die_datengestützte_Filmanalyse.md`:33-35:
