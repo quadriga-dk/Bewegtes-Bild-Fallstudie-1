@@ -7,7 +7,7 @@ parts:
   - caption: Einführung
     chapters: 
       - file: Kapitel_I/Einführung_in_die_datengestützte_Filmanalyse
-      - file: Kapitel_I/Information_und_Material
+      - file: Kapitel_I/weiterführende_Informationen
       - file: Kapitel_I/Empirische_Methoden
       - file: Kapitel_I/Untersuchungsgegenstand
       - file: Kapitel_I/Technische_Voraussetzungen
