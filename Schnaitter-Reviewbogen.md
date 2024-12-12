@@ -40,9 +40,10 @@ author: "Schnaitter, Hannes"
 
 
 ## `Kapitel_I/Empirische_Methoden.md`
-- [ ] `../assets/eMAEX-Dreistufenmodell.png` ggf. in besserer Auflösung? Oder selbst "nachbauen".
+- [ ] `assets/eMAEX-Dreistufenmodell.png` ggf. in besserer Auflösung? Oder selbst "nachbauen".
   - Es ist auch noch teilweise eine Überschrift zu erkennen, aber lesbar ist sie nicht. Braucht es die, oder sollte die weg? Kann die Überschrift als Bildunterschrift eingebunden werden?
-- 
+- [ ] `assets/eMAEX-Pathosszene-Abfolge.png`: Die untere Hälfte des Screenshots ist nicht so gut lesbar wie die obere. Die obere Hälfte kann meiner Meinung nach so genutzt werden.
+- [ ] Die Datei heißt `Empirische_Methoden.md`, jedoch wird nur eine Methode vorgestellt. Umbenennung in `eMAEX-Methode.md`?
 
 
 # Vorgeschlagene Änderungen (in diesem branch bereits durchgeführt)
