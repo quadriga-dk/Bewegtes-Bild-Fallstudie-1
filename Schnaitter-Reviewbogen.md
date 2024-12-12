@@ -48,6 +48,8 @@ author: "Schnaitter, Hannes"
 ## `Kapitel_I/Untersuchungsgegenstand.md`
 - keine inhaltlichen Anmerkungen
 
+## `Kapitel_I/Technische_Voraussetzungen.md`
+- [ ] Ich kann dieser Anleitung folgen, aber jemand, der nicht so technisch versiert ist wahrscheinlich nicht. Muss diese Anleitung überhaupt in der OER enthalten sein, oder sollte gleich vollständig auf die Installationsseiten der Tools verwiesen werden? Sind diese leichter verständlich? Sonst müsste hier vermutlich noch eine detailiertere Anleitung stehen.
 
 # Vorgeschlagene Änderungen (in diesem branch bereits durchgeführt)
 - [x] Umwandlung der admonition am Ende von `intro.md` in einen Hinweis.
@@ -64,6 +66,9 @@ author: "Schnaitter, Hannes"
 - [ ] `Kapitel_I/Untersuchungsgegenstand.md`
   - Anpassungen der admonitions
   - Anpassung des Youtube-Links
+- [ ] `Kapitel_I/Technische_Voraussetzungen.md`
+  - leichte Überarbeitung der Sprache
+  - Umwandlung der "Code-Blöcke" und kurze Erklärung zum Kopieren von Befehlen
 
 # Internes Review
 
