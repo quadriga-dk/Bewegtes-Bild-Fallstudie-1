@@ -60,6 +60,10 @@ author: "Schnaitter, Hannes"
 - Fig. 2 "Die vier Grundeinheiten des Films" ist nicht barrierefrei; ebensowenig ist es Fig. 3
 - Es ist nicht ganz offensichtlich, wann mit der Bearbeitung der Aufgabe loslegen soll. Der Text "Die Tabelle liegt ausgefüllt vor?" kommt etwas unwerwartet.
 
+## `Kapitel_II/Aufgabe_A_UK-3.md`
+- [ ] Ggf. sollte die Randnotiz zum Assessment (sprachlich) überarbeitet werden.
+
+
 # Vorgeschlagene Änderungen (in diesem branch bereits durchgeführt)
 - [x] Umwandlung der admonition am Ende von `intro.md` in einen Hinweis.
   - [x] Titel des Hinweises ggf. anpassen
@@ -91,7 +95,10 @@ author: "Schnaitter, Hannes"
   - Admonitions
   - Nutzung von `{numref}`
   - Neu-Formatierung der Tabelle in der Markdown-Datei
-- 
+- [ ] `Kapitel_II/Aufgabe_A_UK-3.md`
+  - Admonitions für Lösungen
+  - Formatierung Tabelle in Markdown
+  - Einfügen einer Randnotiz zur Nutzung der Assessment-Fragen
 
 
 # Internes Review
