@@ -56,6 +56,10 @@ author: "Schnaitter, Hannes"
 - [ ] Ersters Satz: Ist ein besseres Verb "behandelt"? 
 - Es ist klar verständlich, was in der ersten Aufgabe erreicht werden soll.
 
+## `Kapitel_II/Aufgabe_A_UK-2.md`
+- Fig. 2 "Die vier Grundeinheiten des Films" ist nicht barrierefrei; ebensowenig ist es Fig. 3
+- Es ist nicht ganz offensichtlich, wann mit der Bearbeitung der Aufgabe loslegen soll. Der Text "Die Tabelle liegt ausgefüllt vor?" kommt etwas unwerwartet.
+
 # Vorgeschlagene Änderungen (in diesem branch bereits durchgeführt)
 - [x] Umwandlung der admonition am Ende von `intro.md` in einen Hinweis.
   - [x] Titel des Hinweises ggf. anpassen
@@ -82,7 +86,12 @@ author: "Schnaitter, Hannes"
     - Hinweis
     - seealso
   - Auszeichnung von "Let's get started" als Kapitälchen
-
+- [ ] `Kapitel_II/Aufgabe_A_UK-2.md`
+  - Einrückung in Abschnitt `## Durchführung`
+  - Admonitions
+  - Nutzung von `{numref}`
+  - Neu-Formatierung der Tabelle in der Markdown-Datei
+- 
 
 
 # Internes Review
