@@ -51,6 +51,11 @@ author: "Schnaitter, Hannes"
 ## `Kapitel_I/Technische_Voraussetzungen.md`
 - [ ] Ich kann dieser Anleitung folgen, aber jemand, der nicht so technisch versiert ist wahrscheinlich nicht. Muss diese Anleitung überhaupt in der OER enthalten sein, oder sollte gleich vollständig auf die Installationsseiten der Tools verwiesen werden? Sind diese leichter verständlich? Sonst müsste hier vermutlich noch eine detailiertere Anleitung stehen.
 
+## `Kapitel_II/Aufgabe_A.md`
+- [ ] jeweils `figure`-Umgebung um die Abbildungen einfügen?
+- [ ] Ersters Satz: Ist ein besseres Verb "behandelt"? 
+- Es ist klar verständlich, was in der ersten Aufgabe erreicht werden soll.
+
 # Vorgeschlagene Änderungen (in diesem branch bereits durchgeführt)
 - [x] Umwandlung der admonition am Ende von `intro.md` in einen Hinweis.
   - [x] Titel des Hinweises ggf. anpassen
@@ -71,6 +76,14 @@ author: "Schnaitter, Hannes"
 - [ ] `Kapitel_I/Technische_Voraussetzungen.md`
   - leichte Überarbeitung der Sprache
   - Umwandlung der "Code-Blöcke" und kurze Erklärung zum Kopieren von Befehlen
+- [ ] `Kapitel_II/Aufgabe_A.md`
+  - Anpassung Admonition 
+    - Lernziele
+    - Hinweis
+    - seealso
+  - Auszeichnung von "Let's get started" als Kapitälchen
+
+
 
 # Internes Review
 
