@@ -37,7 +37,12 @@ author: "Schnaitter, Hannes"
 ## `Kapitel_I/weiterführende_Informationen.md`
 - [x] Umbenennung der Markdown-Datei in `weiterführende_Informationen.md`?
 - [ ] Zeile 13: Zitat ohne Referenz!
-- [ ] 
+
+
+## `Kapitel_I/Empirische_Methoden.md`
+- [ ] `../assets/eMAEX-Dreistufenmodell.png` ggf. in besserer Auflösung? Oder selbst "nachbauen".
+  - Es ist auch noch teilweise eine Überschrift zu erkennen, aber lesbar ist sie nicht. Braucht es die, oder sollte die weg? Kann die Überschrift als Bildunterschrift eingebunden werden?
+- 
 
 
 # Vorgeschlagene Änderungen (in diesem branch bereits durchgeführt)
