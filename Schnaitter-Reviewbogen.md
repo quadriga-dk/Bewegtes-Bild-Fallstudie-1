@@ -58,11 +58,11 @@ author: "Schnaitter, Hannes"
 - `Kapitel_I/Einführung_in_die_datengestützte_Filmanalyse.md`:14:
   - [ ] Korrektur der grammatischen Fälle
 - `Kapitel_I/Einführung_in_die_datengestützte_Filmanalyse.md`:33-35:
-  - [ ] Umwandlung der admonition in `hinweis`
-- [ ] `Kapitel_I/weiterführende_Informationen.md` Admonitions umgestellt auf QUADRIGA Varianten
+  - [x] Umwandlung der admonition in `hinweis`
+- [x] `Kapitel_I/weiterführende_Informationen.md` Admonitions umgestellt auf QUADRIGA Varianten
   - [x] Umwandlung in eine Liste von Tools -> wurde rückgängig gemacht
-  - [ ] Umwandlung von `###` Glossare in seealso
-  - [ ] ist `hinweis` passend für die `margin`-Notiz?
+  - [x] Umwandlung von `###` Glossare in seealso
+  - [x] ist `hinweis` passend für die `margin`-Notiz?
 - [ ] `Kapitel_I/Untersuchungsgegenstand.md`
   - Anpassungen der admonitions
   - Anpassung des Youtube-Links
