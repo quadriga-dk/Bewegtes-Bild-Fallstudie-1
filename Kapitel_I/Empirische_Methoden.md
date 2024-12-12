@@ -46,12 +46,12 @@ Ziel der Methode ist eine empirisch-qualitative Durchführung vergleichender Stu
 +++
 
 ````{margin}
-```{seealso} 
-[Was ist eine Datenontologie?](../Kapitel_II/Aufgabe_C.md)
-+++
-[Wie kann mit einer Ontologie gearbeitet werden?](../Kapitel_II/Aufgabe_D.md)
-+++
-[Wie können die mit einer Ontologie erstellten Daten visualisiert werden?](../Kapitel_II/Aufgabe_E.md)
+```{admonition} Datenontologien
+:class: seealso
+Datenontologien werden genauer in diesen nachfolgenden Kapiteln behandelt:
+- [Was ist eine Datenontologie?](../Kapitel_II/Aufgabe_C.md)
+- [Wie kann mit einer Ontologie gearbeitet werden?](../Kapitel_II/Aufgabe_D.md)
+- [Wie können die mit einer Ontologie erstellten Daten visualisiert werden?](../Kapitel_II/Aufgabe_E.md)
 
 ```
 ````

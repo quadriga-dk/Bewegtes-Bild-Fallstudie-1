@@ -63,6 +63,8 @@ author: "Schnaitter, Hannes"
   - [x] Umwandlung in eine Liste von Tools -> wurde rückgängig gemacht
   - [x] Umwandlung von `###` Glossare in seealso
   - [x] ist `hinweis` passend für die `margin`-Notiz?
+- [ ] `Kapitel_I/Empirische_Methoden.md`
+  - Admonition `seealso` zu Datenontologien
 - [ ] `Kapitel_I/Untersuchungsgegenstand.md`
   - Anpassungen der admonitions
   - Anpassung des Youtube-Links
