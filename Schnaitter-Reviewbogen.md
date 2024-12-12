@@ -34,8 +34,8 @@ author: "Schnaitter, Hannes"
 - [ ] ~~Zeile 26-42: Vielleicht als eigenständiger Abschnitt (`chapter`)~~
 - [x] Zeile 38-42: Der kursiv-gesetzte Satzanfang ist grafisch nicht so gut mit der Auflistung von Satzenden verbunden. Wäre hier eine `###` passender? Zudem haben die Satzenden keinen abschließenden Punkt.
 
-## `Kapitel_I/Information_und_Material.md`
-- [ ] Umbenennung der Markdown-Datei in `weiterführende_Informationen.md`?
+## `Kapitel_I/weiterführende_Informationen.md`
+- [x] Umbenennung der Markdown-Datei in `weiterführende_Informationen.md`?
 - [ ] Zeile 13: Zitat ohne Referenz!
 - [ ] 
 
@@ -48,7 +48,7 @@ author: "Schnaitter, Hannes"
   - [ ] Korrektur der grammatischen Fälle
 - `Kapitel_I/Einführung_in_die_datengestützte_Filmanalyse.md`:33-35:
   - [ ] Umwandlung der admonition in `hinweis`
-- [ ] `Kapitel_I/Information_und_Material.md` Admonitions umgestellt auf QUADRIGA Varianten
+- [ ] `Kapitel_I/weiterführende_Informationen.md` Admonitions umgestellt auf QUADRIGA Varianten
   - [x] Umwandlung in eine Liste von Tools -> wurde rückgängig gemacht
   - [ ] Umwandlung von `###` Glossare in seealso
   - [ ] ist `hinweis` passend für die `margin`-Notiz?

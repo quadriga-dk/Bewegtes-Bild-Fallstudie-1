@@ -1,5 +1,5 @@
 # Durchführung und Schritte
-Teil der ersten Übung ist es mithilfe einer Tabelle erste, grobstrukturierte Annotationsdaten herzustellen. Dafür steht hier ein vorgesehenes Template bereit, in dem die zu analysierenden Parameter bereits festgelegt sind. Umfassende Informationen zu Parameterdefinitionen sowie Ansätze zur Segmentierung von Filmen und Bewegtbildern können in dem Kapitel [Weiterführende Informationen](../Kapitel_I/Information_und_Material) eingesehen werden. 
+Teil der ersten Übung ist es mithilfe einer Tabelle erste, grobstrukturierte Annotationsdaten herzustellen. Dafür steht hier ein vorgesehenes Template bereit, in dem die zu analysierenden Parameter bereits festgelegt sind. Umfassende Informationen zu Parameterdefinitionen sowie Ansätze zur Segmentierung von Filmen und Bewegtbildern können in dem Kapitel [Weiterführende Informationen](../Kapitel_I/weiterführende_Informationen) eingesehen werden. 
 ## Segmentierung
 In Bezug auf die Segmentierungslogik dient folgende Übersicht zur groben Orientierung:
 ```{figure} ../assets/Vier-Grundeinheiten-des-Films.png
