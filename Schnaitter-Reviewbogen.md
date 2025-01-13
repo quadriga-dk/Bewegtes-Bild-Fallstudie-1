@@ -66,6 +66,10 @@ author: "Schnaitter, Hannes"
 ## `Kapitel_II/Aufgabe_A_UK-4.md`
 - Methodenreflexion ist schön gelungen.
 
+## `Kapitel_II/Aufgabe_B.md`
+- [ ] Die Admonitions sollten auf den korrekten Typ überprüft werden.
+
+
 # Vorgeschlagene Änderungen (in diesem branch bereits durchgeführt)
 - [x] Umwandlung der admonition am Ende von `intro.md` in einen Hinweis.
   - [x] Titel des Hinweises ggf. anpassen
