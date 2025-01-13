@@ -101,6 +101,9 @@ author: "Schnaitter, Hannes"
   - Admonitions für Lösungen
   - Formatierung Tabelle in Markdown
   - Einfügen einer Randnotiz zur Nutzung der Assessment-Fragen
+- [ ] `Kapitel_II/Aufgabe_B.md`
+  - Admonitions für Lernziele und die Randnotizen
+
 
 
 # Internes Review

@@ -16,8 +16,8 @@ In diesem Kapitel soll das Annotieren mit Tools durch Freitexteingaben erprobt w
 
 Hierzu wird zunächst eine Parameterbestimmung und -erweiterung vorgenommen. Mit der Bestimmung unserer Parameter können wir uns anschließend der Annotationsarbeit widmen. Im Kapitel [Annotieren mit Advene](Aufgabe_B_UK-1) machen wir uns mit den Funktionsweisen von Advene vertraut und erstellen Annotationstypen sowie Annotationen. Im Kapitel [Annotieren mit ELAN](Aufgabe_B_UK-2) wiederholen wir diesen Schritt mit dem Tool ELAN. Im Anschluss besprechen wir die angewandte [Methode](Aufgabe_B_UK-3).
 
-```{admonition} GROB- UND FEINLERNZIELE
-:class: dropdown
+```{admonition} Lernziele
+:class: lernziele
 **Groblernziel**
 +++
 Mithilfe digitaler Annotationsverfahren können Metadaten zu audiovisuellem Material hergestellt werden.
@@ -29,7 +29,8 @@ Mithilfe digitaler Annotationsverfahren können Metadaten zu audiovisuellem Mate
 ```
 
 ````{margin}
-```{seealso} 
+```{admonition} Siehe auch
+:class: seealso
 Erläuterungen zum Begriff "Annotation" gibt es [hier](Aufgabe_A).
 ```
 ````
@@ -49,7 +50,9 @@ Im Kapitel [Annotieren mit einer Filmontologie](Aufgabe_D) gibt es ein auf die A
 ## Parameterbestimmung und -erweiterung
 
 ````{margin}
-```{note} Aus der ersten Übung hat sich gezeigt, dass Parameter, wie z.B. Sound oder Kamera, mehrere Inhaltsebenen haben können. Damit wir diese Elemente ebenfalls abdecken, splitten wir für diese beiden Beispiele (also Sound & Kamera) die Parameter in je einzelne Bestandteile. 
+```{admonition} Hinnweis
+:class: hinweis
+Aus der ersten Übung hat sich gezeigt, dass Parameter, wie z.B. Sound oder Kamera, mehrere Inhaltsebenen haben können. Damit wir diese Elemente ebenfalls abdecken, splitten wir für diese beiden Beispiele (also Sound & Kamera) die Parameter in je einzelne Bestandteile. 
 ```
 ````
  Bevor wir mit der eigentlichen Annotationsarbeit beginnen, ist es notwendig, ähnlich wie bei der [Tabellarischen Annotation](Aufgabe_A), die Parameter festzulegen, die als Spuren auf der Timeline annotiert werden sollen. Für eine erste Vergleichsbasis nutzen wir dieselben Parameter, die wir bereits in der tabellarischen Annotation verwendet haben ([s. Fig. 3](../assets/Kurzdefinition-Parameter.png)). Dieses Mal gehen wir aber minimal kleinteiliger vor:
