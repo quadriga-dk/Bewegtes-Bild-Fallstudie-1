@@ -101,6 +101,8 @@ author: "Schnaitter, Hannes"
   - Admonitions für Lösungen
   - Formatierung Tabelle in Markdown
   - Einfügen einer Randnotiz zur Nutzung der Assessment-Fragen
+- [ ] `Kapitel_II/Aufgabe_A_UK-4.md`
+  - korrekte Referenzen zu den Abbildungen im Resümee
 - [ ] `Kapitel_II/Aufgabe_B.md`
   - Admonitions für Lernziele und die Randnotizen
   - Admonitions zu "toolagnostischer Perspektive" und Hinweis zum Quick Guide
