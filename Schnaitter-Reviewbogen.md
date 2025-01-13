@@ -61,7 +61,7 @@ author: "Schnaitter, Hannes"
 - Es ist nicht ganz offensichtlich, wann mit der Bearbeitung der Aufgabe loslegen soll. Der Text "Die Tabelle liegt ausgefüllt vor?" kommt etwas unwerwartet.
 
 ## `Kapitel_II/Aufgabe_A_UK-3.md`
-- [ ] Ggf. sollte die Randnotiz zum Assessment (sprachlich) überarbeitet werden.
+- [ ] Die neu eingefügte Randnotiz zum Assessment sollte (sprachlich) überarbeitet werden.
 
 
 # Vorgeschlagene Änderungen (in diesem branch bereits durchgeführt)
