@@ -116,6 +116,9 @@ author: "Schnaitter, Hannes"
 > 
 > - Was denke ich, wer die Zielgruppe ist?
 > - Wenn die Zielgruppe klar definiert ist, stimmt das aus meiner Sicht mit Inhalten und Voraussetzung überein?
+Zielgruppe der Fallstudie sind vorrangig Filmwissenschaftler\*innen, welche bisher wenig annotiert haben und nun insbesondere die digitale Annotation von Bewegtbildern erlernen wollen.
+
+Andere Disziplinen werden durch die gute Darstellung der Grundlagen der Annotation von Bewegtbildern abgeholt. Die Inhalte sind disziplinspezifisch, jedoch in großen Teilen disziplinübergreifend verständlich.
 
 
 ## Technik
