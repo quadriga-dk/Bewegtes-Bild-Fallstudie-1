@@ -213,6 +213,9 @@ Andere Disziplinen werden durch die gute Darstellung der Grundlagen der Annotati
 > - Ist die technische Umsetzung der Fallstudie nachvollziehbar?
 > - Stimmt der Code? Gibt es Bugs? Funktionieren die Anleitungen für die Nutzung von Tools? Sind mögliche/häufige Fehler abgefangen bzw. gibt es Hinweise auf die Fehlerbehebung?
 
+Die Installationsanleitung (für Linux/macOS) ist teilweise nicht ausführlich/klar genug beschrieben. Ist sie überhaupt nötig innerhalb der Fallstudie oder ist es sinnvoller, immer auf die Website des Entwicklers zu verweisen?
+
+Die Anleitungen für die Nutzung inkl. Videos und Screenshots ist sehr schön und ausführlich gestaltet.
 
 ## Struktur
 > _(3+ Sätze)_
@@ -221,6 +224,9 @@ Andere Disziplinen werden durch die gute Darstellung der Grundlagen der Annotati
 > - Auf welche Bestandteile der Fallstudie fokussiert sich die OER?
 > - Sind die einzelnen Abschnitte der OER in ihrem Umfang gut gestaltet? Gibt es (ausreichende und gekennzeichnete) Möglichkeiten zur Unterbrechung der Bearbeitung der OER?
 
+Die Fallstudie ist gut strukturiert. Es ist immer klar, welche Inhalte noch folgen.
+
+Die "Kapitelübersicht" auf der ersten Seite eines Kapitels ist sehr schön. Ggf. könnte diese graphisch etwas aufbereitet und dann als Empfehlung für andere Fallstudien implementiert werden.
 
 ## Lernziele, Didaktik, Übungen und Assessment
 > _(6+ Sätze)_
@@ -231,20 +237,28 @@ Andere Disziplinen werden durch die gute Darstellung der Grundlagen der Annotati
 > - Gibt es genug (oder zu viele) Übungen? Sind Übungsaufgaben klar formuliert? (Ist es möglich Übungen zu überspringen, ohne wichtige Informationen für nachfolgende Abschnitte zu übersehen?)
 > - Sind die Übungen für die Überprüfung des eigenen Lernfortschritts angemessen (formatives Assessment)?
 
+…
+
 
 ## Konkrete Probleme und Fehler
 > (nach Bedarf)
 > 
 > Konkrete Fehler und Probleme können entweder hier als Liste oder im jeweiligen GitHub-Repositorium als Issue vermerkt werden.
 
+siehe oben bzw. Pull-Request #3
 
 ## Fragen der Autor\*innen an die Reviewer\*innen
 > _(6+ Sätze)_
+
 
 
 ## Gesamteindruck
 
 ### 1-3 Stärken der OER
 
+Die Fallstudie bietet einen guten Einstieg für Filmwissenschaftler\*innen bzw. Student\*innen in die Arbeit mit den Tools und die Methode.
+
+
 ### 1-3 Schwächen der OER
 
+Der Einstieg für Personen aus anderen Disziplinen ist ggf. etwas schwer.
