@@ -96,6 +96,9 @@ author: "Schnaitter, Hannes"
 ## `Kapitel_II/Aufgabe_D_UK-1.md`
 - [ ] 
 
+## `Kapitel_II/Aufgabe_D_UK-2.md`
+- [ ] 
+
 - [ ] 
 
 
@@ -157,6 +160,8 @@ author: "Schnaitter, Hannes"
 - [ ] `Kapitel_II/Aufgabe_D.md`
   - Admonitions
 - [ ] `Kapitel_II/Aufgabe_D_UK-1.md`
+  - Admonitions
+- [ ] `Kapitel_II/Aufgabe_D_UK-2.md`
   - Admonitions
   - Admonitions
 

@@ -24,7 +24,8 @@ from quadriga_config import colors
 Sobald die Annotationsarbeit für das Video abgeschlossen ist, kann das Paket mit unserer Musterlösung verglichen werden. Die Lösungsdatei steht [hier](../assets/QUADRIGA-Fallstudie-Annotationspackage.azp) zum Download bereit. Hier darauf achten, dass die Videodatei neu verknüpft werden muss.
 
 +++
-```{important} 
+```{admonition} Wichtig
+:class: caution
 Trotz der Verwendung der Ontologie können sich Annotationsentscheidungen von Person zu Person unterscheiden. Wichtig ist, dass die Ergebnisse miteinander verglichen werden können. Punktuelle Erläuterungen unserer Entscheidungen werden in diesem Kapitel ausgeführt. 
 ```
 ## Importfunktion
@@ -32,9 +33,9 @@ Trotz der Verwendung der Ontologie können sich Annotationsentscheidungen von Pe
 In Advene gibt es die Möglichkeit ein bestehendes Packages in ein anderes zu importieren.
 
 `````{admonition} Wofür kann in diesem Schritt die Importfunktion nützlich sein?
-:class: tip
+:class: exercise
 ````{admonition} Antwort
-:class: dropdown
+:class: solution, dropdown
 Diese Funktion ist hilfreich, um beispielsweise verschiedene Annotationen, die zum gleichen Video erstellt wurden, miteinander zu vergleichen.
 +++
 Hierzu folgende Schritte durchführen:
@@ -53,9 +54,9 @@ Ein ausführlicherer Guide für das Importieren findet sich sowohl unter Punkt 3
 Im Folgenden steht hier ein [Package](../assets/QUADRIGA-Errorpackage.azp) bereit, in dem einige Fehler eingebaut sind.
 
 `````{admonition} Welche Fehler konnten gefunden werden?
-:class: tip
+:class: exercise
 ````{admonition} Lösung
-:class: dropdown
+:class: solution, dropdown
 1. Auf der Spur 'Dialogue Text' wurden 2 Annotationen gelöscht
 ![screenshot-A4-E-S01](../_images/A4-Errorpackage-S01.png)
 2. Auf der Spur 'Shot' wurden Annotationen gemerged und nicht renummeriert 
@@ -72,9 +73,9 @@ Weitere Fehler können durch eine Überprüfung mit der Checker-Funktion gefunde
 `````
 
 `````{admonition} Wie können die Fehler korrigiert werden?
-:class: tip
+:class: exercise
 ````{admonition} Lösung
-:class: dropdown
+:class: solution, dropdown
 Es kann auch hier für einen direkten Abgleich nützlich sein das korrekte Annotationspaket zu importieren. 
 +++
 Nachfolgend gehen wir alle Fehler kurz durch und stellen eine Lösung bereit:
@@ -106,7 +107,8 @@ Bei Einstellungen also, in denen die Bestimmung des Referenzobjekts zur Messung 
 :name: A4-S04
 ```
 ````{margin}
-```{hint}
+```{admonition} Hinweis
+:class: hinweis
 Um UUIDs (universally unique identifier) zu suchen, muss die Suchfunktion angepasst werden. Dazu einen Rechtsklick auf das Lupen-Symbol neben dem Suchfeld und die Option 'Searched
 elements' auswählen. Im sich öffnenden Fenster die Option 'Ids' (am Ende der Liste, Liste ggf. aufziehen) auswählen.
 ```
@@ -115,9 +117,9 @@ Die UUID dieser Annotation ist folgende: `0aac70ea-219b-11ef-9bca-90b11c948b9a`
 +++
 
 `````{admonition} Warum ist die Festlegung auf einen Wert in dieser Einstellung schwierig?
-:class: tip
+:class: exercise
 ````{admonition} Antwort
-:class: dropdown
+:class: solution, dropdown
 Auf eine 2D simulierte Ansicht eines Papierblocks blendet sich von links nach rechts der in blau gefärbte Schriftzug "The Numbers" ein. Diese Ansicht erinnert an eine Präsentationsfolie. Obwohl die Einstellung im Verhältnis zu unserem Standpunkt nah wirken mag, lässt sich eine Distanz nicht eindeutig festlegen, da die Einbettung in eine räumliche Umgebung fehlt, die eine Skalierung zulassen würde. 
 `````
 
@@ -134,7 +136,8 @@ Dort, wo Fragen nach Skalierungen und Referenzbestimmungen komplexer werden, zei
 
 #### Frame-in-Frame
 
-In Bezug auf die Frame-in-Frame-Einstellungen gilt folgende Entscheidung innerhalb unseres Workflows: <br>
+In Bezug auf die Frame-in-Frame-Einstellungen gilt folgende Entscheidung innerhalb unseres Workflows: 
+
 Sowohl der äußere Rahmen als auch das in diesem Rahmen eingesetzte Bild können als Referenzobjekt bestimmt werden. Daher haben wir uns für den Wert 'neither' und dem Wert für die Einstellungsgröße entschieden, der aus dem zweiten Frame hervorgeht. Ein Annotationsbeispiel mit den Werten 'neither' und 'medium close up' ist hier und unter folgender UUID `3fc06a7e-00a8-11ef-a9a8-001c42d38318` zu sehen:
 ```{image} ../_images/A4-S06.png
 :align: center
@@ -178,7 +181,7 @@ display_quiz("../quizzes/D_UK-2_Quiz-1.json", colors = colors.jupyterquiz)
 ```
 
 ```{admonition} Antwort
-:class: dropdown
+:class: solution, dropdown
 Die Bewegungsrichtung der Kamera korreliert mit den Timelaps. Mit der Änderung der Bewegungsrichtung synchron zu dem Einsatz des Timelaps entsteht eine dynamische Bildkomposition, die sich durch Geschwindkeitszunahme sowie Bewegungsveränderung von der restlichen zeitlichen Anordnung des Videos unterscheidet. 
 Interessant ist ebenso, dass die markantesten Bewegungsveränderungen der Kamera mit den animierten Einstellungen einhergehen. Die 2D-Animationen wirken, insbesondere im Kontrast zu den im Vergleich recht statischen Szenen auf der Bühne oder im Interview, wesentlich energetischer.
 ```
@@ -189,6 +192,7 @@ Die Timeline in Advene ist bereits eine Form von Visualisierung, mit der Inszeni
 
 ````{margin}
 ```{admonition} Was ist die AdA-Timeline?
+:class: hinweis
 Die AdA-Timeline ist eine dynamische, individuell konfigurierbare browserbasierte Timeline-Ansicht, mit der die mit der AdA-Ontologie erstellten Annotationen visualisiert werden können.
 ```
 ````
