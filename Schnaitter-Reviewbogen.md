@@ -111,6 +111,9 @@ author: "Schnaitter, Hannes"
 ## `Kapitel_II/Aufgabe_E_UK-2.md`
 - [ ] 
 
+## `Kapitel_II/Aufgabe_E_UK-3.md`
+- [ ] Die Abbildungen sollten noch in figure-Umgebungen gestellt werden.
+
 - [ ] 
 
 
@@ -183,6 +186,8 @@ author: "Schnaitter, Hannes"
   - Admonitions & Formatierung
 - [ ] `Kapitel_II/Aufgabe_E_UK-2.md`
   - Admonitions
+- [ ] `Kapitel_II/Aufgabe_E_UK-3.md`
+  - 
   - Admonitions
 
 
