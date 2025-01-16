@@ -114,6 +114,7 @@ author: "Schnaitter, Hannes"
 ## `Kapitel_II/Aufgabe_E_UK-3.md`
 - [ ] Die Abbildungen sollten noch in figure-Umgebungen gestellt werden.
 
+## `Kapitel_III/Zusammenfassung.md`
 - [ ] 
 
 
@@ -188,7 +189,8 @@ author: "Schnaitter, Hannes"
   - Admonitions
 - [ ] `Kapitel_II/Aufgabe_E_UK-3.md`
   - 
-  - Admonitions
+- [ ] `Kapitel_III/Zusammenfassung.md`
+  - 
 
 
 
