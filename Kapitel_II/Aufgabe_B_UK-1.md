@@ -20,7 +20,8 @@ from quadriga_config import colors
 
 # Annotieren mit Advene 
 
-Für detailreiche Erklärungen zu der Bedienung von Advene stehen <a href="https://github.com/oaubert/advene/wiki/AdveneUserGuide" class="external-link" target="_blank">hier</a>  sowie <a href="https://www.advene.org/screencasts.html#screencasts" class="external-link" target="_blank">hier</a> Userguides zur Verfügung, in denen die wesentlichen Funktionen und Optionen von Advene erklärt werden. <br>
+Für detailreiche Erklärungen zu der Bedienung von Advene stehen <a href="https://github.com/oaubert/advene/wiki/AdveneUserGuide" class="external-link" target="_blank">hier</a>  sowie <a href="https://www.advene.org/screencasts.html#screencasts" class="external-link" target="_blank">hier</a> Userguides zur Verfügung, in denen die wesentlichen Funktionen und Optionen von Advene erklärt werden.
+
 Die für *unseren* Workflow wichtigen Funktionen sollen im Folgenden in einem Schritt-für-Schritt Guide reproduziert und nachvollzogen werden.
 
 ## Einrichtung, Bedienung und Interface
@@ -28,10 +29,12 @@ Die für *unseren* Workflow wichtigen Funktionen sollen im Folgenden in einem Sc
 Wird die Anwendung gestartet, öffnet sich automatisch ein leeres Template bzw. ein Paket, das als advenespezifische **.azp**-Datei gespeichert werden kann. Das Paket (Package) enthält zunächst ein einfaches **'simple text'** Schema (mit dem Wert: `text/plain`), mit dem wir in dieser Übung arbeiten werden. 
 ````{margin}
 ```{admonition} Was ist ein MIME Type?
+:class: seealso
 Ein **MIME Type** (Multipurpose Internet Mail Extensions) ist ein Standardformat im Internet, um den Dateityp und den Inhalt einer Datei anzugeben und kann als ein allgemeines Konzept für die Typisierung von Datenformaten beschrieben werden. MIME Types bestehen aus einem Haupttyp (z.B. "text" oder "image") und einem Subtyp (z.B. "html", "jpeg"), die durch einen Schrägstrich voneinander getrennt sind: z.B. "text/html" für eine HTML-Datei oder "image/jpeg" für ein JPEG-Bild.
 ```
 ````
 ```{admonition} Content bzw. MIME Types für Annotationstypen
+:class: hinweis
 Andere Schemata bzw. Content Types/MIME Types, wie z.B. `JSON data` oder `Keyword list`, stehen ebenfalls zur Verfügung. Unter "Annotation Types" im <a href="https://github.com/oaubert/advene/wiki/AdveneUserGuide" class="external-link" target="_blank">Userguide</a> finden sich ausführliche Informationen zu den einzelnen Typen.
 ```
 Im Zentrum der Anwendung ist ein Videoplayer sowie eine Timeline zu sehen. Am linken Rand erscheinen die Annotationstypen (in unserem Fall werden es die einzelnen zu analysierenden Parameter sein). 
@@ -57,7 +60,8 @@ Mit einem Klick auf das Plus-Symbol am linken Rand der Timeline können nun unse
 ![screenshot-A2-03](../_images/A2-S03.png)
 +++
 Nun erscheint der neu erstellte Annotationstyp. Um diesen zu bearbeiten, beispielsweise zur Anpassung der Farbe, können mit einem Rechtsklick auf den Typen Änderungen vorgenommen werden. Änderungen im Edit-Fenster müssen immer bestätigt werden.
-```{hint}
+```{admonition} Hinweis
+:class: hinweis
 Bestimmungen im Register 'Advanced' können für diese Annotationsübung erstmal ignoriert werden. 
 ```
 ![screenshot-A2-04](../_images/A2-S04.png)
@@ -80,12 +84,13 @@ display_quiz("../quizzes/B_UK-1_Quiz_1.json", colors = colors.jupyterquiz)
 ```
 
 ```{admonition} Antwort
-:class: dropdown
+:class: solution, dropdown
 Die Typen **Dauer**, **Einstellungsgröße**, **Montage** (hier annotieren wir die Form des Übergangs), **Kameraperspektive** sowie **Kamerabewegung**  annotieren wir zunächst Einstellung für Einstellung, denn hier ist es wichtig, die Relationen, Wiederholungen und Veränderungen von Einstellung zu Einstellung sichtbar zu machen. Die Typen **Bildinhalt**, **Musik**, **Dialog**, **Licht** sowie **Farbe** werden nach ihren je spezifischen Verläufen annotiert. 
 ```
 
 ````{margin}
-```{hint} 
+```{admonition} Tipp
+:class: hinweis
 Mit der Loop-Taste am rechten unteren Rand des Videoplayers werden angelegte Annotationen im Loop abgespielt.
 ![screenshot-A2-08](../_images/A2-S08.png)
 ```
@@ -94,22 +99,24 @@ Nachdem die Festlegung auf eine Segmentierungsmethode steht, können die Annotat
 ![screenshot-A2-06](../_images/A2-S06.png)
 Falls eine Annotation auf einer nicht erwünschten Timelineposition erstellt wird, kann diese folgendermaßen angepasst werden: entweder durch Ausrichtung der Annotationsgrenze per Drag and Drop an einer anderen Annotation der Spur (die sogenannte 'align'-Funktion) oder durch die einzelne Bearbeitung der Anfangs- und Endzeit der Annotation (im Edit-Fenster). Zur Bearbeitung der Annotation im Edit-Fenster mit einem Rechtsklick auf die Annotation und dann auf 'Edit'.
 ![screenshot-A2-07](../_images/A2-S07.png)
-```{attention} 
+```{admonition} Achtung
+:class: caution
 Es empfiehlt sich schon während der Annotation die Datei zu speichern, um mögliche Verluste zu vermeiden. Hier unter dem Reiter 'File' auf 'Save as…'
 klicken und die Datei benennen sowie abspeichern. 
 ```
 Darüber hinaus können Annotationen aus einer Spur kopiert und gelöscht sowie in andere Spuren kopiert oder verschoben werden. 
 
 ````{margin}
-```{tip} 
+```{admonition} Tipp
+:class: hinweis
 Wer die tabellarische Annotation bereits vollständig erarbeitet hat, kann natürlich die Daten aus der ersten Tabelle übernehmen und beim Annotieren eintragen. 
 ```
 ````
 
 `````{admonition} Wofür kann diese Funktion sinnvoll sein?
-:class: tip
+:class: exercise
 ````{admonition} Antwort
-:class: dropdown
+:class: solution, dropdown
 Da wir bei einigen Typen je Einstellung annotieren, müssen wir natürlich nicht jedes Mal die Einstellungsgrenzen neu setzen. Hierfür reicht es, wenn wir die Annotationssegmentierung des Annotationstypen **Einstellungsnummer** in jene andere Typen kopieren, die wir auch nach diesem Schema annotieren möchten. 
 ````
 `````
@@ -118,7 +125,8 @@ Da wir bei einigen Typen je Einstellung annotieren, müssen wir natürlich nicht
 
 1. Advene starten und Videodatei verknüpfen
 ````{margin}
-```{attention}
+```{admonition} Achtung
+:class: caution
 Jedes neue Package enthält bereits eine standartisiert eingestellte Annotationsspur ('text annotation'). Diese ggf. im Vorfeld löschen!
 ```
 ````

@@ -69,6 +69,11 @@ author: "Schnaitter, Hannes"
 ## `Kapitel_II/Aufgabe_B.md`
 - [ ] Die Admonitions sollten auf den korrekten Typ überprüft werden.
 
+## `Kapitel_II/Aufgabe_B_UK-1.md`
+- [ ] Die Abbildungen sollten noch in figure-Umgebungen gestellt werden.
+
+
+
 
 # Vorgeschlagene Änderungen (in diesem branch bereits durchgeführt)
 - [x] Umwandlung der admonition am Ende von `intro.md` in einen Hinweis.
@@ -110,6 +115,9 @@ author: "Schnaitter, Hannes"
 - [ ] `Kapitel_II/Aufgabe_B.md`
   - Admonitions für Lernziele und die Randnotizen
   - Admonitions zu "toolagnostischer Perspektive" und Hinweis zum Quick Guide
+- [ ] `Kapitel_II/Aufgabe_B_UK-1.md`
+  - Admonitions
+  - Admonitions
 
 
 
