@@ -83,6 +83,9 @@ author: "Schnaitter, Hannes"
 
 ## `Kapitel_II/Aufgabe_C_UK-1.md`
 - [ ] 
+
+## `Kapitel_II/Aufgabe_C_UK-2.md`
+- [ ] 
 - [ ] 
 
 
@@ -137,6 +140,8 @@ author: "Schnaitter, Hannes"
   - Admonitions
 - [ ] `Kapitel_II/Aufgabe_C_UK-1.md`
   - Formatierung und Rechtschreibung
+- [ ] `Kapitel_II/Aufgabe_C_UK-2.md`
+  - Admonitions
   - Admonitions
 
 
