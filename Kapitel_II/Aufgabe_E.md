@@ -16,8 +16,8 @@ In diesem Kapitel visualisieren wir die mit der AdA-Ontologie erstellten Annotat
 
 Im vorangegangen Kapitel haben wir ein Annotationspaket mit der AdA-Ontologie erstellt. In diesem Kapitel werden wir die Annotationsdaten mit der AdA-Timeline visualiseren. Dazu werden wir uns zuerst die [Funktionsweisen der AdA-Timeline](../Kapitel_II/Aufgabe_E_UK-1.md) anschauen: Wie funktioniert die Bedienung? Wie können die Funktionen angepasst werden? Eine nachfolgende [Übung zur Konfiguration der Timeline](../Kapitel_II/Aufgabe_E_UK-2.md) soll helfen, das Erlernte zu erproben. Mit den spezifischen Konfigurationsoptionen sollen die Datensätze der Visualisierung in einem letzten Schritt durch eine Hypothesenpräsentation qualifiziert werden. Hier werden dezidiert die Ausgangsfragen und Hypothesen unserer Fallstudie am Untersuchungsgegenstand aufgegriffen.
 
-```{admonition} GROB- UND FEINLERNZIELE
-:class: dropdown
+```{admonition} Lernziele
+:class: lernziele, dropdown
 **Groblernziel**
 +++
 Mithilfe von Annotationsdaten, die auf Basis einer filmanalytischen Ontologie erstellt und visualisiert werden, können audiovisuelle Inszenierungsmuster erkannt und differenzieren werden.
@@ -29,11 +29,15 @@ Mithilfe von Annotationsdaten, die auf Basis einer filmanalytischen Ontologie er
 ```
 ## AdA-Timelime
 
-Wie können Annotationsdaten repräsentierfähig gemacht werden und welche Möglichkeiten der Datenexploration kann es geben? <br>
-Im Rahmen der AdA-Ontologie wurde die sogenannte AdA-Timeline, eine dynamische, HTML-basierte Timeline-Ansicht entwickelt. Die mit der AdA-Ontologie hergestellten Annotationsdaten können somit direkt als Anordnungen visualisiert werden. Die AdA-Timeline ist sowohl ein Werkzeug zur Greifbarmachung empirischer Daten als auch selbst eine dynamische Datenansicht. Im Unterschied zu einer linearen Timelineansicht ist die AdA-Timeline flexibel anpassbar. Es gibt zahlreiche Visualisierungsoptionen, die es ermöglichen die zuvor erstellten Annotationsdaten in Form verschiedener Ansichten darzustellen. <br>
-Dabei orientiert sich die Ansicht an Partituren: Zeitliche Dynamiken eines Films werden auf unterschiedlichen Gestaltungsebenen in ihrem Zusammenspiel lesbar. Die Annotationstypen der AdA-Filmontologie werden also – ähnlich wie Partituren – als synchrone Spuren untereinander dargestellt. 
+Wie können Annotationsdaten repräsentierfähig gemacht werden und welche Möglichkeiten der Datenexploration kann es geben?
+
+Im Rahmen der AdA-Ontologie wurde die sogenannte AdA-Timeline, eine dynamische, HTML-basierte Timeline-Ansicht entwickelt. Die mit der AdA-Ontologie hergestellten Annotationsdaten können somit direkt als Anordnungen visualisiert werden. Die AdA-Timeline ist sowohl ein Werkzeug zur Greifbarmachung empirischer Daten als auch selbst eine dynamische Datenansicht. Im Unterschied zu einer linearen Timelineansicht ist die AdA-Timeline flexibel anpassbar. Es gibt zahlreiche Visualisierungsoptionen, die es ermöglichen die zuvor erstellten Annotationsdaten in Form verschiedener Ansichten darzustellen.
+
+Dabei orientiert sich die Ansicht an Partituren: Zeitliche Dynamiken eines Films werden auf unterschiedlichen Gestaltungsebenen in ihrem Zusammenspiel lesbar. Die Annotationstypen der AdA-Filmontologie werden also – ähnlich wie Partituren – als synchrone Spuren untereinander dargestellt.
+
 ![screenshot-A5-01](../_images/A5-S01.png)
-```{important}
+```{admonition} Wichtig
+:class: caution
 Die AdA-Timeline ist nicht auf die Erstellung und
 Bearbeitung von Annotationen ausgelegt, sondern dient der **Datenexploration** und
 **Hypothesenpräsentation**.

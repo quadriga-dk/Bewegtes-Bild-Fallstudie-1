@@ -102,6 +102,9 @@ author: "Schnaitter, Hannes"
 ## `Kapitel_II/Aufgabe_D_UK-3.md`
 - [ ] 
 
+## `Kapitel_II/Aufgabe_E.md`
+- [ ] 
+
 - [ ] 
 
 
@@ -168,6 +171,8 @@ author: "Schnaitter, Hannes"
   - Admonitions
 - [ ] `Kapitel_II/Aufgabe_D_UK-3.md`
   - minimale Formatierungsänderungen
+- [ ] `Kapitel_II/Aufgabe_E.md`
+  - Admonitions
   - Admonitions
 
 
