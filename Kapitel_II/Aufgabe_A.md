@@ -18,7 +18,7 @@ Im ersten Unterkapitel [Durchführung und Schritte](../Kapitel_II/Aufgabe_A_UK-2
 Im zweiten Unterkapitel [Übung, Ergebnisauswertung und Diskussion](../Kapitel_II/Aufgabe_A_UK-3.md) widmen wir uns einer punktuellen Auswertung der Ergebnisse sowie der Diskussion über die Vor- und Nachteile dieser Methode. 
 
 ```{admonition} Lernziele
-:class: lernziele
+:class: lernziele, dropdown
 **Groblernziel**
 
 Mithilfe datengestützter filmanalytischer Methoden können Metadaten zu audiovisuellem Material hergestellt werden.

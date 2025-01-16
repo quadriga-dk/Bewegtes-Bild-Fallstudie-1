@@ -17,7 +17,7 @@ In diesem Kapitel soll das Annotieren mit Tools durch Freitexteingaben erprobt w
 Hierzu wird zunächst eine Parameterbestimmung und -erweiterung vorgenommen. Mit der Bestimmung unserer Parameter können wir uns anschließend der Annotationsarbeit widmen. Im Kapitel [Annotieren mit Advene](Aufgabe_B_UK-1) machen wir uns mit den Funktionsweisen von Advene vertraut und erstellen Annotationstypen sowie Annotationen. Im Kapitel [Annotieren mit ELAN](Aufgabe_B_UK-2) wiederholen wir diesen Schritt mit dem Tool ELAN. Im Anschluss besprechen wir die angewandte [Methode](Aufgabe_B_UK-3).
 
 ```{admonition} Lernziele
-:class: lernziele
+:class: lernziele, dropdown
 **Groblernziel**
 +++
 Mithilfe digitaler Annotationsverfahren können Metadaten zu audiovisuellem Material hergestellt werden.
