@@ -40,7 +40,7 @@ display_quiz("../quizzes/E_UK-2_Quiz-1.json", colors = colors.jupyterquiz)
 ```
 
 ```{admonition} Lösungsweg
-:class: dropdown
+:class: solution, dropdown
 Hier nochmal die richtige Lösung:
 +++
 DominantMovementDirection(colorfield:content labels:true representation:rect legend:true colorscheme:paired), <br>
@@ -81,7 +81,7 @@ Der Annotationstyp **Image Intrinsic Movement** soll als Histogramm mit einer Pi
 Der Annotationstyp **Recording/Playback Speed** soll als Balkendiagramm mit einer Legende und den Annotationsinhalten im Farbschema `dark2` angezeigt werden.
 
 ```{admonition} Lösung
-:class: dropdown
+:class: solution, dropdown
 Folgende Konfigurationen in der Syntax haben wir eingegeben, um die oben beschriebene Ansicht zu erhalten: 
 
 ![screenshot-A5-11](../_images/A5-S11.png)
@@ -105,7 +105,8 @@ So sieht die oben beschriebene Darstellung als Datenvisualisierung aus: <br>
 ## Qualifizierung der Daten
 
 ````{margin}
-```{important}
+```{admonition} Wichtig
+:class: caution
 Hier geht es einerseits um **Datenexploration**, d.h. wir fragen danach, welche Erkenntnisse liefern unsere Ergebnisse? Auf was für Auffälligkeiten stoßen wir in der Exploration der Daten? <br>
 Andererseits geht es um **Dateninterpretation**, d.h. danach zu fragen, wie die Daten unter Berücksichtigung bestimmter Ansätze, Fragestellungen und kritischen Beobachtungen qualifiziert werden können.
 ```
