@@ -22,7 +22,9 @@ from quadriga_config import colors
 ## Aufgabe 1
 
 Im Folgenden ist eine alphabetisch sortierte Liste mit basisschematischen Begriffen der Filmanalyse zu sehen:
-______________________
+
+---
+
 * Amerikanische Einstellung
 * Aufsicht
 * Ausblenden / fade-out
@@ -53,8 +55,10 @@ ______________________
 * Untersicht
 * Weitwinkelobjektiv
 * Zoom
-______________________
-Diese Begriffe sollen in diese vorgebene [Matrix](../assets/Einarbeiten_in_die_Filmontologie_Aufgabe_1_Quadriga.docx) an Ebenen, Typen und Werten eingeordnet werden: 
+
+---
+
+Diese Begriffe sollen in diese vorgegebene [Matrix](../assets/Einarbeiten_in_die_Filmontologie_Aufgabe_1_Quadriga.docx) an Ebenen, Typen und Werten eingeordnet werden: 
 ```{figure} ../assets/Matrix-A3.png
 ---
 align: center
