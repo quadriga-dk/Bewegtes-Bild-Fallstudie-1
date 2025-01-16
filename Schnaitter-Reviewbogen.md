@@ -89,6 +89,10 @@ author: "Schnaitter, Hannes"
 
 ## `Kapitel_II/Aufgabe_C_UK-3.md`
 - [ ] 
+
+## `Kapitel_II/Aufgabe_D.md`
+- [ ] Admonition am Ende der Seite passt nicht wirklich
+
 - [ ] 
 
 
@@ -147,6 +151,8 @@ author: "Schnaitter, Hannes"
   - Admonitions
 - [ ] `Kapitel_II/Aufgabe_C_UK-3.md`
   - 
+- [ ] `Kapitel_II/Aufgabe_D.md`
+  - Admonitions
   - Admonitions
 
 
