@@ -10,13 +10,13 @@ Eine kurze Inhaltsübersicht soll zur Orientierung dienen. Wer ab einem bestimmt
 +++
 ## Video: AdA-Timeline
 
-* <a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=e1e937e6-7bd3-43fa-a4f3-b20300a66b54&start=0" target="_blank">Introduction: AdA Timeline<a>
-* <a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=e1e937e6-7bd3-43fa-a4f3-b20300a66b54&start=21" target="_blank">Opening the AdA Timeline in Advene<a>
-* <a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=e1e937e6-7bd3-43fa-a4f3-b20300a66b54&start=96" target="_blank">Structure and Functionality<a>
-* <a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=e1e937e6-7bd3-43fa-a4f3-b20300a66b54&start=229" target="_blank">Display Customization (URL, Edit Window, and Syntax Elements)<a>  
-* <a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=e1e937e6-7bd3-43fa-a4f3-b20300a66b54&start=405" target="_blank">Setting for Types<a>
-* <a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=e1e937e6-7bd3-43fa-a4f3-b20300a66b54&start=660" target="_blank">Saving Timeline Settings<a>
-* <a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=e1e937e6-7bd3-43fa-a4f3-b20300a66b54&start=708" target="_blank">Export<a>
+* <a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=e1e937e6-7bd3-43fa-a4f3-b20300a66b54&start=0" target="_blank" class="external-link">Introduction: AdA Timeline<a>
+* <a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=e1e937e6-7bd3-43fa-a4f3-b20300a66b54&start=21" target="_blank" class="external-link">Opening the AdA Timeline in Advene<a>
+* <a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=e1e937e6-7bd3-43fa-a4f3-b20300a66b54&start=96" target="_blank" class="external-link">Structure and Functionality<a>
+* <a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=e1e937e6-7bd3-43fa-a4f3-b20300a66b54&start=229" target="_blank" class="external-link">Display Customization (URL, Edit Window, and Syntax Elements)<a>  
+* <a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=e1e937e6-7bd3-43fa-a4f3-b20300a66b54&start=405" target="_blank" class="external-link">Setting for Types<a>
+* <a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=e1e937e6-7bd3-43fa-a4f3-b20300a66b54&start=660" target="_blank" class="external-link">Saving Timeline Settings<a>
+* <a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=e1e937e6-7bd3-43fa-a4f3-b20300a66b54&start=708" target="_blank" class="external-link">Export<a>
 
 
 <iframe src="https://videoup.uni-potsdam.de/Panopto/Pages/Embed.aspx?id=e1e937e6-7bd3-43fa-a4f3-b20300a66b54&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
@@ -26,7 +26,8 @@ Eine kurze Inhaltsübersicht soll zur Orientierung dienen. Wer ab einem bestimmt
 ## Timeline aufrufen
 
 ````{margin}
-```{note}
+```{admonition} Hinweis
+:class: hinweis
 Die Timeline wird mit dem Standard Browser geöffnet. Die URL kann jedoch auch in einem anderen installierten Browser geöffnet werden.
 ```
 ````
@@ -36,13 +37,15 @@ In Advene muss zunächst das mit dem AdA-Template erstellte Annotationspaket ge�
 :height: 300px
 :name: a2-s02
 ```
-```{hint}
+```{admonition} Hinweis
+:class: hinweis
 In der Online-Variante werden aktuelle Visualisierungsdatenbanken von der Homepage des Entwicklers abgerufen, in der Offline-Variante werden lokale Ressourcen der jeweiligen aktuellen Advene-Version genutzt.
 ```
 Am oberen Rand umfasst die Timeline zwei fixierte Spuren: 1. Die zoom control, mit der man frei skalieren kann und 2. die Referenzspur, welche den jeweils ausgewählten Bereich anhand eines festgelegten Annotationstypen anzeigt.
 
 ````{margin}
-```{note}
+```{admonition} Hinweis
+:class: hinweis
 Beim Öffnen ist die Referenzspur automatisch auf den Annotationstypen 'shot' festgelegt. Dies kann über das Edit-Fenster geändert werden. Mehr Infos zur Anpassung s.u.
 ```
 ````
@@ -60,7 +63,8 @@ Die einzelnen Werte der Annotationstypen werden links als Legende angezeigt.
 Die AdA-Timeline verwendet eine textbasierte Syntax für die Darstellungskonfiguration. Diese ist als für Menschen lesbare URL enkodiert. Mit der Textcharakteristik der Syntax können – auch ohne Programmierkenntnisse – selbstständig Visualisierungen mit unterschiedlichen Einstellungen erstellt und verändert werden. 
 +++
 ````{margin}
-```{attention}
+```{admonition} Achtung
+:class: caution
 Wer die Timeline über die URL-Syntax konfigurieren will, findet auf S. 141 des Manuals die Anweisungen.
 ```
 ````
@@ -85,7 +89,8 @@ Der Timecode kann über das Edit-Fenster angepasst werden. Hierzu einfach die ge
 ![screenshot-A5-06](../_images/A5-S06.png)
 
 ````{margin}
-```{hint}
+```{admonition} Hinweis
+:class: hinweis
 Wie ein Video mit der Timeline verknüpft werden kann, wird im Manual ab S. 148 im Detail beschrieben. 
 ```
 ```` 
@@ -95,7 +100,8 @@ Nach der Id können für jeden Annotationstyp in einer Klammer verschiedene Dars
 +++
 Die Eingabe erfolgt immer in der Syntaxform DARSTELLUNGOPTION:WERT, ein Beispiel für die Darstellung als Histogramm wäre: `representation:hist`.
 ![screenshot-A5-07](../_images/A5-S07.png)
-```{attention}
+```{admonition} Achtung
+:class: caution
 Zur korrekten Konfigurierung der Darstellung den Wert `height` jeweils anpassen.
 ```
 ````{margin}
@@ -120,11 +126,12 @@ Es gibt verschiedene Darstellungsformen, um die Timeline zu konfigurieren. Umfas
 ## Visualisierungsansicht speichern und exportieren
 
 Um die erstellten Visualisierungen zu speichern, empfiehlt es sich den Inhalt des Edit-Fensters in ein gängiges Textprogramm zu kopieren. Öffnet man die Timeline erneut, so kann man den kopierten Inhalt einfügen und die gespeicherte Ansicht anzeigen lassen.
-```{danger}
+```{admonition} Gefahr
+:class: caution
 Um keine Ansichtsdaten zu verlieren, sollte zum Speichern der gewünschten Konfiguration wie oben beschrieben vorgegangen werden! Das Speichern über den 'Save'-Button im Edit-Fenster ist nicht möglich.
 ```
 Um die Timeline-Visualisierung zu exportieren, auf die drei Punkte am oberen linken Rand klicken und eine Option auswählen. Für Publikationen oder Präsentationen bietet sich der Export als PNG-Datei an. 
 +++
 Im nächsten Schritt soll das Konfigurieren der Timeline erprobt werden. Ebenso sollen im letzten Teil unserer Fallstudie anhand der Timeline die Annotations- und Visualisierungsdaten filmanalytisch qualifiziert werden. Damit beziehen wir uns auf die eingangs formulierten Fragestellungen:
-> 1. Wie können datengestützte Methoden für die Qualifizierung von filmwissenschaftlichen Analysen nutzbar gemacht werden? <br>
+> 1. Wie können datengestützte Methoden für die Qualifizierung von filmwissenschaftlichen Analysen nutzbar gemacht werden?
 > 2. Inwiefern können durch empirisch hergestellte quantifizierbare Daten Aussagen über die Qualifizierung audiovisueller Inszenierungsdynamiken und den damit verbundenen Affizierungen getroffen werden?
