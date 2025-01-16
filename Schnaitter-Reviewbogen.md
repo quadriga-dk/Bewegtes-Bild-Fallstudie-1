@@ -72,6 +72,9 @@ author: "Schnaitter, Hannes"
 ## `Kapitel_II/Aufgabe_B_UK-1.md`
 - [ ] Die Abbildungen sollten noch in figure-Umgebungen gestellt werden.
 
+## `Kapitel_II/Aufgabe_B_UK-2.md`
+- [ ] Die Abbildungen sollten noch in figure-Umgebungen gestellt werden.
+
 
 
 
@@ -116,6 +119,8 @@ author: "Schnaitter, Hannes"
   - Admonitions für Lernziele und die Randnotizen
   - Admonitions zu "toolagnostischer Perspektive" und Hinweis zum Quick Guide
 - [ ] `Kapitel_II/Aufgabe_B_UK-1.md`
+  - Admonitions
+- [ ] `Kapitel_II/Aufgabe_B_UK-2.md`
   - Admonitions
   - Admonitions
 

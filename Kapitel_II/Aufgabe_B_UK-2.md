@@ -28,7 +28,8 @@ ELAN (Eudico Linguistik Annotator) ist eine Open Source Transkriptions- und Anno
 ## Interface, Bedienung und Einrichtung
 
 ````{margin}
-```{important} 
+```{admonition} Wichtig
+:class: caution
 Die Videodatei ist erstmal undefiniert. Um Sicherheitskopien erstellen zu können, muss die Datei (im elanspezifischen **.eaf**-Format) gespeichert werden. Hierzu unter 'Datei > Speichern unter…' die Datei benennen und speichern. Anschließend ebenfalls unter 'Datei' die automatische Sicherheitskopie aktivieren.
 ```
 ````
@@ -58,9 +59,9 @@ Im Fenster rechts neben dem Videoplayer kann unter 'Steuerung' die Wiedergabeges
 +++
 
 `````{admonition} In welchen Fällen ist die Regulierung der Wiedergabegeschwindigkeit sinnvoll?
-:class: tip
+:class: exercise
 ````{admonition} Antwort
-:class: dropdown
+:class: solution, dropdown
 Manchmal kann es sehr nützlich sein, die Wiedergabegeschwindigkeit an den eigenen **Annotationsrhythmus** anzupassen. Einige Einstellungen können als sehr schnell wahrgenommen werden. Die Reduzierung der Geschwindigkeit kann helfen, dass jene Bildinhalte, die man als Werte in den Annotationen anlegen möchte, auch tatsächlich präzise erfasst werden. 
 ````
 `````
@@ -71,7 +72,8 @@ Solbald das Video mit dem ELAN-Projekt verknüpft ist, können Annotationszeilen
 Eine 'default'-Zeile wird automatisch bei jedem neuen Annotationsdokument angelegt. Diese kann im Vorfeld entweder umbenannt oder gelöscht werden. 
 +++
 ````{margin}
-```{attention} 
+```{admonition} Achtung
+:class: caution 
 Beim Schließen des Bearbeitungsfensters ohne die Einfügung der Zeile wird die Zeile nicht gespeichert.
 ```
 ````
@@ -81,7 +83,8 @@ Um eine neue Zeile bzw. "Tier" anzulegen, im Menüpunkt auf 'Zeile > Neue Zeile 
 :height: 500px
 :name: a2-s11
 ```
-````{hint} 
+````{admonition} Hinweis
+:class: hinweis
 Die Farben des Zeilentitels sowie der Zeilenleiste selbst können nach eigenen Belieben angepasst werden. Hierzu im Fenster der Zeileneigenschaften 'Weitere Optionen' wählen. 
 ```{image} ../_images/A2-S12.png
 :align: center
@@ -116,6 +119,7 @@ Jetzt kann man entweder…:
 Wer präzise Annotationen erstellen möchte, kann mit der Bedienung der Wiedergabesteuerung arbeiten. Hierfür ist es wichtig, dass unter dem Medienfenster die Zeitanzeige auf Frames eingestellt ist. Mit einem Rechtsklick auf die Zeitanzeige kann das Ausgabeformat geändert werden. Abhängig von der **Frame Rate** des Videos "PAL" oder "NTSC" wählen. 
 Zur Erstellung der Annotation dann an den ungefähren Bereich des Anfangs navigieren und mit der Frametaste bzw. Pixeltaste den genauen Anfang bestimmen. Dann den 'Auswahl-Modus' aktivieren und erneut mit der Frametaste/Pixeltaste zur Endzeit der Annotation steuern. Den 'Auswahl-Modus' deaktivieren und mit einem Doppelklick die Annotation erstellen bzw. einen Wert einfügen. 
 ```{admonition} Was ist "PAL" oder "NTSC"?
+:class: hinweis
 Die Zeitformate **PAL** oder **NTSC** beziehen sich auf die Bildfrequenz – also Frame Rate. PAL-Videos werden üblicherweise mit einer Frame Rate von 25 Bildern pro Sekunde (FPS = frames per second) aufgenommen während NTSC mit einer Frame Rate von 30 Bildern pro Sekunde arbeitet. <br>
 Die Frame Rate eines Videos kann über gängige Videoabspielprogramme herausgefunden werden. Hierzu die Metadateninformationen abrufen: 
 Beispielsweise unter VLC im Abspielmodus mit cmd + I (Mac)  bzw. Strg + J (Windows) und dann unter 'Codecdetails > Bildwiederholrate'.
@@ -133,7 +137,8 @@ Bereits angelegte Annotationen können ganz einfach geändert werden. Der Annota
 * 'Annotationswert ändern' = der Inhalt der Annotation kann bearbeitet werden
 * Annotation aufteilen' = die Annotation wird am Punkt des Mausanzeigers aufgeteilt
 ````{margin}
-```{note}
+```{admonition} Hinweis
+:class: hinweis
 Das Löschen von Annotationen oder Zeilen kann über die obere Menüleiste unter 'Bearbeiten' rückgängig gemacht werden.
 ```
 ````
@@ -166,7 +171,8 @@ ELAN-Projekte können in unterschiedliche Datenformate exportiert werden. Hierzu
 ````
 3.	Sobald das Video verknüpft ist und die Datei gesichert wurde, kann mit der Annotation begonnen werden. Als erste legen wir auch hier unsere Parameter also "Tiers" in ELAN an, die Auswahl der Parameter entnehmen wir unserer [vorherigen Bestimmung](#Aufgabe_B)
 ````{margin}
-```{hint}
+```{admonition} Hinweis
+:class: hinweis
 Wie bei der Annotation mit Advene, werden auch hier Parameter wie Dialog, Sound oder Licht nach ihren Verläufen und nicht nach dem Einstellungsprinzip annotiert. 
 ```
 ````
