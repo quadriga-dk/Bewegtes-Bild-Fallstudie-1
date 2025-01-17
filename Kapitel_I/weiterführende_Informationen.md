@@ -33,10 +33,10 @@ Eine einheitliche Systematisierung gibt es dabei nicht. Durch Ansätze verschied
 
 ```{admonition} Glossare & Nachschlagewerke (z.B. für Grundbegriffe)
 :class: seealso
-* Universität Wien: https://filmanalyse.at
-* Netzwerk Cinema: https://www.netzwerk-cinema.ch/uploads/files/Glossaire_reaseau_cinema_ch.pdf
-* Universität Kiel: https://filmlexikon.uni-kiel.de/
-* Kinofenster: https://www.kinofenster.de/lehrmaterial/glossar/
+* Universität Wien: <a href="https://filmanalyse.at" class="external-link" target="_blank">https://filmanalyse.at</a>
+* Netzwerk Cinema: <a href="https://www.netzwerk-cinema.ch/uploads/files/Glossaire_reaseau_cinema_ch.pdf" class="external-link" target="_blank">https://www.netzwerk-cinema.ch/uploads/files/Glossaire_reaseau_cinema_ch.pdf"</a>
+* Universität Kiel: <a href="https://filmlexikon.uni-kiel.de/" class="external-link" target="_blank">https://filmlexikon.uni-kiel.de/</a>
+* Kinofenster: <a href="https://www.kinofenster.de/lehrmaterial/glossar/" class="external-link" target="_blank">https://www.kinofenster.de/lehrmaterial/glossar/</a>
 ```
 
 ```{admonition} Weiterführende Literatur
