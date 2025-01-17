@@ -26,7 +26,7 @@ Ein Download des Videoausschnitts ist via Youtube möglich. Für die Annotations
 | **Titel**           | "To understand climate change, understand these three numbers" |
 | **Erscheinungsjahr**| 2013                                               |
 | **Ausschnitt aus**  | *Do the Math* (Kelly Nyks und Jared P. Scott, USA 2013)                                     |
-| **Erschienen auf**  | <a href="https://www.youtube.com/watch?v=5KtGg-Lvxso" class="external-link" target="_blank">Youtube</a> und auf https://act.350.org/signup/math-movie/ |
+| **Erschienen auf**  | <a href="https://www.youtube.com/watch?v=5KtGg-Lvxso" class="external-link" target="_blank">Youtube</a> und auf <a href="https://act.350.org/signup/math-movie/" class="external-link" target="_blank">https://act.350.org/signup/math-movie/</a> |
 | **Verzeichnete Aufrufe** | 42.580 (Stand: Oktober 2024)                    |
 | **Lizenz**          | Creative Commons-Lizenz mit Quellenangabe (Wiederverwendung erlaubt) |
 
