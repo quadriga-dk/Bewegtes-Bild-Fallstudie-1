@@ -252,6 +252,8 @@ Sie sollen des weiteren ["audiovisuelle\[…\] Inszinierungsmuster"](/Kapitel_I/
 
 Die ["Visualisierung und Qualifizierung der Datensets"](/Kapitel_I/Einführung_in_die_datengestützte_Filmanalyse.md#was-sind-die-groblernziele-der-fallstudie) wird gegen Ende eher etwas kürzer behandelt. Für die Visualisierung werden meinem Verständnis nach nur fertige Visualisierungstools genutzt. Die eigenständige Entwicklung einer Visualisierung ist hier nicht vorgesehen. Die Inhalte zur Qualifizierung schienen noch nicht ganz ausgearbeitet.
 
+Die Übungen sind – nach grobem Durchblick – sehr detailliert gestaltet und es gibt gute Musterlösungen. Es fehlt ggf. noch eine Anleitung, wie man die Musterlösungen am Besten für das Self-Assessment einsetzt. Das nehme ich mir als Aufgabe mit.
+
 
 ## Konkrete Probleme und Fehler
 > (nach Bedarf)
