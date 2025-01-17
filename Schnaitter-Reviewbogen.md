@@ -47,9 +47,11 @@ author: "Schnaitter, Hannes"
 
 ## `Kapitel_I/Untersuchungsgegenstand.md`
 - keine inhaltlichen Anmerkungen
+- ist es möglich den VideoUP Link zu einem Download-Link zu machen? Bzw. einen zusätzlichen Downloadlink einzubauen?
 
 ## `Kapitel_I/Technische_Voraussetzungen.md`
 - [ ] Ich kann dieser Anleitung folgen, aber jemand, der nicht so technisch versiert ist wahrscheinlich nicht. Muss diese Anleitung überhaupt in der OER enthalten sein, oder sollte gleich vollständig auf die Installationsseiten der Tools verwiesen werden? Sind diese leichter verständlich? Sonst müsste hier vermutlich noch eine detailiertere Anleitung stehen.
+- [ ] Wieso geht die macOS-Version nicht? Ich hatte mWn keine Probleme.
 
 ## `Kapitel_II/Aufgabe_A.md`
 - [ ] jeweils `figure`-Umgebung um die Abbildungen einfügen?
@@ -59,6 +61,7 @@ author: "Schnaitter, Hannes"
 ## `Kapitel_II/Aufgabe_A_UK-2.md`
 - Fig. 2 "Die vier Grundeinheiten des Films" ist nicht barrierefrei; ebensowenig ist es Fig. 3
 - Es ist nicht ganz offensichtlich, wann mit der Bearbeitung der Aufgabe loslegen soll. Der Text "Die Tabelle liegt ausgefüllt vor?" kommt etwas unwerwartet.
+- Welche Datei soll ich anschauen? Direkt bei der Anleitung zur tabellarischen Annotation auf das richtige Video verweisen.
 
 ## `Kapitel_II/Aufgabe_A_UK-3.md`
 - [ ] Die neu eingefügte Randnotiz zum Assessment sollte (sprachlich) überarbeitet werden.
@@ -71,6 +74,7 @@ author: "Schnaitter, Hannes"
 
 ## `Kapitel_II/Aufgabe_B_UK-1.md`
 - [ ] Die Abbildungen sollten noch in figure-Umgebungen gestellt werden.
+- [ ] Welche Datei soll ich laden? Direkt bei der Anleitung zum laden des Videos ("Associate a video file") auf das richtige Video verweisen.
 
 ## `Kapitel_II/Aufgabe_B_UK-2.md`
 - [ ] Die Abbildungen sollten noch in figure-Umgebungen gestellt werden.
@@ -242,7 +246,11 @@ Die "Kapitelübersicht" auf der ersten Seite eines Kapitels ist sehr schön. Ggf
 > - Gibt es genug (oder zu viele) Übungen? Sind Übungsaufgaben klar formuliert? (Ist es möglich Übungen zu überspringen, ohne wichtige Informationen für nachfolgende Abschnitte zu übersehen?)
 > - Sind die Übungen für die Überprüfung des eigenen Lernfortschritts angemessen (formatives Assessment)?
 
-…
+Lernende sollen am Ende ["filmanalytische Metadaten"](/Kapitel_I/Einführung_in_die_datengestützte_Filmanalyse.md#was-sind-die-groblernziele-der-fallstudie) erstellen können. Dies geschieht insbesondere mit Advene. Dies erscheint mir gut erreichbar mit den OER-Inhalten.
+
+Sie sollen des weiteren ["audiovisuelle\[…\] Inszinierungsmuster"](/Kapitel_I/Einführung_in_die_datengestützte_Filmanalyse.md#was-sind-die-groblernziele-der-fallstudie) erkennen und differenzieren. Ich denke bei genauer Durcharbeit ist das möglich. Im Rahmen des Reviews habe ich das nur überflogen. Vorkenntnisse aus der Filmwissenschaft sind hier ein klarer Vorteil, da diese Inhalte vermutlich vor allem Wiederholung sind.
+
+Die ["Visualisierung und Qualifizierung der Datensets"](/Kapitel_I/Einführung_in_die_datengestützte_Filmanalyse.md#was-sind-die-groblernziele-der-fallstudie) wird gegen Ende eher etwas kürzer behandelt. Für die Visualisierung werden meinem Verständnis nach nur fertige Visualisierungstools genutzt. Die eigenständige Entwicklung einer Visualisierung ist hier nicht vorgesehen. Die Inhalte zur Qualifizierung schienen noch nicht ganz ausgearbeitet.
 
 
 ## Konkrete Probleme und Fehler
@@ -266,4 +274,4 @@ Die Fallstudie bietet einen guten Einstieg für Filmwissenschaftler\*innen bzw. 
 
 ### 1-3 Schwächen der OER
 
-Der Einstieg für Personen aus anderen Disziplinen ist ggf. etwas schwer.
+Der Einstieg für Personen aus anderen Disziplinen ist ggf. etwas schwer. Eventuell helfen Beispiele für die Übertragung in andere Disziplinen (Mit welchen zeitbasierten Daten könnte man die zeitliche Annotation noch durchführen? Was ist mit Zeitreihen aller Art?)
