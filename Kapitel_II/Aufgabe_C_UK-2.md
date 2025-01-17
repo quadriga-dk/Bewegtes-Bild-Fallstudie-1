@@ -6,7 +6,8 @@ Ausgehend von dieser Systematisierung hat die BMBF-geförderte Nachwuchsgruppe "
 ## Methode
 
 ````{margin}
-```{hint} 
+```{admonition} weiterführende Literatur
+:class: seealso
 Ausführliche Informationen zur eMAEX-Methode gibt es unter [Empirische Methoden](../Kapitel_I/Empirische_Methoden) in diesem Book oder auf der Website: <a href="https://www.empirische-medienaesthetik.fu-berlin.de/emaex-system/emaex_kurzversion/index.html" class="external-link" target="_blank">Empirische Medienästhetik</a> sowie <a href="https://www.cinepoetics.fu-berlin.de/methods/1_Methode/2_Ansatz_eMAEX/index.html" class="external-link" target="_blank">hier</a>.
 ```
 ````
@@ -27,6 +28,7 @@ Ausgehend von diesen Überlegungen wurde auf Grundlage des oben skizzierten Fram
 Um eben diese großen Datensätze an multidimensionalen Beschreibungen für einen größeren Korpus überhaupt erst zu ermöglichen, wurde eine auf Semantic Web Prinzipien basierende Systematik entwickelt – die AdA-Filmontologie, eine OWL-basierte-Ontologie. <br>
 Durch die Integration (semi-)automatisch erzeugter Annotationen als auch die Möglichkeit der Maschinenlesbarkeit sowie weitere Verknüpfungsmöglichkeiten für semantische Metadaten, können filmanalytische Beschreibungsmuster als semantische Triple formuliert und diese in Form von **Linked Open Data** zugänglich, durchsuchbar sowie für den Austausch und Vergleich von Analysedaten öffentlich gemacht werden. 
 ```{admonition} Was sind Linked Open Data?
+:class: hinweis
 Linked Open Data (LOD) ist ein Konzept nach Semantic Web Prinzipien, welches die Veröffentlichung und Verknüpfung offen zugänglicher Daten im Internet beschreibt. Es ermöglicht, dass Daten aus verschiedenen Quellen miteinander in Relation treten, um diese leichter durchsuchbar wie auch nutzbarer zu machen.
 +++
 **Linked Data**: Stellt sicher, dass die Daten miteinander verknüpft sind. <br>
@@ -104,10 +106,11 @@ Die <a href="https://ada.cinepoetics.org/resource/2021/05/19/eMAEXannotationMeth
 
 Die Ontologie selbst stellt das methodische Framework bereit, welches als grundlegendes Analysegerüst für die Videoannotation genutzt werden kann. Die Annotationen werden in der frei zugänglichen Videoannotationssoftware <a href="https://www.advene.org/" class="external-link" target="_blank">Advene</a> angelegt. Hierzu wurden in enger Kollaboration mit dem Entwickler von Advene die Funktionsweisen angepasst und erweitert, um den spezifischen Anforderungen  filmwissenschaftlicher Analyse gerecht zu werden und diese direkt mit der entwickelten Ontologie zu verknüpfen. 
 
-````{important}
+````{admonition} Wichtig
+:class: caution
 Grundsätzlich gilt, dass es sich bei dieser Ontologie um ein Datenframework handelt. Das heißt, dass die Ontologie in ihren Prinzipien und ihrer Logik **toolagnostisch** ist.
 ```{admonition} Was bedeutet toolagnostisch?
-:class: dropdown
+:class: hinweis, dropdown
 Insbesondere oft im Kontext der Softwareentwicklung oder in der IT-Infrastuktur verwendeter Begriff, meint toolagnostisch, dass bestimmte Methoden, Konzepte oder Frameworks unabhängig von einem spezifischen Werkzeug angewendet werden können. Wichtig ist, dass das Prinzip oder die Methode mit verschiedenen Tools umgesetzt werden kann. <br> 
 Das Framework ist somit die Entwicklung einer maschinenlesbaren, filmanalytischen Ontologie, welche im Rahmen des AdA-Projekts in die Funktionsweisen von Advene integriert wurde. Die Möglichkeit der Integrierung in andere Tools, wie z.B. <a href="https://archive.mpi.nl/tla/elan" class="external-link" target="_blank">ELAN</a>, steht somit offen und ist in der Theorie umsetzbar. 
 ```

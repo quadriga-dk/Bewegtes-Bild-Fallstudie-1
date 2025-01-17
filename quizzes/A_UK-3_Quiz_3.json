@@ -4,42 +4,42 @@
         "type": "multiple_choice",
         "answers": [
             {
-                "code": "Cartoonzeichnungen",
+                "answer": "Cartoonzeichnungen",
                 "correct": false
             
             }, 
             {
-                "code": "Überwachungsaufnahmen",
+                "answer": "Überwachungsaufnahmen",
                 "correct": false
             
             }, 
             {
-                "code": "Archivfotografie",
+                "answer": "Archivfotografie",
                 "correct": true
             
             }, 
             {
-                "code": "Zeitgenössisches Material",
+                "answer": "Zeitgenössisches Material",
                 "correct": false
             
             }, 
             {
-                "code": "Heimvideo",
+                "answer": "Heimvideo",
                 "correct": false
             
             }, 
             {
-                "code": "Historisches Material",
+                "answer": "Historisches Material",
                 "correct": true
             
             },
 
             {
-                "code": "Unterrichtsfilm",
+                "answer": "Unterrichtsfilm",
                 "correct": false 
             },
             {
-                "code": "Nachrichten",
+                "answer": "Nachrichten",
                 "correct": false
                 
             }

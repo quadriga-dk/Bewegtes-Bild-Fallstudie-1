@@ -4,16 +4,18 @@ Bei dem für die Fallstudie verwendete Beispiel handelt es sich um den Youtube-C
 +++
 In dem Clip erklärt McKibben auf Basis konkreter Zahlen den Konflikt zwischen den Interessen der fossilen Brennstoffindustrie und den internationalen Bemühungen und Abkommen zur Begrenzung des globalen CO2-Ausstoßes. Das Video verknüpft, so könnte eine erste Ausgangshypothese lauten, den Wissenstransfer mit einem aktivistischen Affekt der Sorge und Beunruhigung. **Woran lässt sich aber dieser Affekt empirisch in der audiovisuellen Gestaltung selbst festmachen?**
 +++
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5KtGg-Lvxso?si=kDabxiJWcgUca6f-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>             
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5KtGg-Lvxso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>             
 
-```{note}
-Mithilfe datengestützer Annotationsmethoden und einer umfassenden Ontologie soll diese Ausgangshypothese am Ende der Fallstudie beantwortet werden. Eine Zusammenstellung der Metadaten des Videos ist nachfolgend eingebettet. Über den unten aufgeführten YouTube-Link sowie über unseren Videoserver <a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=2a2ea03a-909a-40b5-987c-b21800bd9d13" class="external-link" target="_blank">Panopto</a> ist ebenfalls ein Zugriff auf das Video möglich.
+```{admonition} Hinweis
+:class: hinweis
+Mithilfe datengestützer Annotationsmethoden und einer umfassenden Ontologie soll diese Ausgangshypothese am Ende der Fallstudie beantwortet werden. Eine Zusammenstellung der Metadaten des Videos ist nachfolgend eingebettet. Über den unten aufgeführten YouTube-Link sowie über den  Videoserver der Universität Potsdam (<a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=2a2ea03a-909a-40b5-987c-b21800bd9d13" class="external-link" target="_blank">VideoUP</a>) ist ebenfalls ein Zugriff auf das Video möglich.
 ```
 
 ## Metadaten zum Videoausschnitt
 
 ````{margin}
-```{attention}
+```{admonition} Achtung
+:class: caution
 Ein Download des Videoausschnitts ist via Youtube möglich. Für die Annotationsarbeit ist es notwendig die Datei (am besten im MP4-Format) lokal abzuspeichern.
 ```
 ````
@@ -24,7 +26,7 @@ Ein Download des Videoausschnitts ist via Youtube möglich. Für die Annotations
 | **Titel**           | "To understand climate change, understand these three numbers" |
 | **Erscheinungsjahr**| 2013                                               |
 | **Ausschnitt aus**  | *Do the Math* (Kelly Nyks und Jared P. Scott, USA 2013)                                     |
-| **Erschienen auf**  | <a href="https://www.youtube.com/watch?v=5KtGg-Lvxso" class="external-link" target="_blank">Youtube</a> und auf https://act.350.org/signup/math-movie/ |
+| **Erschienen auf**  | <a href="https://www.youtube.com/watch?v=5KtGg-Lvxso" class="external-link" target="_blank">Youtube</a> und auf <a href="https://act.350.org/signup/math-movie/" class="external-link" target="_blank">https://act.350.org/signup/math-movie/</a> |
 | **Verzeichnete Aufrufe** | 42.580 (Stand: Oktober 2024)                    |
 | **Lizenz**          | Creative Commons-Lizenz mit Quellenangabe (Wiederverwendung erlaubt) |
 

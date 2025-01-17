@@ -7,6 +7,7 @@ Unter der Leitung von <a href="https://www.cinepoetics.fu-berlin.de/about/sprech
 
 ````{margin}
 ```{admonition} Was verstehen wir unter "Ausdrucksbewegung"?
+:class: hinweis
 Ausdrucksbewegung lässt sich mit Kappelhoff (2004) nach Plessner definieren als diejenige spezifische Dimension von Bewegung, die sich als Wahrnehmung einer zeitlichen Gestalt zeigt. Diese Bewegungsdimension bezieht alle formalen Ebenen filmischer Bilder ein (Farbe, Licht, Musik, Kadrierung, Montage usw.) insofern sie als Einheit einer zeitlichen Dynamik von Zuschauer:innen körperlich erlebt werden.
 ```
 ````
@@ -19,21 +20,21 @@ Um diese Frage zu beantworten, wurde ein dreistufiges Analysemodell entwickelt:
 
 ````{margin}
 ```{admonition} Was ist eine Pathosszene?
+:class: hinweis
 Im Rahmen der Filmsegmentierung der eMAEX-Methode wurden genrespezifische Standard-Szenen kategorisiert, denen bestimmte affektive Qualitäten zugeordnet werden können. Eine Übersicht der Pathosszenen des Kriegsfilm-Projektes findet sich <a href="https://www.empirische-medienaesthetik.fu-berlin.de/emaex-system/affektdatenmatrix/kategorien/index.html" class="external-link" target="_blank">hier</a>. Detaillierte Informationen zum Konzept der Pathosszene können ebenfalls <a href="https://www.cinepoetics.fu-berlin.de/methods/2_Anwendung_und_Perspektiven/1_Genre-und-Gefuehle_Pathosszene-und-Affektdramaturgie/index.html" class="external-link" target="_blank">hier</a> abgerufen werden. 
 ```
 ````
  
 **Identifikation**
-+++
-1. Szenensegmentierung Pathosszenen: Die zeitliche Segmentierung eines Film nach Szenen und die Bestimmung dieser Szenen nach Pathoskategorien (die affektdramaturgische Makrostruktur eines Films, visualisiert als zeitliche Abfolge von Pathosszenen) 
+ 1. Szenensegmentierung Pathosszenen: Die zeitliche Segmentierung eines Film nach Szenen und die Bestimmung dieser Szenen nach Pathoskategorien (die affektdramaturgische Makrostruktur eines Films, visualisiert als zeitliche Abfolge von Pathosszenen) 
 +++
 **Evaluation**
-+++
-2. Aufteilung Pathosszenen: Die Identifizierung und Beschreibung der einzelnen Ausdrucksbewegungseinheiten als Segmente der inszenatorischen Mikrostruktur einer Pathosszene
+
+ 2. Aufteilung Pathosszenen: Die Identifizierung und Beschreibung der einzelnen Ausdrucksbewegungseinheiten als Segmente der inszenatorischen Mikrostruktur einer Pathosszene
 +++
 **Analyse**
-+++
-3. Zusammenführung Pathosszenen (Diagramm): Die Beschreibung des Zusammenspiels der jeweiligen Ausdrucksbewegungseinheiten innerhalb einer szenischen Komposition als dynamisches Muster, sowie die Qualifizierung dieses Musters als expressive Verlaufsform, die einen bestimmten Affektbereich aktualisiert
+
+ 3. Zusammenführung Pathosszenen (Diagramm): Die Beschreibung des Zusammenspiels der jeweiligen Ausdrucksbewegungseinheiten innerhalb einer szenischen Komposition als dynamisches Muster, sowie die Qualifizierung dieses Musters als expressive Verlaufsform, die einen bestimmten Affektbereich aktualisiert
 +++
 Ein Beispiel aus dem Film *A Walk in the Sun* (Lewis Milestone, USA 1945) zeigt die Anordnung der Pathosszenen in der zeitlichen Abfolge des Filmes:
 
@@ -45,12 +46,12 @@ Ziel der Methode ist eine empirisch-qualitative Durchführung vergleichender Stu
 +++
 
 ````{margin}
-```{seealso} 
-[Was ist eine Datenontologie?](../Kapitel_II/Aufgabe_C.md)
-+++
-[Wie kann mit einer Ontologie gearbeitet werden?](../Kapitel_II/Aufgabe_D.md)
-+++
-[Wie können die mit einer Ontologie erstellten Daten visualisiert werden?](../Kapitel_II/Aufgabe_E.md)
+```{admonition} Datenontologien
+:class: seealso
+Datenontologien werden genauer in diesen nachfolgenden Kapiteln behandelt:
+- [Was ist eine Datenontologie?](../Kapitel_II/Aufgabe_C.md)
+- [Wie kann mit einer Ontologie gearbeitet werden?](../Kapitel_II/Aufgabe_D.md)
+- [Wie können die mit einer Ontologie erstellten Daten visualisiert werden?](../Kapitel_II/Aufgabe_E.md)
 
 ```
 ````

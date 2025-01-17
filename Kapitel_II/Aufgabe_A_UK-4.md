@@ -2,7 +2,7 @@
 
 ## Resümee des Kapitels
 
-Die erste Aufgabe beeinhaltete das Erstellen erster, grobstrukturierter Annotationsdaten mittel eines [Einstellungsprotokolls](../Kapitel_II/Aufgabe_A_UK-2.md). Dafür wurde eine Auswahl der zu annotierenden Basisparameter [s. Fig. 3](../assets/Kurzdefinition-Parameter.png) getroffen. Aus der Beschaffenheit des Videomaterials heraus hat sich die Segmentierung in Einstellungen ergeben [s. Fig. 2](../assets/Vier-Grundeinheiten-des-Films.png). Mit [punktuellen Auswertungen](../Kapitel_II/Aufgabe_A_UK-3.md) des Protokolls konnten wir erste Analyseansätze verschriftlichen. 
+Die erste Aufgabe beeinhaltete das Erstellen erster, grobstrukturierter Annotationsdaten mittel eines [Einstellungsprotokolls](../Kapitel_II/Aufgabe_A_UK-2.md). Dafür wurde eine Auswahl der zu annotierenden Basisparameter (siehe {numref}`kurzdefinition-parameter`) getroffen. Aus der Beschaffenheit des Videomaterials heraus hat sich die Segmentierung in Einstellungen ergeben (siehe {numref}`grundeinheiten-film`). Mit [punktuellen Auswertungen](../Kapitel_II/Aufgabe_A_UK-3.md) des Protokolls konnten wir erste Analyseansätze verschriftlichen. 
 
 ## Methodenreflexion
 

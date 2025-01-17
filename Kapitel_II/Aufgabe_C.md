@@ -16,8 +16,8 @@ In diesem Kapitel sollen die Prinzpien von Semantic Web anhand der Überführung
 
 Wie funktionieren semantische Triple? In einem ersten Schritt wird erklärt, was semantische Triple sind und wie ihre Datenstruktur funktioniert. Anschließend wird erläutert, wie solche Triple für filmanalytische Grundbegriffe aussehen können. Eine [Übung zur Überführung der Grundbegriffe in Triple-Strukturen](Aufgabe_C_UK-1) soll helfen, die zuvor erläuterten Prinzipien zu reproduzieren. Wie eine komplexe auf Semantic Web basierende Filmontologie entwickelt wurde, wird im Kapitel [AdA-Filmontolgie: Filmanalyse und Semantic Web](Aufgabe_C_UK-2) ausführlich erklärt und mit Beispielen veranschaulicht. 
 
-```{admonition} GROB- UND FEINLERNZIELE
-:class: dropdown
+```{admonition} Lernziele
+:class: dropdown, lernziele
 **Groblernziel**
 +++
 Mithilfe von Annotationsdaten, die auf Basis einer filmanalytischen Ontologie erstellt und visualisiert werden, können audiovisuelle Inszenierungsmuster erkannt und differenzieren werden.
@@ -33,7 +33,8 @@ Mithilfe von Annotationsdaten, die auf Basis einer filmanalytischen Ontologie er
 Im vorigen Kapitel haben wir anhand von zwei Tools gezeigt, wie mithilfe digitaler Werkzeuge filmanalytisches Vokabular sowie formalästhetische Beschreibungen als Freitextannotationen entlang einer Timeline angelegt werden können. Die Annotationsspuren und Annotationen sowie ihre dazugehörigen Werte beruhen in diesem Schritt auf Freitexteingaben. Ein festgesetztes Datenframework zur Vereinheitlichung und Konzeptualisierung dieses Grundvokabulars lag dieser Arbeit noch nicht zugrunde.
 +++
 ````{margin}
-```{attention}
+```{admonition} Achtung
+:class: caution
 Am Ende des Kapitels gehen wir im Detail auf die AdA-Filmontologie ein.
 ```
 ````

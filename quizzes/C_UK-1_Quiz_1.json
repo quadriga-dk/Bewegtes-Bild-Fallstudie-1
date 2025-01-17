@@ -4,17 +4,17 @@
         "type": "multiple_choice",
         "answers": [
             {
-                "answer": " 'Segment X' 'hat auf dem Level Kamera' 'den Wert langsam' + <br> 'Segment X' 'hat auf dem Level Kamera' 'den Wert links' + <br> 'Segment X' 'hat auf dem Level Kamera' 'den Wert Kamerafahrt",
+                "code": " 'Segment X' 'hat auf dem Level Kamera' 'den Wert langsam' + <br> 'Segment X' 'hat auf dem Level Kamera' 'den Wert links' + <br> 'Segment X' 'hat auf dem Level Kamera' 'den Wert Kamerafahrt",
                 "correct": false,
                 "feedback": "Diese Antwort ist falsch. Das Prädikat enthält das Level, muss aber die analytischen Dimensionen für 'Kamerabewegung' enthalten. "
             },
             {
-                "answer": " 'Segment X' 'hat im Type Kamerabewegung Typ den Wert' 'Kamerafahrt + <br> 'Segment X' 'hat im Type Kamerabewegung Richtung den Wert' 'links' + <br> 'Segment X' 'hat im Type Kamerabewegung Geschwindigkeit den Wert' 'langsam' ",
+                "code": " 'Segment X' 'hat im Type Kamerabewegung Typ den Wert' 'Kamerafahrt + <br> 'Segment X' 'hat im Type Kamerabewegung Richtung den Wert' 'links' + <br> 'Segment X' 'hat im Type Kamerabewegung Geschwindigkeit den Wert' 'langsam' ",
                 "correct": true,
                 "feedback": "Korrekt. Die Anordnung erfolgt nach dem Schema 'Subjekt-Prädikat-Objekt' mit der jeweiligen analytischen Dimension als Prädikat und den dazugehörigen Werten als Objekt."
             }, 
             {
-                "answer": " 'Im Type Kamerabewegung Typ hat' 'Segment X' 'den Wert Kamerafahrt' + <br> 'Im Type Kamerabewegung Richtung hat' 'Segment X' 'den Wert links' + <br> 'Im Type Kamerabewegung Geschwindigkeit hat' 'Subjekt X' 'den Wert langsam' ",
+                "code": " 'Im Type Kamerabewegung Typ hat' 'Segment X' 'den Wert Kamerafahrt' + <br> 'Im Type Kamerabewegung Richtung hat' 'Segment X' 'den Wert links' + <br> 'Im Type Kamerabewegung Geschwindigkeit hat' 'Subjekt X' 'den Wert langsam' ",
                 "correct": false,
                 "feedback": "Diese Antwort ist falsch, da die Reihenfolge nicht nach dem Schema 'Subjekt – Prädikat – Objekt' erfolgt'."
             }
