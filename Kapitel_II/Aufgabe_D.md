@@ -51,7 +51,8 @@ Wer erst bei diesem Schritt einsteigt, kann sich notwendiges Vorwissen jeweils h
 ## Videotutorials
 
 ````{margin}
-```{note}
+```{admonition} Hinweis
+:class: hinweis
 Die Videotutorials sind auf Englisch. Ein ausführliches Manual in deutscher Sprache (s.u.) steht ebenfalls zur Verfügung.
 ```
 ````
