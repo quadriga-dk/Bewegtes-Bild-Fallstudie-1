@@ -163,6 +163,7 @@ author: "Schnaitter, Hannes"
 - [ ] `Kapitel_II/Aufgabe_B.md`
   - Admonitions für Lernziele und die Randnotizen
   - Admonitions zu "toolagnostischer Perspektive" und Hinweis zum Quick Guide
+  - Ist der Link auf die Abbildung "kurzdefinition parameter" der richtige?
 - [ ] `Kapitel_II/Aufgabe_B_UK-1.md`
   - Admonitions
 - [ ] `Kapitel_II/Aufgabe_B_UK-2.md`
