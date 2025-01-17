@@ -82,7 +82,7 @@ author: "Schnaitter, Hannes"
 - [ ] 
 
 ## `Kapitel_II/Aufgabe_C_UK-1.md`
-- [ ] 
+- [ ] Quiz-Formatierung überprüfen. Ist die Trennung der Zeilen mit `+` hier richtig?
 
 ## `Kapitel_II/Aufgabe_C_UK-2.md`
 - [ ] 
@@ -109,7 +109,7 @@ author: "Schnaitter, Hannes"
 - [ ] Die Abbildungen sollten noch in figure-Umgebungen gestellt werden.
 
 ## `Kapitel_II/Aufgabe_E_UK-2.md`
-- [ ] 
+- [ ] Quiz-Formatierung überprüfen. 
 
 ## `Kapitel_II/Aufgabe_E_UK-3.md`
 - [ ] Die Abbildungen sollten noch in figure-Umgebungen gestellt werden.
@@ -191,6 +191,11 @@ author: "Schnaitter, Hannes"
   - 
 - [ ] `Kapitel_III/Zusammenfassung.md`
   - 
+- [ ] Überarbeitung der Quizzes
+  - A3Q3 wechsel von `code` zu `answer`.
+  - B1Q1 wechsel von `code` zu `answer`.
+  - C1Q1 wechsel von `answer` zu `code`.
+  - E2Q1 wechsel von `answer` zu `code`.
 
 
 

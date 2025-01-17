@@ -4,51 +4,51 @@
         "type": "multiple_choice",
         "answers": [
             {
-                "code": "Musik",
+                "answer": "Musik",
                 "correct": true
             
             }, 
             {
-                "code": "Montage",
+                "answer": "Montage",
                 "correct": false
             
             }, 
             {
-                "code": "Kameraperspektive",
+                "answer": "Kameraperspektive",
                 "correct": false
             
             }, 
             {
-                "code": "Licht",
+                "answer": "Licht",
                 "correct": true
             
             }, 
             {
-                "code": "Kamerabewegung",
+                "answer": "Kamerabewegung",
                 "correct": false
             
             }, 
             {
-                "code": "Dauer der Einstellung",
+                "answer": "Dauer der Einstellung",
                 "correct": false
             
             },
             {
-                "code": "Farbe",
+                "answer": "Farbe",
                 "correct": true 
             },
             {
-                "code": "Dialog",
+                "answer": "Dialog",
                 "correct": true
                 
             },
             {
-                "code": "Bildinhalt",
+                "answer": "Bildinhalt",
                 "correct": true
                 
             },
             {
-                "code": "Einstellungsgröße",
+                "answer": "Einstellungsgröße",
                 "correct": false
                 
             }
