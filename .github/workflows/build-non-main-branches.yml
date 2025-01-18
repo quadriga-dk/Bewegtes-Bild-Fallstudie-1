@@ -1,12 +1,11 @@
-name: build-review-version
+name: build-non-main-branches
 
 # Run this when the master or main branch changes
 on:
   push:
-    branches:
-    - schnaitter/review
+    branches-ignore:
+    - main
 
-# This job installs dependencies, builds the book, and pushes it to `gh-pages`
 jobs:
   build-review-version:
     runs-on: ubuntu-latest
