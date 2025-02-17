@@ -121,4 +121,20 @@ als politische Intervention, S. 83).
 
 ### Dateninterpretation: Ausgangsthese und Formen ästhetischer Anordnungen 
 
-*Informationen zu diesem Teil folgen in Kürze.*
+````{card-carousel} 1
+
+```{card}
+:class-card: carousel-card
+![slide-1](../_images/Beispiel-Slide-1.png)
+```
+
+```{card}
+:class-card: carousel-card
+![slide-2](../_images/Beispiel-Slide-2.png)
+```
+
+```{card}
+:class-card: carousel-card
+![slide-3](../_images/Beispiel-Slide-3.png)
+```
+````
