@@ -1,7 +1,7 @@
 # AdA-Filmontologie: Filmanalyse und Semantic Web
 
 In der vorigen Übung haben wir gezeigt, wie ein Set an filmanalytischen Beschreibungen in eine Ontologie nach Semantic Web Standards überführt werden kann. Schrittweise soll so nachvollzogen werden können, wie mit einem semantischen Modell formalästhetische Relationen als maschinenlesbare Triple hergestellt werden können.
-Ausgehend von dieser Systematisierung hat die BMBF-geförderte Nachwuchsgruppe "<a href="https://www.ada.cinepoetics.fu-berlin.de/index.html" class="external-link" target="_blank">Affektrhetoriken des Audiovisuellen</a>" (kurz: AdA) eine Filmontologie entwickelt, die in enger Zusammenarbeit mit Informatiker und Entwickler von <a href="https://www.advene.org/" class="external-link" target="_blank">Advene</a>, <a href="https://www.olivieraubert.net/" class="external-link" target="_blank">Dr. Olivier Aubert</a> entstanden ist.
+Ausgehend von dieser Systematisierung hat die BMBF-geförderte Nachwuchsgruppe "<a href="https://www.ada.cinepoetics.fu-berlin.de/index.html" class="external-link" target="_blank">Affektrhetoriken des Audiovisuellen</a>" (kurz: AdA, Laufzeit: 2016-2021) eine Filmontologie entwickelt, die in enger Zusammenarbeit mit Informatiker und Entwickler von <a href="https://www.advene.org/" class="external-link" target="_blank">Advene</a>, <a href="https://www.olivieraubert.net/" class="external-link" target="_blank">Dr. Olivier Aubert</a> entstanden ist.
 
 ## Methode
 
