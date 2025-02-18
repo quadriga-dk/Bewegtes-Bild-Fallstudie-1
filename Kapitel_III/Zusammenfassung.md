@@ -24,7 +24,7 @@ name: tabelle-auszug
 Auszug der tabellarischen Annotation
 ```
 
-Anschließend werden in zweiten Lernmodul erste Schritte des Arbeitens mit digitalen [Annotationstools](../Kapitel_II/Aufgabe_B.md) für semantisch strukturierte Bewegtbildanalysen adressiert:
+Anschließend werden im zweiten Lernmodul erste Schritte des Arbeitens mit digitalen [Annotationstools](../Kapitel_II/Aufgabe_B.md) für semantisch strukturierte Bewegtbildanalysen adressiert:
 
 ```{figure} ../assets/Advene-Oberfläche.png
 ---
@@ -61,7 +61,7 @@ Die AdA-Filmontologie soll User:innen größtmögliche Flexibilität in der Anwe
 
 ## Von der Ontologie zur Visualisierung
 
-Das letzte Lernmodul beschäftigt sich mit einer eigens entwickelten Visualisierungsansicht: die AdA-Timeline. Die AdA-Timeline ist darauf ausgelegt, die in Advene mit der AdA-Ontologie erhobenen Annotationsdaten zu explorieren.  Mittels konfigurierbarer Darstellungsoptionen kann die Timeline spezifisch angepasst werden. Neben der Datenexploration ermöglicht die Visualisierung der Daten ebenfalls Hypothesenpräsentationen in Forschungszusammenhängen. Durch die Visualisierungsoptionen der Annotationen können die Daten, beispielsweise für eine filmanalytische Qualifizierung, publiziert werden. Hier ist ein konfigurierter Ausschnitt aus unserem Annotationspacket zu sehen:
+Das letzte Lernmodul beschäftigt sich mit einer eigens entwickelten Visualisierungsansicht: die AdA-Timeline. Die AdA-Timeline ist darauf ausgelegt, die in Advene mit der AdA-Ontologie erhobenen Annotationsdaten zu explorieren.  Mittels konfigurierbarer Darstellungsoptionen kann die Timeline spezifisch angepasst werden. Neben der Datenexploration ermöglicht die Visualisierung der Daten ebenfalls Hypothesenpräsentationen in Forschungszusammenhängen. Durch die Visualisierungsoptionen der Annotationen können die Daten, beispielsweise für eine filmanalytische Qualifizierung, publiziert werden. Hier ist ein konfigurierter Ausschnitt aus unserem Annotationspaket zu sehen:
 
 ````{margin}
 ➡️ Zum Vergrößern draufklicken oder ranzoomen
@@ -74,6 +74,6 @@ height: 500px
 name: ausschnitt-ada-timeline
 ---
 
-Konfiguierte Visualisierung der AdA-Timeline
+Konfigurierte Visualisierung der AdA-Timeline
 ```
 
