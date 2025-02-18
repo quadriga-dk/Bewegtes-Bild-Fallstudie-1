@@ -121,7 +121,7 @@ als politische Intervention, S. 83).
 
 ### Dateninterpretation 
 Die Datenvisualisierung spielt eine zentrale Rolle bei der Qualifizierung des Datensatzes. Mithilfe spezifischer Anpassungsoptionen, die wir für die Analyseabschnitte konfiguriert haben, veranschaulichen wir exemplarisch, wie die visualisierten Annotationsdaten filmwissenschaftlich interpretiert werden können.
-Unsere analytischen Studie konzentiert sich dabei stehts auf die Interdependenzen zwischen quantitativen Datenmustern und ihrer fachspezifischen Einordnung. Welche Erkenntnisse liefern bestimmte Variablen unserer Annotationsdaten über Schnittfrequenz, Montagemuster oder Helligkeitsverhältnisse? Und wie lassen sich diese erhobenen Visualiserungsmuster des Datensatzes auf unseren audiovisuellen Gegenstand zurückbeziehen?
+Unsere analytischen Studie konzentiert sich dabei stets auf die Interdependenzen zwischen quantitativen Datenmustern und ihrer fachspezifischen Einordnung. Welche Erkenntnisse liefern bestimmte Variablen unserer Annotationsdaten über Schnittfrequenz, Montagemuster oder Helligkeitsverhältnisse? Und wie lassen sich diese erhobenen Visualiserungsmuster des Datensatzes auf unseren audiovisuellen Gegenstand zurückbeziehen?
 
 Im Folgenden haben wir ein Set von Folien bereitgestellt, in denen mit Ausschnitten der Visualiserung eine Analyse unseres Gegenstandes nachvollzogen werden kann.
 Eine ausführliche Analyse steht hier als PDF-Download zur Verfügung. Die integrierten Folien können ebenfalls als Datei heruntergeladen werden.

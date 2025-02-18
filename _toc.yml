@@ -44,6 +44,7 @@ parts:
   - caption: Zusammenfassung
     chapters: 
       - file: Kapitel_III/Zusammenfassung
+      - file: Kapitel_III/Ausblick
   - caption: Bibliographie
     chapters:
       - file: Bibliographie

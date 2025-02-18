@@ -1,6 +1,6 @@
 ---
 lang: de-DE
 ---
-# Reflexion und Ausblick
+# Reflexion
 
 *Ups! Die Seite ist noch leer... Informationen folgen in Kürze.*
