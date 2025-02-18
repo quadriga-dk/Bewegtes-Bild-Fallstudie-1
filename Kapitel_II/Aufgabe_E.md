@@ -3,12 +3,6 @@ lang: de_DE
 ---
 # Einführung
 
-## Kapitelübersicht
-[Einführung](Aufgabe_E) <br>
-[AdA-Timeline: Funktionsweisen, Bedienung, Anpassung](Aufgabe_E_UK-1) <br>
-[Übung zur Konfiguration der Timeline und Qualifizierung der Daten](Aufgabe_E_UK-2) <br>
-[Resümee](Aufgabe_E_UK-3)
-
 In diesem Kapitel visualisieren wir die mit der AdA-Ontologie erstellten Annotationen.
 +++
 *Wir befinden uns hier:*

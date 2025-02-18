@@ -21,9 +21,9 @@ Eine kurze Inhaltsübersicht soll zur Orientierung dienen. Wer ab einem bestimmt
 
 <iframe src="https://videoup.uni-potsdam.de/Panopto/Pages/Embed.aspx?id=e1e937e6-7bd3-43fa-a4f3-b20300a66b54&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
-# Die wichtigsten Schritte im Überblick
+## Die wichtigsten Schritte im Überblick
 
-## Timeline aufrufen
+### Timeline aufrufen
 
 ````{margin}
 ```{admonition} Hinweis
@@ -58,7 +58,7 @@ Alle weiteren im Hauptbereich der Timeline angezeigten Spuren zeigen die einzeln
 Die einzelnen Werte der Annotationstypen werden links als Legende angezeigt. 
 ![screenshot-A5-04](../_images/A5-S04.png)
 
-# Anpassungsoptionen
+## Anpassungsoptionen
 
 Die AdA-Timeline verwendet eine textbasierte Syntax für die Darstellungskonfiguration. Diese ist als für Menschen lesbare URL enkodiert. Mit der Textcharakteristik der Syntax können – auch ohne Programmierkenntnisse – selbstständig Visualisierungen mit unterschiedlichen Einstellungen erstellt und verändert werden. 
 +++
@@ -70,7 +70,7 @@ Wer die Timeline über die URL-Syntax konfigurieren will, findet auf S. 141 des 
 ````
 Anpassungen der AdA-Timeline können sowohl direkt über die URL als auch über das Edit-Fenster vorgenommen werden. Aufgrund der besseren Übersichtlichkeit empfiehlt sich die Anpassung der Timeline im Edit-Fenster. Diese Option beschreiben wir auch kurz hier.
 
-## Anpassungen mit dem Edit-Fenster
+### Anpassungen mit dem Edit-Fenster
 
 Um das Edit-Fenster zu öffnen, oben rechts im Browser auf 'Edit' klicken. Nun öffnet sich das Fenster.
 
@@ -123,7 +123,7 @@ Es gibt verschiedene Darstellungsformen, um die Timeline zu konfigurieren. Umfas
 * **Farbwerte**: Balkendiagramm, bei dem die Balkenfarben den annotierten Farben entsprechen. 
 ![screenshot-A5-09](../_images/A5-S09.png)
 
-## Visualisierungsansicht speichern und exportieren
+### Visualisierungsansicht speichern und exportieren
 
 Um die erstellten Visualisierungen zu speichern, empfiehlt es sich den Inhalt des Edit-Fensters in ein gängiges Textprogramm zu kopieren. Öffnet man die Timeline erneut, so kann man den kopierten Inhalt einfügen und die gespeicherte Ansicht anzeigen lassen.
 ```{admonition} Gefahr

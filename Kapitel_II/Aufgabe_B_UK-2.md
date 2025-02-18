@@ -67,8 +67,8 @@ Manchmal kann es sehr nützlich sein, die Wiedergabegeschwindigkeit an den eigen
 `````
 
 Solbald das Video mit dem ELAN-Projekt verknüpft ist, können Annotationszeilen – "Tiers" gennant – sowie Annotationen angelegt werden. 
-# Annotationszeilen (Tiers) und Annotationen
-## Zeilen
+## Annotationszeilen (Tiers) und Annotationen
+### Zeilen
 Eine 'default'-Zeile wird automatisch bei jedem neuen Annotationsdokument angelegt. Diese kann im Vorfeld entweder umbenannt oder gelöscht werden. 
 +++
 ````{margin}
@@ -92,7 +92,7 @@ Die Farben des Zeilentitels sowie der Zeilenleiste selbst können nach eigenen B
 :name: a2-s12
 ```
 ````
-## Erstellen von Templates
+### Erstellen von Templates
 
 Mit Elan ist es möglich Annotationsprojekte als Templates zu sichern. Die Erstellung eines Templates empfiehlt sich insbesondere, wenn für mehrere Filme oder Filmausschnitte Annotationen mit dem gleichen Set an Parametern erstellt werden sollen. Hierzu können Basisspuren, also Annotationszeilen, vordefiniert und anschließend die Datei als Vorlage gesichert werden. 
 +++
@@ -100,11 +100,11 @@ Um ein Template zu erstellen, einfach vorgehen wie beim Start eines regulären A
 +++
 Zur Nutzung der Vorlage ELAN starten und unter 'Datei > Neu…' die Vorlagedatei wählen und öffnen.
 
-## Annotationen
+### Annotationen
 
 Annotationen werden als Zeitsegmente entlang der Timeline angelegt. Es gibt die Möglichkeit Annotationen A) **"frei Hand"** zu erstellen oder B) **präzisere Zeitabschnitte** durch beispielswseise die Frame- und Pixeltaste anzulegen.
 +++
-### Variante A
+#### Variante A
 Der schnellste Weg eine Annotation zu erstellen ist mit dem Zeiger in das Feld der Annotationen an die Zeitstelle zu klicken, an der es losgehen soll, gedrückt halten und den Zeiger bis zum gewünschten Ende ziehen (geht vorwärts wie rückwärts). Der markierte Bereich erscheint violett. Mit einem Doppelklick in die gewünschte Zeile kann der Annotation ein Inhalt bzw. Wert beigeordnet werden. Zum Speichern 'Enter' drücken.
 +++
 ![screenshot-A2-13](../_images/A2-S13.png)
@@ -114,7 +114,7 @@ Jetzt kann man entweder…:
 * …im gleichen Auswahlbereich in eine andere Zeile mit Doppelklick eine weitere Annotation hinzufügen,
 * …in dieselbe Annotation durch Doppelklick wieder neuen Text hinzuschreiben, den Text verändern (dies geht natürlich jederzeit)
 
-### Variante B
+#### Variante B
 
 Wer präzise Annotationen erstellen möchte, kann mit der Bedienung der Wiedergabesteuerung arbeiten. Hierfür ist es wichtig, dass unter dem Medienfenster die Zeitanzeige auf Frames eingestellt ist. Mit einem Rechtsklick auf die Zeitanzeige kann das Ausgabeformat geändert werden. Abhängig von der **Frame Rate** des Videos "PAL" oder "NTSC" wählen. 
 Zur Erstellung der Annotation dann an den ungefähren Bereich des Anfangs navigieren und mit der Frametaste bzw. Pixeltaste den genauen Anfang bestimmen. Dann den 'Auswahl-Modus' aktivieren und erneut mit der Frametaste/Pixeltaste zur Endzeit der Annotation steuern. Den 'Auswahl-Modus' deaktivieren und mit einem Doppelklick die Annotation erstellen bzw. einen Wert einfügen. 
@@ -130,7 +130,7 @@ Beispielsweise unter VLC im Abspielmodus mit cmd + I (Mac)  bzw. Strg + J (Windo
 display_quiz("../quizzes/B_UK-2_Quiz_1.json", colors = colors.jupyterquiz)
 ```
 
-### Annotationen bearbeiten 
+#### Annotationen bearbeiten 
 
 Bereits angelegte Annotationen können ganz einfach geändert werden. Der Annotationsinhalt kann am schnellsten über einen Doppelklick auf die Annotation bearbeitet werden. Weitere Optionen können anschließend mit einem Rechtsklick aufgerufen werden. Hier die wichtigsten kurz erklärt:
 
@@ -150,18 +150,18 @@ Fertige Annotationen können auch a) bewegt oder b) in ihrer Länge verändert w
 +++
 ![screenshot-A2-14](../_images/A2-S14.png)
 +++
-### Kopieren und Löschen von Annotationen und Werten
+#### Kopieren und Löschen von Annotationen und Werten
 
 Parameter, also Annotationszeilen, die zum Beispiel nach dem Einstellungsprinzip annotiert werden, können auch auf eine andere Zeile kopiert werden. Dafür unter dem Reiter 'Zeile' auf 'Copy Annotations from Tier to Tier' klicken. In dem sich öffnenden Bearbeitungsfenster kann dann die Zeile ausgewählt werden, aus der die Annotationen kopiert werden sollen. Anschließend kann die Zielzeile ausgewählt werden. Mit 'Beenden' werden die Änderungen übernommen.
 +++
 Zum Löschen der Werte über 'Zeile' auf 'Entferne Annotationen oder Werte' klicken und alle (oder ausgewählte) Werte für die gewünschte Zeile löschen. So können neue Werte in der Zielzeile eingetragen werden.
 ![screenshot-A2-15](../_images/A2-S15.png)
 
-## Exportieren
+### Exportieren
 
 ELAN-Projekte können in unterschiedliche Datenformate exportiert werden. Hierzu unter 'Datei' auf 'Exportieren als' gehen. Eine Liste an Exportformaten wird angezeigt. Der Export ermöglicht die Weiterverarbeitung der Daten, zum Beispiel als **CSV-File**. Eine ausführliche Anleitung der einzelnen Formate kann <a href="https://www.mpi.nl/corpus/html/elan/ch01s04.html#Sec_Export_as" class="external-link" target="_blank">hier</a> eingesehen werden.
 
-# Zusammenfassung der Schritte
+## Zusammenfassung der Schritte
 
 1.	Elan starten und Videodatei verknüpfen
 +++

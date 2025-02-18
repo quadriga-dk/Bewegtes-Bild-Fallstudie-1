@@ -3,12 +3,6 @@ lang: de-DE
 ---
 # Einführung
 
-## Kapitelübersicht
-[Einführung](Aufgabe_D) <br>
-[Annotation mit dem AdA-Template: Schritte und Arbeitsprozess](Aufgabe_D_UK-1) <br>
-[Annotationsergebnisse: Datenabgleich und -erläuterung](Aufgabe_D_UK-2) <br>
-[Methodenreflexion und Resümee](Aufgabe_D_UK-3)
-+++
 In diesem Kapitel erstellen wir Annotationen mit einer Filmontologie.
 +++
 *Wir befinden uns hier:*
