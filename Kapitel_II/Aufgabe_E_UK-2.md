@@ -124,7 +124,7 @@ Die Datenvisualisierung spielt eine zentrale Rolle bei der Qualifizierung des Da
 Unsere analytischen Studie konzentiert sich dabei stehts auf die Interdependenzen zwischen quantitativen Datenmustern und ihrer fachspezifischen Einordnung. Welche Erkenntnisse liefern bestimmte Variablen unserer Annotationsdaten über Schnittfrequenz, Montagemuster oder Helligkeitsverhältnisse? Und wie lassen sich diese erhobenen Visualiserungsmuster des Datensatzes auf unseren audiovisuellen Gegenstand zurückbeziehen?
 
 Im Folgenden haben wir ein Set von Folien bereitgestellt, in denen mit Ausschnitten der Visualiserung eine Analyse unseres Gegenstandes nachvollzogen werden kann.
-Eine ausführliche Analyse steht hier als PDF-Download zur Verfügung. Die hier integrierten Folien können ebenfalls als Datei heruntergeladen werden.
+Eine ausführliche Analyse steht hier als PDF-Download zur Verfügung. Die integrierten Folien können ebenfalls als Datei heruntergeladen werden.
 
 #### Slideshow der Analyse
 
@@ -132,16 +132,101 @@ Eine ausführliche Analyse steht hier als PDF-Download zur Verfügung. Die hier 
 
 ```{card}
 :class-card: carousel-card
-![slide-1](../_images/Beispiel-Slide-1.png)
+![slide-1](../_images/carousel-1.png)
 ```
 
 ```{card}
 :class-card: carousel-card
-![slide-2](../_images/Beispiel-Slide-2.png)
+![slide-2](../_images/carousel-2.png)
 ```
 
 ```{card}
 :class-card: carousel-card
-![slide-3](../_images/Beispiel-Slide-3.png)
+![slide-3](../_images/carousel-3.png)
+```
+
+```{card}
+:class-card: carousel-card
+![slide-4](../_images/carousel-4.png)
+```
+
+```{card}
+:class-card: carousel-card
+![slide-5](../_images/carousel-5.png)
+```
+
+```{card}
+:class-card: carousel-card
+![slide-6](../_images/carousel-6.png)
+```
+
+```{card}
+:class-card: carousel-card
+![slide-7](../_images/carousel-7.png)
+```
+
+```{card}
+:class-card: carousel-card
+![slide-8](../_images/carousel-8.png)
+```
+
+```{card}
+:class-card: carousel-card
+![slide-9](../_images/carousel-9.png)
+```
+
+```{card}
+:class-card: carousel-card
+![slide-10](../_images/carousel-10.png)
+```
+
+```{card}
+:class-card: carousel-card
+![slide-11](../_images/carousel-11.png)
+```
+
+```{card}
+:class-card: carousel-card
+![slide-12](../_images/carousel-12.png)
+```
+
+```{card}
+:class-card: carousel-card
+![slide-13](../_images/carousel-13.png)
+```
+
+```{card}
+:class-card: carousel-card
+![slide-14](../_images/carousel-14.png)
+```
+
+```{card}
+:class-card: carousel-card
+![slide-15](../_images/carousel-15.png)
+```
+
+```{card}
+:class-card: carousel-card
+![slide-16](../_images/carousel-16.png)
+```
+
+```{card}
+:class-card: carousel-card
+![slide-17](../_images/carousel-17.png)
+```
+
+```{card}
+:class-card: carousel-card
+![slide-18](../_images/carousel-18.png)
+```
+
+```{card}
+:class-card: carousel-card
+![slide-19](../_images/carousel-19.png)
+```
+
+```{card}
+:class-card: carousel-card
+![slide-20](../_images/carousel-20.png)
 ```
 ````
