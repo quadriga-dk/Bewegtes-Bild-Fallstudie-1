@@ -121,7 +121,7 @@ Sowohl die Visualisierungen als auch die Annotationen selbst sollen jedoch nicht
 als politische Intervention, S. 83). 
 
 Im Folgenden haben wir ein Set von Folien bereitgestellt, in denen mit Ausschnitten der Visualiserung eine Analyse unseres Gegenstandes nachvollzogen werden kann.
-Eine ausführliche Analyse steht hier als PDF-Download zur Verfügung. Die integrierten Folien können ebenfalls als Datei heruntergeladen werden.
+Eine ausführliche Analyse steht hier als PDF-Download zur Verfügung. Die integrierten Folien können ebenfalls als [Datei](../assets/QUADRIGA-Slideshow-Analyse.pdf) heruntergeladen werden.
 
 ### Slideshow der Analyse
 
