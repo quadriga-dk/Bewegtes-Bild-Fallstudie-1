@@ -2,7 +2,6 @@
 ```{figure} ../Bewegtes-Bild-Fallstudie-1/assets/Ada-Timeline-Intro.png
 :name: ada-timeline-intro
 ```
----
 Die vorliegende Fallstudie "Affektrhetorik in Online-Videos zur Klimakrise. Datengestützte Analysen audiovisueller Muster", die hier in Form einer <a href="https://open-educational-resources.de/was-ist-oer-3-2/" class="external-link" target="_blank">Open Educational Ressource</a> als interaktives <a href="https://jupyterbook.org/en/stable/intro.html" class="external-link" target="_blank">Jupyter Book</a> zur Verfügung steht, soll am Beispiel von Online-Videos zur Klimakrise modellhaft zeigen, inwiefern sich politische Zielsetzungen in audiovisuellen Diskursen auf die ihnen zugrunde liegenden Inszenierungsmuster beziehen lassen. 
 Im Vordergrund des Forschungsansatzes steht die Fähigkeit, multimodale und temporale Muster durch die Herstellung und Visualisierung von Primärdaten erkennen und qualifizieren zu können. Zur Durchführung methodischer Analysen werden Annotationsdaten erstellt.
 +++
