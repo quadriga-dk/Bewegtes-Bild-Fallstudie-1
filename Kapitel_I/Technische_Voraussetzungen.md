@@ -5,18 +5,23 @@ lang: de-DE
 
 Zur Durchführung von Annotationen nutzen wir die frei zugänglichen Programme **Advene** und **ELAN**. Instruktionen sowie Hinweise zum Download für MacOS, Windows sowie Linux gibt es auf den jeweiligen Download-Seiten für <a href="https://www.advene.org/download.html#download" class="external-link" target="_blank">Advene</a> bzw. für <a href="https://archive.mpi.nl/tla/elan/download" class="external-link" target="_blank">ELAN</a>.
 +++
-Über die <a href="https://github.com/oaubert/advene/" class="external-link" target="_blank">Projektseite</a> auf Github kann ebenfalls die Advene Development-Version für Linux heruntergeladen werden. 
+Über die <a href="https://github.com/oaubert/advene/" class="external-link" target="_blank">Projektseite</a> auf Github kann ebenfalls die Advene Development-Version für Linux heruntergeladen werden.
 
 ## Installationsanleitung Advene für Linux mit einer virtuellen Maschine
 
 ````{margin}
 ```{admonition} Hinweis
 :class: hinweis 
-*Parallels Desktop* ist eine kostenpflichtige Möglichkeit, virtuelle Maschine auf einem Mac zu installieren und zu verwalten.
+*Parallels Desktop* ist eine kostenpflichtige Möglichkeit, eine virtuelle Maschine auf einem Mac zu installieren und zu verwalten.
 ```
 ````
 
-Wenn Sie die Development-Version für Linux über einen Mac nutzen wollen, können Sie sich eine virtuelle Maschine einrichten und in dieser Linux installieren.
+Wenn Sie die Development-Version für Linux über einen Mac nutzen wollen, können Sie sich eine virtuelle Maschine einrichten und in dieser Linux installieren. 
+
+```{admonition} Achtung
+:class: caution
+Diese Installationsmethode empfehlen wir für technisch versiertere Nutzer:innen.
+```
 
 ### Schritt-für-Schritt Anleitung
 
@@ -29,7 +34,7 @@ Um *Ubuntu* zu das Installieren aus einem unbekannten Repository zu genemigen, w
 ````{margin}
 ```{admonition} Hinweis
 :class: hinweis
-Befehle, die in das Terminal eingegeben werden müssen sind durch ein `$ `&nbsp;am Anfang der Zeile gekennzeichnet. Zeilen ohne `$ `&nbsp;am Anfang sind (Beispiel-)Ausgaben der Befehle.
+Befehle, die in das Terminal eingegeben werden, sind durch ein `$ `&nbsp;am Anfang der Zeile gekennzeichnet. Zeilen ohne `$ `&nbsp;am Anfang sind (Beispiel-)Ausgaben der Befehle.
 
 Wollen Sie einen Befehl kopieren, so dürfen Sie das `$ `&nbsp;am Anfang nicht mit kopieren.
 

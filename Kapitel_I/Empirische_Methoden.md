@@ -16,7 +16,10 @@ Das Beschreibungsmodell der quantitativen Bewegtbildanalyse zielt auf die affekt
 +++
 Um diese Frage zu beantworten, wurde ein dreistufiges Analysemodell entwickelt:
 
-![screenshot-emaex-01](../assets/eMAEX-Dreistufenmodell.png)
+```{figure} ../assets/eMAEX-Dreistufenmodell.png
+
+Das Dreistufenmodell der eMAEX-Methode
+```
 
 ````{margin}
 ```{admonition} Was ist eine Pathosszene?
