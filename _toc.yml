@@ -4,7 +4,7 @@
 format: jb-book
 root: intro
 options:
-  numbered: True
+  numbered: 3
 chapters:
   - file: Kapitel_I/toc
     sections: 
