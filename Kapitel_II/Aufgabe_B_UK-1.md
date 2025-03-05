@@ -52,8 +52,8 @@ Mit 'zoom in' bzw. 'zoom out' kann die Ansichtsgröße der Timeline angepasst un
 Das Video ist nun mit Advene als ein **.azp-package** verknüpft! 👍 <br>
 Wie man Annotationstypen (also unsere Parameter) sowie Annotationen hinzufügt, erklären wir im nächsten Schritt.
 
-# Annotationstypen und Annotationen
-## Hinzufügen und bearbeiten der ausgewählten Parameter
+## Annotationstypen und Annotationen
+### Hinzufügen und bearbeiten der ausgewählten Parameter
 
 Mit einem Klick auf das Plus-Symbol am linken Rand der Timeline können nun unsere Parameter bzw. Annotationstypen erstellt werden. Jeder Annotationstyp hat einen 'Title', eine 'Id', einen 'Content type' sowie ein zugeordnetes 'Schema'. Da wir hier mit dem voreingestellten **MIME Type** `plain text content` arbeiten, muss nur das Feld 'Title' bearbeitet werden. 
 +++
@@ -72,7 +72,7 @@ Die Annotationstypen können mit einem Klick auf den bunten Kreis nach Belieben 
 :height: 450px
 :name: a2-s05
 ```
-## Annotationen erstellen 
+### Annotationen erstellen 
 
 Nun geht es darum, die Annotationen für die erstellten Parameter/Typen zu erstellen. Doch nach welcher Segmentierungslogik sollen die Annotationen erstellt werden?
 +++
@@ -121,7 +121,7 @@ Da wir bei einigen Typen je Einstellung annotieren, müssen wir natürlich nicht
 ````
 `````
 
-# Zusammenfassung der Schritte
+## Zusammenfassung der Schritte
 
 1. Advene starten und Videodatei verknüpfen
 ````{margin}
