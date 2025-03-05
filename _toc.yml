@@ -47,8 +47,8 @@ chapters:
     sections: 
       - file: Kapitel_III/Zusammenfassung
       - file: Kapitel_III/Ausblick
-  - file: Hinterwerk/toc
+  - file: Epilog/toc
     sections:
-      - file: Hinterwerk/Bibliographie
+      - file: Epilog/Bibliographie
 
 
