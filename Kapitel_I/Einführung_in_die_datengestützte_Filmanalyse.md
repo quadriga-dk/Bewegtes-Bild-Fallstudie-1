@@ -42,3 +42,9 @@ Eine wichtiges Anliegen der Fallstudie ist es, die Emotionalisierung als subjekt
 * … die Übertragung basisschematischer Ansätze der Filmanalyse in webbasierte Semantik nach Semantic Triple Prinzipien.
 * … ein grundlegendes Verständnis für digitale Annotationsarbeit (*timeline based video analysis*).
 * … die Qualifizierung der Annotationsmetadaten im Kontext der Fragestellung der Fallstudie zu intendierten Emotionalisierungen.
+
+## Literatur
+
+```{bibliography}
+:filter: docname in docnames
+```
