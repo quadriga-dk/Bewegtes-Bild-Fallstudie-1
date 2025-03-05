@@ -5,7 +5,7 @@ title: "Bewegtes Bild: Emotionalisierungen"
 author: Derya Demir & Matthias Grotkopp
 logo: logo.jpg
 copyright: "2024"
-exclude_patterns: [_build, Thumbs.db, .DS_Store, "**.ipynb_checkpoints", conda, README.md, "**-Reviewbogen.md", "Reviewbogen.md"]
+exclude_patterns: [_build, Thumbs.db, .DS_Store, "**.ipynb_checkpoints", conda, venv, README.md, "**-Reviewbogen.md", "Reviewbogen.md"]
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
