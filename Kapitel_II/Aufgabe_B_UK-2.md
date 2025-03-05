@@ -181,4 +181,4 @@ Wie bei der Annotation mit Advene, werden auch hier Parameter wie Dialog, Sound 
 +++
 6.	Für die Weiterverarbeitung der Daten das Projekt in ein Zielformat exportieren
 +++
-Zum Abgleich der Annotationsergebnisse steht hier unser ausgefülltes ELAN-Projekt als **.eaf-Datei** zum Download bereit.
+Zum Abgleich der Annotationsergebnisse steht hier unser ausgefülltes ELAN-Projekt als **.eaf-Datei** zum [Download](../assets/QUADRIGA-ELAN-Annotationspaket.zip) bereit.

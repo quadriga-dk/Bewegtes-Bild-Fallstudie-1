@@ -102,7 +102,7 @@ So sieht die oben beschriebene Darstellung als Datenvisualisierung aus: <br>
 ![screenshot-A5-12](../_images/A5-S12.png)
 
 ```
-## Qualifizierung der Daten
+## Qualifizierung der Daten: Dateninterpretation
 
 ````{margin}
 ```{admonition} Wichtig
@@ -112,13 +112,118 @@ Andererseits geht es um **Dateninterpretation**, d.h. danach zu fragen, wie die 
 ```
 ````
 
-Wie können wir diese zeitlichen Muster nun "lesen" bzw. filmanalytisch identifizieren, differenzieren und auswerten? Auf welche raumzeitlichen Wahrnehmungsschemata können die erhobenen Datensätze in Bezug auf die Qualifizierung unseres Untersuchungsgegenstandes verweisen? 
-Mittels der AdA-Timeline haben wir Visualisierungen erstellt, durch die eine datengestützte Auswertung unseres Untersuchungsgegenstandes vorgenommen werden soll. Exemplarisch soll anhand von Ausschnitten der Visualisierung eine Analyse vollzogen werden, durch die wir Hypothesen angelehnt an unsere eingangs gestellte Frage zur Affektrhetorik in Online-Videos zur Klimakrise präsentieren können.
-+++
+Die Datenvisualisierung spielt eine zentrale Rolle bei der Qualifizierung des Datensatzes. Mithilfe spezifischer Anpassungsoptionen, die wir für die Analyseabschnitte konfiguriert haben, veranschaulichen wir exemplarisch, wie die visualisierten Annotationsdaten filmwissenschaftlich interpretiert werden können.
+Unsere analytischen Studie konzentiert sich dabei stets auf die Interdependenzen zwischen quantitativen Datenmustern und ihrer fachspezifischen Einordnung. Welche Erkenntnisse liefern bestimmte Variablen unserer Annotationsdaten über Schnittfrequenz, Montagemuster oder Helligkeitsverhältnisse? Und wie lassen sich diese erhobenen Visualiserungsmuster des Datensatzes auf unseren audiovisuellen Gegenstand zurückbeziehen?
+
 Sowohl die Visualisierungen als auch die Annotationen selbst sollen jedoch nicht einzig als reines Hilfsmittel begriffen werden, die lediglich dazu dienen empirische Evidenz für vorab gegebene Erkenntnisse zu liefern. Wir begreifen den Prozess der Datenerhebung und die Annotationen sowie Visualisierungen der Annotationsdaten als genuine Medien und Verfahren des Denkens mit und über Bewegtbilder. 
->Das heißt Visualisierungen sind Interfaces und Medien der Analyse, sie sind wesentlicher Bestandteil eines abduktiven Forschungsprozesses, der sich mit Annotationen (wiederum in Konstellationen mit den Bewegtbildern) auseinandersetzt (Jasper Stratil: Audiovisuelle Rhetorik
+
+> Das heißt Visualisierungen sind Interfaces und Medien der Analyse, sie sind wesentlicher Bestandteil eines abduktiven Forschungsprozesses, der sich mit Annotationen (wiederum in Konstellationen mit den Bewegtbildern) auseinandersetzt (Jasper Stratil: Audiovisuelle Rhetorik
 als politische Intervention, S. 83). 
 
-### Dateninterpretation: Ausgangsthese und Formen ästhetischer Anordnungen 
+Im Folgenden haben wir ein Set von Folien bereitgestellt, in denen mit Ausschnitten der Visualiserung eine Analyse unseres Gegenstandes nachvollzogen werden kann.
+Eine ausführliche Analyse in Textform (mit direkten Verweisen auf die jeweiligen Folienabschnitte) steht hier als [PDF-Download](../assets/QUADRIGA-Dateninterpretation-A5.pdf) zur Verfügung. Die integrierten Folien können ebenfalls als [Datei](../assets/QUADRIGA-Slideshow-Analyse.pdf) heruntergeladen werden.
 
-*Informationen zu diesem Teil folgen in Kürze.*
+### Slideshow der Analyse
+
+````{card-carousel} 1
+
+```{card}
+:class-card: carousel-card
+![slide-1](../_images/carousel-1.png)
+```
+
+```{card}
+:class-card: carousel-card
+![slide-2](../_images/carousel-2.png)
+```
+
+```{card}
+:class-card: carousel-card
+![slide-3](../_images/carousel-3.png)
+```
+
+```{card}
+:class-card: carousel-card
+![slide-4](../_images/carousel-4.png)
+```
+
+```{card}
+:class-card: carousel-card
+![slide-5](../_images/carousel-5.png)
+```
+
+```{card}
+:class-card: carousel-card
+![slide-6](../_images/carousel-6.png)
+```
+
+```{card}
+:class-card: carousel-card
+![slide-7](../_images/carousel-7.png)
+```
+
+```{card}
+:class-card: carousel-card
+![slide-8](../_images/carousel-8.png)
+```
+
+```{card}
+:class-card: carousel-card
+![slide-9](../_images/carousel-9.png)
+```
+
+```{card}
+:class-card: carousel-card
+![slide-10](../_images/carousel-10.png)
+```
+
+```{card}
+:class-card: carousel-card
+![slide-11](../_images/carousel-11.png)
+```
+
+```{card}
+:class-card: carousel-card
+![slide-12](../_images/carousel-12.png)
+```
+
+```{card}
+:class-card: carousel-card
+![slide-13](../_images/carousel-13.png)
+```
+
+```{card}
+:class-card: carousel-card
+![slide-14](../_images/carousel-14.png)
+```
+
+```{card}
+:class-card: carousel-card
+![slide-15](../_images/carousel-15.png)
+```
+
+```{card}
+:class-card: carousel-card
+![slide-16](../_images/carousel-16.png)
+```
+
+```{card}
+:class-card: carousel-card
+![slide-17](../_images/carousel-17.png)
+```
+
+```{card}
+:class-card: carousel-card
+![slide-18](../_images/carousel-18.png)
+```
+
+```{card}
+:class-card: carousel-card
+![slide-19](../_images/carousel-19.png)
+```
+
+```{card}
+:class-card: carousel-card
+![slide-20](../_images/carousel-20.png)
+```
+````

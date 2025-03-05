@@ -138,6 +138,6 @@ Jedes neue Package enthält bereits eine standartisiert eingestellte Annotations
 +++
 5. Für die Weiterverarbeitung der Daten das Package in ein Zielformat exportieren
 
-Ist das Paket vollständig ausgefüllt? Dann können die Ergebnisse mit unserer Musterlösung vergleichen werden. 
+Ist das Paket vollständig ausgefüllt? Dann können die Ergebnisse mit unserer [Musterlösung](../assets/QUADRIGA-Advene-A2-Annotationspaket.azp) vergleichen werden. 
 +++
 Als nächstes wiederholen wir die Annotationsarbeit mit einem anderen Tool – und zwar ELAN. Dieser Schritt soll insbesondere dazu dienen, toolagnostische Perspektiven für Datenanalysen zu veranschaulichen. 

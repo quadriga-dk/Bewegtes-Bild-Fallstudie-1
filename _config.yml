@@ -38,3 +38,13 @@ launch_buttons:
 html:
   use_issues_button: true
   use_repository_button: true
+  
+# Add carousel to your book
+sphinx:
+  config:
+    html_static_path: ['_static']
+    html_css_files:
+      - quadriga.css
+      - carousel.css
+    html_js_files:
+      - carousel.js

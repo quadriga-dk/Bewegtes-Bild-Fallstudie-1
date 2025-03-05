@@ -16,7 +16,11 @@ Das Beschreibungsmodell der quantitativen Bewegtbildanalyse zielt auf die affekt
 +++
 Um diese Frage zu beantworten, wurde ein dreistufiges Analysemodell entwickelt:
 
-![screenshot-emaex-01](../assets/eMAEX-Dreistufenmodell.png)
+```{figure} ../assets/eMAEX-Dreistufenmodell.png
+:name: dreistufenmodell
+
+Das Dreistufenmodell der eMAEX-Methode
+```
 
 ````{margin}
 ```{admonition} Was ist eine Pathosszene?
@@ -38,7 +42,11 @@ Im Rahmen der Filmsegmentierung der eMAEX-Methode wurden genrespezifische Standa
 +++
 Ein Beispiel aus dem Film *A Walk in the Sun* (Lewis Milestone, USA 1945) zeigt die Anordnung der Pathosszenen in der zeitlichen Abfolge des Filmes:
 
-![screenshot-emaex-01](../assets/eMAEX-Pathosszene-Abfolge.png)
+```{figure} ../assets/eMAEX-Pathosszene-Abfolge.png
+:name: pathosszene-abfolge
+
+Zeitliche Abfolge der Pathosszenen nach der eMAEX-Methode
+```
 
 Ausführliche Informationen zum Drei-Stufen-Modell der eMAEX-Methode gibt es unter <a href="https://www.empirische-medienaesthetik.fu-berlin.de/emaex-system/emaex_kurzversion/entwicklung_emaex/03_drei_ebenen_modell/index.html" class="external-link" target="_blank">Empirische Medienästhetik</a>.
 +++
