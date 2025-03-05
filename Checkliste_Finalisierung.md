@@ -37,18 +37,18 @@ lang: de-de
 - [ ] Zugehörigkeit zu einer definierten Sammlung
 - [ ] Bildungsvoraussetzungen
 - [ ] technische Rahmenbedingungen
-- [ ] rechtliche Aspekte (z. B. bei Nachnutzung von existierenden Bildungsangeboten)
+- [x] rechtliche Aspekte (z. B. bei Nachnutzung von existierenden Bildungsangeboten)
 - [ ] Beziehungsstrukturen (zu thematisch verwandten Bildungsangeboten)
 - [ ] Möglichkeit zu Anmerkungen, Kommentierungen (z. B. durch die Zielgruppen)
 - [ ] Klassifizierung nach inhaltlichen (z. B. fachspezifischen Aspekten) und 
 - [ ] formalen Aspekten (z. B. Kompetenzniveau=Blooms Taxonomie=Zugangswege definiert?)
-- [ ] Fachliche Korrektheit überprüft
+- [ ] Fachliche Korrektheit überprüft (critical friends bzw. externes Review notwendig)
 - [ ] Code-Beispiele (wenn skriptbasierte Sprache verwendet wird) kommentiert und verständlich
-- [ ] Alle Fachbegriffe erklärt oder verlinkt
+- [x] Alle Fachbegriffe erklärt oder verlinkt (die wichtigsten Begriffe sind definiert, Überlegung eines OER-spezifischen Glossars)
 - [ ] Optionale Kapitel kennzeichnen
 
 ## Assessment
-- [ ] Assessment pro Kapitel (pro Zugangsweg?)
+- [x] Assessment pro Kapitel (pro Zugangsweg?)
 - [ ] Abschlussassessment für die OER als Ganzes
 
 ## Technologie
@@ -59,13 +59,13 @@ lang: de-de
 - [ ] Live Code funktioniert wie angedacht
 
 ## Formatierung / Typographie / Design
-- [ ] Teile sollten in Kapitel geändert werden: Es erleichtert die Navigation
-- [ ] Admonitions passend genutzt
-- [ ] Externe Links sind gekennzeichnet
-- [ ] Abbildungen gut erkennbar
-- [ ] Alt-Text für Abbildungen, soweit sinnvoll
-- [ ] Rechtschreibkontrolle durchgeführt
-- [ ] Zitationen und Literaturverzeichnis(se) korrekt
+- [x] Teile sollten in Kapitel geändert werden: Es erleichtert die Navigation
+- [x] Admonitions passend genutzt
+- [x] Externe Links sind gekennzeichnet
+- [x] Abbildungen gut erkennbar
+- [x] Alt-Text für Abbildungen, soweit sinnvoll
+- [ ] Rechtschreibkontrolle durchgeführt (ja, weitere Reviews noch ausstehend)
+- [ ] Zitationen und Literaturverzeichnis(se) korrekt (wip)
 - [ ] Hinweise zu Feedback-/Fragen-/Kontakt-Möglichkeiten
 
 ## Publikation
@@ -77,8 +77,8 @@ lang: de-de
 - [ ] Zitationshinweis
 
 ## Links, Verweise und Abhängigkeit
-- [ ] Alle nötigen Materialien sind verfügbar. Wenn möglich in einem sicheren Repositorium oder direkt in der OER hinterlegt. Wenn lizenzrechtlich erlaubt Kopie unsicher abgelegter Datensätze anlegen. 
-- [ ] Links innerhalb der Fallstudien funktionieren
+- [x] Alle nötigen Materialien sind verfügbar. Wenn möglich in einem sicheren Repositorium oder direkt in der OER hinterlegt. Wenn lizenzrechtlich erlaubt Kopie unsicher abgelegter Datensätze anlegen. 
+- [x] Links innerhalb der Fallstudien funktionieren
 - [ ] Links auf externe Inhalte überprüft
 - [ ] Code-Abhängigkeiten sind so definiert, dass sie wieder installiert werden können (requirements.txt, …)
 
