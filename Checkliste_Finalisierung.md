@@ -19,7 +19,7 @@ lang: de-de
   - [x] Kurze Beschreibug aller Schritte
   - [ ] Literatur
 - [ ] Präambel
-  - [ ] Lernziele
+  - [x] Lernziele
   - [x] Technische Voraussetzungen
   - [x] Vorkenntnisse
 - [ ] Struktur der Kapitel
@@ -28,15 +28,9 @@ lang: de-de
   - [x] Resümee
   - [ ] Assessment
 - [x] Reflexion und Resümee
-- [ ] Epilogue
+- [ ] Epilogue (Autor:innen etc. müssen noch Unterkapitel erstellt werden)
 
 ## Inhalt
-- [ ] Informationen über den Lebenszyklus
-- [ ] Zugehörigkeit zu einer definierten Sammlung
-- [ ] Bildungsvoraussetzungen
-- [ ] technische Rahmenbedingungen
-- [x] rechtliche Aspekte (z. B. bei Nachnutzung von existierenden Bildungsangeboten)
-- [ ] Beziehungsstrukturen (zu thematisch verwandten Bildungsangeboten)
 - [ ] Möglichkeit zu Anmerkungen, Kommentierungen (z. B. durch die Zielgruppen)
 - [ ] Klassifizierung nach inhaltlichen (z. B. fachspezifischen Aspekten) und 
 - [ ] formalen Aspekten (z. B. Kompetenzniveau=Blooms Taxonomie=Zugangswege definiert?)
@@ -46,7 +40,7 @@ lang: de-de
 - [ ] Optionale Kapitel kennzeichnen
 
 ## Assessment
-- [x] Assessment pro Kapitel (pro Zugangsweg?)
+- [ ] Assessment pro Kapitel (pro Zugangsweg?) (wip)
 - [ ] Abschlussassessment für die OER als Ganzes
 
 ## Technologie
@@ -79,5 +73,7 @@ lang: de-de
 - [x] Links innerhalb der Fallstudien funktionieren
 - [ ] Links auf externe Inhalte überprüft
 - [ ] Code-Abhängigkeiten sind so definiert, dass sie wieder installiert werden können (requirements.txt, …)
+- [x] rechtliche Aspekte (z. B. bei Nachnutzung von existierenden Bildungsangeboten)
+- [ ] Beziehungsstrukturen (zu thematisch verwandten Bildungsangeboten)
 
  
