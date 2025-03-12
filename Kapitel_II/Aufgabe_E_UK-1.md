@@ -4,7 +4,7 @@
 ```{note}
 Das Videotutorial ist auf Englisch. Für eine deutsche Fassung bitte das Manual verwenden.
 ````
-In dem Video-Quickguide zur AdA-Timeline (Stratil, Huthmann, Demir) werden Aufbau und Funktion, verschiedene Anpassungsoptionen in der Darstellung sowie Exportmöglichkeiten erläutert. Für detaillierte Beschreibungen zu allen Optionen empfehlen wir das [Manual](../assets/Manual_Advene_AdA_D_Vers1_0.pdf).
+In dem Video-Quickguide zur AdA-Timeline {cite}`stratil2024c` werden Aufbau und Funktion, verschiedene Anpassungsoptionen in der Darstellung sowie Exportmöglichkeiten erläutert. Für detaillierte Beschreibungen zu allen Optionen empfehlen wir das [Manual](../assets/Manual_Advene_AdA_D_Vers1_0.pdf).
 +++
 Eine kurze Inhaltsübersicht soll zur Orientierung dienen. Wer ab einem bestimmten Inhaltsabschnitt starten möchte, kann auf den jeweiligen Titel-Link klicken. Das Video in voller Länge ist unten abrufbar.
 +++
@@ -135,3 +135,9 @@ Um die Timeline-Visualisierung zu exportieren, auf die drei Punkte am oberen lin
 Im nächsten Schritt soll das Konfigurieren der Timeline erprobt werden. Ebenso sollen im letzten Teil unserer Fallstudie anhand der Timeline die Annotations- und Visualisierungsdaten filmanalytisch qualifiziert werden. Damit beziehen wir uns auf die eingangs formulierten Fragestellungen:
 > 1. Wie können datengestützte Methoden für die Qualifizierung von filmwissenschaftlichen Analysen nutzbar gemacht werden?
 > 2. Inwiefern können durch empirisch hergestellte quantifizierbare Daten Aussagen über die Qualifizierung audiovisueller Inszenierungsdynamiken und den damit verbundenen Affizierungen getroffen werden?
+
+## Audiovisuelle Referenzen
+
+```{bibliography}
+:filter: docname in docnames
+```

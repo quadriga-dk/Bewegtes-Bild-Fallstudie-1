@@ -115,10 +115,9 @@ Andererseits geht es um **Dateninterpretation**, d.h. danach zu fragen, wie die 
 Die Datenvisualisierung spielt eine zentrale Rolle bei der Qualifizierung des Datensatzes. Mithilfe spezifischer Anpassungsoptionen, die wir für die Analyseabschnitte konfiguriert haben, veranschaulichen wir exemplarisch, wie die visualisierten Annotationsdaten filmwissenschaftlich interpretiert werden können.
 Unsere analytischen Studie konzentiert sich dabei stets auf die Interdependenzen zwischen quantitativen Datenmustern und ihrer fachspezifischen Einordnung. Welche Erkenntnisse liefern bestimmte Variablen unserer Annotationsdaten über Schnittfrequenz, Montagemuster oder Helligkeitsverhältnisse? Und wie lassen sich diese erhobenen Visualiserungsmuster des Datensatzes auf unseren audiovisuellen Gegenstand zurückbeziehen?
 
-Sowohl die Visualisierungen als auch die Annotationen selbst sollen jedoch nicht einzig als reines Hilfsmittel begriffen werden, die lediglich dazu dienen empirische Evidenz für vorab gegebene Erkenntnisse zu liefern. Wir begreifen den Prozess der Datenerhebung und die Annotationen sowie Visualisierungen der Annotationsdaten als genuine Medien und Verfahren des Denkens mit und über Bewegtbilder. 
+Sowohl die Visualisierungen als auch die Annotationen selbst sollen jedoch nicht einzig als reines Hilfsmittel begriffen werden, die lediglich dazu dienen empirische Evidenz für vorab gegebene Erkenntnisse zu liefern. Wir begreifen den Prozess der Datenerhebung und die Annotationen sowie Visualisierungen der Annotationsdaten als genuine Medien und Verfahren des Denkens mit und über Bewegtbilder {cite}`drucker2020`. 
 
-> Das heißt Visualisierungen sind Interfaces und Medien der Analyse, sie sind wesentlicher Bestandteil eines abduktiven Forschungsprozesses, der sich mit Annotationen (wiederum in Konstellationen mit den Bewegtbildern) auseinandersetzt (Jasper Stratil: Audiovisuelle Rhetorik
-als politische Intervention, S. 83). 
+> Das heißt Visualisierungen sind Interfaces und Medien der Analyse, sie sind wesentlicher Bestandteil eines abduktiven Forschungsprozesses, der sich mit Annotationen (wiederum in Konstellationen mit den Bewegtbildern) auseinandersetzt {cite}`stratil2024`.
 
 Im Folgenden haben wir ein Set von Folien bereitgestellt, in denen mit Ausschnitten der Visualiserung eine Analyse unseres Gegenstandes nachvollzogen werden kann.
 Eine ausführliche Analyse in Textform (mit direkten Verweisen auf die jeweiligen Folienabschnitte) steht hier als [PDF-Download](../assets/QUADRIGA-Dateninterpretation-A5.pdf) zur Verfügung. Die integrierten Folien können ebenfalls als [Datei](../assets/QUADRIGA-Slideshow-Analyse.pdf) heruntergeladen werden.
@@ -227,3 +226,9 @@ Eine ausführliche Analyse in Textform (mit direkten Verweisen auf die jeweilige
 ![slide-20](../_images/carousel-20.png)
 ```
 ````
+
+## Literatur
+
+```{bibliography}
+:filter: docname in docnames
+```

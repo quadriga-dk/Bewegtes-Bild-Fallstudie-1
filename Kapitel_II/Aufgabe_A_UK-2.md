@@ -13,8 +13,7 @@ ____________________
 ➝ **Szene**  
 * Teilabschnitt eines Filmes  
 * Folge von Einstellungen  
-* Kontinuität von Raum, Zeit & Figuren ist gegeben  
-Abgeschlossener Bereich eines Films  
+* Kontinuität von Raum, Zeit & Figuren ist gegeben, Abgeschlossener Bereich eines Films  
 ____________________
 ➝ **Einstellung**  
 * Kleinste filmische Einheit  
@@ -77,7 +76,7 @@ Gestaltung der Hell-Dunkel-Kontraste sowie Lichtstärke
 Für eine vertiefende Beschäftigung mit den Grundbegriffen empfehlen wir folgende Internetseiten bzw. Lektüre: 
 * <a href="https://filmanalyse.at/" class="external-link" target="_blank">Grundbegriffe Universität Wien</a>
 * <a href="https://www.netzwerk-cinema.ch/uploads/files/Glossaire_reaseau_cinema_ch.pdf" class="external-link" target="_blank">Netzwerk Cinema CH</a>
-* <a href="https://link.springer.com/book/10.1007/978-3-658-13339-9" class="external-link" target="_blank">Handbuch Filmanalyse</a>
+*  Volker Pantenburg and Malte Hagener. Handbuch Filmanalyse. Springer, Wiesbaden, 2020. https://doi.org/10.1007/978-3-658-13339-9 {cite}`pantenburg2020`.
 ```
 
 ````{margin}
@@ -115,3 +114,9 @@ Die Annotationen bzw. Annotationsmethode kann sich in einigen Punkten auch unter
 Die Tabelle liegt ausgefüllt vor? 👏 Dann geht es zum nächsten Schritt ➡️ 
 +++
 Für einen Vergleich der Daten kann unsere [Musterlösung](../assets/Tabellarische-Annotation-Musterlösung-Quadriga.pdf) heruntergeladen werden.
+
+## Literatur
+
+```{bibliography}
+:filter: docname in docnames
+```

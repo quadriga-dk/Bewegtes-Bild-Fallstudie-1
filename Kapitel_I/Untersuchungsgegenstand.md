@@ -30,3 +30,8 @@ Ein Download des Videoausschnitts ist via Youtube möglich. Für die Annotations
 | **Verzeichnete Aufrufe** | 42.580 (Stand: Oktober 2024)                    |
 | **Lizenz**          | Creative Commons-Lizenz mit Quellenangabe (Wiederverwendung erlaubt) |
 
+## Audiovisuelle Referenzen
+
+```{bibliography}
+:filter: docname in docnames
+```

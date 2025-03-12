@@ -59,7 +59,7 @@ Wie kann nun eine solche Formalisierung für die Begriffe der Filmanalyse ausseh
 ## Filmanalytische Begriffe als semantische Triple
 
 Unser "Subjekt" ist immer "**Segment X**". Dieser Identifier ist zum einen verknüpft mit dem Film (Prädikat: "**ist aus**", Objekt: "**Film ABC**") und hat dort eine konkrete Anfangs- und Endzeit (Prädikat "**hat Timecode von**", Objekt: "**ff:ss:mm:hh - ff:ss:mm:hh**"). Diese Zeitangabe kann einer Einstellung entsprechen, einem einzelnen Frame oder einer freien Segmentierung. Zum anderen werden ihm auf verschiedenen Ebenen analytische Werte zugeschrieben. Damit diese Angaben als Relationen formulierbar sind, ist der erste Schritt, das Vokabular als Prädikate im Sinne von "**hat in einer bestimmten analytischen Dimension**" und Objekte der Art "**eine bestimmte Eigenschaft**" schematisch darzustellen.  
-Für diesen Zweck hat das BMBF-geförderte Projekt <a href="https://www.ada.cinepoetics.fu-berlin.de/" class="external-link" target="_blank">"Affektrhetoriken des Audiovisuellen"</a> einen Prototyp der Formalisierung vorgenommen und die <a href="https://www.ada.cinepoetics.fu-berlin.de/ada-toolkit/index.html" class="external-link" target="_blank">Ada-Filmontologie</a> publiziert. Die Annotationen haben darin stets das Format: "**Segment X**" "**hat auf dem analytischen Type Y**" "**den Value Z**" (für einen besseren Überblick sind die einzelnen Typen zusätzlich auf analytischen "**Leveln**" gebündelt).
+Für diesen Zweck hat das BMBF-geförderte Projekt <a href="https://www.ada.cinepoetics.fu-berlin.de/" class="external-link" target="_blank">"Affektrhetoriken des Audiovisuellen"</a> einen Prototyp der Formalisierung vorgenommen und die <a href="https://www.ada.cinepoetics.fu-berlin.de/ada-toolkit/index.html" class="external-link" target="_blank">Ada-Filmontologie</a> publiziert {cite}`ada2021a`. Die Annotationen haben darin stets das Format: "**Segment X**" "**hat auf dem analytischen Type Y**" "**den Value Z**" (für einen besseren Überblick sind die einzelnen Typen zusätzlich auf analytischen "**Leveln**" gebündelt).
 
 ## Ontologie 
 
@@ -67,3 +67,9 @@ Eine Auflistung aller Subjekte/Individuen, Prädikate/Klassen/Typen oder Objekte
 Insofern beschreiben Ontologien ein semantisches Modell, das Wissen struktuiert. Sie beschreiben und ordnen Begriffe und Beziehungen zueinander, um das formulierte Wissen maschinenlesbar zu machen. Wie bereits erwähnt, ermöglichen spezifische Sprachen, wie z.B. **RDF**, **OWL** oder **XSD**, Standards für die Formulierung sowie Formalisierung von Ontologien.
 +++
 Bevor wir jedoch hier im Detail auf die AdA-Filmontologie eingehen, haben wir ein paar Übungen erstellt, die nachvollziehbar machen sollen, wie diese Ontologie einige grundlegende Vokabularien formalästhetischer Beschreibung systematisiert erfasst.
+
+## Literatur
+
+```{bibliography}
+:filter: docname in docnames
+```

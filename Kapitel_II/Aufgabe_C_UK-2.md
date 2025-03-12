@@ -12,7 +12,7 @@ Ausführliche Informationen zur eMAEX-Methode gibt es unter [Empirische Methoden
 ```
 ````
 Die methodische Umsetzung des AdA-Projekts greift zurück auf die <a href="https://www.empirische-medienaesthetik.fu-berlin.de/emaex-system/emaex_kurzversion/index.html" class="external-link" target="_blank">eMAEX-Methode</a>. eMAEX steht für electronically based media analysis of expressive-movement-images und beschreibt eine systematisierte Methode, in der das Zuschauendenempfinden über Rhythmus- und Bewegungsprofile als multimodale Ausdrucksbewegungsbilder des Films untersucht wird. 
-Im Fokus steht hierbei die empirische Rekonstruktion einer Zuschauendenaffizierung als ästhetische Muster der Gestaltung audiovisueller Bewegungen. Die in der Ontologie festgelegten analytischen Dimensionen basieren auf dem Konsens der eMAEX-Methode.
+Im Fokus steht hierbei die empirische Rekonstruktion einer Zuschauendenaffizierung als ästhetische Muster der Gestaltung audiovisueller Bewegungen. Die in der Ontologie festgelegten analytischen Dimensionen basieren auf dem Konsens der eMAEX-Methode {cite}`kappelhoff2007`.
 ```{figure} ../assets/eMAEX-A3.png
 :align: center
 :height: 300px
@@ -21,15 +21,15 @@ Im Fokus steht hierbei die empirische Rekonstruktion einer Zuschauendenaffizieru
 eMAEX-Annotationsmethode: Analyseebenen & <br>
 Zeitliche Entfaltung von Ausdrucksbewegungen
 ```
-## Ontolgie
+## Ontologie
 
 Ausgehend von diesen Überlegungen wurde auf Grundlage des oben skizzierten Frameworks eine maschinenlesbare Analysesystematik (Ontologie) entwickelt. Die Notwendigkeit einer maschinenlesbaren Systematik ergibt sich zwangsläufig, denn durch die Analyse großer Datenmengen häufen sich Beschreibungsdaten an. Ohne maschinelle Unterstützung bei der Auswertung wären solche Analysen großer Datenkorpora, aufgrund ihres Umfangs, nicht zu bewältigen.
 +++
-Um eben diese großen Datensätze an multidimensionalen Beschreibungen für einen größeren Korpus überhaupt erst zu ermöglichen, wurde eine auf Semantic Web Prinzipien basierende Systematik entwickelt – die AdA-Filmontologie, eine OWL-basierte-Ontologie. <br>
+Um eben diese großen Datensätze an multidimensionalen Beschreibungen für einen größeren Korpus überhaupt erst zu ermöglichen, wurde eine auf Semantic Web Prinzipien basierende Systematik entwickelt – die AdA-Filmontologie, eine OWL-basierte-Ontologie {cite}`ada2021a`. <br>
 Durch die Integration (semi-)automatisch erzeugter Annotationen als auch die Möglichkeit der Maschinenlesbarkeit sowie weitere Verknüpfungsmöglichkeiten für semantische Metadaten, können filmanalytische Beschreibungsmuster als semantische Triple formuliert und diese in Form von **Linked Open Data** zugänglich, durchsuchbar sowie für den Austausch und Vergleich von Analysedaten öffentlich gemacht werden. 
 ```{admonition} Was sind Linked Open Data?
 :class: hinweis
-Linked Open Data (LOD) ist ein Konzept nach Semantic Web Prinzipien, welches die Veröffentlichung und Verknüpfung offen zugänglicher Daten im Internet beschreibt. Es ermöglicht, dass Daten aus verschiedenen Quellen miteinander in Relation treten, um diese leichter durchsuchbar wie auch nutzbarer zu machen.
+Linked Open Data (LOD) ist ein Konzept nach Semantic Web Prinzipien, welches die Veröffentlichung und Verknüpfung offen zugänglicher Daten im Internet beschreibt. Es ermöglicht, dass Daten aus verschiedenen Quellen miteinander in Relation treten, um diese leichter durchsuchbar wie auch nutzbarer zu machen {cite}`berners-lee2006`.
 +++
 **Linked Data**: Stellt sicher, dass die Daten miteinander verknüpft sind. <br>
 **Open Data**: Stellt sicher, dass die verknüpften Daten, z.B. Datenbanken von öffentlichen Einrichtungen oder Museen etc., frei und offen zugänglich sind.
@@ -68,7 +68,7 @@ Visualisierung mit OntoViz
 
 ### Annotationsmodell und Architektur
 
-Die Ontologie umfasst ein Annotationsmodell für semantische Videoannotationen. Annotationsdaten werden auf Basis des <a href="https://www.w3.org/TR/annotation-model/" class="external-link" target="_blank">WC3 Web Annotation Data Model</a> erstellt. Sie bestehen immer aus einem "Annotationtarget" (also ein Ziel, hier: ein Zeitfragment eines Videos) sowie einen "Annotationbody" (also dem Inhalt der Annotation mit Informationen zu Annotationstypen/-werten, Autor und weiteren Metadaten). Das Videofragment basiert auf der Vewendung des <a href="https://www.w3.org/TR/media-frags/" class="external-link" target="_blank">W3C Media Fragment URI</a> Spezifikation.
+Die Ontologie umfasst ein Annotationsmodell für semantische Videoannotationen. Annotationsdaten werden auf Basis des <a href="https://www.w3.org/TR/annotation-model/" class="external-link" target="_blank">WC3 Web Annotation Data Model</a> erstellt. Sie bestehen immer aus einem "Annotationtarget" (also ein Ziel, hier: ein Zeitfragment eines Videos) sowie einen "Annotationbody" (also dem Inhalt der Annotation mit Informationen zu Annotationstypen/-werten, Autor und weiteren Metadaten). Das Videofragment basiert auf der Vewendung des <a href="https://www.w3.org/TR/media-frags/" class="external-link" target="_blank">W3C Media Fragment URI</a> Spezifikation {cite}`bakels2023`.
 ```{figure} ../assets/AdA-Struktur-RDF.png
 :align: center
 :height: 350px
@@ -121,7 +121,9 @@ Mit einem [Template](../assets/AdA_template_07_2021.azp), das auf der Filmontolo
 Im Rahmen dieser Fallstudie zur Auswertung von Affektrhetoriken in Online-Videos zur Klimakrise haben wir Annotationen mit der *AdA Corpus Analysis View* erstellt. <br>
 In der nächsten Aufgabe erläutern wir im Detail, wie wir (semi-)automatisch generierte Annotationen mit dem Core-Template in Advene erstellt und bereinigt haben. Zwei Videotutorials sowie ein umfangreiches Manual sollen dabei helfen, die einzelnen Schritte nachvollziehen und eigenständig ausführen zu können. 
 
-
-
+## Literatur
+```{bibliography}
+:filter: docname in docnames
+```
 
 

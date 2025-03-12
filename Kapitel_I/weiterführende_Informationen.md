@@ -45,7 +45,7 @@ Eine einheitliche Systematisierung gibt es dabei nicht. Durch Ansätze verschied
 
 ```{admonition} Weiterführende Literatur
 :class: seealso
-* Volker Pantenburg and Malte Hagener. Handbuch Filmanalyse. Springer, Wiesbaden, 2020. doi:https://doi.org/10.1007/978-3-658-13339-9 {cite}`pantenburg2020`.
+* Volker Pantenburg and Malte Hagener. Handbuch Filmanalyse. Springer, Wiesbaden, 2020. https://doi.org/10.1007/978-3-658-13339-9 {cite}`pantenburg2020`.
 * Benjamin Beil, Jürgen Kühnel, and Christian Neuhaus. Studienhandbuch Filmanalyse. Ästhetik und Dramaturgie des Spielfilms. Wilhelm Fink, Paderborn, 2016. ISBN 9783825286668 {cite}`beil2016`.
 * David Bordwell and Kristin Thompson. Film Art. An Introduction. McGraw Hill, Boston, 2008. ISBN 1259534952 {cite}`bordwell2008`.
 * John Hill. The Oxford Guide to Film Studies. Oxford University Press, Oxford, 1998. ISBN 9780198711247 {cite}`hill1998`.

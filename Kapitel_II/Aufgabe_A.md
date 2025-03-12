@@ -25,10 +25,8 @@ Mithilfe datengestützter filmanalytischer Methoden können Metadaten zu audiovi
 3. Die Ergebnisse können filmanalytisch ausgewertet und kontextualisiert werden.
 ```
 
-
-
 ## Annotation als Methode deskriptiver Filmanalyse
-Um Filme, Videos oder Bewegtbildmaterial für filmanalytische Arbeiten überhaupt erst greifbar machen zu können, ist es sinnvoll deskriptive Methoden anzuwenden. Ein bewährtes Werkzeug ist die Erstellung von (semantischen) Annotationen. Dieser Prozess kann entweder manuell durchgeführt werden oder automatisch bzw. semi-automatisch. Dabei sind die Ergebnisse, die durch Annotationen entstehen, am Ende auch immer selbst als Produkte oder Artefakte ihres Entstehungszusammenhangs zu begreifen (Horstmann/Seltmann 2023).
+Um Filme, Videos oder Bewegtbildmaterial für filmanalytische Arbeiten überhaupt erst greifbar machen zu können, ist es sinnvoll deskriptive Methoden anzuwenden. Ein bewährtes Werkzeug ist die Erstellung von (semantischen) Annotationen. Dieser Prozess kann entweder manuell durchgeführt werden oder automatisch bzw. semi-automatisch. Dabei sind die Ergebnisse, die durch Annotationen entstehen, am Ende auch immer selbst als Produkte oder Artefakte ihres Entstehungszusammenhangs zu begreifen {cite}`horstmann2023`.
 
 ````{margin}
 ```{admonition} Annotationen
@@ -56,3 +54,9 @@ Sowohl die Entwicklung und Verwirklichung der Ontologie als Framework als auch d
 Für die erste Übung – besonders geeignet für Einsteiger:innen ohne Vorwissen und Interessierte am Umgang mit deskriptiven Methoden der Filmanalyse – werden tabellarische Annotationsdaten erstellt.
 
 <span style="font-variant: small-caps;" >Let's get started 🚀 ➡️</span>
+
+## Literatur
+
+```{bibliography}
+:filter: docname in docnames
+```

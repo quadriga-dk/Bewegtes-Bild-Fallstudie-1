@@ -24,7 +24,7 @@ from quadriga_config import colors
 :class: hinweis
 Nutzen Sie die Fragen, um Ihren eigenen Lernerfolg zu überprüfen. Denken Sie über die Lösung nach und formulieren Sie auch Erklärungen für Ihre Lösung. Vergleichen Sie dann Ihre eigene Erklärung mit den Erläuterungen und Musterlösungen.
 
-Gab es Punkte, bei denen Sie sich unsicher waren oder bei denen Ihre Lösung nicht (vollständig) korrekt?
+Gab es Punkte, bei denen Sie sich unsicher waren oder bei denen Ihre Lösung nicht (vollständig) korrekt war?
 ```
 ````
 Dieses Unterkapitel soll als Übung dazu dienen, die Ergebnisse aus der tabellarischen Annotation punktuell vergleichen und auswerten zu können.
@@ -37,7 +37,7 @@ Ebenso soll anhand der Auswertung der Ergebnisse diskutiert werden, welche Vor- 
 display_quiz("../quizzes/A_UK-3_Quiz_1.json", colors = colors.jupyterquiz)
 ```
 
-`````{admonition} Ausführliche Erläuterung der Antwort
+`````{admonition} Lösung
 :class: solution, dropdown
 Durch das Segmentieren in Dynamiken können ganz spezifische Verläufe, wie z.B. eine durchgehende musikalische Spur, die über die Dauer einer einzelnen Einstellung hinaus geht, annotiert werden. Da wir es bei diesem Beispiel mit einem kurzen Ausschnitt zu tun haben, ist eine Einteilung in Szenen weniger ergiebig.  
 +++
@@ -63,7 +63,7 @@ Bei einer (manuellen) tabellarischen Annotation gibt es keine Option, Visualisie
 display_quiz("../quizzes/A_UK-3_Quiz_2.json", colors = colors.jupyterquiz)
 ```
 
-```{admonition} Ausführliche Erläuterung der Antwort
+```{admonition} Lösung
 :class: solution, dropdown
 Um die Dauer einer Einstellung bei der tabellarischen Annotation zu erheben, können unterschiedliche Verfahren gewählt werden. Zum Beispiel kann eine Einstellung abgespielt und gleichzeitig eine Stoppuhr ⏰ eingesetzt werden. So kann ermittelt werden, welche Einstellungen die längste Dauer aufweisen. Da dieses Verfahren manuell durchgeführt werden muss, ist die Fehleranfälligkeit verhältnismäßig hoch.
 +++
@@ -91,7 +91,7 @@ Found Footage, also die Einbettung 'vorgefunden Materials', ist eine Gestaltungs
 display_quiz("../quizzes/A_UK-3_Quiz_3.json", colors = colors.jupyterquiz)
 ```
 
-```{admonition} Ausführliche Erläuterung der Antwort
+```{admonition} Lösung
 :class: solution, dropdown
 Die Found Footage-Aufnahmen stammen von der 15. Klimakonferenz in Kopenhagen im Jahr 2009 der UNFCCC (15th Conference of the Parties to the United Nations Framework Convention on Climate Change). Durch die Einbindung dieses Videomaterials wird die historische wie auch politsche Dringlichkeit der Klimakrise als globales Problem klar herausgestellt. <br>
 Hinsichtlich ihrer Gestaltung unterscheiden sich die Found Footage-Aufnahmen von den anderen Inszenierungsweisen des Films und bilden eine sich zur Tonebene synchron verhaltene Montagekette. <br>
