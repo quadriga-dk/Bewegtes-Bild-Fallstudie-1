@@ -3,5 +3,4 @@
 - [](./weiterführende_Informationen.md)
 - [](./Empirische_Methoden.md)
 - [](./Untersuchungsgegenstand.md)
-- [](./Technische_Voraussetzungen.md)
 

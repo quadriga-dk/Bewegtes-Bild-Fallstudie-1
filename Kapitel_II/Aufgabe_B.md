@@ -40,6 +40,6 @@ Aus der ersten Übung hat sich gezeigt, dass Parameter, wie z.B. Sound oder Kame
 ******************
 
 Das sind die Parameter (also Spuren) die wir in dieser Übung annotieren möchten. Wie geht es weiter? <br>
-Als nächstes installieren wir die Programme Advene und ELAN. Unter dem Punkt [Technische Voraussetzungen](../Kapitel_I/Technische_Voraussetzungen) finden sich die Links und Anweisungen zur Installation. Sind die Anwendungen installiert, kann mit der Annotationsarbeit begonnen werden. Hierzu machen wir uns im nächsten Schritt mit den Funktionsweisen vertraut.
+Als nächstes installieren wir die Programme Advene und ELAN. Unter dem Punkt [Technische Voraussetzungen](../Präambel/Technische%20Voraussetzungen.md) finden sich die Links und Anweisungen zur Installation. Sind die Anwendungen installiert, kann mit der Annotationsarbeit begonnen werden. Hierzu machen wir uns im nächsten Schritt mit den Funktionsweisen vertraut.
 +++
 Los geht es! 💥

@@ -20,7 +20,7 @@ from quadriga_config import colors
 
 # Annotation mit dem AdA-Template: Schritte und Arbeitsprozess
 
-Für die Arbeit mit dem AdA-Template muss Advene installiert sein und ausgeführt werden. Installationsanweisungen und Hinweise gibt unter [Technische Voraussetzungen](../Kapitel_I/Technische_Voraussetzungen).
+Für die Arbeit mit dem AdA-Template muss Advene installiert sein und ausgeführt werden. Installationsanweisungen und Hinweise gibt unter [Technische Voraussetzungen](../Präambel/Technische%20Voraussetzungen.md).
 
 ## Workflow und Annotationsprozess
 

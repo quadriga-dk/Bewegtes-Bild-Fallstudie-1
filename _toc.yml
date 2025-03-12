@@ -6,13 +6,16 @@ root: intro
 options:
   numbered: 3
 chapters:
+  - file: Präambel/toc
+    sections:
+      - file: Präambel/Lernziele
+      - file: Präambel/Technische Voraussetzungen.md
   - file: Kapitel_I/toc
     sections: 
       - file: Kapitel_I/Einführung_in_die_datengestützte_Filmanalyse
       - file: Kapitel_I/weiterführende_Informationen
       - file: Kapitel_I/Empirische_Methoden
       - file: Kapitel_I/Untersuchungsgegenstand
-      - file: Kapitel_I/Technische_Voraussetzungen
   - file: Kapitel_II/toc_A
     sections:
       - file: Kapitel_II/Aufgabe_A
