@@ -1,4 +1,4 @@
-# AdA-Timeline: Funktionsweisen, Bedienung, Anpassung
+# Funktionsweisen, Bedienung, Anpassung
 
 ````{margin}
 ```{note}
