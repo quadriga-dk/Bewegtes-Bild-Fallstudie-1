@@ -50,3 +50,8 @@ sphinx:
       - carousel.css
     html_js_files:
       - carousel.js
+
+# Ignore duplicate citation      
+sphinx:
+  config:
+    suppress_warnings: ["bibtex.duplicate_citation"]
