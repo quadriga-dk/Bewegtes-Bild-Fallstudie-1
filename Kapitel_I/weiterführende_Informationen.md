@@ -4,15 +4,19 @@ lang: de-DE
 # Weiterführende Informationen
 ## Was ist Filmanalyse?
 Die Filmanalyse ist – neben der Filmtheorie und der Filmgeschichte – eine der drei Säulen der Filmwissenschaft als akademische Disziplin, die sich unter Berücksichtigung methodischer Ansätze mit der Gestaltung von Filmen, ihrer Struktur und ihrer Rezeption auseinandersetzt. Gleichzeitig ist die Filmanalyse ein Werkzeug zur systematischen Erfassung von Informationen, Eindrücken, Intensitäten sowie Wahrnehmungsanordnungen von Filmen.
+
 ```{admonition} Wie verstehen wir Filmanalyse?
 :class: hinweis
 Wir verstehen Film als Medium, das sich in der Zeit entfaltet. Dabei ist die Zuschauendenempfindung nicht zu trennen von Inszenierungsdynamiken und der Zirkulation von Affekten, die Filme immer in Relation zu ihrem Publikum herstellen. Die Filmanalyse kann dabei als Schnittstelle zwischen der Zuschauendenerfahrung und den filmischen Gegenständen beschrieben werden.
-Was wir wahrnehmen und fühlen, setzt sich aus dem Zusammenspiel von Intensitäten zusammen, die sich über die Zeit und den Raum gestalten: "Atmosphären entfalten sich, Gedanken kommen plötzlich, Gefühle schleichen sich ein… Film und andere audiovisuelle Medien sind in der Lage dies nicht nur in Bildern und Tönen auszudrücken, sondern auch als Erleben für den Zuschauer zu gestalten."
+Was wir wahrnehmen und fühlen, setzt sich aus dem Zusammenspiel von Intensitäten zusammen, die sich über die Zeit und den Raum gestalten: "Atmosphären entfalten sich, Gedanken kommen plötzlich, Gefühle schleichen sich ein… Film und andere audiovisuelle Medien sind in der Lage dies nicht nur in Bildern und Tönen auszudrücken, sondern auch als Erleben für den Zuschauer zu gestalten" {cite}`kappelhoff2007`
 ```
-## Warum digitale Methoden? Was gibt es für Tools? 
-Digitale Methoden ermöglichen eine empirisch fundierte Auseinandersetzung mit Bewegtbildern. Insofern kann die Schnittstelle zwischen Medien und Zuschauenden durch digitale Methoden systematisiert werden. Die Erstellung von Metadaten hilft dabei, größere Sinnzusammenhänge und Dynamiken lesbar zu machen. Ebenso können Daten durch ihre Zirkulation in Austauschbewegungen zwischen verschiedenen Akteur:innen eingebunden werden. Im Fokus unserer Herangehensweisen steht die Methodik der Videoannotation. Die ***Videoannotation*** im Speziellen zielt hierbei darauf ab, die zeitliche Erscheinungsweise (*timeline based video analysis*) von Filmen in Form auswertbarer Daten erfahrbar sowie zugänglich zu machen. 
-> "Von den Gedächtnisprotokollen der frühen Filmwissenschaft und Notizen im Dunkel des Kinosaals über Detailstudien am Schneidetisch bis hin zu Möglichkeiten der automatischen Schnitterkennung und -visualisierung am heimischen Laptop lässt sich eine Veränderung filmwissenschaftlicher Werkzeuge nachzeichnen. Unter Videoannotation ist dabei die zeitbezogene Ergänzung von audiovisuellen Medieninhalten um Metadaten zu verstehen."
-+++
+
+<h2>1.2.2. Warum digitale Methoden? Was gibt es für Tools?</h2>
+
+Digitale Methoden ermöglichen eine empirisch fundierte Auseinandersetzung mit Bewegtbildern. Insofern kann die Schnittstelle zwischen Medien und Zuschauenden durch digitale Methoden systematisiert werden. Die Erstellung von Metadaten hilft dabei, größere Sinnzusammenhänge und Dynamiken lesbar zu machen. Ebenso können Daten durch ihre Zirkulation in Austauschbewegungen zwischen verschiedenen Akteur:innen eingebunden werden. Im Fokus unserer Herangehensweisen steht die Methodik der Videoannotation. Die **Videoannotation** im Speziellen zielt hierbei darauf ab, die zeitliche Erscheinungsweise (*timeline based video analysis*) von Filmen in Form auswertbarer Daten erfahrbar sowie zugänglich zu machen. 
+
+> Von den Gedächtnisprotokollen der frühen Filmwissenschaft und Notizen im Dunkel des Kinosaals über Detailstudien am Schneidetisch bis hin zu Möglichkeiten der automatischen Schnitterkennung und -visualisierung am heimischen Laptop lässt sich eine Veränderung filmwissenschaftlicher Werkzeuge nachzeichnen. Unter Videoannotation ist dabei die zeitbezogene Ergänzung von audiovisuellen Medieninhalten um Metadaten zu verstehen {cite}`bakels2016`.
+
 ````{margin}
 ```{admonition} Was ist eine Datenontologie?
 :class: hinweis
@@ -41,10 +45,15 @@ Eine einheitliche Systematisierung gibt es dabei nicht. Durch Ansätze verschied
 
 ```{admonition} Weiterführende Literatur
 :class: seealso
-* Pantenburg/Hagener (2020): Handbuch Filmanalyse, Wiesbaden: Springer
-* Benjamin Beil/Jürgen Kühnel/Christian Neuhaus (2016): Studienhandbuch Filmanalyse: Ästhetik und Dramaturgie des Spielfilms, Paderborn: Wilhelm Fink
-
-* David Bordwell/Kristin Thompson (2008): Film Art. An Introduction, Boston: McGraw Hill
-* John Hill (1998): The Oxford Guide to Film Studies
+* Volker Pantenburg and Malte Hagener. Handbuch Filmanalyse. Springer, Wiesbaden, 2020. doi:https://doi.org/10.1007/978-3-658-13339-9 {cite}`pantenburg2020`.
+* Benjamin Beil, Jürgen Kühnel, and Christian Neuhaus. Studienhandbuch Filmanalyse. Ästhetik und Dramaturgie des Spielfilms. Wilhelm Fink, Paderborn, 2016. ISBN 9783825286668 {cite}`beil2016`.
+* David Bordwell and Kristin Thompson. Film Art. An Introduction. McGraw Hill, Boston, 2008. ISBN 1259534952 {cite}`bordwell2008`.
+* John Hill. The Oxford Guide to Film Studies. Oxford University Press, Oxford, 1998. ISBN 9780198711247 {cite}`hill1998`.
 ```
 Im nächsten Kapitel stellen wir eine im Rahmen filmwissenschaftlicher Forschung entwickelte Methode qualitativer Empirie vor. 
+
+## Literatur
+
+```{bibliography}
+:filter: docname in docnames
+```

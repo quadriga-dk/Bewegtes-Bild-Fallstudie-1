@@ -3,15 +3,14 @@
 Neben Handbüchern, Lexika und Glossaren gibt es auch empirische Ansätze, die in ihrem methodischen Vorgehen darauf abzielen, deskriptive Datenmodelle und Designs für die Filmwissenschaft aufzubereiten. <br>
 Unter der Leitung von <a href="https://www.cinepoetics.fu-berlin.de/about/sprecher/kappelhoff/index.html" class="external-link" target="_blank">Prof. Dr. Hermann Kappelhoff</a> wurde am interdisziplinären Exzellenzcluster <a href="http://www.loe.fu-berlin.de/" class="external-link" target="_blank">Languages of Emotion</a> (Laufzeit: 2007–2014) angesiedelt an der <a href="https://www.fu-berlin.de/" class="external-link" target="_blank">Freien Universität Berlin</a> die sogenannte <a href="https://www.empirische-medienaesthetik.fu-berlin.de/" class="external-link" target="_blank">eMAEX-Methode</a> entwickelt. eMAEX steht für *electronically based media analysis of expressive-movement-images* und beschreibt ein empirisches Vorgehen zur Erfassung und "systematischen Erschließung der Ausdrucksqualitäten audiovisueller Bewegungsbilder". Im Vordergrund des Ansatzes steht ein Framework, das sich auf qualitative Empirie konzentriert:
 
->Qualitativ-deskriptive Empirie heißt für uns, dass jede analytische Aussage, jede genretheoretische oder filmhistorische These am Gegenstand überprüfbar und nachvollziehbar ist.
+>Qualitativ-deskriptive Empirie heißt für uns, dass jede analytische Aussage, jede genretheoretische oder filmhistorische These am Gegenstand überprüfbar und nachvollziehbar ist {cite}`kappelhoff2007`.
 
 ````{margin}
 ```{admonition} Was verstehen wir unter "Ausdrucksbewegung"?
 :class: hinweis
-Ausdrucksbewegung lässt sich mit Kappelhoff (2004) nach Plessner definieren als diejenige spezifische Dimension von Bewegung, die sich als Wahrnehmung einer zeitlichen Gestalt zeigt. Diese Bewegungsdimension bezieht alle formalen Ebenen filmischer Bilder ein (Farbe, Licht, Musik, Kadrierung, Montage usw.) insofern sie als Einheit einer zeitlichen Dynamik von Zuschauer:innen körperlich erlebt werden.
+Ausdrucksbewegung lässt sich mit Kappelhoff {cite}`kappelhoff2004` nach Plessner definieren als diejenige spezifische Dimension von Bewegung, die sich als Wahrnehmung einer zeitlichen Gestalt zeigt. Diese Bewegungsdimension bezieht alle formalen Ebenen filmischer Bilder ein (Farbe, Licht, Musik, Kadrierung, Montage usw.) insofern sie als Einheit einer zeitlichen Dynamik von Zuschauer:innen körperlich erlebt werden.
 ```
 ````
-
 Das Beschreibungsmodell der quantitativen Bewegtbildanalyse zielt auf die affektorientierte Funktion audiovisueller Bildinszenierungen auf der Grundlage ihrer zeitlichen Gestalt ab. Wie können analytische Beschreibungen ästhetische Strategien der Emotionalisierung anhand temporaler "Ausdrucksbewegungen" methodisch fassen?
 +++
 Um diese Frage zu beantworten, wurde ein dreistufiges Analysemodell entwickelt:
@@ -50,7 +49,7 @@ Zeitliche Abfolge der Pathosszenen nach der eMAEX-Methode
 
 Ausführliche Informationen zum Drei-Stufen-Modell der eMAEX-Methode gibt es unter <a href="https://www.empirische-medienaesthetik.fu-berlin.de/emaex-system/emaex_kurzversion/entwicklung_emaex/03_drei_ebenen_modell/index.html" class="external-link" target="_blank">Empirische Medienästhetik</a>.
 +++
-Ziel der Methode ist eine empirisch-qualitative Durchführung vergleichender Studien auf verschiedenen Ebenen der filmischen Inszenierung. Ebenso sollen affektdramaturgische Verlaufsformen über die Geschichte des Genres hinweg untersuchbar gemacht werden. Dynamische Muster von Szenen etwa können so mit Blick auf eine ganz bestimmte Pathoskategorie verglichen oder die Einzelsegmente der kinematografischen Ausdrucksbewegung in einer Mikroanalyse beschrieben werden (Kappelhoff/Bakels).
+Ziel der Methode ist eine empirisch-qualitative Durchführung vergleichender Studien auf verschiedenen Ebenen der filmischen Inszenierung. Ebenso sollen affektdramaturgische Verlaufsformen über die Geschichte des Genres hinweg untersuchbar gemacht werden. Dynamische Muster von Szenen etwa können so mit Blick auf eine ganz bestimmte Pathoskategorie verglichen oder die Einzelsegmente der kinematografischen Ausdrucksbewegung in einer Mikroanalyse beschrieben werden.
 +++
 
 ````{margin}
@@ -64,5 +63,9 @@ Datenontologien werden genauer in diesen nachfolgenden Kapiteln behandelt:
 ```
 ````
 
-
 Die eMAEX-Methode bildet die Forschungsgrundlage für empirische Untersuchungen im Bereich deskriptiv-qualitativer Filmanalyse und wurde im Rahmen des BMBF-geförderten Projekts "<a href="https://www.ada.cinepoetics.fu-berlin.de/" class="external-link" target="_blank">Affektrhetoriken des Audiovisuellen</a>" in eine auf Semantic Web basierende Datenontologie weiterentwickelt. In den folgenden Kapiteln soll an die Arbeit mit einer solchen Ontologie herangeführt werden. Bevor wir damit beginnen, wird zunächst der Untersuchungsgegenstand unserer Fallstudie thematisch eingeordnet und inhaltlich umrissen.
+
+## Literatur
+```{bibliography}
+:filter: docname in docnames
+```
