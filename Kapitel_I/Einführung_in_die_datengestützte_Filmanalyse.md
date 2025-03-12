@@ -1,7 +1,7 @@
 ---
 lang: de-DE
 ---
-# Einführung in die datengestützte Filmanalyse, Forschungsfragen und Lernziele
+# Einführung in die datengestützte Filmanalyse und Forschungsfragen
 
 Videoinhalte spielen auf den Plattformen der sozialen Medien eine immer stärkere Rolle – nicht nur in Fragen der Unterhaltung, sondern auch der politischen Meinungsbildung. Die Klimakrise als eines der wichtigsten gesellschaftlichen Themen und Konflikte unserer Zeit ist dabei keine Ausnahme. Umfangreich und heterogen sind die Diskurse, in denen die Krise mit Bewegtbildern kommuniziert und die Kommunikation dieser Krise selbst kommentiert, reflektiert, verstärkt oder unterdrückt wird. Das zentrale Telos dieser Videoinhalte ist nur zu einem kleinen Teil der Wissenstransfer und das Verstehen wissenschaftlicher Erkenntnisse. Vielmehr spielen Fragen der Emotionalisierung sowohl im Hinblick auf politische Meinungsbildung oder aktivistische Mobilisierung als auch in Hinblick auf Klimaleugnung und rechter Propaganda eine zentrale Rolle.
 
@@ -14,14 +14,6 @@ Hier setzt die vorliegende Fallstudie an: Sie geht von der Prämisse aus, dass F
 {cite}`kappelhoff2004`, {cite}`bakels2023`. Unter Rückgriff auf empirisch grundierte Methoden können audiovisuelle Bewegtbildmedien folglich systematisch auf die ihnen zugrunde liegenden temporalen und multimodalen Dynamiken hin analysiert werden. Diese Vorgehensweise ermöglicht es, audiovisuelle Inhalte somit nicht unter narrativen oder inhaltsanalytischen Gesichtspunkten zu untersuchen, sondern in ihrer audiovisuellen, temporalen Struktur zu segmentieren, beschreiben und qualifizieren und so den Fokus auf die medienästhetische Gestaltung, d. h.  auf ihre Wahrnehmungsmuster und die damit verbundenen Emotionalisierungsstrategien (z.B. mit Blick auf Kamera- und Figurenbewegung, Bildkomposition, Farbgebung, Lichtsetzung, Soundscapes usw.), zu setzen. 
 Die intendierten Emotionalisierungsstrategien politisch motivierter Videos zur Klimakrise auf der vielseitig genutzten Videoplattform YouTube sind Untersuchungsgegenstand der vorliegenden filmanalytischen Fallstudie. Über die Kombination von (semi-) automatisierten und manuellen Annotationen sollen die intendierten Emotionalisierungen systematisch rekonstruiert sowie visualisiert und als Strategien einer Affektrhetorik qualifiziert werden {cite}`grotkopp2021`.
 Die Studie gestaltet sich exemplarisch entlang der Auswahl eines konkreten und wiederverwendbaren Beispiels, um die Methoden und Probleme des Ansatzes transparent und zugänglich zu machen.
-
-
-## Was sind die Groblernziele der Fallstudie?
-
-Die Groblernziele der Fallstudie umfassen: 
-1. Die Herstellung filmanalytischer Metadaten mithilfe datengestützter Methoden (Annotation) auf Basis einer Filmontologie
-2. Das Erkennen und Differenzieren audiovisueller Inszenierungsmuster, die durch Annotationsdaten hergestellt werden
-3. Die Visualisierung und Qualifizierung der Datensets
 
 ## Zentrale Forschungsfragen und Aufgaben
 Die Fallstudie umfasst drei zentrale Forschungsfragen, die durch die hier vermittelten Lernmodule adressiert werden sollen:
