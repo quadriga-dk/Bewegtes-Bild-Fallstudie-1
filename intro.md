@@ -39,26 +39,32 @@ Die Fallstudie gliedert sich in verschiedene Aufgabenbereiche, die jeweils spezi
 ### Kurzbeschreibung der Aufgaben
 
 ````{margin}
-➡️ *optional*
+➡️ <span style="color:blue">*optional*</span>
 ````
-1. Anhand des ausgewählten Videos sollen in einem [**ersten Schritt**](#Kapitel_II/Aufgabe_A) tabellarische Annotationsdaten erfasst werden. Dazu wird auf Grundlage filmanalytischer Basisparameter ein Einstellungsprotokoll erstellt.
-````{margin}
-➡️ *optional*
-````
-2. Der [**zweite Schritt**](#Kapitel_II/Aufgabe_B) umfasst die Herstellung und Anreicherung von Annotationsdaten mit Tools. Beispielhaft soll mit den Videoannotationstools <a href="https://www.advene.org/" class="external-link" target="_blank">Advene</a> und <a href="https://archive.mpi.nl/tla/elan" class="external-link" target="_blank">ELAN</a> gearbeitet werden.
+* <span style="background-color:#ADD8E6;">**Lernmodul A:**</span> 
+Anhand des ausgewählten Videos sollen in einem [**ersten Schritt**](#Kapitel_II/Aufgabe_A) tabellarische Annotationsdaten erfasst werden. Dazu wird auf Grundlage filmanalytischer Basisparameter ein Einstellungsprotokoll erstellt.
 
 ````{margin}
-➡️ **erforderlich**
+➡️ <span style="color:blue">*optional*</span>
 ````
-3. Anschließend sollen die basisschematischen Parameter filmanalytischer Termini im [**dritten Schritt**](#Kapitel_II/Aufgabe_C) nach Semantic Web Prinzipien in eine Filmontologie überführt werden.
+* <span style="background-color:#ADD8E6;">**Lernmodul B:**</span> 
+Der [**zweite Schritt**](#Kapitel_II/Aufgabe_B) umfasst die Herstellung und Anreicherung von Annotationsdaten mit Tools. Beispielhaft soll mit den Videoannotationstools <a href="https://www.advene.org/" class="external-link" target="_blank">Advene</a> und <a href="https://archive.mpi.nl/tla/elan" class="external-link" target="_blank">ELAN</a> gearbeitet werden.
+
 ````{margin}
-➡️ **erforderlich**
+➡️ <span style="color:red">**erforderlich**</span>
 ````
-4. Der [**vierte Schritt**](#Kapitel_II/Aufgabe_D) umfasst die Implementierung und das Arbeiten mit einer Filmontologie zur Herstellung von Annotationsdaten mit dem Tool Advene.
+* <span style="background-color:#FF7F7F;">**Lernmodul C:**</span> 
+Anschließend sollen die basisschematischen Parameter filmanalytischer Termini im [**dritten Schritt**](#Kapitel_II/Aufgabe_C) nach Semantic Web Prinzipien in eine Filmontologie überführt werden.
 ````{margin}
-➡️ **erforderlich**
+➡️ <span style="color:red">**erforderlich**</span>
 ````
-5. Im [**fünften Schritt**](#Kapitel_II/Aufgabe_E) sollen die Daten als Verlaufsdynamiken visualisiert, die Visualisierung angepasst und die Daten ausgewertet bzw. qualifiziert werden.
+* <span style="background-color:#FF7F7F;">**Lernmodul D:**</span> 
+Der [**vierte Schritt**](#Kapitel_II/Aufgabe_D) umfasst die Implementierung und das Arbeiten mit einer Filmontologie zur Herstellung von Annotationsdaten mit dem Tool Advene.
+````{margin}
+➡️ <span style="color:red">**erforderlich**</span>
+````
+* <span style="background-color:#FF7F7F;">**Lernmodul E:**</span> 
+Im [**fünften Schritt**](#Kapitel_II/Aufgabe_E) sollen die Daten als Verlaufsdynamiken visualisiert, die Visualisierung angepasst und die Daten ausgewertet bzw. qualifiziert werden.
 
 Die folgende Übersicht zeigt den Fluss der Aufgabenstruktur und die notwendigen Kompetenzen zur Durchführung der jeweiligen Übungen der Fallstudie:
 +++
