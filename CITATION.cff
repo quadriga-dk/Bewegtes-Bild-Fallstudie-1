@@ -2,7 +2,7 @@
 cff-version: 1.2.0
 title: Affektrhetorik in Online-Videos zur Klimakrise
 abstract: >-
-  Dieses interaktive Lehrbuch ist das Outcome der 1. Fallstudie des Datentyps Bewegtes Bild 1 des Projekts [QUADRIGA](https://quadriga-dk.de).
+  Dieses interaktive Lehrbuch ist das Outcome der 1. Fallstudie des Datentyps Bewegtes Bild des Projekts [QUADRIGA](https://quadriga-dk.de).
 message: "Please cite this software using the metadata from `preferred-citation` in `CITATION.cff`."
 type: software
 authors:
@@ -39,3 +39,7 @@ preferred-citation:
   type: book
   url: 'https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/'
   repository-code: 'https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1'
+  license: CC-BY-SA-4.0
+  languages:
+    - deu
+  copyright: CC-BY-SA-4.0

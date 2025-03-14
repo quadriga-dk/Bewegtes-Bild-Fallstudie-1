@@ -6,7 +6,7 @@
 ```{literalinclude} /CITATION.bib
 :language: bibtex
 ```
-Demir, D. & Grotkopp, M. (2024). Affektrhetorik in Online-Videos zur Klimakrise. Datengestützte Analysen audiovisueller Muster. https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/
+Demir, D. & Grotkopp, M. (2024). _Affektrhetorik in Online-Videos zur Klimakrise. Datengestützte Analysen audiovisueller Muster._ https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/
 ````
 `````
 
