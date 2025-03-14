@@ -1,35 +1,7 @@
 ---
 lang: de-DE
 ---
-# Einführung
-
-In diesem Kapitel soll das Annotieren mit Tools durch Freitexteingaben erprobt werden.
-+++
-*Wir befinden uns hier:*
-![Aufgabe 2](../assets/Aufgabenstruktur-02.png)
-
-Hierzu wird zunächst eine Parameterbestimmung und -erweiterung vorgenommen. Mit der Bestimmung unserer Parameter können wir uns anschließend der Annotationsarbeit widmen. Im Kapitel [Annotieren mit Advene](Aufgabe_B_UK-1) machen wir uns mit den Funktionsweisen von Advene vertraut und erstellen Annotationstypen sowie Annotationen. Im Kapitel [Annotieren mit ELAN](Aufgabe_B_UK-2) wiederholen wir diesen Schritt mit dem Tool ELAN. Im Anschluss besprechen wir die angewandte [Methode](Aufgabe_B_UK-3).
-
-```{admonition} Lernziele
-:class: lernziele, dropdown
-**Groblernziel**
-+++
-Mithilfe digitaler Annotationsverfahren können Metadaten zu audiovisuellem Material hergestellt werden.
-+++
-**Feinlernziele**
-1. Die Basisfunktionen der Tools können verstanden und angeeignet werden.
-2. Mit den Tools können Annotationstypen zusammengestellt werden.
-3. Nach spezifischer Segmentierung können Annotationen erstellt und Werte für die Annotationen bestimmt werden.
-```
-
-````{margin}
-```{admonition} Siehe auch
-:class: seealso
-Erläuterungen zum Begriff "Annotation" gibt es [hier](Aufgabe_A).
-```
-````
-
-## Freitextannotationen
+# Einführung: Freitextannotationen
 
 Die Programme Advene und ELAN ermöglichen die Herstellung von Annotationsdaten auf einer Timeline sowie die Einbettung von Videos.
 
@@ -68,6 +40,6 @@ Aus der ersten Übung hat sich gezeigt, dass Parameter, wie z.B. Sound oder Kame
 ******************
 
 Das sind die Parameter (also Spuren) die wir in dieser Übung annotieren möchten. Wie geht es weiter? <br>
-Als nächstes installieren wir die Programme Advene und ELAN. Unter dem Punkt [Technische Voraussetzungen](../Kapitel_I/Technische_Voraussetzungen) finden sich die Links und Anweisungen zur Installation. Sind die Anwendungen installiert, kann mit der Annotationsarbeit begonnen werden. Hierzu machen wir uns im nächsten Schritt mit den Funktionsweisen vertraut.
+Als nächstes installieren wir die Programme Advene und ELAN. Unter dem Punkt [Technische Voraussetzungen](../Präambel/Technische%20Voraussetzungen.md) finden sich die Links und Anweisungen zur Installation. Sind die Anwendungen installiert, kann mit der Annotationsarbeit begonnen werden. Hierzu machen wir uns im nächsten Schritt mit den Funktionsweisen vertraut.
 +++
 Los geht es! 💥

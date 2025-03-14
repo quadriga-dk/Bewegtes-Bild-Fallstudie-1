@@ -4,25 +4,33 @@
 
 Auszug einer Visualiserungsansicht der AdA-Timeline
 ```
-Die vorliegende Fallstudie "Affektrhetorik in Online-Videos zur Klimakrise. Datengestützte Analysen audiovisueller Muster", die hier in Form einer <a href="https://open-educational-resources.de/was-ist-oer-3-2/" class="external-link" target="_blank">Open Educational Ressource</a> als interaktives <a href="https://jupyterbook.org/en/stable/intro.html" class="external-link" target="_blank">Jupyter Book</a> zur Verfügung steht, soll am Beispiel von Online-Videos zur Klimakrise modellhaft zeigen, inwiefern sich politische Zielsetzungen in audiovisuellen Diskursen auf die ihnen zugrunde liegenden Inszenierungsmuster beziehen lassen. 
-Im Vordergrund des Forschungsansatzes steht die Fähigkeit, multimodale und temporale Muster durch die Herstellung und Visualisierung von Primärdaten erkennen und qualifizieren zu können. Zur Durchführung methodischer Analysen werden Annotationsdaten erstellt.
-+++
-Von einer tabellarischen Annotation bis zur Visualisierung von multimodalen und temporalen Verläufen der Komposition audivisueller Bilder soll gezeigt werden, wie anhand filmanalytischer Daten affektive Rhetoriken und Inszenierungsmuster in Online-Videos zur Klimakrise nachvollzogen werden können.
-+++
+Die vorliegende Fallstudie "Affektrhetorik in Online-Videos zur Klimakrise. Datengestützte Analysen audiovisueller Muster", die hier in Form einer <a href="https://open-educational-resources.de/was-ist-oer-3-2/" class="external-link" target="_blank">Open Educational Ressource</a> als interaktives <a href="https://jupyterbook.org/en/stable/intro.html" class="external-link" target="_blank">Jupyter Book</a> bzw. Lehrbuch zur Verfügung steht, soll am Beispiel von Online-Videos zur Klimakrise modellhaft zeigen, inwiefern sich politische Zielsetzungen in audiovisuellen Diskursen auf die ihnen zugrunde liegenden Inszenierungsmuster (im Konkreten: Gestaltungsweisen durch Musik, Montage, Farb- und Helligkeitsbeziehungen usw.) beziehen lassen. 
+Im Vordergrund des Forschungsansatzes steht die Fähigkeit, multimodale und temporale Muster durch die Herstellung und Visualisierung von Primärdaten erkennen und qualifizieren zu können. Zur Durchführung methodischer Analysen werden Annotationsdaten erstellt. Es soll also gezeigt werden, wie mit filmanalytischen Daten nachvollzogen werden kann, welche emotionalen Strategien und Inszenierungen in Online-Videos zur Klimakrise eingesetzt werden – von der tabellarischen Erfassung bis hin zur visuellen Darstellung zeitlicher und mehrdimensionaler (multimodaler) Abläufe.
+
 Die Fallstudie ist unterteilt in fünf Arbeitsschritte, die Gliederung ist links in der Menüleiste jederzeit einsehbar.
 
-## Aufbau der Übungen
-Die Fallstudie ist unterteilt in verschiedene Aufgabenbereiche. Jeder Aufgabenbereich verfolgt die Umsetzung verschiedener Lernziele. Am Ende jeder Aufgabe sollen alle Nutzende in der Lage sein, die in den Lernzielen formulierten Anforderungen umzusetzen und durch bereitgestellte Lösungsstrategien umfassend zu vergleichen. Die Aufgaben sind modularisiert, d.h., dass die vorangegangene Aufgabe keine Voraussetzung für die darauffolgende darstellt. Nutzende mit mehr Vorwissen können folglich Aufgaben überspringen. Einsteiger:innen oder Nutzende ohne vertiefende Kenntnisse können sich am Verlauf der Aufgaben orientieren, um sich notwendiges Vorwissen anzueignen.
+## Zielgruppe
+Die Fallstudie richtet sich an:
 
-### Für wen ist diese Fallstudie konzipiert und welche Lerninhalte werden vermittelt?
-Die Fallstudie richtet sich an alle Promovierende, Wissenschaftler:innen, Akademiker:innen oder Studierende, insbesondere der Fachrichtungen Film- und Medienwissenschaft, die Interesse am Umgang mit digitalen, filmanalytischen Daten haben. Vorkenntnisse sind vorteilhaft, jedoch keine notwendige Voraussetzung.
+* Promovierende
+* Wissenschaftler:innen
+* Akademiker:innen
+* Studierende
+
+der Fachrichtungen Film- und Medienwissenschaft. Auch Interessierte aus verwandten Disziplinen wie beispielsweise der Kunstgeschichte oder Literaturwissenschaft können durch die Lernmodule ein grundlegendes Verständnis für digitale Annotationsmethoden bei der Analyse audiovisuellen Bewegtbildmaterials entwickeln.
+
+Vorkenntnisse sind von Vorteil, aber keine zwingende Voraussetzung.
 
 ```{admonition} Hinweis: Vorerfahrung
 :class: hinweis
-Ein wichtiges Anliegen der Fallstudie ist es den Zusammenhang zwischen einem Einstellungsprotokoll, der Handhabung von Annotationstools hin zu der Entwicklung und Bedienung einer komplexen, maschinenlesbaren Ontologie verständlich zu machen. Wer jedoch bereits die notwendigen Kompetenzen der ersten beiden Aufgaben beherrscht, kann ab Aufgabe C beginnen.
+Die Fallstudie verfolgt das Ziel, den Zusammenhang zwischen einem Einstellungsprotokoll, der Nutzung von Annotationstools und der Entwicklung sowie Anwendung einer komplexen, maschinenlesbaren Ontologie verständlich zu vermitteln. Dazu sind die Lernmodule modular aufgebaut: Nutzer:innen mit Vorkenntnissen können optionale Aufgaben (diese sind gekennzeichnet) überspringen, während Einsteiger:innen den strukturierten Aufgabenverlauf nutzen können, um sich schrittweise das erforderliche Wissen anzueignen.
 ```
 
-## Kurzbeschreibung der Aufgaben
+## Aufbau der Übungen
+Die Fallstudie gliedert sich in verschiedene Aufgabenbereiche, die jeweils spezifische Lernziele verfolgen. Am Ende jeder Aufgabe sollen die Nutzer:innen die formulierten Anforderungen erfolgreich umsetzen können. Durch bereitgestellte Lösungsstrategien und Lernstandkontrollen haben sie zudem die Möglichkeit, ihre Ergebnisse zu überprüfen und ihr Verständnis zu vertiefen.
+
+
+### Kurzbeschreibung der Aufgaben
 
 * Anhand des ausgewählten Videos sollen in einem [**ersten Schritt**](#Kapitel_II/Aufgabe_A) tabellarische Annotationsdaten erfasst werden. Dazu wird auf Grundlage filmanalytischer Basisparameter ein Einstellungsprotokoll erstellt.
 +++
