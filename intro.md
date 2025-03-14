@@ -1,4 +1,15 @@
 # Affektrhetorik in Online-Videos zur Klimakrise. Datengestützte Analysen audiovisueller Muster
+
+`````{margin}
+````{admonition} Zitierhinweis
+:class: citation-information
+```{literalinclude} /CITATION.bib
+:language: bibtex
+```
+Demir, D. & Grotkopp, M. (2024). Affektrhetorik in Online-Videos zur Klimakrise. Datengestützte Analysen audiovisueller Muster. https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/
+````
+`````
+
 ```{figure} ../Bewegtes-Bild-Fallstudie-1/assets/Ada-Intro-Neu.png
 :name: ada-timeline-cover-photo
 
