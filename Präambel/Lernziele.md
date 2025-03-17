@@ -1,6 +1,6 @@
 # Lernziele
 
-Nach erfolgreichem Durchlaufen dieses JupyterNotebooks können im Erfolgsfall die folgenden Datenkompetenzen sowie Lernziele erreicht werden:
+Nach erfolgreichem Durchlaufen dieses JupyterNotebooks können im Erfolgsfall die folgenden Datenkompetenzen erlangt sowie Lernziele erreicht werden:
 
 ```{admonition} Lernmodul A: Tabellarische Annotation (*optional*)
 :class: lernziele
