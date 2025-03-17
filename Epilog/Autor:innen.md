@@ -2,13 +2,11 @@
 
 ## Autor:innen der Inhalte
 
-
-
 ### Derya Demir <span style="font-size:8pt">(sie/ihr)
 <table style="margin-left: 0">
 <tr>
 <td><b>Rolle in QUADRIGA:</b></td>
-<td>Wissenschaftliche Mitarbeiterin, Konzeptionierung und Umsetzung der Fallstudie</td>
+<td>Wissenschaftliche Mitarbeiterin, Konzeptionierung und Umsetzung der Fallstudie, Projektkoordination</td>
 </tr>
 <tr>
 <td><b>Einrichtung:</b></td>
