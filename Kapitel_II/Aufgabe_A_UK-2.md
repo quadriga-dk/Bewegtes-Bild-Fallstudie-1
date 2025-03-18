@@ -110,13 +110,29 @@ Folgende Schritte sollen als Anweisung dienen, um die Durchführung der tabellar
 1. *Segmentierung*: Das Video soll in diesem Schritt in die jeweiligen Einstellungen segmentiert werden
 2. *Annotationsarbeit*: Die tabellarische Annotation kann beginnen, das Template kann vollständig ausgefüllt werden 
 3. *Vergleichen*: Die Ergebnisse können mit der bereitgestellten Musterlösung verglichen werden
+
+````{margin}
 ```{admonition} Achtung
 :class: caution
 Die Annotationen bzw. Annotationsmethode kann sich in einigen Punkten auch unterscheiden. Entscheidend ist, dass filmanalytische Daten in einem ersten Schritt erfasst und verglichen werden können.
 ```
-Die Tabelle liegt ausgefüllt vor? 👏 Dann geht es zum nächsten Schritt ➡️ 
-+++
-Für einen Vergleich der Daten kann unsere [Musterlösung](../assets/Tabellarische-Annotation-Musterlösung-Quadriga.pdf) heruntergeladen werden.
+````
+
+```{admonition} Übungsaufgabe
+:class: exercise
+<span style="color:purple">**Ziel**</span>:
+In dieser Übung sollen Sie die tabellarische Annotation eigenständig reproduzieren, um ein grundlegendes Verständis für die strukturierte Erfassung filmanalytischer Metadaten zu erlangen.
+
+<span style="color:purple">**Aufgabe**</span>:
+1. Gehen Sie die Durchführung der Schritte nochmals genau durch 
+2. Orientieren Sie sich an den hier dargestellten Beispielen
+3. Erstellen Sie ein Einstellungsprotokoll für den hier ausgewählten [Untersuchungsgegenstand](../Kapitel_I/Untersuchungsgegenstand.md)
+4. Vergleichen Sie Ihre Annotationsergebnisse mit der bereitgestellten[ Musterlösung](../assets/Tabellarische-Annotation-Musterlösung-Quadriga.pdf) und refektieren Sie eventuelle Unterschiede und Abweichungen
+
+<span style="color:purple">**Bearbeitungzeit**</span>: Ca. 120 Min.
+```
+
+Im nächsten Schritt werden gezielte Übungsfragen eingesetzt, um die Ergebnisse zu überprüfen und näher zu erläutern.
 
 ## Literatur
 

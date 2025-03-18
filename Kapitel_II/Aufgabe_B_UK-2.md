@@ -161,24 +161,28 @@ Zum Löschen der Werte über 'Zeile' auf 'Entferne Annotationen oder Werte' klic
 
 ELAN-Projekte können in unterschiedliche Datenformate exportiert werden. Hierzu unter 'Datei' auf 'Exportieren als' gehen. Eine Liste an Exportformaten wird angezeigt. Der Export ermöglicht die Weiterverarbeitung der Daten, zum Beispiel als **CSV-File**. Eine ausführliche Anleitung der einzelnen Formate kann <a href="https://www.mpi.nl/corpus/html/elan/ch01s04.html#Sec_Export_as" class="external-link" target="_blank">hier</a> eingesehen werden.
 
-## Zusammenfassung der Schritte
 
-1.	Elan starten und Videodatei verknüpfen
-+++
-2.	Automatische Sicherheitskopie aktivieren 
 ````{margin}
-➡️ Hier die default-Zeile im Vorfeld löschen oder umbenennen!
-````
-3.	Sobald das Video verknüpft ist und die Datei gesichert wurde, kann mit der Annotation begonnen werden. Als erste legen wir auch hier unsere Parameter also "Tiers" in ELAN an, die Auswahl der Parameter entnehmen wir unserer [vorherigen Bestimmung](#Aufgabe_B)
-````{margin}
-```{admonition} Hinweis
+```{admonition} Hinweise
 :class: hinweis
 Wie bei der Annotation mit Advene, werden auch hier Parameter wie Dialog, Sound oder Licht nach ihren Verläufen und nicht nach dem Einstellungsprinzip annotiert. 
+
+Beim Anlegen der Annotationszeilen kann die *default*-Zeile im Vorfeld gelöscht werden.
 ```
 ````
-4.	Als nächstes können nun die Annotationen auf der Timeline erstellt werden. Wer sehr präzise Annotationsgrenzen haben möchte, kann über die Frametaste bzw. Pixeltaste Annotationsabschnitte erstellen und anpassen
-5.	Überprüfen und Annotationen ggf. nachbearbeiten 
-+++
-6.	Für die Weiterverarbeitung der Daten das Projekt in ein Zielformat exportieren
-+++
-Zum Abgleich der Annotationsergebnisse steht hier unser ausgefülltes ELAN-Projekt als **.eaf-Datei** zum [Download](../assets/QUADRIGA-ELAN-Annotationspaket.zip) bereit.
+
+```{admonition} Übungsaufgabe
+:class: exercise
+<span style="color:purple">**Ziel**</span>:
+Für eine vergleichende Perspektive sollen Sie sich in dieser Übung mit den Funktionsweisen des Annotationstools ELAN vertraut machen und anschließend ein Annotationsprojekt mit filmanalytischen Metadaten auf Basis von Freitextannotationen erstellen.
+
+<span style="color:purple">**Aufgabe**</span>:
+1.	Elan starten und Videodatei verknüpfen, automatische Sicherheitskopie aktivieren 
+2.	Sobald das Video verknüpft ist und die Datei gesichert wurde, kann mit der Annotation begonnen werden. Als erste legen wir auch hier unsere Parameter also "Tiers" in ELAN an, die Auswahl der Parameter entnehmen wir unserer [vorherigen Bestimmung](#Aufgabe_B)
+3.	Als nächstes können nun die Annotationen auf der Timeline erstellt werden. Wer sehr präzise Annotationsgrenzen haben möchte, kann über die Frametaste bzw. Pixeltaste Annotationsabschnitte erstellen und anpassen
+4.	Überprüfen und Annotationen ggf. nachbearbeiten 
+5.	Für die Weiterverarbeitung der Daten das Projekt in ein Zielformat exportieren
+6. Zum Abgleich der Annotationsergebnisse steht hier unser ausgefülltes ELAN-Projekt als **.eaf-Datei** zum [Download](../assets/QUADRIGA-ELAN-Annotationspaket.zip) bereit.
+
+<span style="color:purple">**Bearbeitungzeit**</span>: Ca. 120-180 Min.
+```

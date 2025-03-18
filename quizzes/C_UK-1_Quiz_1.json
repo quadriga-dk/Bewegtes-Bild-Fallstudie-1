@@ -4,19 +4,19 @@
         "type": "multiple_choice",
         "answers": [
             {
-                "code": " 'Segment X' 'hat auf dem Level Kamera' 'den Wert langsam' + <br> 'Segment X' 'hat auf dem Level Kamera' 'den Wert links' + <br> 'Segment X' 'hat auf dem Level Kamera' 'den Wert Kamerafahrt",
+                "answer": "A",
                 "correct": false,
                 "feedback": "Diese Antwort ist falsch. Das Prädikat enthält das Level, muss aber die analytischen Dimensionen für 'Kamerabewegung' enthalten. "
             },
             {
-                "code": " 'Segment X' 'hat im Type Kamerabewegung Typ den Wert' 'Kamerafahrt + <br> 'Segment X' 'hat im Type Kamerabewegung Richtung den Wert' 'links' + <br> 'Segment X' 'hat im Type Kamerabewegung Geschwindigkeit den Wert' 'langsam' ",
+                "answer": "B",
                 "correct": true,
                 "feedback": "Korrekt. Die Anordnung erfolgt nach dem Schema 'Subjekt-Prädikat-Objekt' mit der jeweiligen analytischen Dimension als Prädikat und den dazugehörigen Werten als Objekt."
             }, 
             {
-                "code": " 'Im Type Kamerabewegung Typ hat' 'Segment X' 'den Wert Kamerafahrt' + <br> 'Im Type Kamerabewegung Richtung hat' 'Segment X' 'den Wert links' + <br> 'Im Type Kamerabewegung Geschwindigkeit hat' 'Subjekt X' 'den Wert langsam' ",
+                "answer": "C",
                 "correct": false,
-                "feedback": "Diese Antwort ist falsch, da die Reihenfolge nicht nach dem Schema 'Subjekt – Prädikat – Objekt' erfolgt'."
+                "feedback": "Diese Antwort ist falsch, da die Reihenfolge nicht nach dem Schema 'Subjekt – Prädikat – Objekt' erfolgt."
             }
         ]
     }

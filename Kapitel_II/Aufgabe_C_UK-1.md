@@ -70,6 +70,28 @@ Matrix: Ebenen, Typen, Werte
 ```
 ## Aufgabe 2
 
+Im Folgenden sind drei Antwortmöglichkeiten für die Freitext-Beschreibung: “Hier gibt es eine langsame Kamerafahrt nach links” aufgelistet:
+
+**A**
+```bash
+'Segment X' 'hat auf dem Level Kamera' 'den Wert langsam' + 
+'Segment X' 'hat auf dem Level Kamera' 'den Wert links' + 
+'Segment X' 'hat auf dem Level Kamera' 'den Wert Kamerafahrt'
+```
+
+**B**
+```bash
+'Segment X' 'hat im Type Kamerabewegung Typ den Wert' 'Kamerafahrt' +
+'Segment X' 'hat im Type Kamerabewegung Richtung den Wert' 'links' + 
+'Segment X' 'hat im Type Kamerabewegung Geschwindigkeit den Wert' 'langsam'
+```
+**C**
+```bash
+'Im Type Kamerabewegung Typ hat' 'Segment X' 'den Wert Kamerafahrt' + 
+'Im Type Kamerabewegung Richtung hat' 'Segment X' 'den Wert links' + 
+'Im Type Kamerabewegung Geschwindigkeit hat' 'Subjekt X' 'den Wert langsam'
+```
+
 ```{code-cell} ipython3
 :tags: [remove-input]
 display_quiz("../quizzes/C_UK-1_Quiz_1.json", colors = colors.jupyterquiz)
