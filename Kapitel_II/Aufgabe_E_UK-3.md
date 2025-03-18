@@ -1,5 +1,14 @@
 # Resümee
 
+```{admonition} Keypoints
+:class: keypoint
+* [Konfiguration der AdA-Timeline](Funktionsweisen-AdA-Timeline) zur dynamischen Visualisierung temporaler und multimodaler Annotationsdaten
+* [Syntaxbasierte Anpassung und Optimierung](Anpassungsoptionen-Timeline) von Visualisierungsparametern für unterschiedliche Analyseperspektiven
+* Identifikation temporaler Verlaufsdynamiken und multimodaler Gestaltungsmuster in audiovisuellen Medien
+* [Interpretation der Visualisierungsdaten](Dateninterpretation) in Bezug auf die affektrhetorischen Funktionen von Inszenierungsmustern in Online-Videos zur Klimakrise
+* [Aufbereitung visualisierter Daten](Slideshow-Analyse) für wissenschaftliche Präsentationen und Publikationen
+```
+
 Wie können die mit der AdA-Ontologie erstellten Annotationsdaten visualisiert werden? Hier haben wir im letzten Teil unserer Fallstudie unter Zuhilfenahme eines [Videotutorials und präzisen Anleitungen](../Kapitel_II/Aufgabe_E_UK-1.md) mit der AdA-Timeline gearbeitet. Die AdA-Timeline ist eine speziell für die AdA-Ontologie entwickelte, HTML-basierte Timeline-Ansicht, mit der die Daten der Annotationsarbeit unter spezifischen Konfigurationsmöglichkeiten visualisiert werden können. Die Konfigurationen werden durch [Syntaxelemente](../assets/Übersicht-Syntaxelemente-AdA-Timeline.pdf) vorgenommen. Die Annotationstypen können mit unterschiedlich anpassbaren Optionen als synchrone Spuren untereinander dargestellt werden.
 _____
 

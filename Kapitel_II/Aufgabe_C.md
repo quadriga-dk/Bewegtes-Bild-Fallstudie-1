@@ -13,6 +13,7 @@ Am Ende des Kapitels gehen wir im Detail auf die AdA-Filmontologie ein.
 ````
 In diesem Kapitel soll es darum gehen, diese Konzeptualisierung bzw. Systematisierung des Grundvokabulars der Filmanalyse in so ein Framework nachvollziehbar und als Übung reproduzierbar zu machen. Entwickelt wurde die sogenannte **AdA-Filmontologie** basierend auf den Ordnungsprinzipien und Funktionsweisen von Semantic Web Standards. Diese werden nachfolgend erläutert.
 
+(Semantische-Triple)=
 ## Semantische Triple
 
 Wie kann die Datenverarbeitung der Annotationen ermöglicht werden? Dazu müssen die filmanalytischen Beschreibungen der Annotationen maschinenlesbar gemacht werden. Gleichzeitig soll es nicht um eine reine "computer vision" gehen, sondern die Daten sollen auch für Menschen lesbar und verständlich sein. Die informationstechnologische Antwort darauf sind sogenannte semantische "**triple**". Diese bestehen aus für Menschen als einfache Sätze lesbare Aussagen nach dem Schema: "**Subjekt**" - "**Prädikat**" - "**Objekt**". Darin bezeichnet das "Prädikat" eine spezifische Relation zwischen dem "Subjekt" und dem "Objekt". Der entscheidende Schritt zur Maschienenlesbarkeit ist, dass alle drei Teile dieser Aussage mit eindeutigen "identifiern (URI)" verknüpft sind. Das kann für geschlossene Datensysteme eine einfache Zahlenkombination oder ein QR-Code sein, im Sinne der Vernetzung von Wissen sind es i.d.R. eine **URL**, also nach dem Format von Webadressen.
@@ -35,6 +36,7 @@ Nehmen wir unser Beispiel von oben, als semantisches Triple formuliert in RDF mi
 ```
 Wie kann nun eine solche Formalisierung für die Begriffe der Filmanalyse aussehen? D.h., welche "Subjekte", "Prädikate" und "Objekte" sind hier sinnvoll festzulegen?
 
+(Filmanalyse-Triple)=
 ## Filmanalytische Begriffe als semantische Triple
 
 Unser "Subjekt" ist immer "**Segment X**". Dieser Identifier ist zum einen verknüpft mit dem Film (Prädikat: "**ist aus**", Objekt: "**Film ABC**") und hat dort eine konkrete Anfangs- und Endzeit (Prädikat "**hat Timecode von**", Objekt: "**ff:ss:mm:hh - ff:ss:mm:hh**"). Diese Zeitangabe kann einer Einstellung entsprechen, einem einzelnen Frame oder einer freien Segmentierung. Zum anderen werden ihm auf verschiedenen Ebenen analytische Werte zugeschrieben. Damit diese Angaben als Relationen formulierbar sind, ist der erste Schritt, das Vokabular als Prädikate im Sinne von "**hat in einer bestimmten analytischen Dimension**" und Objekte der Art "**eine bestimmte Eigenschaft**" schematisch darzustellen.  

@@ -7,7 +7,7 @@ Auszug einer Visualiserungsansicht der AdA-Timeline
 ````{margin}
 ```{admonition} Was ist eine Open Educational Ressource?
 :class: hinweis, dropdown
-Laut der Definition der UNESCO sind "Open Educational Resources (OER) Bildungsmaterialien jeglicher Art und in jedem Medium, die unter einer offenen Lizenz stehen. Eine solche Lizenz ermöglicht den kostenlosen Zugang sowie die kostenlose Nutzung, Bearbeitung und Weiterverbreitung durch Dritte ohne oder mit geringfügigen Einschränkungen" {cite}`unesco`.
+Laut der Definition der UNESCO sind "Open Educational Resources (OER) Bildungsmaterialien jeglicher Art und in jedem Medium, die unter einer offenen Lizenz stehen. Eine solche Lizenz ermöglicht den kostenlosen Zugang sowie die kostenlose Nutzung, Bearbeitung und Weiterverbreitung durch Dritte ohne oder mit geringfügigen Einschränkungen"[^url-unesco].
 ```
 ````
 
@@ -79,8 +79,4 @@ Aufgabenfluss der OER
 
 Im nächsten Kapitel stellen wir die für unsere Fallstudie relevanten Informationen sowie theoretischen Grundlagen vor. Der Fokus liegt hierbei auf der Vermittlung empirischer Herangehensweisen datengestützter Filmanalyse. 
 
-## Literatur
-
-```{bibliography}
-:filter: docname in docnames
-```
+[^url-unesco]: <https://www.unesco.de/themen/bildung/bildungsqualitaet/weltbildungsempfehlung/global-citizenship-education/friedens-und-menschen/open-educational-resources/>

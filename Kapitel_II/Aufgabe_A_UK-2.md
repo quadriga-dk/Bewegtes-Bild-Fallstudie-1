@@ -3,6 +3,7 @@ Teil der ersten Übung ist es mithilfe einer Tabelle erste, grobstrukturierte An
 ## Segmentierung
 In Bezug auf die Segmentierungslogik dient folgende Übersicht zur groben Orientierung:
 
+(Grundeinheiten-Film)=
 ### Die vier Grundeinheiten des Films
 
 ➝ **Sequenz**  
@@ -47,7 +48,8 @@ ____________________
 
 
 Kurzdefinitionen zu unseren Basisparametern können haben wir hier zusammengefasst:
-      
+
+(Kurdzefinition-Parameter)=
 ### Kurdefinition der ausgewählen Parameter
 
 <ins>**Einstellungsgröße:** </ins> <br>
@@ -89,6 +91,7 @@ Bei ganzen Filmen ist es zunächst sinnvoller nach Sequenzen und/oder Szenen zu 
 * Anschließend wird eine Segmentierungslogik, nach der der Videoclip analysiert werden soll, festgelegt. Wir haben uns, aufgrund der Länge des Gegenstandes, für eine Segmentierung in **Einstellungen** entschieden. 
 * Sobald die Grundstruktur der zu analysierenden Einheiten steht, kann mit der tabellarischen Annotation begonnen werden, d.h., dass den Parametern Inhalte bzw. Werte beigeordnet werden, die aus der Inszenierung des Videos hervorgehen. Ein Template (als [Word-Datei](../assets/Tabellarische-Annotation-Template-Quadriga.docx) und [PDF](../assets/Tabellarische-Annotation-Template-Quadriga.pdf)) zum Ausfüllen des Einstellungsprotokolls kann hier heruntergeladen werden.
 
+(Tabellarischer-Auzug)=
 ## Tabellarischer Auszug (Exemplar)
 | Nr. | Dauer (sec.) | Screenshot                | Bildinhalt   | Einstellungsgröße  | Montage                     | Kamera                         | Ton/Musik                          | Farbe            | Licht        |
 |-----|-------------:|---------------------------|--------------|--------------------|-----------------------------|--------------------------------|------------------------------------|------------------|--------------|

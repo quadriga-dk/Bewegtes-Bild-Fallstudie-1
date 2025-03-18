@@ -1,3 +1,4 @@
+(Funktionsweisen-AdA-Timeline)=
 # Funktionsweisen, Bedienung, Anpassung
 
 ````{margin}
@@ -58,6 +59,7 @@ Alle weiteren im Hauptbereich der Timeline angezeigten Spuren zeigen die einzeln
 Die einzelnen Werte der Annotationstypen werden links als Legende angezeigt. 
 ![screenshot-A5-04](../_images/A5-S04.png)
 
+(Anpassungsoptionen-Timeline)=
 ## Anpassungsoptionen
 
 Die AdA-Timeline verwendet eine textbasierte Syntax für die Darstellungskonfiguration. Diese ist als für Menschen lesbare URL enkodiert. Mit der Textcharakteristik der Syntax können – auch ohne Programmierkenntnisse – selbstständig Visualisierungen mit unterschiedlichen Einstellungen erstellt und verändert werden. 

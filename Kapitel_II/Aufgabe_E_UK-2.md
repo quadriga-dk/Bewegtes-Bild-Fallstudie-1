@@ -102,6 +102,7 @@ So sieht die oben beschriebene Darstellung als Datenvisualisierung aus: <br>
 ![screenshot-A5-12](../_images/A5-S12.png)
 
 ```
+(Dateninterpretation)=
 ## Qualifizierung der Daten: Dateninterpretation
 
 ````{margin}
@@ -122,6 +123,7 @@ Sowohl die Visualisierungen als auch die Annotationen selbst sollen jedoch nicht
 Im Folgenden haben wir ein Set von Folien bereitgestellt, in denen mit Ausschnitten der Visualiserung eine Analyse unseres Gegenstandes nachvollzogen werden kann.
 Eine ausführliche Analyse in Textform (mit direkten Verweisen auf die jeweiligen Folienabschnitte) steht hier als [PDF-Download](../assets/QUADRIGA-Dateninterpretation-A5.pdf) zur Verfügung. Die integrierten Folien können ebenfalls als [Datei](../assets/QUADRIGA-Slideshow-Analyse.pdf) heruntergeladen werden.
 
+(Slideshow-Analyse)=
 ### Slideshow der Analyse
 
 ````{card-carousel} 1

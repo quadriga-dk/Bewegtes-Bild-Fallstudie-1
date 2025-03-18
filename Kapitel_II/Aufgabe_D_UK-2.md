@@ -20,7 +20,6 @@ from quadriga_config import colors
 
 # Annotationsergebnisse: Datenabgleich und -erläuterung
 
-
 Sobald die Annotationsarbeit für das Video abgeschlossen ist, kann das Paket mit unserer Musterlösung verglichen werden. Die Lösungsdatei steht [hier](../assets/QUADRIGA-Fallstudie-Annotationspackage.azp) zum Download bereit. Hier darauf achten, dass die Videodatei neu verknüpft werden muss.
 
 +++
@@ -87,6 +86,7 @@ Nachfolgend gehen wir alle Fehler kurz durch und stellen eine Lösung bereit:
 5. a) Overlapping Annotations, b) Unspecified Keywords und c) Empty Content: hier zunächst die Checker Funktion aktivieren. Anschließend Fehler beheben indem für a) eine Korrektur des Timecodes für die sich überschneidenden Annotationen durchführt, für b) die richtigen Keywords gemäß Ontologie einträgt und c) den leeren Annotationen die richtigen Werte zuordnet
 `````
 
+(Diskussion-Annotation-Ergebnisse)=
 ## Diskussion der Ergebnisse
 
 Mit der AdA-Filmontologie kann ermöglicht werden auf der Grundlage eines Klassifikationsschemas filmanalytische Beobachtungen zu systematisieren. Die Systematisierung ist also ein notwendiger Schritt, um Metadaten einerseits unter ganz spezifischen Kriterien herzustellen als auch anschließend vergleichen zu können. 

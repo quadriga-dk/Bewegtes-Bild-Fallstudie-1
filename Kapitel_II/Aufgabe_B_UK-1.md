@@ -72,6 +72,7 @@ Die Annotationstypen können mit einem Klick auf den bunten Kreis nach Belieben 
 :height: 450px
 :name: a2-s05
 ```
+(Segmentierung-Annotation)=
 ### Annotationen erstellen 
 
 Nun geht es darum, die Annotationen für die erstellten Parameter/Typen zu erstellen. Doch nach welcher Segmentierungslogik sollen die Annotationen erstellt werden?

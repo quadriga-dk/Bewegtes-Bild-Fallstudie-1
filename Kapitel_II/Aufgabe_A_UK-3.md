@@ -17,6 +17,7 @@ import sys
 sys.path.append("..")
 from quadriga_config import colors
 ```
+(Tabelle-Übung)=
 # Übung, Ergebnisauswertung und Diskussion
 
 ````{margin}
@@ -101,6 +102,7 @@ Das Found Footage-Material wird in dem Videoausschnitt als Bild-in-Bild-Komposit
 
 ```
 
+(Vorteile-Nachteile)=
 ## Diskussion: Vor- und Nachteile
 
 Welche Vor- und Nachteile ergeben sich aus der bisherigen Arbeit mit der Methode der tabellarischen Annotation?
