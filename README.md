@@ -3,7 +3,7 @@ In Kürze wird hier der DOI-Link dieser OER zur Verfügung stehen.
 
 ## Affektrhetorik in Online-Videos zur Klimakrise. Datengestützte Analysen audiovisueller Muster
 
-Dieses interaktive Lehrbuch ist im Rahmen des Projekts <a href="https://www.quadriga-dk.de" class="external-link" target="_blank">QUADRIGA</a> als 1. Fallstudie des Datentyps Tabelle entstanden.
+Dieses interaktive Lehrbuch ist im Rahmen des Projekts <a href="https://www.quadriga-dk.de" class="external-link" target="_blank">QUADRIGA</a> als 1. Fallstudie des Datentyps Bewegtes Bild entstanden.
 
 ## Datenkompetenzzentrum QUADRIGA
 
