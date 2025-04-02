@@ -29,11 +29,11 @@ Im Folgenden ist eine alphabetisch sortierte Liste mit basisschematischen Begrif
 
 <span style="color:purple">**Aufgabe**</span>:
 1. Betrachten Sie die alphabetisch sortierte Liste mit 30 filmanalytischen Begriffen.
-2. Ordnen Sie jeden Begriff als Ebene, Typ oder Wert ein und bestimmen Sie die hierarchischen Beziehungen.
+2. Ordnen Sie jeden Begriff als Typ oder Wert ein und bestimmen Sie die hierarchischen Beziehungen.
 3. Begründen Sie Ihre Entscheidungen anhand der semantischen Eigenschaften der Begriffe.
 4. Vegleichen Sie Ihre Ergebnisse mit der [Lösung](../assets/Lösung_Aufgabe_1_Semantic_Web.pdf).
 
-<span style="color:purple">**Bearbeitungzeit**</span>: Ca. 30 Min.
+<span style="color:purple">**Bearbeitungzeit**</span>: Ca. 20 Min.
 ```
 
 ---
