@@ -20,25 +20,24 @@ from quadriga_config import colors
 
 # Annotationsergebnisse: Datenabgleich und -erläuterung
 
-Sobald die Annotationsarbeit für das Video abgeschlossen ist, kann das Paket mit unserer Musterlösung verglichen werden. Die Lösungsdatei steht [hier](../assets/QUADRIGA-Fallstudie-Annotationspackage.azp) zum Download bereit. Hier darauf achten, dass die Videodatei neu verknüpft werden muss.
+Sobald die Annotationsarbeit für das Video abgeschlossen ist, kann das Paket mit unserer Musterlösung verglichen werden. Die Lösungsdatei steht [hier](../assets/QUADRIGA-Fallstudie-Annotationspackage.azp) zum Download bereit. Bitte beachten Sie, dass die Videodatei stets neu verknüpft werden muss, um das Video in der Anwendung abspielen zu können.
 
-+++
 ```{admonition} Wichtig
 :class: caution
 Trotz der Verwendung der Ontologie können sich Annotationsentscheidungen von Person zu Person unterscheiden. Wichtig ist, dass die Ergebnisse miteinander verglichen werden können. Punktuelle Erläuterungen unserer Entscheidungen werden in diesem Kapitel ausgeführt. 
 ```
 ## Importfunktion
 
-In Advene gibt es die Möglichkeit ein bestehendes Packages in ein anderes zu importieren.
+In Advene gibt es die Möglichkeit ein bestehendes Annotationspaket in ein anderes zu importieren.
 
 `````{admonition} Wofür kann in diesem Schritt die Importfunktion nützlich sein?
 :class: exercise
 ````{admonition} Antwort
 :class: solution, dropdown
 Diese Funktion ist hilfreich, um beispielsweise verschiedene Annotationen, die zum gleichen Video erstellt wurden, miteinander zu vergleichen.
-+++
+
 Hierzu folgende Schritte durchführen:
-+++
+
 1. Unter “File” die Option “Import package” anklicken
 2. Das zu importierende Packet auswählen
 3. Im “Package importer view” zur Unterscheidung der Annotationstypen einen Titelzusatz, wie z.B. IMPORTED, angeben. Dieser Zusatz wird hinter die importierten Annotationstypen gehängt
@@ -48,9 +47,37 @@ Hierzu folgende Schritte durchführen:
 
 Ein ausführlicherer Guide für das Importieren findet sich sowohl unter Punkt 3.3 (S. 45ff) im Manual als auch im zweiten Videotutorial (<a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=71ca2ea8-b7ee-492f-a9ef-b20300a665d3&start=499" target="_blank">Video: Packages: Splitting, Merging, Importing</a>)
 
+### Aufgabe 1
+```{admonition} Übungsaufgabe
+:class: exercise
+<span style="color:purple">**Ziel**</span>: Vegleich und Analyse verschiedener ontologiebasierte Annotationspakete in Advene
+
+<span style="color:purple">**Aufgabe**</span>:
+1. Laden Sie die [Musterlösung](../assets/QUADRIGA-Fallstudie-Annotationspackage.azp) herunter
+2. Verknüpfen Sie die Videodatei neu für die korrekte Wiedergabe
+3. Nutzen Sie die Importfunktion, um Ihr eigenes Annotationspaket mit der Musterlösung zu vergleichen
+4. Vergleichen Sie anschließend Ihre Annotationsergebnisse und -entscheidungen mit der Musterlösung 
+
+<span style="color:purple">**Bearbeitungzeit**</span>: Ca. 20 Min.
+```
+
 ## Error-Package: Fehlersuche & Korrektur
 
-Im Folgenden steht hier ein [Package](../assets/QUADRIGA-Errorpackage.azp) bereit, in dem einige Fehler eingebaut sind.
+Im Folgenden steht hier ein [Annotationspaket](../assets/QUADRIGA-Errorpackage.azp) bereit, das einige Fehler enthält.
+
+### Aufgabe 2
+```{admonition} Übungsaufgabe
+:class: exercise
+<span style="color:purple">**Ziel**</span>: Identifikation und Behebung von Fehlern in einem Annotationspaket
+
+<span style="color:purple">**Aufgabe**</span>:
+1. Laden Sie das fehlerhafte [Annotationspaket](../assets/QUADRIGA-Errorpackage.azp) herunter
+2. Nutzen Sie die zuvor erlernte Importfunktion für den Vergleich
+3. Identifizieren Sie alle Fehler
+4. Korrigieren Sie die gefundenen Fehler mit den passenden Advene-Werkzeugen
+
+<span style="color:purple">**Bearbeitungzeit**</span>: Ca. 25-30 Min.
+```
 
 `````{admonition} Welche Fehler konnten gefunden werden?
 :class: exercise
