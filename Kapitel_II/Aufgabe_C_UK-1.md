@@ -24,10 +24,12 @@ from quadriga_config import colors
 
 ```{admonition} Übungsaufgabe
 :class: exercise
-<span style="color:purple">**Ziel**</span>:
-Im Folgenden ist eine alphabetisch sortierte Liste mit basisschematischen Begriffen der Filmanalyse zu sehen. Diese sollen korrekt in die vorgegebene [Matrix](../assets/Einarbeiten_in_die_Filmontologie_Aufgabe_1_Quadriga.docx) an Ebenen, Typen und Werten eingeordnet werden.
+<span style="color:purple">**Ziel**</span>: Einordnung filmanayltischer Termini in eine Ontologiestruktur nach Triplen.
+
 
 <span style="color:purple">**Aufgabe**</span>:
+Im Folgenden ist eine alphabetisch sortierte Liste mit basisschematischen Begriffen der Filmanalyse zu sehen. Diese sollen korrekt in die vorgegebene [Matrix](../assets/Einarbeiten_in_die_Filmontologie_Aufgabe_1_Quadriga.docx) an Ebenen, Typen und Werten eingeordnet werden.
+
 1. Betrachten Sie die alphabetisch sortierte Liste mit 30 filmanalytischen Begriffen.
 2. Ordnen Sie jeden Begriff als Typ oder Wert ein und bestimmen Sie die hierarchischen Beziehungen.
 3. Begründen Sie Ihre Entscheidungen anhand der semantischen Eigenschaften der Begriffe.
@@ -100,7 +102,7 @@ Matrix: Ebenen, Typen, Werte
 
 ```{admonition} Übungsaufgabe
 :class: exercise
-<span style="color:purple">**Ziel**</span>: Identifizieren Sie die korrekte semantische Triple-Struktur für eine gegebene filmanalytische Beschreibung.
+<span style="color:purple">**Ziel**</span>: Identifizierung der korrekten semantischen Triple-Struktur für eine gegebene filmanalytische Beschreibung.
 
 
 <span style="color:purple">**Aufgabe**</span>:
@@ -114,7 +116,7 @@ und bestimmen Sie, welche Triple-Struktur die Beschreibung semantisch korrekt un
 
 <span style="color:purple">**Bearbeitungzeit**</span>: Ca. 10 Min.
 ```
-
+### Antwortoptionen
 
 **A**
 ```bash
