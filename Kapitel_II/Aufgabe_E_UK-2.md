@@ -279,6 +279,24 @@ Eine ausführliche Analyse in Textform (mit direkten Verweisen auf die jeweilige
 ```
 ````
 
+```{admonition} Übungsaufgabe
+:class: exercise
+<span style="color:purple">**Ziel**</span>: Filmwissenschaftliche Analyse und Interpretation der visualisierten Annotationsdaten
+
+<span style="color:purple">**Aufgabe**</span>:
+1. Untersuchen Sie Ihre erstellte Visualisierung auf Inszernierungsmuster und Auffälligkeiten, die sich anhand der Annotationsdaten erkennen lassen
+2. Analysieren Sie mindestens drei identifizierbare Gestaltungweisen im Hinblick auf:
+* Schnittfrequenz oder Montagemuster
+* Helligkeitsverhältnisse oder Bewegungsformen
+* Temporale und multimodale Interdependenzen zwischen verschiedenen Annotationstypen
+3. Verfassen Sie eine kurze Analyse (max. 500-750 Wörter), die:
+* Konkrete Verweise auf spezifische Stellen Ihrer Visualisierung enthält
+* Die Annotationsdaten filmwissenschaftlich qualifiziert
+* Reflektiert, wie die Visualisierungen als "Medien und Verfahren des Denkens" Ihren Analyseprozess beeinflusst haben
+
+<span style="color:purple">**Bearbeitungzeit**</span>: Ca. 180 Min.
+```
+
 ## Literatur
 
 ```{bibliography}

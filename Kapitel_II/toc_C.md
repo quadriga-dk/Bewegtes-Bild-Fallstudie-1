@@ -11,6 +11,8 @@ In diesem Kapitel sollen die Prinzpien von Semantic Web anhand der Überführung
 
 Wie funktionieren semantische Triple? In einem ersten Schritt wird erklärt, was semantische Triple sind und wie ihre Datenstruktur funktioniert. Anschließend wird erläutert, wie solche Triple für filmanalytische Grundbegriffe aussehen können. Eine [Übung zur Überführung der Grundbegriffe in Triple-Strukturen](Aufgabe_C_UK-1) soll helfen, die zuvor erläuterten Prinzipien zu reproduzieren. Wie eine komplexe auf Semantic Web basierende Filmontologie entwickelt wurde, wird im Kapitel [AdA-Filmontolgie: Filmanalyse und Semantic Web](Aufgabe_C_UK-2) ausführlich erklärt und mit Beispielen veranschaulicht. 
 
+## Lernziele
+
 ```{admonition} Lernziele
 :class: lernziele
 **Groblernziel**
@@ -22,3 +24,11 @@ Mithilfe von Annotationsdaten, die auf Basis einer filmanalytischen Ontologie er
 2. Es kann beurteilt werden, was eine Datenontologie leistet.
 3. Es kann nachvollzogen sowie reproduziert werden, wie filmanalytisches Vokabularium in die Ada Filmontologie umgeformt wird.
 ```
+
+## Bearbeitungszeit
+
+Die geschätzte Bearbeitungszeit dieser Lerneinheit beträgt ca. 60 Min. Dies schließt die gekennzeichneten Übungsaufgaben, deren Bearbeitungsdauer individuell variiert, aus. 
+
+Die geschätzte Bearbeitungsdauer **inklusive** der einzelnen Übungsaufgaben beträgt ca. 90 Min. (also 1,5 Stunden).
+
+Bitte beachten Sie: Die tatsächliche Bearbeitungsdauer kann je nach Ihren Vorkenntnissen unterschiedlich ausfallen. Die angegebene Zeitangabe dient lediglich als Orientierungshilfe.

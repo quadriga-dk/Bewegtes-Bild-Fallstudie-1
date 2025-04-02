@@ -18,6 +18,8 @@ Die AdA-Filmontologie ist ein von der BMBF-geförderten Nachwuchsgruppe "<a href
 ```
 Hierzu werden im ersten Teil die jeweiligen [Schritte und der Workflow für die Annotationsarbeit](Aufgabe_D_UK-1) mit der AdA-Ontologie sowie dem AdA Core-Template skizziert. Zwei ausführliche Videotutorials, ein umfangreiches Manual und verschiedene Fragen sollen dabei helfen, die Funktionsweisen und Prozesse nachzuvollziehen. Im Kapitel [Annotationsergebnisse: Datenabgleich und -erläuterung](Aufgabe_D_UK-2) gibt es zunächst eine Übungsaufgabe, in der die zuvor erlenten Kompetenzen geprüft werden können. Anschließend werden die Entscheidungen, sowie Probleme und Grenzen der Ontologie diskutiert.
 
+## Lernziele
+
 ```{admonition} Lernziele
 :class: lernziele
 **Groblernziel**
@@ -29,3 +31,11 @@ Mithilfe von Annotationsdaten, die auf Basis einer filmanalytischen Ontologie er
 2. Die Funktionen der Segmentierungsbereinigung können angewendet werden.
 3. Ein Set an Annotationsdaten kann mit der Ada Filmontologie erstellt werden.
 ```
+
+## Bearbeitungszeit
+
+Die geschätzte Bearbeitungszeit dieser Lerneinheit beträgt ca. 45-60 Min. Dies schließt die gekennzeichneten Übungsaufgaben, deren Bearbeitungsdauer individuell variiert, aus. 
+
+Die geschätzte Bearbeitungsdauer **inklusive** der einzelnen Übungsaufgaben beträgt ca. 4,5 bis 5 Stunden.
+
+Bitte beachten Sie: Die tatsächliche Bearbeitungsdauer kann je nach Ihren Vorkenntnissen unterschiedlich ausfallen. Die angegebene Zeitangabe dient lediglich als Orientierungshilfe.
