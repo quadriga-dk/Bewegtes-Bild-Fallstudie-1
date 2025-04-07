@@ -47,10 +47,10 @@ ____________________
     ````
 
 
-Kurzdefinitionen zu unseren Basisparametern können haben wir hier zusammengefasst:
+Kurzdefinitionen zu unseren Basisparametern haben wir hier zusammengefasst:
 
 (Kurdzefinition-Parameter)=
-### Kurdefinition der ausgewählen Parameter
+### Kurzdefinition der ausgewählen Parameter
 
 <ins>**Einstellungsgröße:** </ins> <br>
 Größenverhältnis des abgebildeten Subjekts (Person)/Objekts zur Kadrage (Bildfeld)  
