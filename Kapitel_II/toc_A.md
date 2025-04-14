@@ -15,8 +15,6 @@ Im ersten Unterkapitel [Durchführung und Schritte](../Kapitel_II/Aufgabe_A_UK-2
 
 Im zweiten Unterkapitel [Übung, Ergebnisauswertung und Diskussion](../Kapitel_II/Aufgabe_A_UK-3.md) widmen wir uns einer punktuellen Auswertung der Ergebnisse sowie der Diskussion über die Vor- und Nachteile dieser Methode. 
 
-## Lernziele
-
 ```{admonition} Lernziele
 :class: lernziele
 **Groblernziel**
@@ -30,10 +28,13 @@ Mithilfe datengestützter filmanalytischer Methoden können Metadaten zu audiovi
 3. Die Ergebnisse können filmanalytisch ausgewertet und kontextualisiert werden.
 ```
 
-## Bearbeitungszeit
+```{admonition} Bearbeitungszeit
+:class: zeitinfo
+Die geschätzte Bearbeitungszeit dieser Lerneinheit beträgt ca. 30–45 Minuten. Dies schließt die gekennzeichneten Übungsaufgaben, deren Bearbeitungsdauer individuell variiert, aus.
 
-Die geschätzte Bearbeitungszeit dieser Lerneinheit beträgt ca. 30-45 Min. Dies schließt die gekennzeichneten Übungsaufgaben, deren Bearbeitungsdauer individuell variiert, aus. 
-
-Die geschätzte Bearbeitungsdauer **inklusive** der einzelnen Übungsaufgaben beträgt ca. 150 Min. (also 2,5 Stunden).
+Die geschätzte Bearbeitungsdauer **inklusive** der einzelnen Übungsaufgaben beträgt ca. 150 Minuten (also 2,5 Stunden).
 
 Bitte beachten Sie: Die tatsächliche Bearbeitungsdauer kann je nach Ihren Vorkenntnissen unterschiedlich ausfallen. Die angegebene Zeitangabe dient lediglich als Orientierungshilfe.
+```
+
+

@@ -29,7 +29,7 @@ Durch digitale Herangehensweisen können Systematiken für filmanalytische Konze
 :class: seealso
 Es gibt verschiedene Tools, mit denen audiovisuelle Gegenstände (z.B. Videoclips oder Filmszenen) annotiert werden können. Zu den gängigsten zählen:  <a href="https://www.advene.org/" class="external-link" target="_blank">Advene</a>, <a href="https://archive.mpi.nl/tla/elan" class="external-link" target="_blank">ELAN</a>, <a href="https://distantviewing.org/" class="external-link" target="_blank">Distant Viewing</a>, <a href="http://www.anvil-software.de/" class="external-link" target="_blank">Anvil</a> oder zum Beispiel die in der Entwicklungsphase stehende Software <a href="https://service.tib.eu/tibava" class="external-link" target="_blank">TIB AV-Analytics</a>.
 
-Hierbei gibt es webbasierte Anwendungstools sowie Software, die offline verwendet werden kann.
+Es gibt sowohl browserbasierte Anwendungstools als auch Software, die offline verwendet werden kann.
 ```
 ## Welche Systematisierungsansätze, Methoden und Werkzeuge gibt es bereits?
 Im Bereich der Filmanalyse existieren bereits eine Vielzahl von Ansätzen und Methoden, um einerseits das Vokabular und andererseits ebenso die Techniken zu systematisieren und zu strukturieren. 
