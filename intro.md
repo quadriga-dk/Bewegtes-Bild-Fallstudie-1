@@ -17,7 +17,7 @@ Auszug einer Visualiserungsansicht der AdA-Timeline
 ```
 ````{margin}
 ```{admonition} Was ist eine Open Educational Ressource?
-:class: hinweis, dropdown
+:class: hinweis
 Laut der Definition der UNESCO sind "Open Educational Resources (OER) Bildungsmaterialien jeglicher Art und in jedem Medium, die unter einer offenen Lizenz stehen. Eine solche Lizenz ermöglicht den kostenlosen Zugang sowie die kostenlose Nutzung, Bearbeitung und Weiterverbreitung durch Dritte ohne oder mit geringfügigen Einschränkungen"[^url-unesco].
 ```
 ````
@@ -87,6 +87,11 @@ name: aufgabenaufbau-oer
 
 Aufgabenfluss der OER
 ```
+## Zugangsweg und Bearbeitungszeit
+
+Dieses interaktive Lehrbuch wird Ihnen im "📘 Book Only Mode" bereitgestellt. Dies bedeutet, dass Sie das Lehrbuch in Ihrem Browser mit eingeschränkten Interaktionsmöglichkeiten durcharbeiten können. Für diesen Zugangsweg benötigen Sie keine Programmierkenntnisse oder Erfahrung mit Jupyter Notebooks. Beachten Sie jedoch, dass einige Lerneinheiten die lokale Installation externer Anwendungen oder das Herunterladen und Verwenden von Dateien (z.B. Manuals) erfordern. Mehr zu weiteren verfügbaren Zugangswegen erfahren Sie.
+
+Zu Beginn jeder Lerneinheit wird die geschätzte Bearbeitungszeit angegeben. Dies hilft Ihnen, Ihre Zeit effektiv zu planen und die Lerneinheiten strukturiert zu bearbeiten. Für das Self-Assessment am Ende jeder Lerneinheit wird die Bearbeitungsdauer separat angegeben und ist nicht in der geschätzten Dauer der Lerneinheit selbst enthalten.
 
 Im nächsten Kapitel stellen wir die für unsere Fallstudie relevanten Informationen sowie theoretischen Grundlagen vor. Der Fokus liegt hierbei auf der Vermittlung empirischer Herangehensweisen datengestützter Filmanalyse. 
 

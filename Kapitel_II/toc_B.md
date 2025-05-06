@@ -28,3 +28,12 @@ Mithilfe digitaler Annotationsverfahren können Metadaten zu audiovisuellem Mate
 2. Mit den Tools können Annotationstypen zusammengestellt werden.
 3. Nach spezifischer Segmentierung können Annotationen erstellt und Werte für die Annotationen bestimmt werden.
 ```
+
+```{admonition} Bearbeitungszeit
+:class: zeitinfo
+Die geschätzte Bearbeitungszeit dieser Lerneinheit beträgt ca. 90-120 Min. Dies schließt die gekennzeichneten Übungsaufgaben, deren Bearbeitungsdauer individuell variiert, aus. 
+
+Die geschätzte Bearbeitungszeit **inklusive** der Übungsaufgaben kann mehrere Stunden in Anspruch nehmen. Die Dauer variiert je nach individuellem Tempo bei der Erstellung der Annotationspakete. Im Durchschnitt sollten Sie etwa 5 Stunden einplanen, inklusive der Erstellung eines Annotationsdatensets in einem der Programme (Advene oder ELAN).
+
+Bitte beachten Sie: Die tatsächliche Bearbeitungsdauer kann je nach Ihren Vorkenntnissen unterschiedlich ausfallen. Die angegebene Zeitangabe dient lediglich als Orientierungshilfe.
+```

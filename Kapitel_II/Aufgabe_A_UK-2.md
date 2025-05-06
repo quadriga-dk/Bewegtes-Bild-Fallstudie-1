@@ -47,10 +47,10 @@ ____________________
     ````
 
 
-Kurzdefinitionen zu unseren Basisparametern können haben wir hier zusammengefasst:
+Kurzdefinitionen zu unseren Basisparametern haben wir hier zusammengefasst:
 
 (Kurdzefinition-Parameter)=
-### Kurdefinition der ausgewählen Parameter
+### Kurzdefinition der ausgewählen Parameter
 
 <ins>**Einstellungsgröße:** </ins> <br>
 Größenverhältnis des abgebildeten Subjekts (Person)/Objekts zur Kadrage (Bildfeld)  
@@ -58,11 +58,11 @@ ____________________
 <ins>**Montage bzw. Schnitt:**</ins> <br> 
 Verbindung der einzelnen Einstellungen zueinander, Zusammenfügung von Bild- und Toneinheiten  
 ____________________
-<ins>**Kameraperspektive:**</ins> <br>   
+<ins>**Kameraperspektive:**</ins>  
 Blickorientierung der Kamera auf ein Objekt/Subjekt oder das Geschehen  
 ____________________
 <ins>**Kamerabewegung:**</ins> <br>
-Alle Bewegungen, bei der die Kamera ihren Standort ändert  
+Alle Bewegungen, bei der die Kamera ihren Standort oder ihre Bewegungsrichtung ändert  
 ____________________
 <ins>**Ton:**</ins> <br>
 Alle Geräusche, einschl. Musik, die im Offscreen oder Onscreen wahrnehmbar sind  

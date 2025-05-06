@@ -40,8 +40,14 @@
 
 ## Sonstige beteiligte Personen
 
-### Hannes Schnaitter <span style="font-size:8pt">(er/ihm/sein)
-</span> <a href="https://orcid.org/0000-0002-1602-6032" target="_blank"><img src="../assets/ORCID-iD_icon_24x24.png" alt="ORCID"></a>
+### Hannes Schnaitter <span style="font-size:8pt">(er/ihm/sein)</span> 
+```{figure} ../assets/ORCID-iD_icon_24x24.png
+:alt: ORCID
+:width: 24px
+:target: https://orcid.org/0000-0002-1602-6032
+:align: left
+```
+<div style="clear: both;"></div> 
 <table style="margin-left: 0">
 <tr>
 <td><b>Rolle in QUADRIGA:</b></td>
@@ -62,8 +68,14 @@
 </table>
 
 ### Evgenia Samoilova 
-<a href="https://orcid.org/0000-0003-3858-901X" target="_blank"><img src="../assets/ORCID-iD_icon_24x24.png" alt="ORCID"></a>
-<table style="margin-left: 0">
+```{figure} ../assets/ORCID-iD_icon_24x24.png
+:alt: ORCID
+:width: 24px
+:target: https://orcid.org/0000-0003-3858-901X
+:align: left
+```
+<div style="clear: both;"></div> 
+<table style="margin-left: 0;">
 <tr>
 <td><b>Rolle in QUADRIGA:</b></td>
 <td>Didaktisches Konzept, Koordination verschiedener Teil-Arbeitspakete</td>

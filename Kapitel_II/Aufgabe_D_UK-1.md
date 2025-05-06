@@ -22,23 +22,32 @@ from quadriga_config import colors
 
 Für die Arbeit mit dem AdA-Template muss Advene installiert sein und ausgeführt werden. Installationsanweisungen und Hinweise gibt unter [Technische Voraussetzungen](../Präambel/Technische%20Voraussetzungen.md).
 
-## Workflow und Annotationsprozess
+```{admonition} Übungsaufgabe
+:class: exercise
+<span style="color:purple">**Ziel**</span>: Erstellen eines Annotationspaketes auf Basis der AdA-Ontologie mit dem AdA-Core-Template.
 
-1.	Download des [AdA-Templates](../assets/AdA_template_07_2021.azp), der [AdA-Filmontologie](../assets/Ada_Filmontologie_Deu_23_07_2021.pdf) und des [Manuals](../assets/Manual_Advene_AdA_D_Vers1_0.pdf).
-+++
-2.	Öffnung der Anwendung Advene. Wird die Developement-Version von Advene über eine virtuelle Maschine für Linux genutzt, muss einer dieser beiden Befehle im Ubuntu-Terminal eingegeben werden: <br>
-`cd src/advene` oder `GDK_BACKEND=x11 advene`. <br>
+<span style="color:purple">**Aufgabe**</span>:
+Erstellen Sie ein Annotationspaket in Advene basierend auf der AdA-Ontologie. Nutzen Sie dafür das AdA-Core-Template, das bereits ein vordefiniertes Set an Annotationstypen enthält. Diese decken die wichtigsten Analysekategorien ab und erleichtern Ihnen den Einstieg.
+In den folgenden Abschnitten finden Sie eine detaillierte Beschreibung des gesamten Workflows mit präzisen Schritt-für-Schritt-Anweisungen.
+
+<span style="color:purple">**Bearbeitungzeit**</span>: Ca. 180 Min.
+```
+
+## Übungsanleitung: Grundlagen der ontologiebasierten Annotation mit Advene
+### Einrichtung und Vorbereitung der Annotationsumgebung
+
+1.	Installieren Sie Advene und laden sie das [AdA-Template](../assets/AdA_template_07_2021.azp), die [AdA-Filmontologie](../assets/Ada_Filmontologie_Deu_23_07_2021.pdf) und das [Manual](../assets/Manual_Advene_AdA_D_Vers1_0.pdf) herunter.
+2.	Starten Sie Advene. Wird die Developement-Version von Advene über eine virtuelle Maschine für Linux genutzt, muss einer dieser beiden Befehle im Ubuntu-Terminal eingegeben werden: 
+`cd src/advene` oder `GDK_BACKEND=x11 advene`.
 Advene öffnet automatisch bei jedem Start ein neues Paket als advenespezifische **.azp-Datei**
-+++
-3.	Template-.azp in das Paket laden und das Video verknüpfen (<a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=71ca2ea8-b7ee-492f-a9ef-b20300a665d3&start=126" target="_blank" class="external-link" >Video: Ada-Template: Package</a>, Manual: S. 4)
-+++
+3.	Importieren sie das AdA-Template (.azp-Datei) in das Paket und verknüpfen Sie das Video (<a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=71ca2ea8-b7ee-492f-a9ef-b20300a665d3&start=126" target="_blank" class="external-link" >Video: Ada-Template: Package</a>, Manual: S. 4)
 ````{margin}
 ```{admonition} Hinweis
 :class: hinweis
 Die AdA Corpus Analysis View bietet eine Basisauswahl an Annotationstypen, mit der wir für unseren Gegenstand arbeiten werden.
 ```
 ````
-4.	Eine neue Timeline öffnen und die AdA Corpus Analysis View als Annotationsgrundlage für die Spuren, die annotiert werden sollen, integrieren. Unter folgendem Reiter können weitere vordefinierte Annotationstypen der Ontologie eingeblendet und andere ausgeblendet werden (<a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=71ca2ea8-b7ee-492f-a9ef-b20300a665d3&start=169" target="_blank"  class="external-link" >Video: AdA Corpus Analysis View</a>, Manual: S. 6ff)
+4.	Öffnen Sie eine neue Timeline und integrieren Sie anschließend die AdA Corpus Analysis View als Annotationsgrundlage für die Spuren, die annotiert werden sollen. Unter folgendem Reiter können weitere vordefinierte Annotationstypen der Ontologie eingeblendet und andere ausgeblendet werden (<a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=71ca2ea8-b7ee-492f-a9ef-b20300a665d3&start=169" target="_blank"  class="external-link" >Video: AdA Corpus Analysis View</a>, Manual: S. 6ff)
 ```{image} ../_images/A4-S01.png
 :align: center
 :height: 250px
@@ -56,7 +65,7 @@ Hierfür können die Annotationstypen auch mit der [Musterlösung](../assets/QUA
 display_quiz("../quizzes/D_UK-1_Quiz_1.json", colors = colors.jupyterquiz)
 ```
 
-5.	Durchführung automatischer Erkenneralgorithmen und Überprüfung der Einstellungen mit der Validation View. Anschließend Bereinigung und Renummerierung der Einstellungen (<a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=71ca2ea8-b7ee-492f-a9ef-b20300a665d3&start=226" target="_blank" class="external-link" >Video: Process Video, Shot Validation & Subtitles</a>, Manual: S. 116)
+5.	Führen Sie die automatische Einstellungserkennung durch und validieren bzw. bereinigen Sie die Ergebnisse mit der Validation View. Anschließend müssen die Einstellungen renummeriert werden (<a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=71ca2ea8-b7ee-492f-a9ef-b20300a665d3&start=226" target="_blank" class="external-link" >Video: Process Video, Shot Validation & Subtitles</a>, Manual: S. 116)
 
 `````{admonition} Welche Schritte müssen vollzogen werden, damit die automatischen Erkenneralgorithmen durchgeführt werden?
 :class: exercise
@@ -77,14 +86,19 @@ display_quiz("../quizzes/D_UK-1_Quiz_2.json", colors = colors.jupyterquiz)
 Nicht jede Einstellungsgrenze wird korrekt gesetzt. Daher ist es notwendig mit der Shot Validation die Einstellungsgrenzen zu korrigieren. Dieser Schritt ist unerlässlich und bildet die Grundlage für alle weiteren Annotationsspuren, die nach dem Einstellungsprinzip annotiert werden. Nach der Bereinigung mit der Shot Validation sind die Einstellungsnummern i.d.R. nicht mehr korrekt. Diese müssen dann überprüft und angepasst werden.
 `````
 
-6.	Download der Untertitel von YouTube und Import der Untertitel (<a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=cf912751-5223-4132-80bb-b20300a60e55&start=665" target="_blank" class="external-link" >Video: Importing Subtitles</a>, Manual: S. 126ff)
+6.	Importieren Sie, sofern verfügbar, die Untertitel und ordnen Sie diese dem korrekten Annotationstyp zu. (<a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=cf912751-5223-4132-80bb-b20300a60e55&start=665" target="_blank" class="external-link" >Video: Importing Subtitles</a>, Manual: S. 126ff)
 
 ```{code-cell} ipython3
 :tags: [remove-input]
 display_quiz("../quizzes/D_UK-1_Quiz_3.json", colors = colors.jupyterquiz)
 ```
 
-7.	Annotationen als Zeiteinheiten auf der Timeline für jeden Annotationstypen erstellen. Den Annotationen via Short Cuts und Quick Fill (s. Ontologie) oder durch Freitext-Eingabe Werte zuordnen (<a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=71ca2ea8-b7ee-492f-a9ef-b20300a665d3&start=623" target="_blank" class="external-link" >Video: Annotate with Short Cuts</a>, Manual: S. 69ff & 131ff)
+### Erstellung der Annotationen
+
+7. Erstellen Sie Annotationen als Zeiteinheiten entlang der Timeline und wenden Sie dabei, wie unten beschrieben, das korrekte Segmentierungsprinzip an. Ordnen Sie den Annotationen Werte zu - nutzen Sie dafür:
+* Short Cuts und Quick Fill für ontologiebasierte Einträge
+* Freitext-Eingaben für Werte ohne Ontologiebezug
+(<a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=71ca2ea8-b7ee-492f-a9ef-b20300a665d3&start=623" target="_blank" class="external-link" >Video: Annotate with Short Cuts</a>, Manual: S. 69ff & 131ff)
 ```{image} ../_images/A4-S03.png
 :height: 350px
 :name: a4-s03
@@ -117,7 +131,6 @@ Mit der Funktion 'Search/replace content' können die erstellten und bereinigten
 ➡️ Die Annotation des Typs 'Volume' wird über automatischer Erkenner als Verlauf generiert.
 ````
 
-+++
 | Segmentierung nach Einstellung      | Segmentierung nach Verlauf            |
 |-------------------------------------|---------------------------------------|
 | Shot (semi-automatische Generierung) | Setting                              |
@@ -154,9 +167,9 @@ display_quiz("../quizzes/D_UK-1_Quiz-4.json", colors = colors.jupyterquiz)
 Die Verwendung von Syntaxelementen ermöglicht es kontinuierliche Entwicklungen wie auch synchrone Kontraste, die beispielsweise innerhalb einer Einstellung auftauchen, miteinander zu verbinden. Ein gutes Beispiel für für die Verwendung des Syntaxelement [TO] ist der Wechsel von Einstellungsgrößen innerhalb einer Einstellung. Ein gutes Beispiel für die Verwendung des Syntaxelement [VS] sind synchron inszenierte Dialog Emotionen bei mehreren Figuren innerhalb einer Einstellung.
 ```
 
-8.	Überprüfung und Bereinigung mit der Checker-Funktion (<a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=71ca2ea8-b7ee-492f-a9ef-b20300a665d3&start=698" target="_blank" class="external-link" >Video: Checker Function</a>, Manual: S. 91ff)
-+++
-9.	Das finale Package kann [visualisiert](Aufgabe_D) und auch in andere Dateiformate exportiert werden (<a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=cf912751-5223-4132-80bb-b20300a60e55&start=1172" target="_blank" class="external-link ">Video: Export & Visualization</a>, Manual: S. 106ff & 133ff)
+8. Nutzen Sie die 'Search/replace'-Funktion zur effizienten Übertragung von Segmentierungen
+9. Überprüfen und bereinigen Sie Ihre Annotationen mit der Checker-Funktion (<a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=71ca2ea8-b7ee-492f-a9ef-b20300a665d3&start=698" target="_blank" class="external-link" >Video: Checker Function</a>, Manual: S. 91ff)
+10.	Exportieren Sie Ihre Ergebnisse in ein geeignetes Dateiformat zur [Visualisierung](Aufgabe_D) und weiteren Analyse (<a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=cf912751-5223-4132-80bb-b20300a60e55&start=1172" target="_blank" class="external-link ">Video: Export & Visualization</a>, Manual: S. 106ff & 133ff)
 
 
 

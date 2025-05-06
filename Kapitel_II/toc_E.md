@@ -21,3 +21,13 @@ Mithilfe von Annotationsdaten, die auf Basis einer filmanalytischen Ontologie er
 1. Die mit der AdA-Filmontologie erstellten Annotationen können visualisiert und die Visualisierungsoptionen angepasst werden.
 2. Temporale und multimodale Muster können erkannt, differenziert  und ausgewertet werden.
 3. Auf Grundlage der Qualifizierung dieser Muster sowie Exploration der Daten können Hypothesen abgeleitet und präsentiert werden. 
+```
+
+```{admonition} Bearbeitungszeit
+:class: zeitinfo
+Die geschätzte Bearbeitungszeit dieser Lerneinheit beträgt ca. 45-60 Min. Dies schließt die gekennzeichneten Übungsaufgaben, deren Bearbeitungsdauer individuell variiert, aus. 
+
+Die geschätzte Bearbeitungsdauer **inklusive** der einzelnen Übungsaufgaben beträgt ca. 4 bis 4,5 Stunden.
+
+Bitte beachten Sie: Die tatsächliche Bearbeitungsdauer kann je nach Ihren Vorkenntnissen unterschiedlich ausfallen. Die angegebene Zeitangabe dient lediglich als Orientierungshilfe.
+```

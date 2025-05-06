@@ -22,7 +22,19 @@ from quadriga_config import colors
 
 ## Aufgabe 1 
 
-Im Folgenden ist eine konfigurierte Visualisierung der Timeline zu sehen. 
+```{admonition} Übungsaufgabe
+:class: exercise
+<span style="color:purple">**Ziel**</span>: Identifizierung korrekter Syntaxelemente für eine vorgegebene Timeline-Visualisierung
+
+
+<span style="color:purple">**Aufgabe**</span>:
+Unten ist eine konfigurierte Visualisierung der Timeline zu sehen.
+1. Betrachten Sie die abgebildete Timeline-Visualisierung
+2. Analysieren Sie die dargestellten Eigenschaften (Höhe, Repräsentation, Labels, Farbschemata usw.)
+3. Wählen Sie aus den gegebenen Optionen die korrekte Syntax-Kombination aus
+
+<span style="color:purple">**Bearbeitungzeit**</span>: Ca. 10 Min.
+```
 
 ````{margin}
 ➡️ Zum Vergrößern draufklicken oder ranzoomen
@@ -32,6 +44,32 @@ Im Folgenden ist eine konfigurierte Visualisierung der Timeline zu sehen.
 :align: center
 :height: 330px
 :name: A5-S10
+```
+
+### Antwortoptionen
+
+**A**
+```bash
+DominantMovementDirection(colorfield:content labels:false representation:rect legend:false colorscheme:paired), 
+ImageIntrinsicMovement(height:300 representation:wave labels:true)
+```
+
+**B**
+```bash
+DominantMovementDirection(colorfield:parsed labels:true representation:hist legend:true colorscheme:greens),
+ImageIntrinsicMovement(height:100 representation:line labels:false)
+```
+
+**C**
+```bash
+DominantMovementDirection(colorfield:content labels:true representation:rect legend:true colorscheme:paired),
+ImageIntrinsicMovement(height:100 representation:line labels:false)
+```
+
+**D**
+```bash
+ImageIntrinsicMovement(height:100 representation:line labels:true),
+DominantMovementDirection(colorfield:duration labels:true representation:rect legend:true colorscheme:darkblue)
 ```
 
 ```{code-cell} ipython3
@@ -71,14 +109,26 @@ Für **ImageIntrinsicMovement** gilt:
 ## Aufgabe 2
 
 Eine Visualisierung mit folgenden Eigenschaften soll erstellt werden:
-+++
+
 In der genannten Reihenfolge sollen die Annotationstypen **Found Footage**, **Image Intrinsic Movement** und **Recording/Playback Speed** angezeigt werden. Eine Timecode-Leiste soll für alle drei Typen konfiguriert werden.
-+++
+
 Der Annotationstyp **Found Footage** soll einzeilig mit einer Pixelhöhe von 30 dargestellt werden. Eine Legende mit dem Inhalt der Annotationen soll angezeigt werden. Als Farbschema soll `plasma` gewählt werden. 
-+++
+
 Der Annotationstyp **Image Intrinsic Movement** soll als Histogramm mit einer Pixelhöhe von 100 angezeigt werden. Eine Legende mit dem Verlauf als `parsed` soll eingeblendet werden. Als Farbschema soll `pinkyellowgreen` gewählt werden.
-+++
+
 Der Annotationstyp **Recording/Playback Speed** soll als Balkendiagramm mit einer Legende und den Annotationsinhalten im Farbschema `dark2` angezeigt werden.
+
+```{admonition} Übungsaufgabe
+:class: exercise
+<span style="color:purple">**Ziel**</span>: Eigenständige Konfiguration einer Timeline-Visualisierung nach vorgegebenen Kriterien
+
+<span style="color:purple">**Aufgabe**</span>:
+1. Erstellen Sie eine Visualisierung mit den oben festgelegten Kriterien
+3. Dokumentieren Sie die verwendete Syntax für die Konfiguration
+4. Erstellen Sie einen Screenshot der fertigen Visualisierung und vergleichen Sie Ihr Ergebnis mit der Lösung
+
+<span style="color:purple">**Bearbeitungzeit**</span>: Ca. 10-15 Min.
+```
 
 ```{admonition} Lösung
 :class: solution, dropdown
@@ -228,6 +278,24 @@ Eine ausführliche Analyse in Textform (mit direkten Verweisen auf die jeweilige
 ![slide-20](../_images/carousel-20.png)
 ```
 ````
+
+```{admonition} Übungsaufgabe
+:class: exercise
+<span style="color:purple">**Ziel**</span>: Filmwissenschaftliche Analyse und Interpretation der visualisierten Annotationsdaten
+
+<span style="color:purple">**Aufgabe**</span>:
+1. Untersuchen Sie Ihre erstellte Visualisierung auf Inszernierungsmuster und Auffälligkeiten, die sich anhand der Annotationsdaten erkennen lassen
+2. Analysieren Sie mindestens drei identifizierbare Gestaltungweisen im Hinblick auf:
+* Schnittfrequenz oder Montagemuster
+* Helligkeitsverhältnisse oder Bewegungsformen
+* Temporale und multimodale Interdependenzen zwischen verschiedenen Annotationstypen
+3. Verfassen Sie eine kurze Analyse (max. 500-750 Wörter), die:
+* Konkrete Verweise auf spezifische Stellen Ihrer Visualisierung enthält
+* Die Annotationsdaten filmwissenschaftlich qualifiziert
+* Reflektiert, wie die Visualisierungen als "Medien und Verfahren des Denkens" Ihren Analyseprozess beeinflusst haben
+
+<span style="color:purple">**Bearbeitungzeit**</span>: Ca. 180 Min.
+```
 
 ## Literatur
 
