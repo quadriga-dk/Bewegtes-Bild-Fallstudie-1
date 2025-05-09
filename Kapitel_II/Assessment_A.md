@@ -72,7 +72,6 @@ display_quiz(multiple_choice1, colors=colors.jupyterquiz)
 ```
 
 ## Frage 2
-(Wählen Sie alle zutreffenden Antworten aus)
 
 ```{code-cell} ipython3
 :tags: [remove-input]
@@ -117,10 +116,10 @@ display_quiz(multiple_choice2, colors=colors.jupyterquiz)
 ```
 
 ## Frage 3
-- Sequenz - Größte Einheit, die narrative oder formal-ästhetische Stränge verbindet
-- Szene - Teilabschnitt eines Films mit Kontinuität von Raum, Zeit und Figuren
-- Einstellung - Ununterbrochene Aufnahme ohne Schnitt
-- Frame - Einzelbild, für das menschliche Auge kaum sichtbar
+A. Größte Einheit, die narrative oder formal-ästhetische Stränge verbindet
+B. Teilabschnitt eines Films mit Kontinuität von Raum, Zeit und Figuren
+C. Ununterbrochene Aufnahme ohne Schnitt
+D. Einzelbild, für das menschliche Auge kaum sichtbar
 
 ```{code-cell} ipython3
 :tags: [remove-input]
@@ -137,24 +136,24 @@ multiple_choice3 = [{
     "type": "multiple_choice",
     "answers": [
         {
-            "answer": "Szene -> Sequenz -> Einstellung -> Frame",
+            "answer": "A. Szene - B. Sequenz - c. Einstellung - D. Frame",
             "correct": False,
-            "feedback": """× Nicht korrekt. Die Zuordnung ist nicht richtig. """
+            "feedback": """× Nicht korrekt"""
         },
         {
-            "answer": "Szene -> Sequenz ->  Frame -> Einstellung",
+            "answer": "A. Sequenz - B. Szene -  C. Einstellung - D. Frame",
             "correct": True,
             "feedback": """✓ Sehr gut! Sie verstehen die Hierarchie der filmischen Segmentierungseinheiten von der größten (Sequenz) bis zur kleinsten (Frame)."""
         },
         {
-            "answer": "Sequenz -> Szene -> Frame -> Einstellung",
+            "answer": "A. Sequenz - B. Szene - C. Frame - D. Einstellung",
             "correct": False,
-            "feedback": """× Nicht korrekt. Die Zuordnung ist nicht richtig."""
+            "feedback": """× Nicht korrekt"""
         },
         {
-            "answer": "Frame -> Einstellung -> Szene -> Sequenz",
+            "answer": "A. Frame - B. Einstellung - C. Szene - D. Sequenz",
             "correct": False,
-            "feedback": """× Nicht korrekt. Die Zuordnung ist nicht richtig."""
+            "feedback": """× Nicht korrekt"""
         }
     ]
 }]
@@ -254,7 +253,6 @@ Eine durchdachte Reflexion über methodische Ansätze demonstriert Ihr Verständ
 
 ````
 ## Frage 7
-(Wählen Sie alle zutreffenden Antworten aus)
 
 ```{code-cell} ipython3
 :tags: [remove-input]
