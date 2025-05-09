@@ -228,10 +228,12 @@ create_answer_box('Assessment_A-5')
 ````{admonition} Lösung
 :class: solution, dropdown
 **Beispiel für korrekte Antwort:**
+
 Die Segmentierung nach Dynamiken ermöglicht es, kontinuierliche Entwicklungen und Muster (wie Veränderungen der Lichtverhältnisse oder der Einsatz eines musikalischen Stückes) zu erfassen, die über einzelne Einstellungen hinausgehen. Dieser Ansatz berücksichtigt den zeitlichen Verlauf audiovisueller Gestaltungsmittel besser und kann Muster aufzeigen, die über Einstellungsgrenzen hinweg inszeniert werden.
 
 
 **Feedback:**
+
 Das Verständnis alternativer Segmentierungsmethoden ist entscheidend für eine umfassende Filmanalyse. Während die einstellungsbasierte Segmentierung üblich ist, können dynamikbasierte Ansätze besser für analytische Qualifizierungen des Gegenstandes geeignet sein.
 
 ````
@@ -254,6 +256,7 @@ create_answer_box('Assessment_A-6')
 :class: solution, dropdown
 
 **Feedback:**
+
 Eine durchdachte Reflexion über methodische Ansätze demonstriert Ihr Verständnis nicht nur darüber, wie Analysen durchzuführen sind, sondern auch über die Stärken und Grenzen verschiedener Analysewerkzeuge.
 
 ````
@@ -312,9 +315,11 @@ create_answer_box('Assessment_A-8')
 ````{admonition} Lösung
 :class: solution, dropdown
 **Hilfestellung zur Antwort:**
+
 Überlegen Sie, welche zeitlichen oder relationalen Aspekte schwierig zu dokumentieren waren. Reflektieren Sie, wie die Segmentierungsmethode Ihre den Prozess der Analyse beeinflusst haben könnte.
 
 **Feedback:**
+
 Diese Reflexion hilft Ihnen, die Stärken und Grenzen verschiedener analytischer Ansätze zu erkennen. Das Verständnis dieser Grenzen ist entscheidend für die Entwicklung eines umfassenderen analytischen Instrumentariums und für die Auswahl geeigneter Methoden für unterschiedliche Forschungsfragen.
 
 

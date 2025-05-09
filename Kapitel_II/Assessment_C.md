@@ -30,8 +30,8 @@ Es erfolgt keine Bewertung oder Speicherung Ihrer Ergebnisse. Nutzen Sie dieses 
 
 Viel Erfolg!
 ````
-
-## Frage 1
+## Sektion I: Verständnis der Prinzipien des Semantic Web auf die Filmanalyse
+### Frage 1
 
 ```{code-cell} ipython3
 :tags: [remove-input]
@@ -42,28 +42,28 @@ sys.path.append("..")
 from quadriga_config import colors
 
 multiple_choice1 = [{
-    "question": """Worin besteht der Hauptunterschied zwischen einer tabellarischen Annotation (behandelt im vorherigen Kapitel) und den digitalen Annotationen mit Tools wie Advene und ELAN?""",
+    "question": """Was ist der Hauptzweck einer Ontologie mit Schwerpunkt Filmanalyse im Kontext des Semantic Web?""",
     "type": "multiple_choice",
     "answers": [
         {
-            "answer": "Digitale Tools erlauben nur die Annotation bestimmter vordefinierter Parameter",
+            "answer": "Die Standardisierung von Bildformaten für filmische Analysen",
             "correct": False,
-            "feedback": """× Bei den digitalen Tools in diesem Kapitel besteht der Hauptvorteil in der Verknüpfung von Player und Annotationsdokument in einer Benutzeroberfläche. Tatsächlich arbeiten wir in diesem Kapitel mit Freitextannotationen ohne standardisiertes Vokabular, und die Parameter können frei definiert werden."""
+            "feedback": """× Eine Ontologie beschäftigt sich nicht primär mit Bildformaten oder der Katalogisierung von Filmen. Sie ersetzt auch nicht menschliche Prozesse, sondern macht das von Menschen generierte Wissen für Maschinen verarbeitbar."""
         },
         {
-            "answer": "Die Verknüpfung von Player und Annotationsdokument in einer Benutzeroberfläche",
+            "answer": "Die Katalogisierung aller bekannten Filme in einer Datenbank",
+            "correct": False,
+            "feedback": """× Eine Ontologie beschäftigt sich nicht primär mit Bildformaten oder der Katalogisierung von Filmen. Sie ersetzt auch nicht menschliche Prozesse, sondern macht das von Menschen generierte Wissen für Maschinen verarbeitbar."""
+        },
+        {
+            "answer": "Die strukturierte Darstellung von Wissen, um es maschinenlesbar zu machen",
             "correct": True,
-            "feedback": """✓ Genau! Der entscheidende Unterschied liegt in der direkten Verknüpfung von Videoplayer und Annotationsdokument innerhalb einer gemeinsamen Benutzeroberfläche. Dies ermöglicht eine präzisere Annotation und bessere Erfassung zeitlicher Dynamiken."""
+            "feedback": """✓ Korrekt! Eine Ontologie im Semantic Web dient dazu, Wissen zu strukturieren und Begriffe sowie deren Beziehungen so zu ordnen, dass sie maschinenlesbar werden."""
         },
         {
-            "answer": "Digitale Tools benötigen ein standardisiertes Vokabular für die Annotation",
+            "answer": "Das Ersetzen menschlicher Annotations- und Analyseprozesse",
             "correct": False,
-            "feedback": """× Bei den digitalen Tools in diesem Kapitel besteht der Hauptvorteil in der Verknüpfung von Player und Annotationsdokument in einer Benutzeroberfläche. Tatsächlich arbeiten wir in diesem Kapitel mit Freitextannotationen ohne standardisiertes Vokabular, und die Parameter können frei definiert werden."""
-        },
-        {
-            "answer": "Freitextannotationen sind bei digitalen Tools nicht möglich",
-            "correct": False,
-            "feedback": """× Bei den digitalen Tools in diesem Kapitel besteht der Hauptvorteil in der Verknüpfung von Player und Annotationsdokument in einer Benutzeroberfläche. Tatsächlich arbeiten wir in diesem Kapitel mit Freitextannotationen ohne standardisiertes Vokabular, und die Parameter können frei definiert werden."""
+            "feedback": """× Eine Ontologie beschäftigt sich nicht primär mit Bildformaten oder der Katalogisierung von Filmen. Sie ersetzt auch nicht menschliche Prozesse, sondern macht das von Menschen generierte Wissen für Maschinen verarbeitbar."""
         }
     ]
 }]
@@ -71,7 +71,7 @@ multiple_choice1 = [{
 display_quiz(multiple_choice1, colors=colors.jupyterquiz)
 ```
 
-## Frage 2
+### Frage 2
 
 ```{code-cell} ipython3
 :tags: [remove-input]
@@ -81,33 +81,33 @@ sys.path.append("..")
 from quadriga_config import colors
 
 multiple_choice2 = [{
-    "question": """Welche Vorteile bieten digitale Annotationstools im Vergleich zur tabellarischen Annotation? (Wählen Sie alle zutreffenden Antworten aus)""",
+    "question": """Aus welchen Komponenten besteht ein semantisches Triple? (Wählen Sie alle zutreffenden Optionen)""",
     "type": "multiple_choice",
     "answers": [
         {
-            "answer": "Präzisere Erfassung von Zeitsegmenten",
+            "answer": "Subjekt",
             "correct": True,
-            "feedback": """✓ Richtig! Digitale Tools ermöglichen eine frame-genaue Markierung von Zeitsegmenten, was in tabellarischen Aufzeichnungen nur schwer möglich ist."""
+            "feedback": """✓ Genau! Ein semantisches Triple besteht aus Subjekt, Prädikat und Objekt - den drei grundlegenden Elementen, die zusammen eine Aussage bilden."""
         },
         {
-            "answer": "Bessere Darstellung von Verlaufsdynamiken",
+            "answer": "Prädikat",
             "correct": True,
-            "feedback": """✓ Richtig! Die visuelle Darstellung von Annotationen auf Zeitlinien macht komplexe Dynamiken und Entwicklungen im Filmmaterial besser erkennbar."""
+            "feedback": """✓ Genau! Ein semantisches Triple besteht aus Subjekt, Prädikat und Objekt - den drei grundlegenden Elementen, die zusammen eine Aussage bilden."""
         },
         {
-            "answer": "Exportmöglichkeiten in verschiedene Datenformate",
+            "answer": "Objekt",
             "correct": True,
-            "feedback": """✓ Richtig! Die meisten digitalen Tools bieten verschiedene Exportoptionen (XML, CSV, etc.), die eine Weiterverarbeitung der Daten in anderen Anwendungen erleichtern."""
+            "feedback": """✓ Genau! Ein semantisches Triple besteht aus Subjekt, Prädikat und Objekt - den drei grundlegenden Elementen, die zusammen eine Aussage bilden."""
         },
         {
-            "answer": "Direktes Verhältnis zwischen Annotationsdaten und Filmmaterial",
-            "correct": True,
-            "feedback": """✓ Richtig! Die Integration von Player und Annotation in einer Benutzeroberfläche schafft eine unmittelbare Verbindung zwischen Beobachtung und Dokumentation."""
-        },
-        {
-            "answer": "Automatische Erkennung aller filmanalytischen Parameter",
+            "answer": "Schema",
             "correct": False,
-            "feedback": """× Die automatische Erkennung aller filmanalytischen Parameter ist nicht gegeben. In diesem Kapitel arbeiten wir mit Freitexteingaben, und auch fortgeschrittenere Tools können nicht alle filmanalytischen Parameter automatisch erkennen."""
+            "feedback": """× Die Grundstruktur eines semantischen Triples umfasst ausschließlich Subjekt, Prädikat und Objekt. Schema und Level sind zwar relevante Konzepte in anderen Kontexten des Semantic Web, gehören aber nicht zu den Komponenten eines einzelnen Triples."""
+        },
+        {
+            "answer": "Level",
+            "correct": False,
+            "feedback": """× Die Grundstruktur eines semantischen Triples umfasst ausschließlich Subjekt, Prädikat und Objekt. Schema und Level sind zwar relevante Konzepte in anderen Kontexten des Semantic Web, gehören aber nicht zu den Komponenten eines einzelnen Triples."""
         }
     ]
 }]
@@ -115,11 +115,12 @@ multiple_choice2 = [{
 display_quiz(multiple_choice2, colors=colors.jupyterquiz)
 ```
 
-## Frage 3
-A. Annotationszeilen in ELAN  
-B. Format für den Inhalt einer Annotation  
-C. Standardformat zur Angabe des Dateityps und Inhalts  
-D. Methoden unabhängig von spezifischen Werkzeugen anwenden  
+### Frage 3
+A. Die Entität, über die eine Aussage getroffen wird  
+B. Der Wert oder die Entität, die dem Subjekt durch das Prädikat zugeordnet wird  
+C. Die Relation oder Eigenschaft, die das Subjekt mit dem Objekt verbindet  
+D. Eine eindeutige Kennung für die Komponenten eines Triples  
+
 
 
 ```{code-cell} ipython3
@@ -131,29 +132,28 @@ sys.path.append("..")
 from quadriga_config import colors
 
 multiple_choice3 = [{
-    "question": """Ordnen Sie die Begriffe ihren korrekten Definitionen zu:
- """,
+    "question": """Ordnen Sie die Komponenten des semantischen Triples ihren korrekten Beschreibungen zu""",
     "type": "multiple_choice",
     "answers": [
         {
-            "answer": "A. Mime Type, B. Tiers, C. Toolagnostische Perspektive, D. Content Type",
+            "answer": "A. Subjekt , B. Prädikat , C. Objekt , D. URI",
             "correct": False,
-            "feedback": """× Nicht korrekt. """
+            "feedback": """× Nicht korrekt """
         },
         {
-            "answer": "A. Tiers, B. Content Type, C. Mime Type, D. Toolagnostische Perspektive",
+            "answer": "A. Subjekt, B. Prädikat, C. URI, D. Objekt",
+            "correct": False,
+            "feedback": """× Nicht korrekt """
+        },
+        {
+            "answer": "A. Subjekt, B. Objekt, C. URI , D. Prädikat ",
+            "correct": False,
+            "feedback": """× Nicht korrekt """
+        },
+        {
+            "answer": "A. Subjekt, B. Objekt, C. Prädikat, D. URI",
             "correct": True,
-            "feedback": """✓ Sehr gut! """
-        },
-        {
-            "answer": "A. Mime Type, B. Tiers, C. Content Type , D. Toolagnostische Perspektive ",
-            "correct": False,
-            "feedback": """× Nicht korrekt."""
-        },
-        {
-            "answer": "A. Tiers, B. Mime Type, C. Content Type, D. Toolagnostische Perspektive",
-            "correct": False,
-            "feedback": """× Nicht korrekt."""
+            "feedback": """Hervorragend! Sie verstehen die Grundbausteine von semantischen Triples und ihre Funktionen innerhalb des Semantic Web."""
         }
     ]
 }]
@@ -161,7 +161,29 @@ multiple_choice3 = [{
 display_quiz(multiple_choice3, colors=colors.jupyterquiz)
 ```
 
-## Frage 4
+### Frage 4
+
+Erläutern Sie, warum bei der filmanalytischen Anwendung von semantischen Triplen das "Segment X" als Subjekt verwendet wird und nicht direkt der Film als Ganzes?
+
+```{code-cell} ipython3
+:tags: [remove-input]
+import sys
+sys.path.append("../quadriga_config")  # Adjust path as needed
+from assessment import create_answer_box
+
+create_answer_box('Assessment_C-4')
+```
+
+````{admonition} Lösung
+:class: solution, dropdown
+**Beispiel für korrekte Antwort:**
+
+Die Verwendung von "Segment X" als Subjekt ermöglicht eine präzise zeitliche Lokalisierung der analytischen Beobachtungen innerhalb des Films. Da sich filmanalytische Eigenschaften wie Kamerabewegungen, Einstellungsgrößen oder Tonqualitäten im Verlauf eines Films ständig ändern, müssen die Annotationen an spezifische Zeitabschnitte gebunden sein. Mit "Segment X" können wir durch zusätzliche Tripel (z.B. "hat Timecode von") den genauen zeitlichen Bereich definieren, für den die Annotation gilt - sei es eine Einstellung, ein Frame oder eine frei gewählte Zeitspanne.
+
+````
+
+## Sektion II: Verständnis der AdA-Filmontologie
+### Frage 5
 
 ```{code-cell} ipython3
 :tags: [remove-input]
@@ -170,82 +192,83 @@ import sys
 sys.path.append("..")
 from quadriga_config import colors
 
-multiple_choice4 = [{
-    "question": """Was muss in Advene zunächst getan werden, bevor mit der eigentlichen Annotation begonnen werden kann?""",
+multiple_choice5 = [{
+    "question": """Welche Aussage beschreibt am besten die Struktur der AdA-Filmontologie?""",
     "type": "multiple_choice",
     "answers": [
         {
-            "answer": "Die Annotationstypen müssen aus einer vordefinierten Liste ausgewählt werden",
+            "answer": "Eine einfache Liste filmanalytischer Begriffe ohne hierarchische Struktur",
             "correct": False,
-            "feedback": """× In Advene müssen wir zunächst das Video mit dem Package verknüpfen und unsere Annotationstypen selbst erstellen. Es gibt keine vordefinierte Liste, und ein Schema ist für Freitextannotationen nicht erforderlich. Das Laden von Templates ist eine Option, aber kein notwendiger erster Schritt."""
+            "feedback": """× Die AdA-Filmontologie ist keine einfache Liste oder zweigliedrige Struktur, sondern folgt einer dreistufigen hierarchischen Organisation (Ebenen, Typen, Werte), die eine detaillierte und strukturierte Erfassung filmischer Eigenschaften ermöglicht."""
         },
         {
-            "answer": "Ein Schema mit standardisiertem Vokabular muss importiert werden",
+            "answer": "Eine zweigliedrige Struktur aus Filmszenen und deren Eigenschaften",
             "correct": False,
-            "feedback": """× In Advene müssen wir zunächst das Video mit dem Package verknüpfen und unsere Annotationstypen selbst erstellen. Es gibt keine vordefinierte Liste, und ein Schema ist für Freitextannotationen nicht erforderlich. Das Laden von Templates ist eine Option, aber kein notwendiger erster Schritt."""
+            "feedback": """× Die AdA-Filmontologie ist keine einfache Liste oder zweigliedrige Struktur, sondern folgt einer dreistufigen hierarchischen Organisation (Ebenen, Typen, Werte), die eine detaillierte und strukturierte Erfassung filmischer Eigenschaften ermöglicht."""
         },
         {
-            "answer": "Das Video muss mit dem Package verknüpft und Annotationstypen müssen erstellt werden",
+            "answer": "Eine hierarchische Struktur aus Leveln (Ebenen), Typen und Werten",
             "correct": True,
-            "feedback": """✓ Richtig! Der erste wichtige Schritt besteht darin, das Video mit dem Advene-Package zu verknüpfen und die eigenen Annotationstypen (Parameter) zu erstellen."""
+            "feedback": """✓ Korrekt! Die AdA-Filmontologie ist hierarchisch in Ebenen (Levels), Typen und Werte gegliedert. Diese Struktur ermöglicht eine präzise und differenzierte Erfassung filmanalytischer Konzepte sowie die Umsetzung der Relation in eine Triple-Struktur."""
         },
         {
-            "answer": "Ein vorhandenes Annotationspaket muss als Template geladen werden",
+            "answer": "Eine zufällige Sammlung von Triples ohne übergeordnete Organisation",
             "correct": False,
-            "feedback": """× In Advene müssen wir zunächst das Video mit dem Package verknüpfen und unsere Annotationstypen selbst erstellen. Es gibt keine vordefinierte Liste, und ein Schema ist für Freitextannotationen nicht erforderlich. Das Laden von Templates ist eine Option, aber kein notwendiger erster Schritt."""
+            "feedback": """× Die AdA-Filmontologie ist keine einfache Liste oder zweigliedrige Struktur, sondern folgt einer dreistufigen hierarchischen Organisation (Ebenen, Typen, Werte), die eine detaillierte und strukturierte Erfassung filmischer Eigenschaften ermöglicht."""
         }
     ]
 }]
 
-display_quiz(multiple_choice4, colors=colors.jupyterquiz)
+display_quiz(multiple_choice5, colors=colors.jupyterquiz)
 ```
 
-## Frage 5
-Wie kann in Advene eine neue Annotation mit höchstmöglicher Präzision erstellt werden?
+
+### Frage 6
+A. Annotation Level  
+B. Annotation Type  
+C. Annotation Value  
+D. Annotation Level
 
 
 ```{code-cell} ipython3
 :tags: [remove-input]
-import sys
-sys.path.append("../quadriga_config")  # Adjust path as needed
-from assessment import create_answer_box
 
-create_answer_box('Assessment_B-5')
+from jupyterquiz import display_quiz
+import sys
+sys.path.append("..")
+from quadriga_config import colors
+
+multiple_choice6 = [{
+    "question": "Ordnen Sie die folgenden filmanalytischen Begriffe der richtigen Strukturebene in der Ontologie zu",
+    "type": "multiple_choice",
+    "answers": [
+        {
+            "answer": "A. Kamera, B. Kamerabewegung Tempo, C. Langsam, D. Montage",
+            "correct": True,
+            "feedback": "✓ Ausgezeichnet! Sie verstehen die hierarchische Struktur der AdA-Filmontologie und können filmanalytische Begriffe korrekt den entsprechenden Ebenen zuordnen."
+        },
+        {
+            "answer": "A. Kamerabewegung Tempo, B. Kamera, C. Langsam, D. Montage",
+            "correct": False,
+            "feedback": "x Nicht korrekt. Überprüfen Sie die hierarchische Struktur der AdA-Filmontologie und die korrekte Zuordnung der Begriffe zu den Ebenen."
+        },
+        {
+            "answer": "A. Kamera, B. Langsam, C. Kamerabewegung Tempo, D. Montage",
+            "correct": False,
+            "feedback": "x Nicht korrekt. Überprüfen Sie die hierarchische Struktur der AdA-Filmontologie und die korrekte Zuordnung der Begriffe zu den Ebenen."
+        },
+        {
+            "answer": "A. Montage, B. Kamera, C. Kamerabewegung Tempo, D. Langsam",
+            "correct": False,
+            "feedback": "x Nicht korrekt. Überprüfen Sie die hierarchische Struktur der AdA-Filmontologie und die korrekte Zuordnung der Begriffe zu den Ebenen."
+        }
+    ]
+}]
+
+display_quiz(multiple_choice6, colors=colors.jupyterquiz)
 ```
 
-````{admonition} Lösung
-:class: solution, dropdown
-**Beispiel für korrekte Antwort:**
-
-Durch Rechtsklick auf die gewünschte Spur und Auswahl von 'New annotation at player time', da dies den aktuellen Videoplayer-Timecode verwendet, was präziser ist als die Positionierung per Mauszeiger. Für noch präzisere Grenzen kann die Frametaste in der Wiedergabesteuerung genutzt werden.
-
-````
-
-## Frage 6
-
-In Advene möchten Sie eine Annotation duplizieren und ihren Wert ändern. Beschreiben Sie die Schritte bei diesem Vorgehen:
-
-```{code-cell} ipython3
-:tags: [remove-input]
-import sys
-sys.path.append("../quadriga_config")  # Adjust path as needed
-from assessment import create_answer_box
-
-create_answer_box('Assessment_B-6')
-```
-
-````{admonition} Lösung
-:class: solution, dropdown
-
-**Beispiel für korrekte Antwort:**
-
-- Rechtsklick auf die zu duplizierende Annotation
-- Option 'Duplicate' wählen
-- Die duplizierte Annotation wird erstellt
-- Anschließend auf die neue Annotation klicken und mit 'Enter' das Textfeld öffnen
-- Den Text ändern und erneut 'Enter' drücken, um die Änderung zu speichern
-````
-## Frage 7
+### Frage 7
 
 ```{code-cell} ipython3
 :tags: [remove-input]
@@ -255,28 +278,33 @@ sys.path.append("..")
 from quadriga_config import colors
 
 multiple_choice7 = [{
-    "question": """Was ist bei der Einrichtung eines neuen Projekts in ELAN im Vergleich zu Advene anders? (Wählen Sie alle zutreffenden Antworten aus)""",
+    "question": """Welche der folgenden Eigenschaften treffen auf die AdA-Filmontologie zu? (Wählen Sie alle zutreffenden Optionen)""",
     "type": "multiple_choice",
     "answers": [
         {
-            "answer": "In ELAN können keine Freitextannotationen erstellt werden",
-            "correct": False,
-            "feedback": """× ELAN unterstützt durchaus Freitextannotationen, erlaubt die Anpassung von Annotationszeilen und bietet auch die Möglichkeit, Templates zu erstellen. Der Unterschied liegt in der Notwendigkeit, explizit die automatische Sicherheitskopie zu aktivieren."""
-        },
-        {
-            "answer": "In ELAN muss zusätzlich die automatische Sicherheitskopie aktiviert werden",
+            "answer": "Sie umfasst 8 Beschreibungsebenen, darunter Akustik und Kamera",
             "correct": True,
-            "feedback": """✓ Richtig! Ein wichtiger Unterschied ist, dass in ELAN explizit die automatische Sicherheitskopie aktiviert werden sollte, um Datenverluste zu vermeiden."""
+            "feedback": """✓ Sehr gut! Die AdA-Filmontologie hat diese Eigenschaften, die sie zu einem umfassenden und flexiblen Tool für die filmanalytische Arbeit machen."""
         },
         {
-            "answer": "ELAN erlaubt keine Anpassung der Annotationszeilen",
-            "correct": False,
-            "feedback": """× ELAN unterstützt durchaus Freitextannotationen, erlaubt die Anpassung von Annotationszeilen und bietet auch die Möglichkeit, Templates zu erstellen. Der Unterschied liegt in der Notwendigkeit, explizit die automatische Sicherheitskopie zu aktivieren."""
+            "answer": "Sie basiert auf der eMAEX-Methode zur Analyse audiovisueller Bewegungsbilder",
+            "correct": True,
+            "feedback": """✓ Sehr gut! Die AdA-Filmontologie hat diese Eigenschaften, die sie zu einem umfassenden und flexiblen Tool für die filmanalytische Arbeit machen."""
         },
         {
-            "answer": "In ELAN können keine Templates erstellt werden",
+            "answer": "Sie ist als Linked Open Data (LOD) zugänglich",
+            "correct": True,
+            "feedback": """✓ Sehr gut! Die AdA-Filmontologie hat diese Eigenschaften, die sie zu einem umfassenden und flexiblen Tool für die filmanalytische Arbeit machen."""
+        },
+        {
+            "answer": "Sie unterscheidet zwischen verschiedenen Annotationsarten wie FreeTextAnnotationType und PredefinedValuesAnnotationType",
+            "correct": True,
+            "feedback": """✓ Sehr gut! Die AdA-Filmontologie hat diese Eigenschaften, die sie zu einem umfassenden und flexiblen Tool für die filmanalytische Arbeit machen."""
+        },
+        {
+            "answer": "Sie kann als Framework nur mit der Software Advene verwendet werden",
             "correct": False,
-            "feedback": """× ELAN unterstützt durchaus Freitextannotationen, erlaubt die Anpassung von Annotationszeilen und bietet auch die Möglichkeit, Templates zu erstellen. Der Unterschied liegt in der Notwendigkeit, explizit die automatische Sicherheitskopie zu aktivieren."""
+            "feedback": """× Die AdA-Filmontologie ist zwar in Advene implementiert, aber grundsätzlich toolagnostisch konzipiert. Das bedeutet, dass ihre Prinzipien und Logik theoretisch in verschiedene Tools implementiert werden könnten, auch wenn die Ontologie derzeit angepasst ist auf das Tool Advene."""
         }
     ]
 }]
@@ -284,53 +312,9 @@ multiple_choice7 = [{
 display_quiz(multiple_choice7, colors=colors.jupyterquiz)
 ```
 
-## Frage 8
+### Frage 8
 
-```{code-cell} ipython3
-:tags: [remove-input]
-from jupyterquiz import display_quiz
-import sys
-sys.path.append("..")
-from quadriga_config import colors
-
-multiple_choice8 = [{
-    "question": """Welche dieser Funktionen bietet ELAN bei der Arbeit mit Annotationen? (Wählen Sie alle zutreffenden Antworten aus)""",
-    "type": "multiple_choice",
-    "answers": [
-        {
-            "answer": "Annotationen können zwischen Zeilen kopiert werden",
-            "correct": True,
-            "feedback": """✓ Sehr gut! ELAN ermöglicht das Kopieren von Annotationen zwischen verschiedenen Zeilen, was die Arbeit mit ähnlichen Inhalten erleichtert."""
-        },
-        {
-            "answer": "Annotationen können in ihrer Länge verändert werden",
-            "correct": True,
-            "feedback": """✓ Sehr gut! ELAN erlaubt das flexible Anpassen der Annotationslänge durch einfaches Ziehen der Ränder, was eine präzise zeitliche Markierung ermöglicht."""
-        },
-        {
-            "answer": "Annotationen können aufgeteilt werden",
-            "correct": True,
-            "feedback": """✓ Sehr gut! ELAN bietet die Möglichkeit, bestehende Annotationen in mehrere Teile aufzuteilen, was besonders bei längeren Segmenten hilfreich ist."""
-        },
-        {
-            "answer": "Die Wiedergabegeschwindigkeit kann angepasst werden",
-            "correct": True,
-            "feedback": """✓ Sehr gut! ELAN erlaubt die Anpassung der Wiedergabegeschwindigkeit, was die genaue Analyse von schnellen Sequenzen oder die Erfassung feiner Details erleichtert."""
-        },
-        {
-            "answer": "Automatische Erkennung von Einstellungswechseln",
-            "correct": False,
-            "feedback": """× Die automatische Erkennung von Einstellungswechseln ist keine Funktion, die in der Standard-Version von ELAN angeboten wird. Diese müssten manuell annotiert werden."""
-        }
-    ]
-}]
-
-display_quiz(multiple_choice8, colors=colors.jupyterquiz)
-```
-
-## Frage 9
-
-In welchen Fällen ist die Anpassung der Wiedergabegeschwindigkeit in ELAN besonders sinnvoll?
+Erläutern Sie, welche Vorteile die Verwendung einer ontologiebasierten Annotation gegenüber reinen Freitextannotationen bietet. Berücksichtigen Sie dabei sowohl methodische als auch praktische Aspekte.
 
 ```{code-cell} ipython3
 :tags: [remove-input]
@@ -338,18 +322,20 @@ import sys
 sys.path.append("../quadriga_config")  # Adjust path as needed
 from assessment import create_answer_box
 
-create_answer_box('Assessment_B-9')
+create_answer_box('Assessment_c-8')
 ```
 
 ````{admonition} Lösung
 :class: solution, dropdown
 
-**Beispiel für korrekte Antwort:**
+**Hilfestellung zur Antwort: **
 
-Die Anpassung der Wiedergabegeschwindigkeit ist besonders sinnvoll bei schnellen Einstellungswechseln oder komplexen Bewegungen, die in normaler Geschwindigkeit schwer zu erfassen sind. Die Verlangsamung ermöglicht es, Details präziser zu beobachten und den eigenen Annotationsrhythmus anzupassen, um sicherzustellen, dass alle wichtigen Elemente erfasst werden.
+Gehen Sie dabei auf die Standardisierung und Vergleichbarkeit ein und reflektieren Sie, inwiefern bestimmte automatisierte Funktionen bei der Analyse größerer Datenmengen helfen können.
+
 ````
 
-## Frage 10
+### Frage 9
+
 
 ```{code-cell} ipython3
 :tags: [remove-input]
@@ -358,90 +344,42 @@ import sys
 sys.path.append("..")
 from quadriga_config import colors
 
-multiple_choice10 = [{
-    "question": """Welche der folgenden Aussagen treffen auf beide Tools (Advene und ELAN) zu? (Wählen Sie alle zutreffenden Antworten aus)""",
+multiple_choice9 = [{
+    "question": """Was bedeutet das Syntaxelement [TO] in der AdA-Filmontologie?""",
     "type": "multiple_choice",
     "answers": [
         {
-            "answer": "Sie ermöglichen die Annotation auf einer Timeline",
-            "correct": True,
-            "feedback": """✓ Sehr gut! Beide Tools bieten eine Timeline-basierte Annotationsschnittstelle, die eine visuelle Darstellung der zeitlichen Verteilung von Annotationen ermöglicht."""
-        },
-        {
-            "answer": "Sie erlauben die Einbettung von Videos",
-            "correct": True,
-            "feedback": """✓ Sehr gut! Sowohl Advene als auch ELAN integrieren den Videoplayer direkt in die Benutzeroberfläche, was ein simultanes Arbeiten mit Video und Annotation ermöglicht."""
-        },
-        {
-            "answer": "Sie bieten Exportmöglichkeiten in andere Formate",
-            "correct": True,
-            "feedback": """✓ Sehr gut! Beide Tools verfügen über Exportfunktionen, die es ermöglichen, Annotationsdaten in verschiedenen Formaten (wie XML, CSV) für die weitere Verarbeitung zu speichern."""
-        },
-        {
-            "answer": "Sie ermöglichen präzisere Annotationen als tabellarische Methoden",
-            "correct": True,
-            "feedback": """✓ Sehr gut! Durch die direkte Verknüpfung mit dem Videomaterial und frame-genaue Markierungsmöglichkeiten bieten beide Tools eine höhere Präzision als tabellarische Methoden."""
-        },
-        {
-            "answer": "Sie erfordern ein standardisiertes Vokabular",
+            "answer": "Es kennzeichnet einen Timecode-Offset für den Beginn einer Annotation",
             "correct": False,
-            "feedback": """× Weder Advene noch ELAN erfordern in der Grundkonfiguration ein standardisiertes Vokabular. Beide erlauben Freitextannotationen, wie in diesem Kapitel beschrieben."""
+            "feedback": """× Das Syntaxelement [TO] hat eine spezifische Bedeutung in der AdA-Filmontologie: Es beschreibt eine kontinuierliche Entwicklung zwischen zwei Werten. Es bezieht sich nicht auf Timecodes, Pausen oder Typenwechsel."""
+        },
+        {
+            "answer": "Es definiert eine \"Time Out\"-Pause in der Annotation",
+            "correct": False,
+            "feedback": """× Das Syntaxelement [TO] hat eine spezifische Bedeutung in der AdA-Filmontologie: Es beschreibt eine kontinuierliche Entwicklung zwischen zwei Werten. Es bezieht sich nicht auf Timecodes, Pausen oder Typenwechsel."""
+        },
+        {
+            "answer": "Es beschreibt eine kontinuierliche Entwicklung zwischen zwei Werten (z.B. \"hell [TO] dunkel\")",
+            "correct": True,
+            "feedback": """✓ Korrekt! Das Syntaxelement [TO] wird verwendet, um eine kontinuierliche Entwicklung zwischen zwei Werten darzustellen, wie beispielsweise den graduellen Wechsel von einer hellen zu einer dunklen Beleuchtung."""
+        },
+        {
+            "answer": "Es markiert den Übergang zu einem anderen Annotationstyp",
+            "correct": False,
+            "feedback": """× Das Syntaxelement [TO] hat eine spezifische Bedeutung in der AdA-Filmontologie: Es beschreibt eine kontinuierliche Entwicklung zwischen zwei Werten. Es bezieht sich nicht auf Timecodes, Pausen oder Typenwechsel."""
         }
     ]
 }]
 
-display_quiz(multiple_choice10, colors=colors.jupyterquiz)
+display_quiz(multiple_choice9, colors=colors.jupyterquiz)
 ```
 
-## Frage 11
 
-```{code-cell} ipython3
-:tags: [remove-input]
-from jupyterquiz import display_quiz
-import sys
-sys.path.append("..")
-from quadriga_config import colors
+## Sektion III: Praxisnahe Anwendung und Transfer
 
-multiple_choice11 = [{
-    "question": """Was bedeutet der Begriff "toolagnostisch" im Kontext dieser Fallstudie?""",
-    "type": "multiple_choice",
-    "answers": [
-        {
-            "answer": "Dass die verwendeten Tools keine Annotationen unterstützen",
-            "correct": False,
-            "feedback": """× Der Begriff "toolagnostisch" bezieht sich darauf, dass die grundlegenden Konzepte und Methoden mit verschiedenen Tools umgesetzt werden können. Es geht nicht um Betriebssystemkompatibilität, fehlende Annotationsunterstützung oder Vorkenntnisse, sondern um die Übertragbarkeit der methodischen Prinzipien."""
-        },
-        {
-            "answer": "Dass die Tools unabhängig vom Betriebssystem funktionieren",
-            "correct": False,
-            "feedback": """× Der Begriff "toolagnostisch" bezieht sich darauf, dass die grundlegenden Konzepte und Methoden mit verschiedenen Tools umgesetzt werden können. Es geht nicht um Betriebssystemkompatibilität, fehlende Annotationsunterstützung oder Vorkenntnisse, sondern um die Übertragbarkeit der methodischen Prinzipien."""
-        },
-        {
-            "answer": "Dass die Methoden und Konzepte unabhängig von spezifischen Werkzeugen anwendbar sind",
-            "correct": True,
-            "feedback": """✓ Genau! Toolagnostisch bedeutet, dass die Methoden und Konzepte prinzipiell mit verschiedenen Tools umgesetzt werden können und nicht an ein spezifisches Werkzeug gebunden sind."""
-        },
-        {
-            "answer": "Dass die Tools keine Vorkenntnisse erfordern",
-            "correct": False,
-            "feedback": """× Der Begriff "toolagnostisch" bezieht sich darauf, dass die grundlegenden Konzepte und Methoden mit verschiedenen Tools umgesetzt werden können. Es geht nicht um Betriebssystemkompatibilität, fehlende Annotationsunterstützung oder Vorkenntnisse, sondern um die Übertragbarkeit der methodischen Prinzipien."""
-        }
-    ]
-}]
+### Frage 10
 
-display_quiz(multiple_choice11, colors=colors.jupyterquiz)
-```
-## Frage 12
-
-Erstellen Sie einen kurzen Annotationsplan für ein Video Ihrer Wahl mit dem Schwerpunkt Klimakrise mit folgenden Anforderungen:
-
-- Wählen Sie mind. 5 relevante Parameter aus, die sie an die Gestaltungsweise des ausgewählten Videos anpassen 
-- Entscheiden Sie für jeden Parameter, ob er nach Einstellungen oder nach Verläufen annotiert werden sollte
-- Begründen Sie Ihre Entscheidungen
-
-## Frage 13
-
-Welche Herausforderungen könnten bei der Annotation eines längeren Videos/Films mit den vorgestellten Tools auftreten? Wie würden Sie diese Herausforderungen methodisch angehen?
+Sie planen ein eigenes Forschungsvorhaben mit dem Schwerpunkt „Bildproduktionen und Klimawandel“. Überlegen Sie, welche analytischen Dimensionen (Levels) der AdA-Filmontologie besonders relevant sein könnten und begründen Sie Ihre Auswahl. 
 
 ```{code-cell} ipython3
 :tags: [remove-input]
@@ -449,13 +387,18 @@ import sys
 sys.path.append("../quadriga_config")  # Adjust path as needed
 from assessment import create_answer_box
 
-create_answer_box('Assessment_B-9')
+create_answer_box('Assessment_B-10')
 ```
 
 ````{admonition} Lösung
 :class: solution, dropdown
 
-**Hilfestellung zur Antwort:**
+**Beispiel für eine mögliche Antwort:**
 
-Überlegen Sie, welche spezifischen Herausforderungen ein längerer Film mit sich bringt (Datenmenge, Konsistenz der Annotation, zeitlicher Aufwand). Reflektieren Sie, wie diese Herausforderungen durch methodische Ansätze (z.B. Arbeit mit Templates, Segmentierung in kleinere Einheiten, Entwicklung eines einheitlichen Annotationsschemas) adressiert werden könnten.
+1.	Akustik: In vielen Filmen und Videos zur Klimakrise spielt die akustische Dimension eine wichtige Rolle für die emotionale Wirkung. Besonders relevante Typen wären Musik Stimmung, um die emotionale Färbung von Szenen zu erfassen, und die Gestendynamik von Geräuschen, um dramatische Akzente wie bei Naturkatastrophendarstellungen zu analysieren.
+
+2.	Bildkomposition: Die visuelle Darstellung von Umweltveränderungen ist zentral für viele Filme. Durch die Analyse von Farbspektren und Lichtverhältnissen könnten kontrastierende Darstellungen (z.B. intakte vs. zerstörte Natur) systematisch erfasst werden. Ebenso werden oftmals Animationsgrafiken  sowie animierte Muster/Elemente verwendet, um abstrakte Phänomene auch in der bildlichen Darstellung greifbar zu machen.
+
+3.	Kamera: Kamerabewegungen und -perspektiven können rhetorische Strategien offenlegen, z.B. könnten Vogelperspektiven für Überblicksdarstellungen globaler Phänomene oder dynamische Kamerafahrten für dramatische Inszenierungen von Veränderungsprozessen verwendet werden.
+
 ````

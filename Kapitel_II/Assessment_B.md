@@ -455,7 +455,7 @@ import sys
 sys.path.append("../quadriga_config")  # Adjust path as needed
 from assessment import create_answer_box
 
-create_answer_box('Assessment_B-9')
+create_answer_box('Assessment_B-13')
 ```
 
 ````{admonition} Lösung
