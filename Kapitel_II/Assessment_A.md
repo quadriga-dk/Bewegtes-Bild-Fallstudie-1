@@ -31,7 +31,9 @@ Es erfolgt keine Bewertung oder Speicherung Ihrer Ergebnisse. Nutzen Sie dieses 
 Viel Erfolg!
 ````
 
-## Frage 1
+## Sektion I: Verständnis von Filmsegmentierung und Basisparametern
+
+#### Frage 1
 
 ```{code-cell} ipython3
 :tags: [remove-input]
@@ -71,7 +73,7 @@ multiple_choice1 = [{
 display_quiz(multiple_choice1, colors=colors.jupyterquiz)
 ```
 
-## Frage 2
+### Frage 2
 
 ```{code-cell} ipython3
 :tags: [remove-input]
@@ -115,7 +117,7 @@ multiple_choice2 = [{
 display_quiz(multiple_choice2, colors=colors.jupyterquiz)
 ```
 
-## Frage 3
+### Frage 3
 A. Größte Einheit, die narrative oder formal-ästhetische Stränge verbindet
 B. Teilabschnitt eines Films mit Kontinuität von Raum, Zeit und Figuren
 C. Ununterbrochene Aufnahme ohne Schnitt
@@ -161,7 +163,9 @@ multiple_choice3 = [{
 display_quiz(multiple_choice3, colors=colors.jupyterquiz)
 ```
 
-## Frage 4
+## Sektion II: Erstellung und Diskussion tabellarischer Annotationen
+
+### Frage 4
 
 Ordnen Sie die folgenden Schritte zur Durchführung einer tabellarischen Annotationsanalyse in der richtigen Reihenfolge an:
 
@@ -208,7 +212,7 @@ multiple_choice_4 = [{
 display_quiz(multiple_choice_4, colors=colors.jupyterquiz)
 ```
 
-## Frage 5
+### Frage 5
 Warum könnte eine Segmentierung nach Dynamiken für bestimmte analytische Zwecke nützlicher sein als eine Segmentierung nach Einstellungen?
 
 
@@ -231,8 +235,9 @@ Die Segmentierung nach Dynamiken ermöglicht es, kontinuierliche Entwicklungen u
 Das Verständnis alternativer Segmentierungsmethoden ist entscheidend für eine umfassende Filmanalyse. Während die einstellungsbasierte Segmentierung üblich ist, können dynamikbasierte Ansätze besser für analytische Qualifizierungen des Gegenstandes geeignet sein.
 
 ````
+## Sektion III: (Methodologische) Reflexion
 
-## Frage 6
+### Frage 6
 
 Vergleichen Sie die Vor- und Nachteile der tabellarischen Annotation als Methode der deskriptiven Filmanalyse. Wie könnten digitale Annotationstools einige dieser Nachteile adressieren?
 
@@ -252,7 +257,7 @@ create_answer_box('Assessment_A-6')
 Eine durchdachte Reflexion über methodische Ansätze demonstriert Ihr Verständnis nicht nur darüber, wie Analysen durchzuführen sind, sondern auch über die Stärken und Grenzen verschiedener Analysewerkzeuge.
 
 ````
-## Frage 7
+### Frage 7
 
 ```{code-cell} ipython3
 :tags: [remove-input]
@@ -291,7 +296,7 @@ multiple_choice7 = [{
 display_quiz(multiple_choice7, colors=colors.jupyterquiz)
 ```
 
-## Frage 8
+### Frage 8
 
 Basierend auf Ihrer Erfahrung mit tabellarischer Annotation, welche Aspekte der audiovisuellen Analyse waren am schwierigsten im tabellarischen Format zu erfassen und warum?
 

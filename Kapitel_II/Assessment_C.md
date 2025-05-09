@@ -30,8 +30,8 @@ Es erfolgt keine Bewertung oder Speicherung Ihrer Ergebnisse. Nutzen Sie dieses 
 
 Viel Erfolg!
 ````
-## Sektion I: Grundverständnis digitaler Annotationstools
-### Frage 1
+
+## Frage 1
 
 ```{code-cell} ipython3
 :tags: [remove-input]
@@ -71,7 +71,7 @@ multiple_choice1 = [{
 display_quiz(multiple_choice1, colors=colors.jupyterquiz)
 ```
 
-### Frage 2
+## Frage 2
 
 ```{code-cell} ipython3
 :tags: [remove-input]
@@ -115,7 +115,7 @@ multiple_choice2 = [{
 display_quiz(multiple_choice2, colors=colors.jupyterquiz)
 ```
 
-### Frage 3
+## Frage 3
 A. Annotationszeilen in ELAN  
 B. Format für den Inhalt einer Annotation  
 C. Standardformat zur Angabe des Dateityps und Inhalts  
@@ -161,9 +161,7 @@ multiple_choice3 = [{
 display_quiz(multiple_choice3, colors=colors.jupyterquiz)
 ```
 
-## Sektion II: Arbeiten mit Advene
-
-### Frage 4
+## Frage 4
 
 ```{code-cell} ipython3
 :tags: [remove-input]
@@ -202,7 +200,7 @@ multiple_choice4 = [{
 display_quiz(multiple_choice4, colors=colors.jupyterquiz)
 ```
 
-### Frage 5
+## Frage 5
 Wie kann in Advene eine neue Annotation mit höchstmöglicher Präzision erstellt werden?
 
 
@@ -223,7 +221,7 @@ Durch Rechtsklick auf die gewünschte Spur und Auswahl von 'New annotation at pl
 
 ````
 
-### Frage 6
+## Frage 6
 
 In Advene möchten Sie eine Annotation duplizieren und ihren Wert ändern. Beschreiben Sie die Schritte bei diesem Vorgehen:
 
@@ -247,10 +245,7 @@ create_answer_box('Assessment_B-6')
 - Anschließend auf die neue Annotation klicken und mit 'Enter' das Textfeld öffnen
 - Den Text ändern und erneut 'Enter' drücken, um die Änderung zu speichern
 ````
-
-## Sektion III: Arbeiten mit ELAN
-
-### Frage 7
+## Frage 7
 
 ```{code-cell} ipython3
 :tags: [remove-input]
@@ -289,7 +284,7 @@ multiple_choice7 = [{
 display_quiz(multiple_choice7, colors=colors.jupyterquiz)
 ```
 
-### Frage 8
+## Frage 8
 
 ```{code-cell} ipython3
 :tags: [remove-input]
@@ -333,7 +328,7 @@ multiple_choice8 = [{
 display_quiz(multiple_choice8, colors=colors.jupyterquiz)
 ```
 
-### Frage 9
+## Frage 9
 
 In welchen Fällen ist die Anpassung der Wiedergabegeschwindigkeit in ELAN besonders sinnvoll?
 
@@ -354,8 +349,7 @@ create_answer_box('Assessment_B-9')
 Die Anpassung der Wiedergabegeschwindigkeit ist besonders sinnvoll bei schnellen Einstellungswechseln oder komplexen Bewegungen, die in normaler Geschwindigkeit schwer zu erfassen sind. Die Verlangsamung ermöglicht es, Details präziser zu beobachten und den eigenen Annotationsrhythmus anzupassen, um sicherzustellen, dass alle wichtigen Elemente erfasst werden.
 ````
 
-## Sektion IV: Vergleich, Methodenreflexion & praktische Anwendung
-### Frage 10
+## Frage 10
 
 ```{code-cell} ipython3
 :tags: [remove-input]
@@ -399,7 +393,7 @@ multiple_choice10 = [{
 display_quiz(multiple_choice10, colors=colors.jupyterquiz)
 ```
 
-### Frage 11
+## Frage 11
 
 ```{code-cell} ipython3
 :tags: [remove-input]
@@ -437,7 +431,7 @@ multiple_choice11 = [{
 
 display_quiz(multiple_choice11, colors=colors.jupyterquiz)
 ```
-### Frage 12
+## Frage 12
 
 Erstellen Sie einen kurzen Annotationsplan für ein Video Ihrer Wahl mit dem Schwerpunkt Klimakrise mit folgenden Anforderungen:
 
@@ -445,7 +439,7 @@ Erstellen Sie einen kurzen Annotationsplan für ein Video Ihrer Wahl mit dem Sch
 - Entscheiden Sie für jeden Parameter, ob er nach Einstellungen oder nach Verläufen annotiert werden sollte
 - Begründen Sie Ihre Entscheidungen
 
-### Frage 13
+## Frage 13
 
 Welche Herausforderungen könnten bei der Annotation eines längeren Videos/Films mit den vorgestellten Tools auftreten? Wie würden Sie diese Herausforderungen methodisch angehen?
 
