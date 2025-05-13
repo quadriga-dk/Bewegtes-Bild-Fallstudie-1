@@ -373,31 +373,7 @@ multiple_choice11 = [{
 
 display_quiz(multiple_choice11, colors=colors.jupyterquiz)
 ```
-
 ### Frage 11
-Reflektieren Sie über die Grenzen und Potenziale der AdA-Timeline für die filmwissenschaftliche Analyse. Wo sehen Sie Stärken und wo Einschränkungen dieses Visualisierungsansatzes?
-
-```{code-cell} ipython3
-:tags: [remove-input]
-import sys
-sys.path.append("../quadriga_config")  # Adjust path as needed
-from assessment import create_answer_box
-
-create_answer_box('Assessment_E-12')
-```
-
-````{admonition} Lösung
-:class: solution, dropdown
-
-**Mögliche Aspekte für die Reflexion:**
-
-- Stärken: Visualisierung synchroner Muster, Exploration temporaler Dynamiken, Vermittlung zwischen quantitativen Daten und qualitativer Interpretation
-- Grenzen: Abhängigkeit von der Qualität der zugrunde liegenden Annotationen, begrenzte Darstellbarkeit komplexer interpretativer Nuancen, technische Einschränkungen der Visualisierung
-- Potenziale: Weiterentwicklung für kollaborative Forschung, Integration zusätzlicher analytischer Funktionen, Kombination mit anderen Analysemethoden
-- Methodologische Reflexion: Verhältnis zwischen Quantifizierung und Interpretation, Rolle der Visualisierung im hermeneutischen Prozess
-
-````
-## Frage 12
 
 ```{code-cell} ipython3
 :tags: [remove-input]
@@ -424,7 +400,7 @@ display_quiz(fill_in_blank_question1, colors=colors.jupyterquiz)
 
 ```
 
-## Frage 13
+### Frage 12
 
 ```{code-cell} ipython3
 :tags: [remove-input]
@@ -458,7 +434,7 @@ display_quiz(fill_in_blank_question2, colors=colors.jupyterquiz)
 
 ```
 
-## Frage 14
+### Frage 13
 
 ```{code-cell} ipython3
 :tags: [remove-input]
@@ -503,3 +479,28 @@ fill_in_blank_question3 = [{
 display_quiz(fill_in_blank_question3, colors=colors.jupyterquiz)
 
 ```
+
+### Frage 14
+Reflektieren Sie über die Grenzen und Potenziale der AdA-Timeline für die filmwissenschaftliche Analyse. Wo sehen Sie Stärken und wo Einschränkungen dieses Visualisierungsansatzes?
+
+```{code-cell} ipython3
+:tags: [remove-input]
+import sys
+sys.path.append("../quadriga_config")  # Adjust path as needed
+from assessment import create_answer_box
+
+create_answer_box('Assessment_E-12')
+```
+
+````{admonition} Lösung
+:class: solution, dropdown
+
+**Mögliche Aspekte für die Reflexion:**
+
+- Stärken: Visualisierung synchroner Muster, Exploration temporaler Dynamiken, Vermittlung zwischen quantitativen Daten und qualitativer Interpretation
+- Grenzen: Abhängigkeit von der Qualität der zugrunde liegenden Annotationen, begrenzte Darstellbarkeit komplexer interpretativer Nuancen, technische Einschränkungen der Visualisierung
+- Potenziale: Weiterentwicklung für kollaborative Forschung, Integration zusätzlicher analytischer Funktionen, Kombination mit anderen Analysemethoden
+- Methodologische Reflexion: Verhältnis zwischen Quantifizierung und Interpretation, Rolle der Visualisierung im hermeneutischen Prozess
+
+````
+
