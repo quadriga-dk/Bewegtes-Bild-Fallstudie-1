@@ -233,147 +233,7 @@ multiple_choice_ada6 = [{
 display_quiz(multiple_choice_ada6, colors=colors.jupyterquiz)
 ```
 
-### Frage 7
-
-```{code-cell} ipython3
-:tags: [remove-input]
-
-from jupyterquiz import display_quiz
-import sys
-sys.path.append("..")
-from quadriga_config import colors
-
-multiple_choice_ada8 = [{
-    "question": """Welche der folgenden Darstellungsoptionen können in der AdA-Timeline konfiguriert werden? (Wählen Sie alle zutreffenden Optionen)""",
-    "type": "multiple_choice",
-    "answers": [
-        {"answer": "representation (Darstellungsform wie rect, hist, wave)", "correct": True,
-         "feedback": "✓ Ja, dies legt die Visualisierungsart fest."},
-        {"answer": "height (Höhe der Darstellung in Pixeln)", "correct": True,
-         "feedback": "✓ Genau, zur Festlegung der visuellen Höhe."},
-        {"answer": "legend (Anzeige einer Legende)", "correct": True,
-         "feedback": "✓ Ja, für die Anzeige einer Legende zu den Farben und Formen."},
-        {"answer": "colorscheme (Farbschema für die Darstellung)", "correct": True,
-         "feedback": "✓ Richtig, zur Änderung der Farbgestaltung."},
-        {"answer": "labels (Anzeige einer Timecode-Leiste)", "correct": True,
-         "feedback": "✓ Korrekt, dient der besseren zeitlichen Orientierung."}
-    ]
-}]
-
-display_quiz(multiple_choice_ada8, colors=colors.jupyterquiz)
-```
-
-## Sektion III: Datenexploration, Interpretation und Methodenreflexion 
-
-### Frage 8
-Erläutern Sie, wie die AdA-Timeline zur Exploration und Interpretation audiovisueller Inszenierungsmuster genutzt werden kann. Beziehen Sie sich dabei auf konkrete Beispiele wie Schnittrhythmus, Bewegungsdynamik oder Farbgestaltung.
-
-
-```{code-cell} ipython3
-:tags: [remove-input]
-import sys
-sys.path.append("../quadriga_config")  # Adjust path as needed
-from assessment import create_answer_box
-
-create_answer_box('Assessment_E-9')
-```
-
-````{admonition} Lösung
-:class: solution, dropdown
-
-**Hilfestellung zur Antwort:**
-
-Gehen Sie näher auf den Zusammenhang zwischen der Visualisierung und der Identifikation von Mustern ein – was wird sichtbar?
-
-Wie kann die Synchronizität verschiedener Parameter analytisch greifbar gemacht werden? Reflektieren sie über die Rolle der Visualisierung im Interpretationsprozess und berücksichtigen Sie sowohl quantitative als auch qualitative Aspekte der Dateninterpretation.
-
-````
-
-### Frage 9
-
-```{code-cell} ipython3
-:tags: [remove-input]
-
-from jupyterquiz import display_quiz
-import sys
-sys.path.append("..")
-from quadriga_config import colors
-
-multiple_choice10 = [{
-    "question": """Welche der folgenden Aussagen beschreibt die Rolle der AdA-Timeline-Visualisierung im filmanalytischen Prozess am treffendsten?""",
-    "type": "multiple_choice",
-    "answers": [
-        {
-            "answer": "Die Visualisierung ersetzt die qualitative Interpretation des filmischen Materials",
-            "correct": False,
-            "feedback": """× Die Visualisierung ersetzt nicht die qualitative Interpretation, sondern ergänzt sie. Sie dient nicht ausschließlich der Validierung vorgefasster Hypothesen, sondern kann auch neue Erkenntnisse generieren. Sie ist mehr als ein technisches Hilfsmittel und hat eigenständigen Erkenntniswert im Forschungsprozess."""
-        },
-        {
-            "answer": "Die Visualisierung dient ausschließlich der empirischen Validierung vorgefasster Hypothesen",
-            "correct": False,
-            "feedback": """× Die Visualisierung ersetzt nicht die qualitative Interpretation, sondern ergänzt sie. Sie dient nicht ausschließlich der Validierung vorgefasster Hypothesen, sondern kann auch neue Erkenntnisse generieren. Sie ist mehr als ein technisches Hilfsmittel und hat eigenständigen Erkenntniswert im Forschungsprozess."""
-        },
-        {
-            "answer": "Die Visualisierung ist ein Medium des Denkens, das sowohl zur Exploration als auch zur Präsentation von Erkenntnissen dient",
-            "correct": True,
-            "feedback": """✓ Genau! Die AdA-Timeline-Visualisierung ist als Medium des Denkens zu verstehen, das sowohl der Exploration neuer Muster und Zusammenhänge als auch der Präsentation und Kommunikation von Erkenntnissen dient. Sie ist ein wesentlicher Bestandteil eines abduktiven Forschungsprozesses."""
-        },
-        {
-            "answer": "Die Visualisierung ist ein rein technisches Hilfsmittel ohne eigenständigen Erkenntniswert",
-            "correct": False,
-            "feedback": """× Die Visualisierung ersetzt nicht die qualitative Interpretation, sondern ergänzt sie. Sie dient nicht ausschließlich der Validierung vorgefasster Hypothesen, sondern kann auch neue Erkenntnisse generieren. Sie ist mehr als ein technisches Hilfsmittel und hat eigenständigen Erkenntniswert im Forschungsprozess."""
-        }
-    ]
-}]
-
-display_quiz(multiple_choice10, colors=colors.jupyterquiz)
-```
-
-### Frage 10
-
-A. Visualisierung kategorischer Werte wie Einstellungsgrößen oder Kamerabewegungstypen  
-B. Darstellung des Schnittrhythmus und der Einstellungsdauern  
-C. Visualisierung der Farbgestaltung und Farbwechsel im Film  
-D. Darstellung numerischer Werte wie Lautstärke oder Bewegungsintensität  
-
-```{code-cell} ipython3
-:tags: [remove-input]
-
-from jupyterquiz import display_quiz
-import sys
-sys.path.append("..")
-from quadriga_config import colors
-
-multiple_choice11 = [{
-    "question": """Ordnen Sie die folgenden Visualisierungsformen der AdA-Timeline richtigen Anwendungsfall zu""",
-    "type": "multiple_choice",
-    "answers": [
-        {
-            "answer": "A. Balkendiagramm (rect), B. Säulendiagramm (hist), C. Wellenform (wave) , D. Farbwerte (colorfield:parsed)",
-            "correct": False,
-            "feedback": """× Nicht korrekt! """
-        },
-        {
-            "answer": "A. Wellenform (wave), B. Balkendiagramm (rect), C. Farbwerte (colorfield:parsed), D. Säulenansicht (hist)",
-            "correct": False,
-            "feedback": """× Nicht korrekt! """
-        },
-        {
-            "answer": "A. Wellenform (wave), B. Farbwerte (colorfield:parsed), C. Balkendiagramm (rect), D. Säulenansicht (hist) ",
-            "correct": False,
-            "feedback": """× Nicht korrekt! """
-        },
-        {
-            "answer": "A. Balkendiagramm (rect), B. Säulendiagramm (hist), C. Farbwerte (colorfield:parsed), D. Wellenform (wave)",
-            "correct": True,
-            "feedback": """Ausgezeichnet! Sie verstehen, welche Visualisierungsformen für welche Arten von Annotationsdaten am besten geeignet sind. Diese Zuordnung ist wichtig für die Auswahl der optimalen Darstellung verschiedener filmischer Parameter."""
-        }
-    ]
-}]
-
-display_quiz(multiple_choice11, colors=colors.jupyterquiz)
-```
-### Frage 11
+### Frage 7 (a)
 
 ```{code-cell} ipython3
 :tags: [remove-input]
@@ -400,7 +260,7 @@ display_quiz(fill_in_blank_question1, colors=colors.jupyterquiz)
 
 ```
 
-### Frage 12
+### Frage 7 (b)
 
 ```{code-cell} ipython3
 :tags: [remove-input]
@@ -434,7 +294,7 @@ display_quiz(fill_in_blank_question2, colors=colors.jupyterquiz)
 
 ```
 
-### Frage 13
+### Frage 7 (c)
 
 ```{code-cell} ipython3
 :tags: [remove-input]
@@ -480,7 +340,149 @@ display_quiz(fill_in_blank_question3, colors=colors.jupyterquiz)
 
 ```
 
-### Frage 14
+
+### Frage 8
+
+```{code-cell} ipython3
+:tags: [remove-input]
+
+from jupyterquiz import display_quiz
+import sys
+sys.path.append("..")
+from quadriga_config import colors
+
+multiple_choice_ada8 = [{
+    "question": """Welche der folgenden Darstellungsoptionen können in der AdA-Timeline konfiguriert werden? (Wählen Sie alle zutreffenden Optionen)""",
+    "type": "multiple_choice",
+    "answers": [
+        {"answer": "representation (Darstellungsform wie rect, hist, wave)", "correct": True,
+         "feedback": "✓ Ja, dies legt die Visualisierungsart fest."},
+        {"answer": "height (Höhe der Darstellung in Pixeln)", "correct": True,
+         "feedback": "✓ Genau, zur Festlegung der visuellen Höhe."},
+        {"answer": "legend (Anzeige einer Legende)", "correct": True,
+         "feedback": "✓ Ja, für die Anzeige einer Legende zu den Farben und Formen."},
+        {"answer": "colorscheme (Farbschema für die Darstellung)", "correct": True,
+         "feedback": "✓ Richtig, zur Änderung der Farbgestaltung."},
+        {"answer": "labels (Anzeige einer Timecode-Leiste)", "correct": True,
+         "feedback": "✓ Korrekt, dient der besseren zeitlichen Orientierung."}
+    ]
+}]
+
+display_quiz(multiple_choice_ada8, colors=colors.jupyterquiz)
+```
+
+## Sektion III: Datenexploration, Interpretation und Methodenreflexion 
+
+### Frage 9
+Erläutern Sie, wie die AdA-Timeline zur Exploration und Interpretation audiovisueller Inszenierungsmuster genutzt werden kann. Beziehen Sie sich dabei auf konkrete Beispiele wie Schnittrhythmus, Bewegungsdynamik oder Farbgestaltung.
+
+
+```{code-cell} ipython3
+:tags: [remove-input]
+import sys
+sys.path.append("../quadriga_config")  # Adjust path as needed
+from assessment import create_answer_box
+
+create_answer_box('Assessment_E-9')
+```
+
+````{admonition} Lösung
+:class: solution, dropdown
+
+**Hilfestellung zur Antwort:**
+
+Gehen Sie näher auf den Zusammenhang zwischen der Visualisierung und der Identifikation von Mustern ein – was wird sichtbar?
+
+Wie kann die Synchronizität verschiedener Parameter analytisch greifbar gemacht werden? Reflektieren sie über die Rolle der Visualisierung im Interpretationsprozess und berücksichtigen Sie sowohl quantitative als auch qualitative Aspekte der Dateninterpretation.
+
+````
+
+### Frage 10
+
+```{code-cell} ipython3
+:tags: [remove-input]
+
+from jupyterquiz import display_quiz
+import sys
+sys.path.append("..")
+from quadriga_config import colors
+
+multiple_choice10 = [{
+    "question": """Welche der folgenden Aussagen beschreibt die Rolle der AdA-Timeline-Visualisierung im filmanalytischen Prozess am treffendsten?""",
+    "type": "multiple_choice",
+    "answers": [
+        {
+            "answer": "Die Visualisierung ersetzt die qualitative Interpretation des filmischen Materials",
+            "correct": False,
+            "feedback": """× Die Visualisierung ersetzt nicht die qualitative Interpretation, sondern ergänzt sie. Sie dient nicht ausschließlich der Validierung vorgefasster Hypothesen, sondern kann auch neue Erkenntnisse generieren. Sie ist mehr als ein technisches Hilfsmittel und hat eigenständigen Erkenntniswert im Forschungsprozess."""
+        },
+        {
+            "answer": "Die Visualisierung dient ausschließlich der empirischen Validierung vorgefasster Hypothesen",
+            "correct": False,
+            "feedback": """× Die Visualisierung ersetzt nicht die qualitative Interpretation, sondern ergänzt sie. Sie dient nicht ausschließlich der Validierung vorgefasster Hypothesen, sondern kann auch neue Erkenntnisse generieren. Sie ist mehr als ein technisches Hilfsmittel und hat eigenständigen Erkenntniswert im Forschungsprozess."""
+        },
+        {
+            "answer": "Die Visualisierung ist ein Medium des Denkens, das sowohl zur Exploration als auch zur Präsentation von Erkenntnissen dient",
+            "correct": True,
+            "feedback": """✓ Genau! Die AdA-Timeline-Visualisierung ist als Medium des Denkens zu verstehen, das sowohl der Exploration neuer Muster und Zusammenhänge als auch der Präsentation und Kommunikation von Erkenntnissen dient. Sie ist ein wesentlicher Bestandteil eines abduktiven Forschungsprozesses."""
+        },
+        {
+            "answer": "Die Visualisierung ist ein rein technisches Hilfsmittel ohne eigenständigen Erkenntniswert",
+            "correct": False,
+            "feedback": """× Die Visualisierung ersetzt nicht die qualitative Interpretation, sondern ergänzt sie. Sie dient nicht ausschließlich der Validierung vorgefasster Hypothesen, sondern kann auch neue Erkenntnisse generieren. Sie ist mehr als ein technisches Hilfsmittel und hat eigenständigen Erkenntniswert im Forschungsprozess."""
+        }
+    ]
+}]
+
+display_quiz(multiple_choice10, colors=colors.jupyterquiz)
+```
+
+### Frage 11
+
+A. Visualisierung kategorischer Werte wie Einstellungsgrößen oder Kamerabewegungstypen  
+B. Darstellung des Schnittrhythmus und der Einstellungsdauern  
+C. Visualisierung der Farbgestaltung und Farbwechsel im Film  
+D. Darstellung numerischer Werte wie Lautstärke oder Bewegungsintensität  
+
+```{code-cell} ipython3
+:tags: [remove-input]
+
+from jupyterquiz import display_quiz
+import sys
+sys.path.append("..")
+from quadriga_config import colors
+
+multiple_choice11 = [{
+    "question": """Ordnen Sie die folgenden Visualisierungsformen der AdA-Timeline richtigen Anwendungsfall zu""",
+    "type": "multiple_choice",
+    "answers": [
+        {
+            "answer": "A. Balkendiagramm (rect), B. Säulendiagramm (hist), C. Wellenform (wave) , D. Farbwerte (colorfield:parsed)",
+            "correct": False,
+            "feedback": """× Nicht korrekt! """
+        },
+        {
+            "answer": "A. Wellenform (wave), B. Balkendiagramm (rect), C. Farbwerte (colorfield:parsed), D. Säulenansicht (hist)",
+            "correct": False,
+            "feedback": """× Nicht korrekt! """
+        },
+        {
+            "answer": "A. Wellenform (wave), B. Farbwerte (colorfield:parsed), C. Balkendiagramm (rect), D. Säulenansicht (hist) ",
+            "correct": False,
+            "feedback": """× Nicht korrekt! """
+        },
+        {
+            "answer": "A. Balkendiagramm (rect), B. Säulendiagramm (hist), C. Farbwerte (colorfield:parsed), D. Wellenform (wave)",
+            "correct": True,
+            "feedback": """Ausgezeichnet! Sie verstehen, welche Visualisierungsformen für welche Arten von Annotationsdaten am besten geeignet sind. Diese Zuordnung ist wichtig für die Auswahl der optimalen Darstellung verschiedener filmischer Parameter."""
+        }
+    ]
+}]
+
+display_quiz(multiple_choice11, colors=colors.jupyterquiz)
+```
+
+### Frage 12
 Reflektieren Sie über die Grenzen und Potenziale der AdA-Timeline für die filmwissenschaftliche Analyse. Wo sehen Sie Stärken und wo Einschränkungen dieses Visualisierungsansatzes?
 
 ```{code-cell} ipython3
