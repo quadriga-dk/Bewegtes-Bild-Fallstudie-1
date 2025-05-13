@@ -1,4 +1,4 @@
 jupyter-book==1.0.*
 matplotlib
 numpy==2.2.*
-jupyterquiz==2.8.*
+jupyterquiz==2.9.*

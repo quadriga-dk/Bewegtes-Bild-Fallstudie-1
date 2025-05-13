@@ -397,4 +397,109 @@ create_answer_box('Assessment_E-12')
 - Methodologische Reflexion: Verhältnis zwischen Quantifizierung und Interpretation, Rolle der Visualisierung im hermeneutischen Prozess
 
 ````
+## Frage 12
 
+```{code-cell} ipython3
+:tags: [remove-input]
+
+from jupyterquiz import display_quiz
+import sys
+sys.path.append("..")
+from quadriga_config import colors
+
+fill_in_blank_question1 = [{
+    "question": "In der AdA-Timeline werden Syntaxelemente mit dem Zeichen ________ voneinander getrennt.",
+    "type": "string",
+    "answers": [
+        {
+            "answer": "&",
+            "correct": True,
+            "feedback": "Excellent!"
+        }
+    ]
+}]
+
+
+display_quiz(fill_in_blank_question1, colors=colors.jupyterquiz)
+
+```
+
+## Frage 13
+
+```{code-cell} ipython3
+:tags: [remove-input]
+
+from jupyterquiz import display_quiz
+import sys
+sys.path.append("..")
+from quadriga_config import colors
+
+fill_in_blank_question2 = [{
+    "question": "Um einen spezifischen Zeitabschnitt festzulegen, wird das Syntaxelement ________ verwendet, gefolgt von Start- und Endzeit, getrennt durch ein ________. Bitte geben Sie Ihre Antworten in der folgenden Form ein: Antwort1, Antwort2",
+    "type": "string",
+    "answers": [
+        {
+            "answer": "&t=, Komma",
+            "correct": True,
+            "match_case": False,
+            "feedback": "Sehr gut!"
+        },
+        {
+            "answer": "&t=,Komma",
+            "correct": True,
+            "match_case": False,
+            "feedback": "Sehr gut!"
+        }
+    ]
+}]
+
+
+display_quiz(fill_in_blank_question2, colors=colors.jupyterquiz)
+
+```
+
+## Frage 14
+
+```{code-cell} ipython3
+:tags: [remove-input]
+
+from jupyterquiz import display_quiz
+import sys
+sys.path.append("..")
+from quadriga_config import colors
+
+fill_in_blank_question3 = [{
+    "question": """Die Darstellungsoptionen für einzelne Annotationstypen werden in ________ nach der ID des Typs angegeben. Möchte man mehrere Darstellungsoptionen für einen Typ definieren, werden diese durch ein ________ voneinander getrennt. Bitte geben Sie Ihre Antworten in der folgenden Form ein: Antwort1, Antwort2""",
+    "type": "string",
+    "answers": [
+        {
+            "answer": "Klammern, Leerzeichen",
+            "correct": True,
+            "match_case": False,
+            "feedback": "Richtig!"
+        },
+        {
+            "answer": "Klammern,Leerzeichen",
+            "correct": True,
+            "match_case": False,
+            "feedback": "Richtig!"
+        },
+        {
+            "answer": "brackets, space",
+            "correct": True,
+            "match_case": False,
+            "feedback": "Richtig!"
+        },
+        {
+            "answer": "brackets,space",
+            "correct": True,
+            "match_case": False,
+            "feedback": "Richtig!"
+        }
+    ]
+}]
+
+
+display_quiz(fill_in_blank_question3, colors=colors.jupyterquiz)
+
+```
