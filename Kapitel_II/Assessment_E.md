@@ -233,7 +233,115 @@ multiple_choice_ada6 = [{
 display_quiz(multiple_choice_ada6, colors=colors.jupyterquiz)
 ```
 
-### Frage 7
+### Frage 7 (a)
+
+```{code-cell} ipython3
+:tags: [remove-input]
+
+from jupyterquiz import display_quiz
+import sys
+sys.path.append("..")
+from quadriga_config import colors
+
+fill_in_blank_question1 = [{
+    "question": "In der AdA-Timeline werden Syntaxelemente mit dem Zeichen ________ voneinander getrennt.",
+    "type": "string",
+    "answers": [
+        {
+            "answer": "&",
+            "correct": True,
+            "feedback": "Excellent!"
+        }
+    ]
+}]
+
+
+display_quiz(fill_in_blank_question1, colors=colors.jupyterquiz)
+
+```
+
+### Frage 7 (b)
+
+```{code-cell} ipython3
+:tags: [remove-input]
+
+from jupyterquiz import display_quiz
+import sys
+sys.path.append("..")
+from quadriga_config import colors
+
+fill_in_blank_question2 = [{
+    "question": "Um einen spezifischen Zeitabschnitt festzulegen, wird das Syntaxelement ________ verwendet, gefolgt von Start- und Endzeit, getrennt durch ein ________. Bitte geben Sie Ihre Antworten in der folgenden Form ein: Antwort1, Antwort2",
+    "type": "string",
+    "answers": [
+        {
+            "answer": "&t=, Komma",
+            "correct": True,
+            "match_case": False,
+            "feedback": "Sehr gut!"
+        },
+        {
+            "answer": "&t=,Komma",
+            "correct": True,
+            "match_case": False,
+            "feedback": "Sehr gut!"
+        }
+    ]
+}]
+
+
+display_quiz(fill_in_blank_question2, colors=colors.jupyterquiz)
+
+```
+
+### Frage 7 (c)
+
+```{code-cell} ipython3
+:tags: [remove-input]
+
+from jupyterquiz import display_quiz
+import sys
+sys.path.append("..")
+from quadriga_config import colors
+
+fill_in_blank_question3 = [{
+    "question": """Die Darstellungsoptionen für einzelne Annotationstypen werden in ________ nach der ID des Typs angegeben. Möchte man mehrere Darstellungsoptionen für einen Typ definieren, werden diese durch ein ________ voneinander getrennt. Bitte geben Sie Ihre Antworten in der folgenden Form ein: Antwort1, Antwort2""",
+    "type": "string",
+    "answers": [
+        {
+            "answer": "Klammern, Leerzeichen",
+            "correct": True,
+            "match_case": False,
+            "feedback": "Richtig!"
+        },
+        {
+            "answer": "Klammern,Leerzeichen",
+            "correct": True,
+            "match_case": False,
+            "feedback": "Richtig!"
+        },
+        {
+            "answer": "brackets, space",
+            "correct": True,
+            "match_case": False,
+            "feedback": "Richtig!"
+        },
+        {
+            "answer": "brackets,space",
+            "correct": True,
+            "match_case": False,
+            "feedback": "Richtig!"
+        }
+    ]
+}]
+
+
+display_quiz(fill_in_blank_question3, colors=colors.jupyterquiz)
+
+```
+
+
+### Frage 8
 
 ```{code-cell} ipython3
 :tags: [remove-input]
@@ -265,7 +373,7 @@ display_quiz(multiple_choice_ada8, colors=colors.jupyterquiz)
 
 ## Sektion III: Datenexploration, Interpretation und Methodenreflexion 
 
-### Frage 8
+### Frage 9
 Erläutern Sie, wie die AdA-Timeline zur Exploration und Interpretation audiovisueller Inszenierungsmuster genutzt werden kann. Beziehen Sie sich dabei auf konkrete Beispiele wie Schnittrhythmus, Bewegungsdynamik oder Farbgestaltung.
 
 
@@ -289,7 +397,7 @@ Wie kann die Synchronizität verschiedener Parameter analytisch greifbar gemacht
 
 ````
 
-### Frage 9
+### Frage 10
 
 ```{code-cell} ipython3
 :tags: [remove-input]
@@ -329,7 +437,7 @@ multiple_choice10 = [{
 display_quiz(multiple_choice10, colors=colors.jupyterquiz)
 ```
 
-### Frage 10
+### Frage 11
 
 A. Visualisierung kategorischer Werte wie Einstellungsgrößen oder Kamerabewegungstypen  
 B. Darstellung des Schnittrhythmus und der Einstellungsdauern  
@@ -374,7 +482,7 @@ multiple_choice11 = [{
 display_quiz(multiple_choice11, colors=colors.jupyterquiz)
 ```
 
-### Frage 11
+### Frage 12
 Reflektieren Sie über die Grenzen und Potenziale der AdA-Timeline für die filmwissenschaftliche Analyse. Wo sehen Sie Stärken und wo Einschränkungen dieses Visualisierungsansatzes?
 
 ```{code-cell} ipython3
