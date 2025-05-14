@@ -33,7 +33,7 @@ Viel Erfolg!
 
 ## Sektion I: Verständnis von Filmsegmentierung und Basisparametern
 
-#### Frage 1
+### Frage 1
 
 ```{code-cell} ipython3
 :tags: [remove-input]

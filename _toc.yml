@@ -55,6 +55,7 @@ chapters:
     sections: 
       - file: Kapitel_III/Zusammenfassung
       - file: Kapitel_III/Ausblick
+      - file: Kapitel_III/Summatives_Assessment
   - file: Epilog/toc
     sections:
       - file: Epilog/Fragen und Feedback
