@@ -108,7 +108,7 @@ Dieser Selbsteinschätzungsbogen soll Ihnen helfen, Ihre erworbenen Kompetenzen 
 
 ```{admonition} Achtung
 :class: caution
-Die Checkboxen sind interaktiv, d.h., dass Sie sie für die temporäre Nutzung innerhalb einer Session anklicken können. Bitte beachten Sie jedoch, dass der Arbeitsstand nicht gespeichert wird. Für eine dauerhafte Nutzung laden Sie sich den Selbsteinschätzungsbogen als PDF herunter. 
+Die Checkboxen sind interaktiv, d.h., dass Sie sie für die (temporäre) Nutzung innerhalb einer Browsersession anklicken können. Bitte beachten Sie jedoch, dass der Arbeitsstand nicht gespeichert wird, sobald Sie Ihre Browserhistory löschen. Für eine dauerhafte Nutzung laden Sie sich den Selbsteinschätzungsbogen als PDF herunter. 
 ```
 ### Teil I: Methodische Grundkompetenzen
 
