@@ -110,3 +110,252 @@ Dieser Selbsteinschätzungsbogen soll Ihnen helfen, Ihre erworbenen Kompetenzen 
 :class: caution
 Die Checkboxen sind interaktiv, d.h., dass Sie sie für die temporäre Nutzung innerhalb einer Session anklicken können. Bitte beachten Sie jedoch, dass der Arbeitsstand nicht gespeichert wird. Für eine dauerhafte Nutzung laden Sie sich den Selbsteinschätzungsbogen als PDF herunter. 
 ```
+### Teil I: Methodische Grundkompetenzen
+
+#### Tabellarische Annotation
+
+<ul>
+  <li><input type="checkbox" id="cb1"> Grundlegend: Ich kann einfache tabellarische Annotationen erstellen, habe aber Schwierigkeiten bei komplexeren Parametern.</li>
+  <li><input type="checkbox" id="cb2"> Fortgeschritten: Ich kann tabellarische Annotationen mit verschiedenen Parametern systematisch erstellen.</li>
+  <li><input type="checkbox" id="cb3"> Expert:in: Ich kann tabellarische Annotationen effizient erstellen und ihre Grenzen kritisch reflektieren.</li>
+</ul>
+
+<script>
+
+  const ids = ['cb1', 'cb2', 'cb3'];
+
+
+  ids.forEach(id => {
+    const el = document.getElementById(id);
+    el.checked = localStorage.getItem(id) === 'true';
+    el.addEventListener('change', () => {
+      localStorage.setItem(id, el.checked);
+    });
+  });
+</script>
+
+**Reflexionsfrage**: Welche Herausforderungen sind mir bei der tabellarischen Annotation begegnet und wie habe ich sie gelöst?
+
+#### Digitale Annotationstools (Advene, ELAN)
+
+<ul>
+  <li><input type="checkbox" id="cb1"> Grundlegend: Ich kann grundlegende Funktionen der Tools bedienen, brauche aber oft Hilfe.</li>
+  <li><input type="checkbox" id="cb2"> Fortgeschritten: Ich kann Annotationstypen erstellen, Annotationen vornehmen und Grundfunktionen der Tools sicher nutzen.</li>
+  <li><input type="checkbox" id="cb3"> Expert:in: Ich kann erweiterte Funktionen der Tools nutzen und effiziente Arbeitsabläufe gestalten.</li>
+</ul>
+
+<script>
+
+  const ids = ['cb1', 'cb2', 'cb3'];
+
+
+  ids.forEach(id => {
+    const el = document.getElementById(id);
+    el.checked = localStorage.getItem(id) === 'true';
+    el.addEventListener('change', () => {
+      localStorage.setItem(id, el.checked);
+    });
+  });
+</script>
+
+**Reflexionsfrage**: Welche Funktionen der Tools finde ich besonders nützlich für meine Analysezwecke und warum?
+
+#### Semantic Web Prinzipien
+
+<ul>
+  <li><input type="checkbox" id="cb1"> Grundlegend: Ich verstehe grundlegende Konzepte wie Triple, aber habe Schwierigkeiten bei komplexeren Strukturen.</li>
+  <li><input type="checkbox" id="cb2"> Fortgeschritten: Ich kann filmanalytische Begriffe in semantische Triple überführen und ihre Beziehungen verstehen.</li>
+  <li><input type="checkbox" id="cb3"> Expert:in: Ich kann selbstständig systematische Datenmodelle nach Semantic Web Prinzipien entwickeln.</li>
+</ul>
+
+<script>
+
+  const ids = ['cb1', 'cb2', 'cb3'];
+
+
+  ids.forEach(id => {
+    const el = document.getElementById(id);
+    el.checked = localStorage.getItem(id) === 'true';
+    el.addEventListener('change', () => {
+      localStorage.setItem(id, el.checked);
+    });
+  });
+</script>
+
+**Reflexionsfrage**: Wie verändert das Denken in semantischen Strukturen meine Herangehensweise an Film- und Medienanalyse?
+
+### Teil II: Arbeit mit der AdA-Filmontologie
+
+#### Verständnis der AdA-Filmontologie
+
+<ul>
+  <li><input type="checkbox" id="cb1"> Grundlegend: Ich kenne die grundlegende Struktur (Ebenen, Typen, Werte), habe aber Schwierigkeiten bei der Anwendung.</li>
+  <li><input type="checkbox" id="cb2"> Fortgeschritten: Ich kann die Ontologie sicher anwenden und angemessene Werte zuordnen.</li>
+  <li><input type="checkbox" id="cb3"> Expert:in: Ich verstehe die konzeptionellen Grundlagen der Ontologie und kann sie kritisch reflektieren.</li>
+</ul>
+
+<script>
+
+  const ids = ['cb1', 'cb2', 'cb3'];
+
+
+  ids.forEach(id => {
+    const el = document.getElementById(id);
+    el.checked = localStorage.getItem(id) === 'true';
+    el.addEventListener('change', () => {
+      localStorage.setItem(id, el.checked);
+    });
+  });
+</script>
+
+**Reflexionsfrage**: Welche Stärken und Grenzen sehe ich in der hierarchischen Struktur der AdA-Filmontologie?
+
+#### Erstellung von Annotationen mit der AdA-Filmontologie
+
+<ul>
+  <li><input type="checkbox" id="cb1"> Grundlegend: Ich kann einfache Annotationen mit vordefinierten Werten erstellen.</li>
+  <li><input type="checkbox" id="cb2"> Fortgeschritten: Ich kann komplexe Annotationen erstellen und Syntaxelemente wie [TO] und [VS] sinnvoll einsetzen.</li>
+  <li><input type="checkbox" id="cb3"> Expert:in: Ich kann umfassende Annotationspakete effizient erstellen und potenzielle Erweiterungen der Ontologie identifizieren.</li>
+</ul>
+
+<script>
+
+  const ids = ['cb1', 'cb2', 'cb3'];
+
+
+  ids.forEach(id => {
+    const el = document.getElementById(id);
+    el.checked = localStorage.getItem(id) === 'true';
+    el.addEventListener('change', () => {
+      localStorage.setItem(id, el.checked);
+    });
+  });
+</script>
+
+**Reflexionsfrage**: Bei welchen filmischen Phänomenen stoße ich mit der AdA-Filmontologie an Grenzen, und wie könnte ich diese überwinden?
+
+#### Qualitätssicherung und Fehlerkorrektur
+
+<ul>
+  <li><input type="checkbox" id="cb1"> Grundlegend: Ich kann offensichtliche Fehler in meinen Annotationen identifizieren.</li>
+  <li><input type="checkbox" id="cb2"> Fortgeschritten: Ich kann systematisch Fehler mit Hilfe der Checker-Funktion finden und korrigieren.</li>
+  <li><input type="checkbox" id="cb3"> Expert:in: Ich habe Strategien entwickelt, um konsistente und präzise Annotationen zu gewährleisten.</li>
+</ul>
+
+<script>
+
+  const ids = ['cb1', 'cb2', 'cb3'];
+
+
+  ids.forEach(id => {
+    const el = document.getElementById(id);
+    el.checked = localStorage.getItem(id) === 'true';
+    el.addEventListener('change', () => {
+      localStorage.setItem(id, el.checked);
+    });
+  });
+</script>
+
+**Reflexionsfrage**: Welche Qualitätssicherungsroutinen habe ich etabliert und wie könnte ich sie verbessern?
+
+### Teil III: Visualisierung und Interpretation
+
+#### Konfiguration der AdA-Timeline
+
+<ul>
+  <li><input type="checkbox" id="cb1"> Grundlegend: Ich kann einfache Visualisierungen mit Standard-Einstellungen erstellen.</li>
+  <li><input type="checkbox" id="cb2"> Fortgeschritten: Ich kann die Timeline gezielt mit verschiedenen Darstellungsoptionen konfigurieren.</li>
+  <li><input type="checkbox" id="cb3"> Expert:in: Ich kann komplexe Visualisierungen erstellen, die spezifische analytische Fragestellungen adressieren.</li>
+</ul>
+
+<script>
+
+  const ids = ['cb1', 'cb2', 'cb3'];
+
+
+  ids.forEach(id => {
+    const el = document.getElementById(id);
+    el.checked = localStorage.getItem(id) === 'true';
+    el.addEventListener('change', () => {
+      localStorage.setItem(id, el.checked);
+    });
+  });
+</script>
+
+**Reflexionsfrage**: Wie verändert die dynamische Visualisierung mein Verständnis filmischer Zeitstrukturen und Ausdrucksbewegungen?
+
+#### Hypothesenbildung und -überprüfung
+
+<ul>
+  <li><input type="checkbox" id="cb1"> Grundlegend: Ich kann einfache Hypothesen formulieren und sie mit den Daten in Beziehung setzen.</li>
+  <li><input type="checkbox" id="cb2"> Fortgeschritten: Ich kann komplexe Hypothesen entwickeln und systematisch mit den Daten überprüfen.</li>
+  <li><input type="checkbox" id="cb3"> Expert:in: Ich kann aus der Datenexploration neue Hypothesen generieren und methodisch reflektiert überprüfen.</li>
+</ul>
+
+<script>
+
+  const ids = ['cb1', 'cb2', 'cb3'];
+
+
+  ids.forEach(id => {
+    const el = document.getElementById(id);
+    el.checked = localStorage.getItem(id) === 'true';
+    el.addEventListener('change', () => {
+      localStorage.setItem(id, el.checked);
+    });
+  });
+</script>
+
+**Reflexionsfrage**: Wie hat sich mein Verhältnis zu Hypothesen durch die datengestützte Analyse verändert oder beeinflusst?
+
+### Teil IV: Kritische Reflexion und Transfer
+
+#### Methodenreflexion
+
+<ul>
+  <li><input type="checkbox" id="cb1"> Grundlegend: Ich kann grundlegende Stärken und Schwächen der vorgestellten Methoden benennen.</li>
+  <li><input type="checkbox" id="cb2"> Fortgeschritten: Ich kann detailliert die Eignung verschiedener Methoden für unterschiedliche Forschungsfragen diskutieren.</li>
+  <li><input type="checkbox" id="cb3"> Expert:in: Ich kann die vorgestellten Methoden im Kontext digitaler Filmanalyse umfassend kritisch reflektieren.</li>
+</ul>
+
+<script>
+
+  const ids = ['cb1', 'cb2', 'cb3'];
+
+
+  ids.forEach(id => {
+    const el = document.getElementById(id);
+    el.checked = localStorage.getItem(id) === 'true';
+    el.addEventListener('change', () => {
+      localStorage.setItem(id, el.checked);
+    });
+  });
+</script>
+
+**Reflexionsfrage**: Wie verändert die Arbeit mit digitalen Annotationsmethoden mein Verständnis des Verhältnisses zwischen subjektiver Erfahrung und empirischer Analyse?
+
+#### Anwendung auf eigene Forschungsfragen
+
+<ul>
+  <li><input type="checkbox" id="cb1"> Grundlegend: Ich kann die Methoden auf vorgegebene Beispiele anwenden.</li>
+  <li><input type="checkbox" id="cb2"> Fortgeschritten: Ich kann die Methoden für eigene Forschungsfragen adaptieren.</li>
+  <li><input type="checkbox" id="cb3"> Expert:in: Ich kann eigenständig Forschungsdesigns entwickeln, die die vorgestellten Methoden kreativ nutzen und weiterentwickeln.</li>
+</ul>
+
+<script>
+
+  const ids = ['cb1', 'cb2', 'cb3'];
+
+
+  ids.forEach(id => {
+    const el = document.getElementById(id);
+    el.checked = localStorage.getItem(id) === 'true';
+    el.addEventListener('change', () => {
+      localStorage.setItem(id, el.checked);
+    });
+  });
+</script>
+
+**Reflexionsfrage**: Welche konkreten Forschungsfragen würde ich mit den erlernten Methoden gerne untersuchen und welche Anpassungen wären dafür nötig?
+
+Mit der vorliegenden Selbsteinschätzung endet die inhaltliche Arbeit dieses Lehrwerks. Sie bietet die Möglichkeit, den individuellen Lernfortschritt zu reflektieren und zentrale Kompetenzen der Fallstudie abschließend zu verorten.
