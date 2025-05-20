@@ -104,7 +104,7 @@ Verfassen Sie eine methodenkritische Gesamteinschätzung der Fallstudie. Gehen S
 
 ## Selbsteinschätzungsbogen
 
-Dieser Selbsteinschätzungsbogen soll Ihnen helfen, Ihre erworbenen Kompetenzen zu reflektieren und Bereiche zu identifizieren, in denen Sie sich weiterentwickeln können. Bewerten Sie Ihre Fähigkeiten in den verschiedenen Bereichen ehrlich und nutzen Sie die Reflexionsfragen, um Ihr Verständnis zu vertiefen. Der Selbsteinschätzungsbogen ist auch lokal als PDF nutzbar. 
+Dieser Selbsteinschätzungsbogen soll Ihnen helfen, Ihre erworbenen Kompetenzen zu reflektieren und Bereiche zu identifizieren, in denen Sie sich weiterentwickeln können. Bewerten Sie Ihre Fähigkeiten in den verschiedenen Bereichen ehrlich und nutzen Sie die Reflexionsfragen, um Ihr Verständnis zu vertiefen. Der Selbsteinschätzungsbogen ist auch lokal als [PDF](../assets/QUADRIGA_Selbsteinschätzungsbogen_FS_Bewegtes-Bild_1_001.pdf) nutzbar. 
 
 ```{admonition} Achtung
 :class: caution
