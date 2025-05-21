@@ -53,7 +53,7 @@ chapters:
       - file: Kapitel_II/Assessment_E
   - file: Kapitel_III/toc
     sections: 
-      - file: Kapitel_III/Zusammenfassung
+      - file: Kapitel_III/Reflexion_Resümee
       - file: Kapitel_III/Ausblick
       - file: Kapitel_III/Summatives_Assessment
   - file: Epilog/toc
