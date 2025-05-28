@@ -41,7 +41,6 @@ Laut der Definition der UNESCO sind "Open Educational Resources (OER) Bildungsma
 Die vorliegende Fallstudie "Affektrhetorik in Online-Videos zur Klimakrise. Datengestützte Analysen audiovisueller Muster", die als <a href="https://open-educational-resources.de/was-ist-oer-3-2/" class="external-link" target="_blank">Open Educational Ressource</a> in Form eines interaktiven <a href="https://jupyterbook.org/en/stable/intro.html" class="external-link" target="_blank">Jupyter Books</a> als Lehrbuch zur Verfügung steht, soll am Beispiel von Online-Videos zur Klimakrise modellhaft zeigen, inwiefern sich politische Zielsetzungen in audiovisuellen Diskursen auf die ihnen zugrunde liegenden Inszenierungsmuster (im Konkreten: Gestaltungsweisen durch Musik, Montage, Farb- und Helligkeitsbeziehungen usw.) beziehen lassen. 
 Im Vordergrund des Forschungsansatzes steht die Fähigkeit, multimodale und temporale Muster durch die Herstellung und Visualisierung von Primärdaten erkennen und qualifizieren zu können. Zur Durchführung methodischer Analysen werden Annotationsdaten erstellt. Es soll also gezeigt werden, wie mit filmanalytischen Daten nachvollzogen werden kann, welche emotionalen Strategien und Inszenierungen in Online-Videos zur Klimakrise eingesetzt werden – von der tabellarischen Erfassung bis hin zur visuellen Darstellung zeitlicher und mehrdimensionaler (multimodaler) Abläufe.
 
-Die Fallstudie ist unterteilt in fünf Arbeitsschritte, die Gliederung ist links in der Menüleiste jederzeit einsehbar.
 
 ## Zielgruppe
 Die Fallstudie richtet sich an:
@@ -55,15 +54,31 @@ der Fachrichtungen Film- und Medienwissenschaft. Auch Interessierte aus verwandt
 
 **Vorkenntnisse sind von Vorteil, aber keine zwingende Voraussetzung.**
 
+## Workflow der datengestützten Filmanalyse
+
+Basierend auf der Arbeit an unserer Fallstudie stellen wir Ihnen einen systematischen Workflow vor, den wir entwickelt und visualisert haben, um einen Gesamtüberblick über die Arbeitschritte zu ermöglichen. Wer unsere OER vollständig durcharbeitet, soll am Ende in der Lage sein, ein eigenes Forschungsvorhaben entlang dieses Schemas zu konzipieren. Im [letzten Abschnitt](./Kapitel_III/Summatives_Assessment.md) findet sich dazu ein anwendungsorientiertes Assessment, das zur Übertragung des Gelernten auf ein eigenes Projekt anleitet – ergänzt durch eine umfangreiche Dokumentation des hier präsentierten Workflows als Orientierungshilfe. 
+
+```{figure} ../Bewegtes-Bild-Fallstudie-1/assets/Workflow_datengestützte_Filmanalyse.png
+:name: workflow-filmanalyse-2
+
+Workflow der datengestützten Filmanalyse
+```
+
+```{admonition} Hinweis zum Workflow
+:class: hinweis
+Der entwickelte Workflow reflektiert die zentralen Arbeitsschritte unseres methodischen Vorgehens. Diese OER soll es Ihnen ermöglichen, auf Grundlage dieses Schemas ein eigenes, fundiertes Forschungsvorhaben zu entwerfen.
+``` 
+
+## Aufbau der Lernmodule
+
+Um die eigenständige Durchführung datengestützter Filmanalyse entlang des vorgestellten Workflow-Schemas zu ermöglichen, haben wir fünf Arbeitsschritte als eigene Lernmodule aufbereitet, die jeweils spezifische Lernziele verfolgen. Am Ende jeder Aufgabe sollen Sie in der Lage sein, die formulierten Anforderungen erfolgreich umsetzen zu können. Durch bereitgestellte Lösungsstrategien und Lernstandkontrollen haben Sie zudem die Möglichkeit, ihre Ergebnisse zu überprüfen und ihr Verständnis zu vertiefen.
+
 ```{admonition} Hinweis: Vorerfahrung
 :class: hinweis
 Die Fallstudie verfolgt das Ziel, den Zusammenhang zwischen einem Einstellungsprotokoll, der Nutzung von Annotationstools und der Entwicklung sowie Anwendung einer komplexen, maschinenlesbaren Ontologie verständlich zu vermitteln. Dazu sind die Lernmodule modular aufgebaut: Nutzer:innen mit Vorkenntnissen können optionale Aufgaben überspringen (diese sind gekennzeichnet), während Einsteiger:innen den strukturierten Aufgabenverlauf nutzen können, um sich schrittweise das erforderliche Wissen anzueignen.
 ```
 
-## Aufbau der Übungen
-Die Fallstudie gliedert sich in verschiedene Aufgabenbereiche, die jeweils spezifische Lernziele verfolgen. Am Ende jeder Aufgabe sollen die Nutzer:innen die formulierten Anforderungen erfolgreich umsetzen können. Durch bereitgestellte Lösungsstrategien und Lernstandkontrollen haben sie zudem die Möglichkeit, ihre Ergebnisse zu überprüfen und ihr Verständnis zu vertiefen.
-
-### Kurzbeschreibung der Aufgaben
+### Kurzbeschreibung der Lernmodule
 
 ````{margin}
 ➡️ <span style="color:blue">*optional*</span>
@@ -105,7 +120,7 @@ Aufgabenfluss der OER
 ```
 ## Zugangsweg und Bearbeitungszeit
 
-Dieses interaktive Lehrbuch wird Ihnen im "📘 Book Only Mode" bereitgestellt. Dies bedeutet, dass Sie das Lehrbuch in Ihrem Browser mit eingeschränkten Interaktionsmöglichkeiten durcharbeiten können. Für diesen Zugangsweg benötigen Sie keine Programmierkenntnisse oder Erfahrung mit Jupyter Notebooks. Beachten Sie jedoch, dass einige Lerneinheiten die lokale Installation externer Anwendungen oder das Herunterladen und Verwenden von Dateien (z.B. Manuals) erfordern. Mehr zu weiteren verfügbaren Zugangswegen erfahren Sie.
+Dieses interaktive Lehrbuch wird Ihnen im "📘 Book Only Mode" bereitgestellt. Dies bedeutet, dass Sie das Lehrbuch in Ihrem Browser mit eingeschränkten Interaktionsmöglichkeiten durcharbeiten können. Für diesen Zugangsweg benötigen Sie keine Programmierkenntnisse oder Erfahrung mit Jupyter Notebooks. Beachten Sie jedoch, dass einige Lerneinheiten die lokale Installation externer Anwendungen oder das Herunterladen und Verwenden von Dateien (z.B. Manuals) erfordern.
 
 Zu Beginn jeder Lerneinheit wird die geschätzte Bearbeitungszeit angegeben. Dies hilft Ihnen, Ihre Zeit effektiv zu planen und die Lerneinheiten strukturiert zu bearbeiten. Für das Self-Assessment am Ende jeder Lerneinheit wird die Bearbeitungsdauer separat angegeben und ist nicht in der geschätzten Dauer der Lerneinheit selbst enthalten.
 
