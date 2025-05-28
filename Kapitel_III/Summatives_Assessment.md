@@ -71,7 +71,6 @@ Berücksichtigen Sie bei der Konzeption Ihres Forschungsvorhabens einen Zeitplan
 
 Folgende Punkte sollen Ihnen bei der Konzeption helfen:
 
-
 * Entwickeln Sie eine geeignete Forschungsfrage zu einem Thema Ihrer Wahl, die Sie mithilfe datengestützter Annotation beantworten können
 * Setzen Sie einen theoretischen Rahmen und recherchieren Sie Kontexte und Hintergründe zu Ihrem Thema
 * Überlegen Sie sich, wie sie die AdA-Filmontologie für Ihr Forschungsvorhaben nutzen können und passen Sie die Auswahl der zu annotierenden Typen an Ihren Untersuchungsgegenstand an
@@ -85,6 +84,16 @@ Folgende Punkte sollen Ihnen bei der Konzeption helfen:
 :class: hinweis
 Nutzen Sie für Ihre Visualisierung die AdA-Timeline und explorieren Sie unter Zuhilfenahme entsprechender Konfigurationsoptionen die Annotationsdaten. Welche Rückschlüsse lassen die empirischen Datensätze in Bezug auf affektrhetorische Mittel und Inszenierungsmuster zu? Wie korrelieren verschiedene Annotationsspuren, z.B. hinsichtlich der Schnittfrequenz, der rhythmischen Komposition oder den dialogischen Sprechakten, miteinander? 
 ```
+Der Workflow der datengestützen Filmanalyse, den wir in unserer [Einführung](../intro.md) vorgestellt haben, soll Ihnen bei der Konzeption Ihres eigenen Forschungsvorhabens als Orientierung dienen:
+
+```{figure} ../assets/Workflow_datengestützte_Filmanalyse.png
+:name: workflow-filmanalyse
+
+Workflow der datengestützten Filmanalyse
+```
+
+Zudem haben wir eine detaillierte [Dokumentation dieses Workflows](../assets/QUADRIGA_Workflowdokumentation_Fallstudie_Bewegtes_Bild_1.pdf) zusammengestellt, in denen Sie konkrete Anhaltspunkte zur methodischen Vorgehensweise erhalten und gleichzeitig unseren Forschungsprozess transparent nachvollziehen können. Selbstverständlich können und sollten Sie den präsentierten Workflow an Ihre spezifischen Forschungsfragen und persönlichen Arbeitspräferenzen anpassen. 
+
 ## Übergreifende methodenkritische Evaluation
 
 ````{margin}
