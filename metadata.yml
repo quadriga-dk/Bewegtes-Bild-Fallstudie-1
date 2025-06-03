@@ -1,8 +1,7 @@
 # yaml-language-server: $schema=quadriga-schema.json
 schema-version: 1.1-beta2
 book-version: 0.51.0
-title: 'Bewegtes Bild: Emotionalisierungen. QUADRIGA OERs: erstellen und gestalten
-  mit Jupyter Book. QUADRIGA Open Educational Resources: Template'
+title: 'Bewegtes Bild: Emotionalisierungen'
 description:
   introduction: Diese OER vermittelt Methoden der Filmanalyse mit digitalen Annotationswerkzeugen.
     Anhand eines Online-Videos zur Klimakrise werden audiovisuelle Inszenierungsmuster
