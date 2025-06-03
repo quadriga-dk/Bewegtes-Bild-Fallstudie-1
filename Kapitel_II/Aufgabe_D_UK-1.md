@@ -48,7 +48,7 @@ Die AdA Corpus Analysis View bietet eine Basisauswahl an Annotationstypen, mit d
 ```
 ````
 4.	Öffnen Sie eine neue Timeline und integrieren Sie anschließend die AdA Corpus Analysis View als Annotationsgrundlage für die Spuren, die annotiert werden sollen. Unter folgendem Reiter können weitere vordefinierte Annotationstypen der Ontologie eingeblendet und andere ausgeblendet werden (<a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=71ca2ea8-b7ee-492f-a9ef-b20300a665d3&start=169" target="_blank"  class="external-link" >Video: AdA Corpus Analysis View</a>, Manual: S. 6ff)
-```{image} ../_images/A4-S01.png
+```{image} ../assets/_images/A4-S01.png
 :align: center
 :height: 250px
 :name: a4-s01
@@ -99,11 +99,11 @@ display_quiz("../quizzes/D_UK-1_Quiz_3.json", colors = colors.jupyterquiz)
 * Short Cuts und Quick Fill für ontologiebasierte Einträge
 * Freitext-Eingaben für Werte ohne Ontologiebezug
 (<a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=71ca2ea8-b7ee-492f-a9ef-b20300a665d3&start=623" target="_blank" class="external-link" >Video: Annotate with Short Cuts</a>, Manual: S. 69ff & 131ff)
-```{image} ../_images/A4-S03.png
+```{image} ../assets/_images/A4-S03.png
 :height: 350px
 :name: a4-s03
 ```
-```{image} ../_images/A4-S02.png
+```{image} ../assets/_images/A4-S02.png
 :height: 250px
 :name: a4-s02
 ```

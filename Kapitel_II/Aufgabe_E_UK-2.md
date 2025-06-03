@@ -40,7 +40,7 @@ Unten ist eine konfigurierte Visualisierung der Timeline zu sehen.
 ➡️ Zum Vergrößern draufklicken oder ranzoomen
 ````
 
-```{image} ../_images/A5-S10.png
+```{image} ../assets/_images/A5-S10.png
 :align: center
 :height: 330px
 :name: A5-S10
@@ -134,7 +134,7 @@ Der Annotationstyp **Recording/Playback Speed** soll als Balkendiagramm mit eine
 :class: solution, dropdown
 Folgende Konfigurationen in der Syntax haben wir eingegeben, um die oben beschriebene Ansicht zu erhalten: 
 
-![screenshot-A5-11](../_images/A5-S11.png)
+![screenshot-A5-11](../assets/_images/A5-S11.png)
 
 Auf was besonders zu achten ist:
 +++
@@ -149,7 +149,7 @@ Auf was besonders zu achten ist:
 So sieht die oben beschriebene Darstellung als Datenvisualisierung aus: <br>
 (...bitte ranzoomen für eine größere Ansicht)
 
-![screenshot-A5-12](../_images/A5-S12.png)
+![screenshot-A5-12](../assets/_images/A5-S12.png)
 
 ```
 (Dateninterpretation)=
@@ -180,102 +180,102 @@ Eine ausführliche Analyse in Textform (mit direkten Verweisen auf die jeweilige
 
 ```{card}
 :class-card: carousel-card
-![slide-1](../_images/carousel-1.png)
+![slide-1](../assets/_images/carousel-1.png)
 ```
 
 ```{card}
 :class-card: carousel-card
-![slide-2](../_images/carousel-2.png)
+![slide-2](../assets/_images/carousel-2.png)
 ```
 
 ```{card}
 :class-card: carousel-card
-![slide-3](../_images/carousel-3.png)
+![slide-3](../assets/_images/carousel-3.png)
 ```
 
 ```{card}
 :class-card: carousel-card
-![slide-4](../_images/carousel-4.png)
+![slide-4](../assets/_images/carousel-4.png)
 ```
 
 ```{card}
 :class-card: carousel-card
-![slide-5](../_images/carousel-5.png)
+![slide-5](../assets/_images/carousel-5.png)
 ```
 
 ```{card}
 :class-card: carousel-card
-![slide-6](../_images/carousel-6.png)
+![slide-6](../assets/_images/carousel-6.png)
 ```
 
 ```{card}
 :class-card: carousel-card
-![slide-7](../_images/carousel-7.png)
+![slide-7](../assets/_images/carousel-7.png)
 ```
 
 ```{card}
 :class-card: carousel-card
-![slide-8](../_images/carousel-8.png)
+![slide-8](../assets/_images/carousel-8.png)
 ```
 
 ```{card}
 :class-card: carousel-card
-![slide-9](../_images/carousel-9.png)
+![slide-9](../assets/_images/carousel-9.png)
 ```
 
 ```{card}
 :class-card: carousel-card
-![slide-10](../_images/carousel-10.png)
+![slide-10](../assets/_images/carousel-10.png)
 ```
 
 ```{card}
 :class-card: carousel-card
-![slide-11](../_images/carousel-11.png)
+![slide-11](../assets/_images/carousel-11.png)
 ```
 
 ```{card}
 :class-card: carousel-card
-![slide-12](../_images/carousel-12.png)
+![slide-12](../assets/_images/carousel-12.png)
 ```
 
 ```{card}
 :class-card: carousel-card
-![slide-13](../_images/carousel-13.png)
+![slide-13](../assets/_images/carousel-13.png)
 ```
 
 ```{card}
 :class-card: carousel-card
-![slide-14](../_images/carousel-14.png)
+![slide-14](../assets/_images/carousel-14.png)
 ```
 
 ```{card}
 :class-card: carousel-card
-![slide-15](../_images/carousel-15.png)
+![slide-15](../assets/_images/carousel-15.png)
 ```
 
 ```{card}
 :class-card: carousel-card
-![slide-16](../_images/carousel-16.png)
+![slide-16](../assets/_images/carousel-16.png)
 ```
 
 ```{card}
 :class-card: carousel-card
-![slide-17](../_images/carousel-17.png)
+![slide-17](../assets/_images/carousel-17.png)
 ```
 
 ```{card}
 :class-card: carousel-card
-![slide-18](../_images/carousel-18.png)
+![slide-18](../assets/_images/carousel-18.png)
 ```
 
 ```{card}
 :class-card: carousel-card
-![slide-19](../_images/carousel-19.png)
+![slide-19](../assets/_images/carousel-19.png)
 ```
 
 ```{card}
 :class-card: carousel-card
-![slide-20](../_images/carousel-20.png)
+![slide-20](../assets/_images/carousel-20.png)
 ```
 ````
 

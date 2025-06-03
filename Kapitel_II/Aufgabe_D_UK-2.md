@@ -84,9 +84,9 @@ Im Folgenden steht hier ein [Annotationspaket](../assets/QUADRIGA-Errorpackage.a
 ````{admonition} Lösung
 :class: solution, dropdown
 1. Auf der Spur 'Dialogue Text' wurden 2 Annotationen gelöscht
-![screenshot-A4-E-S01](../_images/A4-Errorpackage-S01.png)
+![screenshot-A4-E-S01](../assets/_images/A4-Errorpackage-S01.png)
 2. Auf der Spur 'Shot' wurden Annotationen gemerged und nicht renummeriert 
-![screenshot-A4-E-S02](../_images/A4-Errorpackage-S02.png)
+![screenshot-A4-E-S02](../assets/_images/A4-Errorpackage-S02.png)
 3. Auf der Spur 'Recording/Playback Speed' hat die erste Annotation einen falschen Wert ➡️ statt 'timelapse' müsste dort 'normal' eingetragen werden 
 4. Der Annotationstyp 'Volume' wurde gelöscht
 +++
@@ -95,7 +95,7 @@ Weitere Fehler können durch eine Überprüfung mit der Checker-Funktion gefunde
 5. a) Overlapping: Annotationen, die sich in ihrer Dauer überlappen
 6. b) Completions: Undefinierte Keywords, die von den Keywords der Ada-Ontologie abweichen
 7. c) Empty Content: Annotationen ohne Inhalt
-![screenshot-A4-E-S03](../_images/A4-Errorpackage-S03.png)
+![screenshot-A4-E-S03](../assets/_images/A4-Errorpackage-S03.png)
 `````
 
 `````{admonition} Wie können die Fehler korrigiert werden?
@@ -128,7 +128,7 @@ Die Frage nach dem Referenzobjekt zur Bestimmung der Einstellungsgröße ist nic
 +++
 Bei Einstellungen also, in denen die Bestimmung des Referenzobjekts zur Messung der Einstellungsgröße unklar blieb, haben wir den Wert 'neither' eingetragen, wie beispielsweise hier:
 +++
-```{image} ../_images/A4-S04.png
+```{image} ../assets/_images/A4-S04.png
 :align: center
 :height: 300px
 :name: A4-S04
@@ -153,7 +153,7 @@ Auf eine 2D simulierte Ansicht eines Papierblocks blendet sich von links nach re
 #### 2D-Animationen
 
 Bei multiplen und/oder simultan auftretenden Animationselementen sieht es ähnlich aus. Es gibt keine klaren Relationen oder Anhaltspunkte im Raum, durch die eine Skalierung zur Bestimmung einer Einstellungsgröße nach bekannten Systemen möglich wäre, wie es bei dieser Annotation mit der UUID `3fbfc132-00a8-11ef-a9a8-001c42d38318` der Fall ist:
-```{image} ../_images/A4-S05.png
+```{image} ../assets/_images/A4-S05.png
 :align: center
 :height: 300px
 :name: A4-S05
@@ -166,7 +166,7 @@ Dort, wo Fragen nach Skalierungen und Referenzbestimmungen komplexer werden, zei
 In Bezug auf die Frame-in-Frame-Einstellungen gilt folgende Entscheidung innerhalb unseres Workflows: 
 
 Sowohl der äußere Rahmen als auch das in diesem Rahmen eingesetzte Bild können als Referenzobjekt bestimmt werden. Daher haben wir uns für den Wert 'neither' und dem Wert für die Einstellungsgröße entschieden, der aus dem zweiten Frame hervorgeht. Ein Annotationsbeispiel mit den Werten 'neither' und 'medium close up' ist hier und unter folgender UUID `3fc06a7e-00a8-11ef-a9a8-001c42d38318` zu sehen:
-```{image} ../_images/A4-S06.png
+```{image} ../assets/_images/A4-S06.png
 :align: center
 :height: 300px
 :name: A4-S06
@@ -177,7 +177,7 @@ Das 'Setting' wird innerhalb der Ontologie als Ort des narrativen Handlungsgesch
 +++
 In Bezug auf unser Beispielvideo betrifft dies insbesondere jene Einstellungen, die 2D animiert sind. Denn dort beziehen sich die animierten Elemente – insbesondere die Schriftzüge, die Nummerneinblendungen oder die Simulationen der Weltkugel – auf keine realen Verhältnisse oder räumlichen Anordnungen. Bei Einstellungen, in denen das Setting nicht ohne weiteres bestimmbar war, haben wir keine Annotationen erstellt. Diese leeren Abschnitte verweisen insofern direkt auf die Grenzen bzw. Leerstellen der Ontologie. Folgende Annotation unter der UUID  
 `860166ff-21a4-11ef-a632-90b11c948b9a` macht dieses Problem exemplarisch sichtbar: 
-```{image} ../_images/A4-S07.png
+```{image} ../assets/_images/A4-S07.png
 :align: center
 :height: 300px
 :name: A4-S07
@@ -194,7 +194,7 @@ perception.
 
 In diesem Screenshot ist die Erfassung solcher Timelapse in der Timeline zu sehen: 
 
-![screenshot-A4-S08](../_images/A4-S08.png)
+![screenshot-A4-S08](../assets/_images/A4-S08.png)
 
 Die dazugehörigen Annotationen können unter folgenden UUIDs gefunden werden: `87b572d2-1dbb-11ef-a911-90b11c948b9a` sowie `ab1283ac-1dbb-11ef-b029-90b11c948b9a`
 
@@ -235,7 +235,7 @@ Wie sieht jedoch mit den Annotationstypen 'Splitscreen', 'Frame-in-Frame' oder '
 
 Eine sehr dominante und für das Video entscheidende Inszenierungsmodalität ist die Verwendung von Splitscreens. Insgesamt zwei Splitscreens werden in den Animationsabschnitten eingesetzt und sind in ihrer Darstellung identisch.
 
-![screenshot-A4-S09](../_images/A4-S09.png)
+![screenshot-A4-S09](../assets/_images/A4-S09.png)
 
 In den je abgetrennten Screens werden die drei kritischen Zahlen für eine Einhaltung der 2-Grad-Grenze in Bezug auf den Co2-Austoß als visuelle Einheit inszeniert. 
 +++
@@ -251,7 +251,7 @@ Die auffälligsten Frame-in-Frame Kompositionen finden sich in den Einstellungen
 ```
 Ebenso könnte diskutiert werden, inwiefern sowohl die Frame-in-Frame Einbindungen des Found Footage Materials als auch die animierten Einstellungen Teil des Vortragsarrangements auf der Bühne sind, wie in dem ersten Bild der Reihe als auch in diesem diesem Beispiel zu sehen ist:
 
-```{image} ../_images/A4-S10.png
+```{image} ../assets/_images/A4-S10.png
 :align: center
 :height: 300px
 :name: A4-S10
@@ -265,7 +265,7 @@ Eine freitextliche Erhebung von Frame-in-Frame Kompositionen könnte die spezifi
 
 Unter dem Annotationstyp 'Visual Pattern' werden abstrakte Muster oder Formen erfasst. Insbesondere in den animierten Einstellungen könnten unter Miteinbeziehung dieses Annotationstyps grafische Elemente, Synchronizitäten von Mustern und abstrakte Visualisierungsstrukturen bestimmt werden. Ein Beispiel für eine Annotation der Werte 'centre Figure, circular' wäre folgende Ansicht:
 
-```{image} ../_images/A4-S11.png
+```{image} ../assets/_images/A4-S11.png
 :align: center
 :height: 300px
 :name: A4-S11

@@ -13,7 +13,7 @@ Nach einer kurzen [Einführung](Aufgabe_D) haben wir mit bereitgestellten Videot
 
 ---
 
-```{image} ../_images/A4-S12.png
+```{image} ../assets/_images/A4-S12.png
 :align: center
 :height: 200px
 :name: A4-S12

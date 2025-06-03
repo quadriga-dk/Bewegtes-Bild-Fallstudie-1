@@ -39,7 +39,7 @@ Andere Schemata bzw. Content Types/MIME Types, wie z.B. `JSON data` oder `Keywor
 ```
 Im Zentrum der Anwendung ist ein Videoplayer sowie eine Timeline zu sehen. Am linken Rand erscheinen die Annotationstypen (in unserem Fall werden es die einzelnen zu analysierenden Parameter sein). 
 +++
-![screenshot-A2-01](../_images/A2-S01.png)
+![screenshot-A2-01](../assets/_images/A2-S01.png)
 +++
 In einem separaten Schritt wird nun unsere Videodatei mit dem Package verknüpft. Dafür unter dem Reiter 'File' die Option 'Associate a video file' auswählen. 
 +++
@@ -47,7 +47,7 @@ Mit der Verknüpfung von Video und Package sieht man nun in der Timeline den Ver
 +++
 Mit 'zoom in' bzw. 'zoom out' kann die Ansichtsgröße der Timeline angepasst und nach eigenen Belieben skaliert werden. 
 +++
-![screenshot-A2-02](../_images/A2-S02.png)
+![screenshot-A2-02](../assets/_images/A2-S02.png)
 +++
 Das Video ist nun mit Advene als ein **.azp-package** verknüpft! 👍 <br>
 Wie man Annotationstypen (also unsere Parameter) sowie Annotationen hinzufügt, erklären wir im nächsten Schritt.
@@ -57,17 +57,17 @@ Wie man Annotationstypen (also unsere Parameter) sowie Annotationen hinzufügt, 
 
 Mit einem Klick auf das Plus-Symbol am linken Rand der Timeline können nun unsere Parameter bzw. Annotationstypen erstellt werden. Jeder Annotationstyp hat einen 'Title', eine 'Id', einen 'Content type' sowie ein zugeordnetes 'Schema'. Da wir hier mit dem voreingestellten **MIME Type** `plain text content` arbeiten, muss nur das Feld 'Title' bearbeitet werden. 
 +++
-![screenshot-A2-03](../_images/A2-S03.png)
+![screenshot-A2-03](../assets/_images/A2-S03.png)
 +++
 Nun erscheint der neu erstellte Annotationstyp. Um diesen zu bearbeiten, beispielsweise zur Anpassung der Farbe, können mit einem Rechtsklick auf den Typen Änderungen vorgenommen werden. Änderungen im Edit-Fenster müssen immer bestätigt werden.
 ```{admonition} Hinweis
 :class: hinweis
 Bestimmungen im Register 'Advanced' können für diese Annotationsübung erstmal ignoriert werden. 
 ```
-![screenshot-A2-04](../_images/A2-S04.png)
+![screenshot-A2-04](../assets/_images/A2-S04.png)
 +++
 Die Annotationstypen können mit einem Klick auf den bunten Kreis nach Belieben ein- und ausgeblendet werden. 
-```{image} ../_images/A2-S05.png
+```{image} ../assets/_images/A2-S05.png
 :align: center
 :height: 450px
 :name: a2-s05
@@ -93,13 +93,13 @@ Die Typen **Dauer**, **Einstellungsgröße**, **Montage** (hier annotieren wir d
 ```{admonition} Tipp
 :class: hinweis
 Mit der Loop-Taste am rechten unteren Rand des Videoplayers werden angelegte Annotationen im Loop abgespielt.
-![screenshot-A2-08](../_images/A2-S08.png)
+![screenshot-A2-08](../assets/_images/A2-S08.png)
 ```
 ````
 Nachdem die Festlegung auf eine Segmentierungsmethode steht, können die Annotationen erstellt werden. Um eine neue Annotation zu erstellen, einfach mit der rechten Maustaste in die gewünschte Spur klicken und 'New annotation at mouse position' oder 'New annotation at player time' auswählen – abhängig davon, ob die neue Annotation nach der Position des Mauszeigers oder anhand des aktuellen Videoplayer-Timecodes erstellt werden soll (letzteres ist natürlich immer präziser). Danach wird der erstellten Annotation durch Freitexteingabe ein Inhalt zugeordnet. Hierzu mit dem Mauszeiger auf die gewünschte Annotation (diese wird durch einen schwarzen Balken umrandet) und mit 'Enter' das Textfeld öffnen. Erneut durch 'Enter' das Textfeld schließen.
-![screenshot-A2-06](../_images/A2-S06.png)
+![screenshot-A2-06](../assets/_images/A2-S06.png)
 Falls eine Annotation auf einer nicht erwünschten Timelineposition erstellt wird, kann diese folgendermaßen angepasst werden: entweder durch Ausrichtung der Annotationsgrenze per Drag and Drop an einer anderen Annotation der Spur (die sogenannte 'align'-Funktion) oder durch die einzelne Bearbeitung der Anfangs- und Endzeit der Annotation (im Edit-Fenster). Zur Bearbeitung der Annotation im Edit-Fenster mit einem Rechtsklick auf die Annotation und dann auf 'Edit'.
-![screenshot-A2-07](../_images/A2-S07.png)
+![screenshot-A2-07](../assets/_images/A2-S07.png)
 ```{admonition} Achtung
 :class: caution
 Es empfiehlt sich schon während der Annotation die Datei zu speichern, um mögliche Verluste zu vermeiden. Hier unter dem Reiter 'File' auf 'Save as…'

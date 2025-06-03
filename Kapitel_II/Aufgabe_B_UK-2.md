@@ -34,7 +34,7 @@ Die Videodatei ist erstmal undefiniert. Um Sicherheitskopien erstellen zu könne
 ```
 ````
 Wird die Anwendung gestartet öffnet sich zunächst ein blankes Interface. In der Menüleiste am oberen Rand kann die Videodatei, die annotiert werden soll, über den Reiter 'Datei' und 'Neu' hinzugefügt werden.
-```{image} ../_images/A2-S09.png
+```{image} ../assets/_images/A2-S09.png
 :align: center
 :height: 400px
 :name: a2-s09
@@ -55,7 +55,7 @@ Die **Navigation der Timeline** erfolgt durch den grauen Balken unter der Wieder
 Die **Größenskalierung** der Timeline erfolgt über den Regler am unteren rechten Rand.
 +++
 Im Fenster rechts neben dem Videoplayer kann unter 'Steuerung' die Wiedergabegeschwindigkeit des Videos angepasst werden. 
-![screenshot-A2-10](../_images/A2-S10.png)
+![screenshot-A2-10](../assets/_images/A2-S10.png)
 +++
 
 `````{admonition} In welchen Fällen ist die Regulierung der Wiedergabegeschwindigkeit sinnvoll?
@@ -78,7 +78,7 @@ Beim Schließen des Bearbeitungsfensters ohne die Einfügung der Zeile wird die 
 ```
 ````
 Um eine neue Zeile bzw. "Tier" anzulegen, im Menüpunkt auf 'Zeile > Neue Zeile einfügen…' klicken. Das sich öffnende Bearbeitungsfenster ermöglicht die Benennung der Zeile. Weitere Attribute (wie z.B. "Teilnehmer" oder "Annotator") können ebenfalls ergänzt werden. Um die Zeile zu speichern, auf 'Einfügen' klicken. 
-```{image} ../_images/A2-S11.png
+```{image} ../assets/_images/A2-S11.png
 :align: center
 :height: 500px
 :name: a2-s11
@@ -86,7 +86,7 @@ Um eine neue Zeile bzw. "Tier" anzulegen, im Menüpunkt auf 'Zeile > Neue Zeile 
 ````{admonition} Hinweis
 :class: hinweis
 Die Farben des Zeilentitels sowie der Zeilenleiste selbst können nach eigenen Belieben angepasst werden. Hierzu im Fenster der Zeileneigenschaften 'Weitere Optionen' wählen. 
-```{image} ../_images/A2-S12.png
+```{image} ../assets/_images/A2-S12.png
 :align: center
 :height: 250px
 :name: a2-s12
@@ -107,7 +107,7 @@ Annotationen werden als Zeitsegmente entlang der Timeline angelegt. Es gibt die 
 #### Variante A
 Der schnellste Weg eine Annotation zu erstellen ist mit dem Zeiger in das Feld der Annotationen an die Zeitstelle zu klicken, an der es losgehen soll, gedrückt halten und den Zeiger bis zum gewünschten Ende ziehen (geht vorwärts wie rückwärts). Der markierte Bereich erscheint violett. Mit einem Doppelklick in die gewünschte Zeile kann der Annotation ein Inhalt bzw. Wert beigeordnet werden. Zum Speichern 'Enter' drücken.
 +++
-![screenshot-A2-13](../_images/A2-S13.png)
+![screenshot-A2-13](../assets/_images/A2-S13.png)
 +++
 Jetzt kann man entweder…:
 * …diese Auswahl aufheben (durchgestrichenes S im Auswahl-Modus) bzw. an anderer Stelle eine neue Auswahl erstellen
@@ -148,14 +148,14 @@ Das Löschen von Annotationen oder Zeilen kann über die obere Menüleiste unter
 +++
 Fertige Annotationen können auch a) bewegt oder b) in ihrer Länge verändert werden, indem man die 'ALT' (Windows) bzw. 'Option-Taste' (Mac) gedrückt haltend auf den Strich klickt (wechselt zu grün). Anschließend zum a) Verschieben die Annotation entlang der Zeitleiste bewegen, um die Position zu verändern oder b) am Ende der Annotation an der Zeitmarke vorwärts oder rückwärts bewegen.
 +++
-![screenshot-A2-14](../_images/A2-S14.png)
+![screenshot-A2-14](../assets/_images/A2-S14.png)
 +++
 #### Kopieren und Löschen von Annotationen und Werten
 
 Parameter, also Annotationszeilen, die zum Beispiel nach dem Einstellungsprinzip annotiert werden, können auch auf eine andere Zeile kopiert werden. Dafür unter dem Reiter 'Zeile' auf 'Copy Annotations from Tier to Tier' klicken. In dem sich öffnenden Bearbeitungsfenster kann dann die Zeile ausgewählt werden, aus der die Annotationen kopiert werden sollen. Anschließend kann die Zielzeile ausgewählt werden. Mit 'Beenden' werden die Änderungen übernommen.
 +++
 Zum Löschen der Werte über 'Zeile' auf 'Entferne Annotationen oder Werte' klicken und alle (oder ausgewählte) Werte für die gewünschte Zeile löschen. So können neue Werte in der Zielzeile eingetragen werden.
-![screenshot-A2-15](../_images/A2-S15.png)
+![screenshot-A2-15](../assets/_images/A2-S15.png)
 
 ### Exportieren
 
