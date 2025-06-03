@@ -33,7 +33,7 @@ Die Timeline wird mit dem Standard Browser geöffnet. Die URL kann jedoch auch i
 ```
 ````
 In Advene muss zunächst das mit dem AdA-Template erstellte Annotationspaket geöffnet werden. Anschließend kann über das W3-Symbol in der Icon-Leiste eine Visualisierungsform ausgewählt werden. Hier entweder die online oder offline Version der Timeline auswählen. Wir arbeiten in dieser Übung mit der online Variante. 
-```{image} ../_images/A5-S02.png
+```{image} ../assets/_images/A5-S02.png
 :align: center
 :height: 300px
 :name: a2-s02
@@ -50,14 +50,14 @@ Am oberen Rand umfasst die Timeline zwei fixierte Spuren: 1. Die zoom control, m
 Beim Öffnen ist die Referenzspur automatisch auf den Annotationstypen 'shot' festgelegt. Dies kann über das Edit-Fenster geändert werden. Mehr Infos zur Anpassung s.u.
 ```
 ````
-![screenshot-A5-03](../_images/A5-S03.png)
+![screenshot-A5-03](../assets/_images/A5-S03.png)
 
 Die Zoom-Funktion erlaubt sowohl die Übersicht über einen gesamten Film als auch das beliebige Hineinzoomen in Detailansichten. Um die 'zoom control' zu bedienen, die linke Maustaste gedrückt halten und den Bereich skalieren, der angezeigt werden soll. Den Browser danach aktualisieren.
 +++
 Alle weiteren im Hauptbereich der Timeline angezeigten Spuren zeigen die einzelnen Annotationstypen untereinander. Sie sind auf den denselben Zeitabschnitt wie die Referenzspur bezogen, sodass alle untereinander angezeigten, spurenübergreifenden Werte zeitgleiche Phänomene adressieren.
 +++
 Die einzelnen Werte der Annotationstypen werden links als Legende angezeigt. 
-![screenshot-A5-04](../_images/A5-S04.png)
+![screenshot-A5-04](../assets/_images/A5-S04.png)
 
 (Anpassungsoptionen-Timeline)=
 ## Anpassungsoptionen
@@ -76,7 +76,7 @@ Anpassungen der AdA-Timeline können sowohl direkt über die URL als auch über 
 
 Um das Edit-Fenster zu öffnen, oben rechts im Browser auf 'Edit' klicken. Nun öffnet sich das Fenster.
 
-```{image} ../_images/A5-S05.png
+```{image} ../assets/_images/A5-S05.png
 :align: center
 :height: 200px
 :name: a5-s05
@@ -88,7 +88,7 @@ Beim Öffnen des Edit-Fensters erscheint das Textfeld der Syntax. Syntaxelemente
 Wird ein spezifischer Zeitabschnitt über die zoom control für die Anzeige gewählt, so wird dieser Abschnitt als Timecode in der Syntax wie folgt dargestellt: `&t=00:00:32.658,00:01:19.094`
 +++
 Der Timecode kann über das Edit-Fenster angepasst werden. Hierzu einfach die genauen Zeiteingaben eintragen. 
-![screenshot-A5-06](../_images/A5-S06.png)
+![screenshot-A5-06](../assets/_images/A5-S06.png)
 
 ````{margin}
 ```{admonition} Hinweis
@@ -101,7 +101,7 @@ Danach können verschiedene Syntaxelemente eingesetzt werden, zum Beispiel `refe
 Nach der Id können für jeden Annotationstyp in einer Klammer verschiedene Darstellungsoptionen angegeben werden (s. [Übersicht der Syntaxelemente](../assets/Übersicht-Syntaxelemente-AdA-Timeline.pdf))
 +++
 Die Eingabe erfolgt immer in der Syntaxform DARSTELLUNGOPTION:WERT, ein Beispiel für die Darstellung als Histogramm wäre: `representation:hist`.
-![screenshot-A5-07](../_images/A5-S07.png)
+![screenshot-A5-07](../assets/_images/A5-S07.png)
 ```{admonition} Achtung
 :class: caution
 Zur korrekten Konfigurierung der Darstellung den Wert `height` jeweils anpassen.
@@ -110,7 +110,7 @@ Zur korrekten Konfigurierung der Darstellung den Wert `height` jeweils anpassen.
 Die Farbschemata können unter https://vega.github.io/vega/docs/schemes/ abgerufen werden.
 ````
 Beispielsweise kann die Farbe der Balken über das Syntaxelement `colorscheme` geändert werden. Hier ist ein Beispiel für `colorscheme:purplered` zu sehen:
-![screenshot-A5-08](../_images/A5-S08.png)
+![screenshot-A5-08](../assets/_images/A5-S08.png)
 
 Werden für einen Annotationstyp mehrere Optionen definiert, werden diese mit einem Leerzeichen voneinander getrennt.
 
@@ -123,7 +123,7 @@ Es gibt verschiedene Darstellungsformen, um die Timeline zu konfigurieren. Umfas
 * **Wellenform**: Nummerische Werte können als Wellenform dargestellt werden.
 * **Einzeilige Darstellung**: Eine einzeilige Darstellung bietet sich bei Annotationstypen ohne Überlappungen von Werten an.
 * **Farbwerte**: Balkendiagramm, bei dem die Balkenfarben den annotierten Farben entsprechen. 
-![screenshot-A5-09](../_images/A5-S09.png)
+![screenshot-A5-09](../assets/_images/A5-S09.png)
 
 ### Visualisierungsansicht speichern und exportieren
 
