@@ -1,46 +1,46 @@
 # Lernziele
 
-Nach erfolgreichem Durchlaufen dieses JupyterNotebooks können im Erfolgsfall die folgenden Datenkompetenzen erlangt sowie Lernziele erreicht werden:
+Nach erfolgreichem Durchlaufen dieses JupyterNotebooks können im Erfolgsfall die folgenden Lernziele erreicht werden:
 
-```{admonition} Tabellarische Annotation (*optional*)
-:class: lernziele
+```{admonition} [Erhebung filmanalytischer Daten zu audiovisuellem Material anhand tabellarischer Annotation](tabellarische:annotation) (*optional*)
+:class: lernziele, dropdown
 
-* Die Lernenden können die methodischen Grundlagen der tabellarischen Annotation definieren und ihre Bedeutung für die filmanalytische Datenerhebung erläutern.
-* Die Lernenden können zeitbasierte Metadaten zu filmischem Bewegtbildmaterial systematisch in tabellarischer Form erfassen und die Unterschiede zwischen den Segmentierungsformen in der Anwendung begründen.
-* Die Lernenden können filmanalytische Grundparameter (Einstellungsgrößen, Kamerabewegungen, Montage) identifizieren und korrekt kategorisieren.
-* Die Lernenden können die Grenzen und Möglichkeiten tabellarischer Annotation für affektrhetorische Analysen reflektieren.
+1. Die methodischen Grundlagen der tabellarischen Annotation können definiert und ihre Bedeutung für die filmanalytische Datenerhebung erläutert werden.
+2. Zeitbasierte Metadaten zu filmischem Bewegtbildmaterial kann systematisch in tabellarischer Form erfassr und die Unterschiede zwischen den Segmentierungsformen in der Anwendung begründet werden.
+3. Filmanalytische Grundparameter (Einstellungsgrößen, Kamerabewegungen, Montage) können identifizierr und korrekt kategorisiert werden.
+4. Die Grenzen und Möglichkeiten tabellarischer Annotation für affektrhetorische Analysen kann reflektiert werden.
 ```
-```{admonition} Freitextannotation mit digitalen Tools (*optional*)
-:class: lernziele
+```{admonition} [Erhebung filmanalyitischer Daten anhand Freitextannotationen mit digitalen Tools](annotation:tools) (*optional*)
+:class: lernziele, dropdown
 
-* Die Lernenden können die zentralen Funktionen der Annotationstools Advene und ELAN verstehen und für filmanalytische Zwecke anwenden.
-* Die Lernenden sind in der Lage einen filmanalytischen Datensatz in den Annotationstools zu erstellen.
-* Die Lernenden können zwischen verschiedenen Annotationstypen und Werten unterscheiden und ihren Einsatz für spezifische filmanalytische Fragestellungen begründen.
-* Die Lernenden können die Unterschiede in der Datenqualität zwischen manueller tabellarischer und toolbasierter Annotation analysieren und bewerten.
+1. Die zentralen Funktionen der Annotationstools Advene und ELAN können verstanden und für filmanalytische Zwecke angewendet werden.
+2. Ein filmanalytischen Datensatz kann in den Annotationstools erstellt werden.
+3. Zwischen den verschiedenen Annotationstypen und Werten kann differenziert und ihr Einsatz für spezifische filmanalytische Fragestellungen begründen werden.
+4. Die Unterschiede in der Datenqualität zwischen manueller tabellarischer und toolbasierter Annotation kann analysiert und bewertet werden.
 ```
-```{admonition} Semantic Web und Filmontologie
-:class: lernziele
+```{admonition} [Überführung filmanalytischer Konzepte in semantische Triple nach Ontologiestruktur](einarbeiten:ontologie)
+:class: lernziele, dropdown
 
-* Die Lernenden können die Grundprinzipien des Semantic Web definieren und ihre Relevanz für filmwissenschaftliche Datenmodelle erläutern.
-* Die Lernenden können den Unterschied zwischen Freitextannotation und ontologiebasierter Annotation anhand konkreter Beispiele erklären.
-* Die Lernenden können filmanalytische Grundbegriffe in eine hierarchische Ontologiestruktur einordnen.
-* Die Lernenden können die Notwendigkeit eines einheitlichen Datenframeworks für vergleichende Filmanalysen argumentativ begründen.
+1. Die Grundprinzipien des Semantic Web können definiert und ihre Relevanz für filmwissenschaftliche Datenmodelle erläutert werden.
+2. Der Unterschied zwischen Freitextannotation und ontologiebasierter Annotation kann anhand konkreter Beispiele erklärt werden.
+3. Filmanalytische Grundbegriffe können in eine hierarchische Ontologiestruktur eingeordnet werden.
+4. Die Notwendigkeit eines einheitlichen Datenframeworks für vergleichende Filmanalysen kann argumentativ begründet werden.
 ```
-```{admonition} Annotieren mit einer Filmontologie
-:class: lernziele
+```{admonition} [Erhebung filmanalytischer Daten durch digitale Annotation mit einer Filmontologie](annotieren:ontologie)
+:class: lernziele, dropdown
 
-* Die Lernenden können die Struktur der AdA-Filmontologie beschreiben und ihre methodischen Grundlagen erläutern.
-* Die Lernenden können die AdA-Filmontologie in Advene implementieren und für eigene Analysen konfigurieren.
-* Die Lernenden können ontologiebasierte Annotationen zu einem gegebenen Video erstellen und methodisch begründen.
-* Die Lernenden können Entscheidungsprozesse bei der Anwendung der Ontologie dokumentieren und vergleichen.
-* Die Lernenden können die Anpassungsmöglichkeiten der AdA-Filmontologie für eigene Forschungskontexte evaluieren.
+1. Die Struktur der AdA-Filmontologie kann beschrieben und ihre methodischen Grundlagen erläutert werden.
+2. Die AdA-Filmontologie kann in Advene implementiert und für eigene Analysen konfiguriert werden.
+3. Ontologiebasierte Annotationen können zu einem gegebenen Video erstellt und methodisch begründet werden.
+4. Entscheidungsprozesse können bei der Anwendung der Ontologie dokumentiert und verglichen werden.
+5. Die Anpassungsmöglichkeiten der AdA-Filmontologie können für eigene Forschungskontexte evaluiert werden.
 ```
-```{admonition} Datenvisualisierung und -interpretation
-:class: lernziele
+```{admonition} [Syntaxbasierte Datenvisualisierung -,exploration und -interpretation](visualisierung:daten)
+:class: lernziele, dropdown
 
-* Die Lernenden können die Funktionsweise der AdA-Timeline beschreiben und ihre Bedeutung für die filmanalytische Datenexploration erläutern.
-* Die Lernenden können die AdA-Timeline zur Visualisierung komplexer Annotationsdaten konfigurieren und anpassen.
-* Die Lernenden können temporale Verlaufsdynamiken affektiver Inszenierungsmuster anhand der Visualisierung identifizieren und interpretieren.
-* Die Lernenden können visualisierte Daten für wissenschaftliche Präsentationen und Publikationen aufbereiten.
-* Die Lernenden können gezielt temporale und multimodale Verlaufsdynamiken von Gestaltungsweisen (z.B. Musik, Montage, Farb- und Helligkeitsbeziehungen) visualisieren und ihre affektrhetorische Funktion für politische Zielsetzungen in Online-Videos zur Klimakrise interpretieren.
+1. Die Funktionsweise der AdA-Timeline kann beschrieben und ihre Bedeutung für die filmanalytische Datenexploration erläutert werden.
+2. Die AdA-Timeline kann zur Visualisierung komplexer Annotationsdaten konfiguriert und angepasst werden.
+3. Temporale Verlaufsdynamiken affektiver Inszenierungsmuster können anhand der Visualisierung identifiziert und interpretiert werden.
+4. Visualisierte Daten können für wissenschaftliche Präsentationen und Publikationen aufbereitet werden.
+5. Temporale und multimodale Verlaufsdynamiken von Gestaltungsweisen (z.B. Musik, Montage, Farb- und Helligkeitsbeziehungen) können gezielt visualisiert und ihre affektrhetorische Funktion für politische Zielsetzungen in Online-Videos zur Klimakrise interpretiert werden.
 ```
