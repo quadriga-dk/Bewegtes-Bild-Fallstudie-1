@@ -1,45 +1,43 @@
 # yaml-language-server: $schema=https://citation-file-format.github.io/1.2.0/schema.json
 cff-version: 1.2.0
-title: Affektrhetorik in Online-Videos zur Klimakrise
-abstract: >-
-  Dieses interaktive Lehrbuch ist das Outcome der 1. Fallstudie des Datentyps Bewegtes Bild des Projekts [QUADRIGA](https://quadriga-dk.de).
-message: "Please cite this software using the metadata from `preferred-citation` in `CITATION.cff`."
+title: 'Bewegtes Bild: Emotionalisierungen'
+abstract: Dieses interaktive Lehrbuch ist das Outcome der 1. Fallstudie des Datentyps
+  Bewegtes Bild des Projekts [QUADRIGA](https://quadriga-dk.de).
+message: Please cite this software using the metadata from `preferred-citation` in
+  `CITATION.cff`.
 type: software
-authors:
-  - given-names: Derya
-    family-names: Demir
-    affiliation: Freie Universität Berlin
-  - given-names: Matthias
-    family-names: Grotkopp
-    orcid: 'https://orcid.org/0000-0002-0954-3111'
-    affiliation: Freie Universität Berlin
-repository-code: 'https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1'
-url: 'https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/'
+authors: &id001
+- given-names: Hannes
+  family-names: Schnaitter
+  orcid: https://orcid.org/0000-0002-1602-6032
+  affiliation: Humboldt-Universität zu Berlin, Institut für Bibliotheks- und Informationswissenschaft
+- given-names: Evgenia
+  family-names: Samoilova
+  orcid: https://orcid.org/0000-0003-3858-901X
+  affiliation: Universität Potsdam
+- given-names: Lamia
+  family-names: Islam
+  affiliation: Universität Potsdam
+repository-code: https://github.com/quadriga-dk/Book_Template
+url: https://quadriga-dk.github.io/Book_Template/
 keywords:
-  - Open Educational Resource
-  - Filmwissenschaft
+- Open Educational Resource
+- Filmwissenschaft
 license: CC-BY-SA-4.0
 references:
-  - title: Jupyter Book
-    type: software
-    authors: 
-      - name: The Jupyter Book Community
-        website: https://github.com/jupyter-book/jupyter-book/graphs/contributors
+- title: Jupyter Book
+  type: software
+  authors:
+  - name: The Jupyter Book Community
+    website: https://github.com/jupyter-book/jupyter-book/graphs/contributors
 preferred-citation:
   year: 2025
-  authors:
-  - given-names: Derya
-    family-names: Demir
-    affiliation: Freie Universität Berlin
-  - given-names: Matthias
-    family-names: Grotkopp
-    orcid: 'https://orcid.org/0000-0002-0954-3111'
-    affiliation: Freie Universität Berlin
-  title: "Affektrhetorik in Online-Videos zur Klimakrise"
+  authors: *id001
+  title: 'Bewegtes Bild: Emotionalisierungen'
   type: book
-  url: 'https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/'
-  repository-code: 'https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1'
+  url: https://quadriga-dk.github.io/Book_Template/
+  repository-code: https://github.com/quadriga-dk/Book_Template
   license: CC-BY-SA-4.0
   languages:
-    - deu
+  - deu
   copyright: CC-BY-SA-4.0
