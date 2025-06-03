@@ -1,25 +1,22 @@
 # yaml-language-server: $schema=quadriga-schema.json
 schema-version: 1.1-beta2
 book-version: 0.51.0
-title: 'Bewegtes Bild: Emotionalisierungen. QUADRIGA OERs: erstellen und gestalten
-  mit Jupyter Book. QUADRIGA Open Educational Resources: Template'
+title: 'QUADRIGA OERs: erstellen und gestalten mit Jupyter Book. QUADRIGA Open Educational
+  Resources: Template'
 description:
-  introduction: Diese OER führt in die Erstellung von QUADRIGA-OERs ein, bietet Inhalte
-    für Nutzer:innen der OERs und dient gleichzeitig als Template für die Erstellung
-    eigener OERs auf Basis der QUADRIGA-Empfehlungen.
+  introduction: Diese OER vermittelt Methoden der Filmanalyse mit 
+      digitalen Annotationswerkzeugen. Anhand eines Online-Videos zur Klimakrise werden 
+      audiovisuelle Inszenierungsmuster analysiert, um affektive Rhetoriken 
+      politischer Zielsetzungen zu erkennen und zu verstehen.
   table-of-contents: '- Präambel
 
-    - Einführung
+    - Struktur und didaktisches Konzept
 
-    - Tabellarische Annotation (optional)
+    - Technologie
 
-    - Annotieren mit Tools (optional)
+    - Formatierungs- und Darstellungsmöglichkeiten
 
-    - Einarbeiten in die Filmontologie
-
-    - Annotieren mit einer Filmontologie
-
-    - Datenvisualisierung
+    - Lernstandskontrolle (Assessment)
 
     - Reflexion und Resümee
 
@@ -29,7 +26,7 @@ discipline:
 duration: 10h
 type-of-research-object:
 - übergreifend
-identifier: https://doi.org
+identifier: https://doi.org # TODO: Zenodo URL/DOI aktualisieren
 url: https://quadriga-dk.github.io/Book_Template/
 git: https://github.com/quadriga-dk/Book_Template
 license:
