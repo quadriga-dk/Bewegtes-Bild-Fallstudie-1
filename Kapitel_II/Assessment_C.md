@@ -39,7 +39,7 @@ Viel Erfolg!
 from jupyterquiz import display_quiz
 import sys
 sys.path.append("..")
-from quadriga_config import colors
+from quadriga import colors
 
 multiple_choice1 = [{
     "question": """Was ist der Hauptzweck einer Ontologie mit Schwerpunkt Filmanalyse im Kontext des Semantic Web?""",
@@ -78,7 +78,7 @@ display_quiz(multiple_choice1, colors=colors.jupyterquiz)
 from jupyterquiz import display_quiz
 import sys
 sys.path.append("..")
-from quadriga_config import colors
+from quadriga import colors
 
 multiple_choice2 = [{
     "question": """Aus welchen Komponenten besteht ein semantisches Triple? (Wählen Sie alle zutreffenden Optionen)""",
@@ -129,7 +129,7 @@ D. Eine eindeutige Kennung für die Komponenten eines Triples
 from jupyterquiz import display_quiz
 import sys
 sys.path.append("..")
-from quadriga_config import colors
+from quadriga import colors
 
 multiple_choice3 = [{
     "question": """Ordnen Sie die Komponenten des semantischen Triples ihren korrekten Beschreibungen zu""",
@@ -168,7 +168,7 @@ Erläutern Sie, warum bei der filmanalytischen Anwendung von semantischen Triple
 ```{code-cell} ipython3
 :tags: [remove-input]
 import sys
-sys.path.append("../quadriga_config")  # Adjust path as needed
+sys.path.append("../quadriga")  # Adjust path as needed
 from assessment import create_answer_box
 
 create_answer_box('Assessment_C-4')
@@ -190,7 +190,7 @@ Die Verwendung von "Segment X" als Subjekt ermöglicht eine präzise zeitliche L
 from jupyterquiz import display_quiz
 import sys
 sys.path.append("..")
-from quadriga_config import colors
+from quadriga import colors
 
 multiple_choice5 = [{
     "question": """Welche Aussage beschreibt am besten die Struktur der AdA-Filmontologie?""",
@@ -236,7 +236,7 @@ D. Annotation Level
 from jupyterquiz import display_quiz
 import sys
 sys.path.append("..")
-from quadriga_config import colors
+from quadriga import colors
 
 multiple_choice6 = [{
     "question": "Ordnen Sie die folgenden filmanalytischen Begriffe der richtigen Strukturebene in der Ontologie zu",
@@ -275,7 +275,7 @@ display_quiz(multiple_choice6, colors=colors.jupyterquiz)
 from jupyterquiz import display_quiz
 import sys
 sys.path.append("..")
-from quadriga_config import colors
+from quadriga import colors
 
 multiple_choice7 = [{
     "question": """Welche der folgenden Eigenschaften treffen auf die AdA-Filmontologie zu? (Wählen Sie alle zutreffenden Optionen)""",
@@ -319,7 +319,7 @@ Erläutern Sie, welche Vorteile die Verwendung einer ontologiebasierten Annotati
 ```{code-cell} ipython3
 :tags: [remove-input]
 import sys
-sys.path.append("../quadriga_config")  # Adjust path as needed
+sys.path.append("../quadriga")  # Adjust path as needed
 from assessment import create_answer_box
 
 create_answer_box('Assessment_c-8')
@@ -342,7 +342,7 @@ Gehen Sie dabei auf die Standardisierung und Vergleichbarkeit ein und reflektier
 from jupyterquiz import display_quiz
 import sys
 sys.path.append("..")
-from quadriga_config import colors
+from quadriga import colors
 
 multiple_choice9 = [{
     "question": """Was bedeutet das Syntaxelement [TO] in der AdA-Filmontologie?""",
@@ -384,7 +384,7 @@ Sie planen ein eigenes Forschungsvorhaben mit dem Schwerpunkt „Bildproduktione
 ```{code-cell} ipython3
 :tags: [remove-input]
 import sys
-sys.path.append("../quadriga_config")  # Adjust path as needed
+sys.path.append("../quadriga")  # Adjust path as needed
 from assessment import create_answer_box
 
 create_answer_box('Assessment_B-10')

@@ -39,7 +39,7 @@ Viel Erfolg!
 from jupyterquiz import display_quiz
 import sys
 sys.path.append("..")
-from quadriga_config import colors
+from quadriga import colors
 
 multiple_choice1 = [{
     "question": """Worin besteht der Hauptunterschied zwischen einer tabellarischen Annotation (behandelt im vorherigen Kapitel) und den digitalen Annotationen mit Tools wie Advene und ELAN?""",
@@ -78,7 +78,7 @@ display_quiz(multiple_choice1, colors=colors.jupyterquiz)
 from jupyterquiz import display_quiz
 import sys
 sys.path.append("..")
-from quadriga_config import colors
+from quadriga import colors
 
 multiple_choice2 = [{
     "question": """Welche Vorteile bieten digitale Annotationstools im Vergleich zur tabellarischen Annotation? (Wählen Sie alle zutreffenden Antworten aus)""",
@@ -128,7 +128,7 @@ D. Methoden unabhängig von spezifischen Werkzeugen anwenden
 from jupyterquiz import display_quiz
 import sys
 sys.path.append("..")
-from quadriga_config import colors
+from quadriga import colors
 
 multiple_choice3 = [{
     "question": """Ordnen Sie die Begriffe ihren korrekten Definitionen zu:
@@ -170,7 +170,7 @@ display_quiz(multiple_choice3, colors=colors.jupyterquiz)
 from jupyterquiz import display_quiz
 import sys
 sys.path.append("..")
-from quadriga_config import colors
+from quadriga import colors
 
 multiple_choice4 = [{
     "question": """Was muss in Advene zunächst getan werden, bevor mit der eigentlichen Annotation begonnen werden kann?""",
@@ -209,7 +209,7 @@ Wie kann in Advene eine neue Annotation mit höchstmöglicher Präzision erstell
 ```{code-cell} ipython3
 :tags: [remove-input]
 import sys
-sys.path.append("../quadriga_config")  # Adjust path as needed
+sys.path.append("../quadriga")  # Adjust path as needed
 from assessment import create_answer_box
 
 create_answer_box('Assessment_B-5')
@@ -230,7 +230,7 @@ In Advene möchten Sie eine Annotation duplizieren und ihren Wert ändern. Besch
 ```{code-cell} ipython3
 :tags: [remove-input]
 import sys
-sys.path.append("../quadriga_config")  # Adjust path as needed
+sys.path.append("../quadriga")  # Adjust path as needed
 from assessment import create_answer_box
 
 create_answer_box('Assessment_B-6')
@@ -257,7 +257,7 @@ create_answer_box('Assessment_B-6')
 from jupyterquiz import display_quiz
 import sys
 sys.path.append("..")
-from quadriga_config import colors
+from quadriga import colors
 
 multiple_choice7 = [{
     "question": """Was ist bei der Einrichtung eines neuen Projekts in ELAN im Vergleich zu Advene anders? (Wählen Sie alle zutreffenden Antworten aus)""",
@@ -296,7 +296,7 @@ display_quiz(multiple_choice7, colors=colors.jupyterquiz)
 from jupyterquiz import display_quiz
 import sys
 sys.path.append("..")
-from quadriga_config import colors
+from quadriga import colors
 
 multiple_choice8 = [{
     "question": """Welche dieser Funktionen bietet ELAN bei der Arbeit mit Annotationen? (Wählen Sie alle zutreffenden Antworten aus)""",
@@ -340,7 +340,7 @@ In welchen Fällen ist die Anpassung der Wiedergabegeschwindigkeit in ELAN beson
 ```{code-cell} ipython3
 :tags: [remove-input]
 import sys
-sys.path.append("../quadriga_config")  # Adjust path as needed
+sys.path.append("../quadriga")  # Adjust path as needed
 from assessment import create_answer_box
 
 create_answer_box('Assessment_B-9')
@@ -362,7 +362,7 @@ Die Anpassung der Wiedergabegeschwindigkeit ist besonders sinnvoll bei schnellen
 from jupyterquiz import display_quiz
 import sys
 sys.path.append("..")
-from quadriga_config import colors
+from quadriga import colors
 
 multiple_choice10 = [{
     "question": """Welche der folgenden Aussagen treffen auf beide Tools (Advene und ELAN) zu? (Wählen Sie alle zutreffenden Antworten aus)""",
@@ -406,7 +406,7 @@ display_quiz(multiple_choice10, colors=colors.jupyterquiz)
 from jupyterquiz import display_quiz
 import sys
 sys.path.append("..")
-from quadriga_config import colors
+from quadriga import colors
 
 multiple_choice11 = [{
     "question": """Was bedeutet der Begriff "toolagnostisch" im Kontext dieser Fallstudie?""",
@@ -452,7 +452,7 @@ Welche Herausforderungen könnten bei der Annotation eines längeren Videos/Film
 ```{code-cell} ipython3
 :tags: [remove-input]
 import sys
-sys.path.append("../quadriga_config")  # Adjust path as needed
+sys.path.append("../quadriga")  # Adjust path as needed
 from assessment import create_answer_box
 
 create_answer_box('Assessment_B-13')
