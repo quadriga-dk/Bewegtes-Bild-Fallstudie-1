@@ -1,23 +1,20 @@
 # yaml-language-server: $schema=https://citation-file-format.github.io/1.2.0/schema.json
 cff-version: 1.2.0
-title: 'Bewegtes Bild: Emotionalisierungen'
+title: Affektrhetorik in Online-Videos zur Klimakrise. Datengestützte Analysen audiovisueller
+  Muster
 abstract: Dieses interaktive Lehrbuch ist das Outcome der 1. Fallstudie des Datentyps
   Bewegtes Bild des Projekts [QUADRIGA](https://quadriga-dk.de).
 message: Please cite this software using the metadata from `preferred-citation` in
   `CITATION.cff`.
 type: software
 authors: &id001
-- given-names: Hannes
-  family-names: Schnaitter
-  orcid: https://orcid.org/0000-0002-1602-6032
-  affiliation: Humboldt-Universität zu Berlin, Institut für Bibliotheks- und Informationswissenschaft
-- given-names: Evgenia
-  family-names: Samoilova
-  orcid: https://orcid.org/0000-0003-3858-901X
-  affiliation: Universität Potsdam
-- given-names: Lamia
-  family-names: Islam
-  affiliation: Universität Potsdam
+- given-names: Derya
+  family-names: Demir
+  affiliation: Freie Universität Berlin
+- given-names: Matthias
+  family-names: Grotkopp
+  orcid: https://orcid.org/0000-0002-0954-3111
+  affiliation: Freie Universität Berlin
 repository-code: https://github.com/quadriga-dk/Book_Template
 url: https://quadriga-dk.github.io/Book_Template/
 keywords:
@@ -33,7 +30,8 @@ references:
 preferred-citation:
   year: 2025
   authors: *id001
-  title: 'Bewegtes Bild: Emotionalisierungen'
+  title: Affektrhetorik in Online-Videos zur Klimakrise. Datengestützte Analysen audiovisueller
+    Muster
   type: book
   url: https://quadriga-dk.github.io/Book_Template/
   repository-code: https://github.com/quadriga-dk/Book_Template

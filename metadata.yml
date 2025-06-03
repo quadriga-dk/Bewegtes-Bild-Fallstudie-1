@@ -1,7 +1,8 @@
 # yaml-language-server: $schema=quadriga-schema.json
 schema-version: 1.1-beta2
 book-version: 0.51.0
-title: 'Bewegtes Bild: Emotionalisierungen'
+title: Affektrhetorik in Online-Videos zur Klimakrise. Datengestützte Analysen audiovisueller
+  Muster
 description:
   introduction: Diese OER vermittelt Methoden der Filmanalyse mit digitalen Annotationswerkzeugen.
     Anhand eines Online-Videos zur Klimakrise werden audiovisuelle Inszenierungsmuster
@@ -45,24 +46,18 @@ target-group:
 - Promovierende
 - Hochschullehrende
 authors:
-- given-names: Hannes
-  family-names: Schnaitter
-  orcid: https://orcid.org/0000-0002-1602-6032
-  affiliation: Humboldt-Universität zu Berlin, Institut für Bibliotheks- und Informationswissenschaft
+- given-names: Derya
+  family-names: Demir
+  affiliation: Freie Universität Berlin
   credit:
   - Writing
   - Software
-- given-names: Evgenia
-  family-names: Samoilova
-  orcid: https://orcid.org/0000-0003-3858-901X
-  affiliation: Universität Potsdam
+- given-names: Matthias
+  family-names: Grotkopp
+  affiliation: Freie Universität Berlin
   credit:
   - Writing
-- given-names: Lamia
-  family-names: Islam
-  affiliation: Universität Potsdam
-  credit:
-  - Software
+  orcid: https://orcid.org/0000-0002-0954-3111
 chapters:
 - description: TODO
   learning-goal: TODO
