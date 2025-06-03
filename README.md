@@ -1,7 +1,7 @@
-# QUADRIGA OER
-In Kürze wird hier der DOI-Link dieser OER zur Verfügung stehen.
+# Affektrhetorik in Online-Videos zur Klimakrise. Datengestützte Analysen audiovisueller Muster
+## QUADRIGA OER
 
-## Affektrhetorik in Online-Videos zur Klimakrise. Datengestützte Analysen audiovisueller Muster
+[![DOI](https://zenodo.org/badge/814612843.svg)](https://doi.org/10.5281/zenodo.15585269)
 
 Dieses interaktive Lehrbuch ist im Rahmen des Projekts <a href="https://www.quadriga-dk.de" class="external-link" target="_blank">QUADRIGA</a> als 1. Fallstudie des Datentyps Bewegtes Bild entstanden.
 
