@@ -40,7 +40,7 @@ Viel Erfolg!
 from jupyterquiz import display_quiz
 import sys
 sys.path.append("..")
-from quadriga_config import colors
+from quadriga import colors
 
 
 multiple_choice1 = [{
@@ -80,7 +80,7 @@ display_quiz(multiple_choice1, colors=colors.jupyterquiz)
 from jupyterquiz import display_quiz
 import sys
 sys.path.append("..")
-from quadriga_config import colors
+from quadriga import colors
 
 
 multiple_choice2 = [{
@@ -132,7 +132,7 @@ D. Prüfung von Annotationswerten auf Fehler
 from jupyterquiz import display_quiz
 import sys
 sys.path.append("..")
-from quadriga_config import colors
+from quadriga import colors
 
 multiple_choice3 = [{
     "question": """Ordnen Sie die folgenden Funktionen den richtigen Phasen im Arbeitsprozess mit der AdA-Filmontologie zu""",
@@ -173,7 +173,7 @@ display_quiz(multiple_choice3, colors=colors.jupyterquiz)
 from jupyterquiz import display_quiz
 import sys
 sys.path.append("..")
-from quadriga_config import colors
+from quadriga import colors
 
 multiple_choice4 = [{
     "question": """Welche Funktion hat die AdA Corpus Analysis View im Kontext der Arbeit mit dem AdA-Template?""",
@@ -213,7 +213,7 @@ Beschreiben Sie den Prozess der automatischen Schnitterkennung und der anschlie�
 ```{code-cell} ipython3
 :tags: [remove-input]
 import sys
-sys.path.append("../quadriga_config")  # Adjust path as needed
+sys.path.append("../quadriga")  # Adjust path as needed
 from assessment import create_answer_box
 
 create_answer_box('Assessment_D-5')
@@ -238,7 +238,7 @@ Der Prozess der Schnitterkennung und -validierung ist ein wesentlicher erster Sc
 from jupyterquiz import display_quiz
 import sys
 sys.path.append("..")
-from quadriga_config import colors
+from quadriga import colors
 
 multiple_choice6 = [{
     "question": """Welche der folgenden automatischen Erkennungs- und Importfunktionen bietet Advene? (Wählen Sie alle zutreffenden Optionen)""",
@@ -281,7 +281,7 @@ Sie haben die automatische Schnitterkennung durchgeführt und möchten nun mehre
 ```{code-cell} ipython3
 :tags: [remove-input]
 import sys
-sys.path.append("../quadriga_config")  # Adjust path as needed
+sys.path.append("../quadriga")  # Adjust path as needed
 from assessment import create_answer_box
 
 create_answer_box('Assessment_D-7')
@@ -304,7 +304,7 @@ Nachdem die Schnitterkennung validiert und im Annotationstyp "Shot" gespeichert 
 from jupyterquiz import display_quiz
 import sys
 sys.path.append("..")
-from quadriga_config import colors
+from quadriga import colors
 
 multiple_choice8 = [{
     "question": """Was bewirkt die Quick Fill-Funktion bei der Annotation mit dem AdA-Template?""",
@@ -351,7 +351,7 @@ D. Annotationen ohne spezifische Ontologie-Referenz
 from jupyterquiz import display_quiz
 import sys
 sys.path.append("..")
-from quadriga_config import colors
+from quadriga import colors
 
 multiple_choice9 = [{
     "question": """Ordnen Sie die folgenden Syntaxelemente oder Annotationsarten der AdA-Filmontologie ihrer korrekten Beschreibung zu""",
@@ -391,7 +391,7 @@ display_quiz(multiple_choice9, colors=colors.jupyterquiz)
 from jupyterquiz import display_quiz
 import sys
 sys.path.append("..")
-from quadriga_config import colors
+from quadriga import colors
 
 multiple_choice10 = [{
     "question": """Welche der folgenden Fehlertypen kann die Checker-Funktion in Advene identifizieren? (Wählen Sie alle zutreffenden Optionen)""",
@@ -436,7 +436,7 @@ Sie finden in einem Annotationspaket folgende Fehler: Überlappende Annotationen
 ```{code-cell} ipython3
 :tags: [remove-input]
 import sys
-sys.path.append("../quadriga_config")  # Adjust path as needed
+sys.path.append("../quadriga")  # Adjust path as needed
 from assessment import create_answer_box
 
 create_answer_box('Assessment_D-11')
@@ -462,7 +462,7 @@ Diskutieren Sie Grenzen und Herausforderungen der AdA-Filmontologie anhand konkr
 ```{code-cell} ipython3
 :tags: [remove-input]
 import sys
-sys.path.append("../quadriga_config")  # Adjust path as needed
+sys.path.append("../quadriga")  # Adjust path as needed
 from assessment import create_answer_box
 
 create_answer_box('Assessment_D-12')
@@ -488,7 +488,7 @@ Basierend auf Ihrer Erfahrung mit der AdA-Filmontologie: Für welche Art von fil
 ```{code-cell} ipython3
 :tags: [remove-input]
 import sys
-sys.path.append("../quadriga_config")  # Adjust path as needed
+sys.path.append("../quadriga")  # Adjust path as needed
 from assessment import create_answer_box
 
 create_answer_box('Assessment_D-13')
