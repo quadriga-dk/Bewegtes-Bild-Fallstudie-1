@@ -258,6 +258,7 @@ html[data-theme='dark'] div.cell details.above-input > summary {
     color: #f7fbff !important;
 }
 
+
 /* Zeitinfo/Bearbeitungszeit styling */
 div.zeitinfo {
     background-color: #fff9f4 !important;             /* sehr helles Apricot */
@@ -276,5 +277,5 @@ div.zeitinfo > .admonition-title::after {
     font-size: 1em !important;
     font-family: "Font Awesome 5 Free";
     font-weight: 900;
-    color: #cc6f53 !important; /* Apricot-Farbe für das Icon */
+    color: #cc6f53 !important;                  /* Apricot-Farbe für das Icon */
 }
