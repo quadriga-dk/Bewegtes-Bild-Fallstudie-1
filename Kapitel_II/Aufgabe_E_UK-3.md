@@ -12,7 +12,7 @@
 Wie können die mit der AdA-Ontologie erstellten Annotationsdaten visualisiert werden? Hier haben wir im letzten Teil unserer Fallstudie unter Zuhilfenahme eines [Videotutorials und präzisen Anleitungen](../Kapitel_II/Aufgabe_E_UK-1.md) mit der AdA-Timeline gearbeitet. Die AdA-Timeline ist eine speziell für die AdA-Ontologie entwickelte, HTML-basierte Timeline-Ansicht, mit der die Daten der Annotationsarbeit unter spezifischen Konfigurationsmöglichkeiten visualisiert werden können. Die Konfigurationen werden durch [Syntaxelemente](../assets/Übersicht-Syntaxelemente-AdA-Timeline.pdf) vorgenommen. Die Annotationstypen können mit unterschiedlich anpassbaren Optionen als synchrone Spuren untereinander dargestellt werden.
 _____
 
-```{image} ../_images/A5-S13.png
+```{image} ../assets/_images/A5-S13.png
 :align: center
 :height: 450px
 :name: A5-S13
