@@ -59,56 +59,73 @@ authors:
   - Writing
   orcid: https://orcid.org/0000-0002-0954-3111
 chapters:
-- description: TODO
-  learning-goal: TODO
+- description: Erläuterung und Vermittlung der theoretischen und methodischen Grundlagen
+    datengestützter Filmanalyse sowie Kontextualisierung des Untersuchungsgegenstandes.
+  learning-goal: Die Grundlagen datengestützter Filmanalyse können erklärt und die
+    zentralen Forschungsfragen der Fallstudie identifiziert werden.
   duration: 1h
   learning-objectives:
-  - learning-objective: Nach durcharbeiten der OER erkennen Sie die Technologie der
-      QUADRIGA OERs, können diese in groben Zügen wiedergeben und können bei der Arbeit
-      mit der OER auftretende Fehler den jeweiligen Komponenten zuordnen.
+  - learning-objective: Die drei zentralen Forschungsfragen zu Affektrhetoriken in
+      audiovisuellen Diskursen können benannt und deren Relevanz erläutert werden.
     competency: 1 Basiskompetenz
     data-flow: Grundlagen
     focus: Wissen
-    blooms-category: 1 Erinnern
-  - learning-objective: Nach durcharbeiten der OER können Sie selbst Inhalte in einer
-      QUADRIGA OER anpassen und diese erweitern.
+    blooms-category: 2 Verstehen
+  - learning-objective: Die eMAEX-Methode der empirischen Medienästhetik kann beschrieben
+      und deren Anwendung in der Filmanalyse erklärt werden.
     competency: 1 Basiskompetenz
+    focus: Wissen
+    data-flow: Grundlagen
+    blooms-category: 2 Verstehen
+  title: Einführung
+  url: https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_I/toc.html
+- description: Einführung in die tabellarische Annotation als Methode zur systematischen
+    Erfassung filmanalytischer Daten mit Fokus auf Kategorisierung von Grundparametern
+    zur Erstellung eines Einstellungsprotokolls.
+  learning-goal: Filmanalytische Daten zu audiovisuellem Material können systematisch
+    anhand tabellarischer Annotation erhoben und ausgewertet werden.
+  learning-objectives:
+  - learning-objective: Die methodischen Grundlagen der tabellarischen Annotation
+      können definiert und ihre Bedeutung für die filmanalytische Datenerhebung erläutert
+      werden.
+    competency: 1 Basiskompetenz
+    focus: Wissen
+    data-flow: Grundlagen
+    blooms-category: 1 Erinnern
+  - learning-objective: Zeitbasierte Metadaten zu filmischem Bewegtbildmaterial können
+      systematisch in tabellarischer Form erfasst und die Unterschiede zwischen den
+      Segmentierungsformen in der Anwendung begründet werden.
+    competency: 5 Erhebung
     focus: Fähigkeit
-    data-flow: Grundlagen
+    data-flow: Erhebung und Aufbereitung
     blooms-category: 3 Anwenden
-  - learning-objective:
-      de: Nach durcharbeiten der OER können Sie ausgehend von diesem OER-Template
-        selbst vollkommen neue OERs im Stil der QUADRIGA OERs erstellen.
-    competency: 1 Basiskompetenz
-    focus: Wissen
-    data-flow: Grundlagen
-    blooms-category: 6 Erschaffen
-  - learning-objective: test
-    competency: 1 Basiskompetenz
-    focus: Wissen
-    data-flow: Grundlagen
-    blooms-category: 1 Erinnern
-  title: Präambel
-  url: TODO
-- description: TODO
-  learning-goal: TODO
+  - learning-objective: Filmanalytische Grundparameter können identifiziert und korrekt
+      kategorisiert werden.
+    competency: 5 Erhebung
+    focus: Fähigkeit
+    data-flow: Erhebung und Aufbereitung
+    blooms-category: 3 Anwenden
+  - learning-objective: Die Grenzen und Möglichkeiten tabellarischer Annotation für
+      affektrhetorische Analysen können reflektiert werden.
+    competency: 3 Qualitätssicherung
+    focus: Haltung
+    data-flow: Planung
+    blooms-category: 3 Anwenden
+  title: Tabellarische Annotation (optional)
+  url: https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_II/toc_A.html
+- description: Einführung in die toolbasierte Annotation audiovisuellen Materials
+    mit digitalen Werkzeugen sowie praktische Anwendung der Tools zur Erhebung filmanalytischer
+    Datensätze.
+  learning-goal: Filmanalytische Daten können mit digitalen Annotationstools systematisch
+    erhoben und die Qualität verschiedener Annotationsverfahren bewertet werden.
   learning-objectives:
-  - learning-objective: test
-    competency: 1 Basiskompetenz
-    focus: Wissen
-    data-flow: Grundlagen
-    blooms-category: 1 Erinnern
-  title: Struktur und didaktisches Konzept
-  url: TODO
-- description: TODO
-  learning-goal: TODO
-  learning-objectives:
-  - learning-objective: test
-    competency: 1 Basiskompetenz
-    focus: Wissen
-    data-flow: Grundlagen
-    blooms-category: 1 Erinnern
-  title: Technologie
+  - learning-objective: Die zentralen Funktionen der Annotationstools Advene und ELAN
+      können verstanden und für filmanalytische Zwecke angewendet werden.
+    competency: 9 Erschließung
+    focus: Fähigkeit
+    data-flow: Management
+    blooms-category: 3 Anwenden
+  title: TODO
   url: TODO
 - description: TODO
   learning-goal: TODO
