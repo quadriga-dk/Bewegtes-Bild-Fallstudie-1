@@ -2,6 +2,13 @@
 
 Nach erfolgreichem Durchlaufen dieses JupyterNotebooks können im Erfolgsfall die folgenden Lernziele erreicht werden:
 
+```{admonition} [Grundlagen datengestützter Filmanalyse](einführung:filmanalyse)
+:class: lernziele, dropdown
+
+1. Die drei zentralen Forschungsfragen zu Affektrhetoriken in audiovisuellen Diskursen können benannt und deren Relevanz erläutert werden.
+2. Die eMAEX-Methode der empirischen Medienästhetik kann beschrieben und deren Anwendung in der Filmanalyse erklärt werden.
+```
+
 ```{admonition} [Erhebung filmanalytischer Daten zu audiovisuellem Material anhand tabellarischer Annotation](tabellarische:annotation) (*optional*)
 :class: lernziele, dropdown
 
@@ -43,4 +50,12 @@ Nach erfolgreichem Durchlaufen dieses JupyterNotebooks können im Erfolgsfall di
 3. Temporale Verlaufsdynamiken affektiver Inszenierungsmuster können anhand der Visualisierung identifiziert und interpretiert werden.
 4. Visualisierte Daten können für wissenschaftliche Präsentationen und Publikationen aufbereitet werden.
 5. Temporale und multimodale Verlaufsdynamiken von Gestaltungsweisen (z.B. Musik, Montage, Farb- und Helligkeitsbeziehungen) können gezielt visualisiert und ihre affektrhetorische Funktion für politische Zielsetzungen in Online-Videos zur Klimakrise interpretiert werden.
+```
+
+```{admonition} [Zusammenfassung und Reflexion der Entwicklung von tabellarischer Annotation zur strukturierten Ontologie](reflexion:resümee)
+:class: lernziele, dropdown
+
+1. Der Übergang von tabellarischer Annotation zur Ontologie kann rekapituliert werden.
+2. Die Grenzen und Erweiterungsmöglichkeiten der AdA-Ontologie können reflektiert werden.
+3. Die Rolle quantitativer Datenproduktion als Hilfsmittel qualitativer Empirie kann eingeordnet und kritisch hinterfragt werden.
 ```

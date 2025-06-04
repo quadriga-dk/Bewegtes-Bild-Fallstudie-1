@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=quadriga-schema.json
 schema-version: 1.1-beta2
-book-version: 0.51.0
+book-version: 1.0.0
 title: Affektrhetorik in Online-Videos zur Klimakrise. Datengestützte Analysen audiovisueller
   Muster
 description:
@@ -27,19 +27,19 @@ description:
     - Epilog'
 discipline:
 - übergreifend
-duration: 10h
+duration: 72h
 type-of-research-object:
 - übergreifend
-identifier: https://doi.org
-url: https://quadriga-dk.github.io/Book_Template/
-git: https://github.com/quadriga-dk/Book_Template
+identifier: https://doi.org/10.5281/zenodo.15585269
+url: https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/
+git: https://github.com/quadriga-dk/Bewegtes-Bild-Fallstudie-1
 license:
   code: https://opensource.org/licenses/AGPL-3.0
   content:
     url: https://creativecommons.org/licenses/by-sa/4.0/
     name: CC BY-SA 4.0
-date-of-last-change: '2025-04-16'
-publication-date: 2024-05-06
+date-of-last-change: '2025-06-04'
+publication-date: 2025-06-03
 target-group:
 - Forschende (PostDoc)
 - Forschende (Projektleitung)

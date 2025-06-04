@@ -15,8 +15,8 @@ authors: &id001
   family-names: Grotkopp
   orcid: https://orcid.org/0000-0002-0954-3111
   affiliation: Freie Universität Berlin
-repository-code: https://github.com/quadriga-dk/Book_Template
-url: https://quadriga-dk.github.io/Book_Template/
+repository-code: https://github.com/quadriga-dk/Bewegtes-Bild-Fallstudie-1
+url: https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/
 keywords:
 - Open Educational Resource
 - Filmwissenschaft
@@ -33,8 +33,8 @@ preferred-citation:
   title: Affektrhetorik in Online-Videos zur Klimakrise. Datengestützte Analysen audiovisueller
     Muster
   type: book
-  url: https://quadriga-dk.github.io/Book_Template/
-  repository-code: https://github.com/quadriga-dk/Book_Template
+  url: https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/
+  repository-code: https://github.com/quadriga-dk/Bewegtes-Bild-Fallstudie-1
   license: CC-BY-SA-4.0
   languages:
   - deu
