@@ -15,6 +15,10 @@ authors: &id001
   family-names: Grotkopp
   orcid: https://orcid.org/0000-0002-0954-3111
   affiliation: Freie Universität Berlin
+identifiers:
+- type: doi
+  value: 10.5281/zenodo.15585269
+  description: Zenodo
 repository-code: https://github.com/quadriga-dk/Bewegtes-Bild-Fallstudie-1
 url: https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/
 keywords:
