@@ -5,14 +5,14 @@
 - [](./Aufgabe_E_UK-2.md)
 - [](./Aufgabe_E_UK-3.md)
 
-```{admonition} Lernziele
+```{admonition} Syntaxbasierte Datenvisualisierung -,exploration und -interpretation
 :class: lernziele
 
 1. Die Funktionsweise der AdA-Timeline kann beschrieben und ihre Bedeutung für die filmanalytische Datenexploration erläutert werden.
 2. Die AdA-Timeline kann zur Visualisierung komplexer Annotationsdaten konfiguriert und angepasst werden.
-3. Temporale Verlaufsdynamiken affektiver Inszenierungsmuster können anhand der Visualisierung identifiziert und interpretiert werden.
-4. Visualisierte Daten können für wissenschaftliche Präsentationen und Publikationen aufbereitet werden.
-5. Temporale und multimodale Verlaufsdynamiken von Gestaltungsweisen (z.B. Musik, Montage, Farb- und Helligkeitsbeziehungen) können gezielt visualisiert und ihre affektrhetorische Funktion für politische Zielsetzungen in Online-Videos zur Klimakrise interpretiert werden.
+3. Temporale Verlaufsdynamiken affektiver Inszenierungsmuster können anhand der Visualisierung exploriert und identifiziert werden.
+4. Temporale und multimodale Verlaufsdynamiken von Gestaltungsweisen (z.B. Musik, Montage, Farb- und Helligkeitsbeziehungen) können gezielt visualisiert und ihre affektrhetorische Funktion für politische Zielsetzungen in Online-Videos zur Klimakrise interpretiert werden.
+5. Visualisierte Daten können für wissenschaftliche Präsentationen und Publikationen aufbereitet werden.
 ```
 
 In diesem Kapitel visualisieren wir die mit der AdA-Ontologie erstellten Annotationen.

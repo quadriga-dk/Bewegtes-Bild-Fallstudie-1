@@ -125,38 +125,164 @@ chapters:
     focus: Fähigkeit
     data-flow: Management
     blooms-category: 3 Anwenden
-  title: TODO
-  url: TODO
-- description: TODO
-  learning-goal: TODO
+  - learning-objective: Ein filmanalytischer Datensatz kann in den Annotationstools
+      erstellt werden.
+    competency: 5 Erhebung
+    focus: Fähigkeit
+    data-flow: Erhebung und Aufbereitung
+    blooms-category: 3 Anwenden
+  - learning-objective: Zwischen den verschiedenen Annotationstypen und Werten kann
+      differenziert und ihr Einsatz für spezifische filmanalytische Fragestellungen
+      begründen werden.
+    competency: 9 Erschließung
+    focus: Fähigkeit
+    data-flow: Erhebung und Aufbereitung
+    blooms-category: 4 Analysieren
+  - learning-objective: Die Unterschiede in der Datenqualität zwischen manueller tabellarischer
+      und toolbasierter Annotation können analysiert und bewertet werden.
+    competency: 10 Datenanalyse
+    focus: Fähigkeit
+    data-flow: Analyse
+    blooms-category: 4 Analysieren
+  title: Annotieren mit Tools (optional)
+  url: https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_II/toc_B.html
+- description: Praktische Überführung filmanalytischer Grundbegriffe in hierarchische
+    Datenstrukturen nach Semantic Web-Prinzipien sowie Einführung in die ontologiebasierte
+    Annotation am Beispiel der AdA-Ontologie.
+  learning-goal: Filmanalytische Konzepte können in semantische Triple nach Ontologiestruktur
+    überführt sowie die Prinzipien einer Filmontologie nachvollzogen werden.
   learning-objectives:
-  - learning-objective: test
+  - learning-objective: Die Grundprinzipien des Semantic Web können definiert und
+      ihre Relevanz für filmwissenschaftliche Datenmodelle erläutert werden.
+    competency: 1 Basiskompetenz
+    focus: Wissen
+    data-flow: Grundlagen
+    blooms-category: 2 Verstehen
+  - learning-objective: Der Unterschied zwischen Freitextannotation und ontologiebasierter
+      Annotation kann anhand konkreter Beispiele erklärt werden.
+    competency: 1 Basiskompetenz
+    focus: Wissen
+    data-flow: Grundlagen
+    blooms-category: 2 Verstehen
+  - learning-objective: Filmanalytische Grundbegriffe können in eine hierarchische
+      Ontologiestruktur eingeordnet werden.
+    competency: 1 Basiskompetenz
+    focus: Wissen
+    data-flow: Grundlagen
+    blooms-category: 3 Anwenden
+  - learning-objective: Die Notwendigkeit eines einheitlichen Datenframeworks für
+      vergleichende Filmanalysen kann argumentativ begründet werden.
+    competency: 9 Erschließung
+    focus: Haltung
+    data-flow: Management
+    blooms-category: 5 Bewerten
+  title: Einarbeiten in die Filmontologie
+  url: https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_II/toc_C.html
+- description: Einführung in die ontologiebasierte Annotation audiovisuellen Materials
+    mit der AdA-Filmontologie sowie praktische Implementierung und Anwendung der Ontologie
+    in Advene zur systematischen Erhebung filmanalytischer Daten.
+  learning-goal: Filmanalytische Daten können mit digitalen Annotationverfahren ontologiebasiert
+    erhoben werden.
+  learning-objectives:
+  - learning-objective: Die Struktur der AdA-Filmontologie kann beschrieben und ihre
+      methodischen Grundlagen erläutert werden.
+    competency: 1 Basiskompetenz
+    focus: Wissen
+    data-flow: Grundlagen
+    blooms-category: 2 Verstehen
+  - learning-objective: Die AdA-Filmontologie kann in Advene implementiert und für
+      eigene Analysen konfiguriert werden.
+    competency: 9 Erschließung
+    focus: Fähigkeit
+    data-flow: Management
+    blooms-category: 3 Anwenden
+  - learning-objective: Ontologiebasierte Annotationen können zu einem gegebenen Video
+      erstellt und methodisch begründet werden.
+    competency: 5 Erhebung
+    focus: Fähigkeit
+    data-flow: Erhebung und Aufbereitung
+    blooms-category: 3 Anwenden
+  - learning-objective: Entscheidungsprozesse können bei der Anwendung der Ontologie
+      dokumentiert und verglichen werden.
+    competency: 6 Validierung
+    focus: Fähigkeit
+    data-flow: Erhebung und Aufbereitung
+    blooms-category: 4 Analysieren
+  - learning-objective: Die Anpassungsmöglichkeiten der AdA-Filmontologie können für
+      eigene Forschungskontexte evaluiert werden.
+    competency: 6 Validierung
+    focus: Fähigkeit
+    data-flow: Erhebung und Aufbereitung
+    blooms-category: 5 Bewerten
+  title: Annotieren mit einer Filmontologie
+  url: https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_II/toc_D.html
+- description: Einführung in die Visualisierung filmanalytischer Annotationsdaten
+    mit der AdA-Timeline sowie praktische Konfiguration und Anpassung der Visualisierung
+    zur Exploration, Analyse und Interpretation temporaler Verlaufsdynamiken affektiver
+    Inszenierungsmuster.
+  learning-goal: Ontologiebasierte Annotationsdaten können mit der AdA-Timeline konfiguriert
+    und anschließend exploriert sowie filmanalytisch interpretiert werden.
+  learning-objectives:
+  - learning-objective: Die Funktionsweise der AdA-Timeline kann beschrieben und ihre
+      Bedeutung für die filmanalytische Datenexploration erläutert werden.
+    competency: 1 Basiskompetenz
+    focus: Wissen
+    data-flow: Grundlagen
+    blooms-category: 2 Verstehen
+  - learning-objective: Die AdA-Timeline kann zur Visualisierung komplexer Annotationsdaten
+      konfiguriert und angepasst werden.
+    competency: 11 Visualisierung
+    focus: Fähigkeit
+    data-flow: Analyse
+    blooms-category: 3 Anwenden
+  - learning-objective: Temporale Verlaufsdynamiken affektiver Inszenierungsmuster
+      können anhand der Visualisierung exploriert und identifiziert werden.
+    competency: 10 Datenanalyse
+    focus: Fähigkeit
+    data-flow: Analyse
+    blooms-category: 4 Analysieren
+  - learning-objective: Temporale und multimodale Verlaufsdynamiken von Gestaltungsweisen
+      (z.B. Musik, Montage, Farb- und Helligkeitsbeziehungen) können gezielt visualisiert
+      und ihre affektrhetorische Funktion für politische Zielsetzungen in Online-Videos
+      zur Klimakrise interpretiert werden.
+    competency: 12 Interpretation
+    focus: Fähigkeit
+    data-flow: Analyse
+    blooms-category: 4 Analysieren
+  - learning-objective: Visualisierte Daten können für wissenschaftliche Präsentationen
+      und Publikationen aufbereitet werden.
+    competency: 7 Aufbereitung
+    focus: Wissen
+    data-flow: Erhebung und Aufbereitung
+    blooms-category: 6 Erschaffen
+  title: Datenvisualisierung
+  url: https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_II/toc_E.html
+- description: Zusammenfassung und kritische Reflexion des methodischen Übergangs
+    von tabellarischer Annotation zur ontologiebasierten Filmanalyse sowie Einordnung
+    quantitativer Datenproduktion als Hilfsmittel qualitativer Empirie.
+  learning-goal: Die Entwicklung von tabellarischer Annotation zur ontologiebasierten
+    Annotation kann zusammengefassst und die Methoden kritisch reflektiert werden.
+  learning-objectives:
+  - learning-objective: Der Übergang von tabellarischer Annotation zur Ontologie kann
+      rekapituliert werden.
     competency: 1 Basiskompetenz
     focus: Wissen
     data-flow: Grundlagen
     blooms-category: 1 Erinnern
-  title: Formatierung
-  url: TODO
-- description: TODO
-  learning-goal: TODO
-  learning-objectives:
-  - learning-objective: test
-    competency: 1 Basiskompetenz
+  - learning-objective: Die Grenzen und Erweiterungsmöglichkeiten der AdA-Ontologie
+      können reflektiert werden.
+    competency: 6 Validierung
     focus: Wissen
-    data-flow: Grundlagen
-    blooms-category: 1 Erinnern
-  title: Lernstandskontrolle (Assessment)
-  url: TODO
-- description: TODO
-  learning-goal: TODO
-  learning-objectives:
-  - learning-objective: test
-    competency: 1 Basiskompetenz
-    focus: Wissen
-    data-flow: Grundlagen
-    blooms-category: 1 Erinnern
+    data-flow: Erhebung und Aufbereitung
+    blooms-category: 5 Bewerten
+  - learning-objective: Die Rolle quantitativer Datenproduktion als Hilfsmittel qualitativer
+      Empirie kann eingeordnet und kritisch hinterfragt werden.
+    competency: 6 Validierung
+    focus: Haltung
+    data-flow: Erhebung und Aufbereitung
+    blooms-category: 5 Bewerten
   title: Reflexion und Resümee
-  url: TODO
+  url: https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_III/toc.html
 context-of-creation: 'Die vorliegenden Open Educational Resources wurden durch das
   Datenkompetenzzentrum QUADRIGA erstellt.
 
