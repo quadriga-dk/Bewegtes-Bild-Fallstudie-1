@@ -26,7 +26,7 @@ Sie können die Fragen in beliebiger Reihenfolge beantworten und auch mehrfach v
 
 Es erfolgt keine Bewertung oder Speicherung Ihrer Ergebnisse. Nutzen Sie dieses Assessment, um Wissenslücken zu identifizieren und gegebenenfalls die entsprechenden Abschnitte des Kapitels noch einmal zu bearbeiten.
 
-**Geschätzte Zeit**: xxx (Platzhalter)
+**Geschätzte Zeit**: 20-30 Min.
 
 Viel Erfolg!
 ````
@@ -118,10 +118,10 @@ display_quiz(multiple_choice2, colors=colors.jupyterquiz)
 ```
 
 ### Frage 3
-A. Größte Einheit, die narrative oder formal-ästhetische Stränge verbindet
-B. Teilabschnitt eines Films mit Kontinuität von Raum, Zeit und Figuren
-C. Ununterbrochene Aufnahme ohne Schnitt
-D. Einzelbild, für das menschliche Auge kaum sichtbar
+A. Größte Einheit, die narrative oder formal-ästhetische Stränge verbindet <br>
+B. Teilabschnitt eines Films mit Kontinuität von Raum, Zeit und Figuren <br>
+C. Ununterbrochene Aufnahme ohne Schnitt <br>
+D. Einzelbild, für das menschliche Auge kaum sichtbar <br>
 
 ```{code-cell} ipython3
 :tags: [remove-input]

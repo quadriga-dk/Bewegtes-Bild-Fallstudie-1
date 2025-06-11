@@ -26,7 +26,7 @@ Sie können die Fragen in beliebiger Reihenfolge beantworten und auch mehrfach v
 
 Es erfolgt keine Bewertung oder Speicherung Ihrer Ergebnisse. Nutzen Sie dieses Assessment, um Wissenslücken zu identifizieren und gegebenenfalls die entsprechenden Abschnitte des Kapitels noch einmal zu bearbeiten.
 
-**Geschätzte Zeit**: xxx (Platzhalter)
+**Geschätzte Zeit**: 30-45 Min.
 
 Viel Erfolg!
 ````
@@ -223,7 +223,7 @@ create_answer_box('Assessment_D-5')
 :class: solution, dropdown
 **Beispiel für korrekte Antwort:**
 
-Die automatische Schnitterkennung wird über „File > Process Video" mit dem Filter „Scene change detection" gestartet. Dadurch werden Einstellungswechsel automatisch erkannt und als Annotationen im Typ „Scene change" gespeichert. Anschließend werden diese mit der Shot Validation View überprüft, indem jeder erkannte Schnitt manuell validiert wird. Bei falsch erkannten Schnitten kann 'Merge" genutzt werden, um sie zu entfernen; fehlende Schnitte können durch Drücken von [CTRL] und Klicken auf den ersten Frame der neuen Einstellung hinzugefügt werden. Nach der Korrektur müssen die Einstellungen in der Regel renummeriert und in die Annotationstypen „Shot" und „Shot Duration" kopiert werden.
+Die automatische Schnitterkennung wird über 'File > Process Video' mit dem Filter 'Scene change detection' gestartet. Dadurch werden Einstellungswechsel automatisch erkannt und als Annotationen im Typ 'Scene change' gespeichert. Anschließend werden diese mit der Shot Validation View überprüft, indem jeder erkannte Schnitt manuell validiert wird. Bei falsch erkannten Schnitten kann 'Merge' genutzt werden, um sie zu entfernen; fehlende Schnitte können durch Drücken von [CTRL] und Klicken auf den ersten Frame der neuen Einstellung hinzugefügt werden. Nach der Korrektur müssen die Einstellungen in der Regel renummeriert und in die Annotationstypen 'Shot' und 'Shot Duration' kopiert werden.
 
 **Feedback:** 
 Der Prozess der Schnitterkennung und -validierung ist ein wesentlicher erster Schritt bei der Arbeit mit dem AdA-Template, da die Einstellungsgrenzen die Grundlage für viele weitere Annotationstypen bilden.
@@ -291,7 +291,7 @@ create_answer_box('Assessment_D-7')
 :class: solution, dropdown
 **Beispiel für korrekte Antwort:**
 
-Nachdem die Schnitterkennung validiert und im Annotationstyp "Shot" gespeichert wurde, kopiere ich diese Segmentierung in die anderen Typen, die nach dem Einstellungsprinzip annotiert werden sollen. Dazu ziehe ich den "Shot"-Annotationstyp per Drag-and-Drop auf die Zielspur und wähle "Duplicate all annotations". Anschließend nutze ich die "Search/replace content"-Funktion, um den Inhalt aller kopierten Annotationen zu löschen (beide Felder leer lassen). Dann verwende ich Quick Fill mit den vordefinierten Werten der AdA-Filmontologie oder Quick Edit für die Annotation. Nach jeder Annotation kann ich mit der [Tab]-Taste zur nächsten springen. Um die Vollständigkeit und Korrektheit zu überprüfen, nutze ich abschließend die Checker-Funktion.
+Nachdem die Schnitterkennung validiert und im Annotationstyp 'Shot' gespeichert wurde, kopiere ich diese Segmentierung in die anderen Typen, die nach dem Einstellungsprinzip annotiert werden sollen. Dazu ziehe ich den 'Shot'-Annotationstyp per Drag-and-Drop auf die Zielspur und wähle 'Duplicate all annotations'. Anschließend nutze ich die 'Search/replace content'-Funktion, um den Inhalt aller kopierten Annotationen zu löschen (beide Felder leer lassen). Dann verwende ich Quick Fill mit den vordefinierten Werten der AdA-Filmontologie oder Quick Edit für die Annotation. Nach jeder Annotation kann ich mit der [Tab]-Taste zur nächsten springen. Um die Vollständigkeit und Korrektheit zu überprüfen, nutze ich abschließend die Checker-Funktion.
 
 ````
 
@@ -430,7 +430,7 @@ display_quiz(multiple_choice10, colors=colors.jupyterquiz)
 
 ### Frage 11
 
-Sie finden in einem Annotationspaket folgende Fehler: Überlappende Annotationen im Typ "Setting", zwei Einstellungen im Typ "Shot", die gemerged wurden und fehlende Werte im Typ "Field Size". Beschreiben Sie, wie Sie diese Fehler beheben würden.
+Sie finden in einem Annotationspaket folgende Fehler: Überlappende Annotationen im Typ 'Setting', zwei Einstellungen im Typ 'Shot', die gemerged wurden und fehlende Werte im Typ 'Field Size'. Beschreiben Sie, wie Sie diese Fehler beheben würden.
 
 
 ```{code-cell} ipython3
@@ -447,10 +447,10 @@ create_answer_box('Assessment_D-11')
 
 **Beispiel für korrekte Antwort:**
 
-Für überlappende Annotationen im Typ "Setting": Ich würde den Checker öffnen, zum Tab "Overlapping" wechseln und die überlappenden Annotationen identifizieren. Dann würde ich die betroffenen Annotationen durch Bearbeitung ihrer Start- und Endzeiten oder durch Zusammenführen korrigieren.
+Für überlappende Annotationen im Typ 'Setting': Ich würde den Checker öffnen, zum Tab 'Overlapping' wechseln und die überlappenden Annotationen identifizieren. Dann würde ich die betroffenen Annotationen durch Bearbeitung ihrer Start- und Endzeiten oder durch Zusammenführen korrigieren.
 
-Für die „verschmolzenen“ Einstellungen: Ich würde die betreffende Annotation im Typ "Shot" auswählen und mit der "Split at current player position"-Funktion an der richtigen Stelle teilen. Danach würde ich die Shot-Nummern anpassen und dann die Änderung in alle anderen nach dem Einstellungsprinzip annotierten Typen übertragen.
-Für fehlende Werte im Typ "Field Size": Ich würde den Checker nutzen, um im Tab "EmptyContent" die Annotationen ohne Inhalt zu identifizieren, und dann mit Quick Fill oder Quick Edit die fehlenden Werte ergänzen.
+Für die "verschmolzenen" Einstellungen: Ich würde die betreffende Annotation im Typ 'Shot' auswählen und mit der 'Split at current player position'-Funktion an der richtigen Stelle teilen. Danach würde ich die Shot-Nummern anpassen und dann die Änderung in alle anderen nach dem Einstellungsprinzip annotierten Typen übertragen.
+Für fehlende Werte im Typ 'Field Size': Ich würde den Checker nutzen, um im Tab 'EmptyContent' die Annotationen ohne Inhalt zu identifizieren, und dann mit Quick Fill oder Quick Edit die fehlenden Werte ergänzen.
 
 ````
 
@@ -494,10 +494,8 @@ from assessment import create_answer_box
 create_answer_box('Assessment_D-13')
 ```
 
-````{admonition} Lösung
+````{admonition} Hilfestellung zur Antwort
 :class: solution, dropdown
-
-**Hilfestellung zur Antwort: **
 
 Reflektieren Sie darüber, wie die AdA-Filmontologie die Analyse formaler, stilistischer und kompositorischer Elemente unterstützt. Überlegen Sie, welche Arten von Forschungsfragen gut durch die systematische Erfassung audiovisueller Muster und Rhythmen beantwortet werden können. Denken Sie auch darüber nach, wo die Grenzen liegen könnten, etwa bei narrativen oder inhaltsanalytischen Fragestellungen.
 

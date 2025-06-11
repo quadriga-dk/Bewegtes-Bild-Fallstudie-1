@@ -134,22 +134,22 @@ multiple_choice4 = [{
     "type": "multiple_choice",
     "answers": [
         {
-            "answer": "1 -> 2 -> 3 -> 4 -> 5 -> 6",
+            "answer": "1 → 2 → 3 → 4 → 5 → 6",
             "correct": False,
             "feedback": """× Nicht korrekt! """
         },
         {
-            "answer": "1 -> 2 -> 3 -> 5 -> 6 -> 4",
+            "answer": "1 → 2 → 3 → 5 → 6 → 4",
             "correct": False,
             "feedback": """× Nicht korrekt! """
         },
         {
-            "answer": "1 -> 3 -> 2 -> 5 -> 6 -> 4",
+            "answer": "1 → 3 → 2 → 5 → 6 → 4",
             "correct": False,
             "feedback": """× Nicht korrekt! """
         },
         {
-            "answer": "1 -> 2 -> 3 -> 6 -> 5 -> 4",
+            "answer": "1 → 2 → 3 → 6 → 5 → 4",
             "correct": True,
             "feedback": """Ausgezeichnet! Sie verstehen den korrekten Workflow für die Öffnung und Konfiguration der AdA-Timeline. Diese systematische Vorgehensweise ist wichtig für die effiziente Arbeit mit dem Tool."""
         }
@@ -386,10 +386,8 @@ from assessment import create_answer_box
 create_answer_box('Assessment_E-9')
 ```
 
-````{admonition} Lösung
+````{admonition} Hilfestellung zur Antwort
 :class: solution, dropdown
-
-**Hilfestellung zur Antwort:**
 
 Gehen Sie näher auf den Zusammenhang zwischen der Visualisierung und der Identifikation von Mustern ein – was wird sichtbar?
 

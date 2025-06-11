@@ -26,7 +26,7 @@ Sie können die Fragen in beliebiger Reihenfolge beantworten und auch mehrfach v
 
 Es erfolgt keine Bewertung oder Speicherung Ihrer Ergebnisse. Nutzen Sie dieses Assessment, um Wissenslücken zu identifizieren und gegebenenfalls die entsprechenden Abschnitte des Kapitels noch einmal zu bearbeiten.
 
-**Geschätzte Zeit**: xxx (Platzhalter)
+**Geschätzte Zeit**: 30 Min.
 
 Viel Erfolg!
 ````
@@ -325,10 +325,8 @@ from assessment import create_answer_box
 create_answer_box('Assessment_c-8')
 ```
 
-````{admonition} Lösung
+````{admonition} Hilfestellung zur Antwort
 :class: solution, dropdown
-
-**Hilfestellung zur Antwort: **
 
 Gehen Sie dabei auf die Standardisierung und Vergleichbarkeit ein und reflektieren Sie, inwiefern bestimmte automatisierte Funktionen bei der Analyse größerer Datenmengen helfen können.
 
@@ -379,7 +377,7 @@ display_quiz(multiple_choice9, colors=colors.jupyterquiz)
 
 ### Frage 10
 
-Sie planen ein eigenes Forschungsvorhaben mit dem Schwerpunkt „Bildproduktionen und Klimawandel“. Überlegen Sie, welche analytischen Dimensionen (Levels) der AdA-Filmontologie besonders relevant sein könnten und begründen Sie Ihre Auswahl. 
+Sie planen ein eigenes Forschungsvorhaben mit dem Schwerpunkt "Bildproduktionen und Klimawandel". Überlegen Sie, welche analytischen Dimensionen (Levels) der AdA-Filmontologie besonders relevant sein könnten und begründen Sie Ihre Auswahl. 
 
 ```{code-cell} ipython3
 :tags: [remove-input]

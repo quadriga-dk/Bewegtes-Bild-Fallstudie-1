@@ -1,5 +1,26 @@
 # 🏆Abschließende Lernstandskontrolle und Selbsteinschätzung 
 
+````{admonition} Hinweis
+:class: hinweis
+
+Diese Übungsaufgaben dienen Ihrer Selbsteinschätzung und helfen Ihnen, das in dieser OER Gelernte zu reflektieren.
+
+Sie können die Fragen bzw. Aufgaben in beliebiger Reihenfolge beantworten und auch mehrfach versuchen. 
+
+**Vorbereitung:**
+- Lesen Sie alle Aufgaben vor der Bearbeitung vollständig durch
+- Planen Sie ausreichend Zeit für eine durchdachte Bearbeitung ein
+- Halten Sie Ihre Notizen und Materialien aus der Fallstudie bereit
+
+Es erfolgt keine Bewertung oder Speicherung Ihrer Ergebnisse. Nutzen Sie dieses Assessment, um Wissenslücken zu identifizieren und gegebenenfalls die entsprechenden Lernmodule nochmals zu bearbeiten.
+
+**Geschätzte Zeit**: Die Bearbeitunngszeit kann aufgrund des Umfangs der einzelnen Aufgaben stark variieren. Eine konkrete Zeit kann hier nicht vorgegeben werden, da die Dauer der Bearbeitung von Ihrer individuellen Arbeitsweise, Ihrem Vorwissen und der Tiefe Ihrer Auseinandersetzung mit den Inhalten abhängt.
+
+Am Ende dieses abschließenden Kapitels gibt es einen Selbsteinschätzungsbogen, der Ihnen helfen soll Ihre erworbenen Kompetenzen zu reflektieren und Bereiche zu identifizieren, in denen Sie sich weiterentwickeln können.
+
+Viel Erfolg!
+````
+
 ## Grundlagenverständnis
 
 Definieren Sie kurz und präzise die folgenden Begriffe und erläutern Sie ihre Bedeutung für die datengestützte Filmanalyse:

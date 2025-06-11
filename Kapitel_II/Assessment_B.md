@@ -26,7 +26,7 @@ Sie können die Fragen in beliebiger Reihenfolge beantworten und auch mehrfach v
 
 Es erfolgt keine Bewertung oder Speicherung Ihrer Ergebnisse. Nutzen Sie dieses Assessment, um Wissenslücken zu identifizieren und gegebenenfalls die entsprechenden Abschnitte des Kapitels noch einmal zu bearbeiten.
 
-**Geschätzte Zeit**: xxx (Platzhalter)
+**Geschätzte Zeit**: 30 Min.
 
 Viel Erfolg!
 ````
@@ -441,7 +441,7 @@ display_quiz(multiple_choice11, colors=colors.jupyterquiz)
 
 Erstellen Sie einen kurzen Annotationsplan für ein Video Ihrer Wahl mit dem Schwerpunkt Klimakrise mit folgenden Anforderungen:
 
-- Wählen Sie mind. 5 relevante Parameter aus, die sie an die Gestaltungsweise des ausgewählten Videos anpassen 
+- Wählen Sie mind. 5 relevante Parameter aus, die Sie an die Gestaltungsweise des ausgewählten Videos anpassen 
 - Entscheiden Sie für jeden Parameter, ob er nach Einstellungen oder nach Verläufen annotiert werden sollte
 - Begründen Sie Ihre Entscheidungen
 
@@ -458,10 +458,8 @@ from assessment import create_answer_box
 create_answer_box('Assessment_B-13')
 ```
 
-````{admonition} Lösung
+````{admonition} Hilfestellung zur Antwort
 :class: solution, dropdown
-
-**Hilfestellung zur Antwort:**
 
 Überlegen Sie, welche spezifischen Herausforderungen ein längerer Film mit sich bringt (Datenmenge, Konsistenz der Annotation, zeitlicher Aufwand). Reflektieren Sie, wie diese Herausforderungen durch methodische Ansätze (z.B. Arbeit mit Templates, Segmentierung in kleinere Einheiten, Entwicklung eines einheitlichen Annotationsschemas) adressiert werden könnten.
 ````
