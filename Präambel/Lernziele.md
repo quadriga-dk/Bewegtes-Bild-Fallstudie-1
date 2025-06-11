@@ -17,13 +17,13 @@ Nach erfolgreichem Durchlaufen dieses JupyterNotebooks können im Erfolgsfall di
 3. Filmanalytische Grundparameter (Einstellungsgrößen, Kamerabewegungen, Montage) können identifiziert und korrekt kategorisiert werden.
 4. Die Grenzen und Möglichkeiten tabellarischer Annotation für affektrhetorische Analysen können reflektiert werden.
 ```
-```{admonition} [Erhebung filmanalyitischer Daten anhand Freitextannotationen mit digitalen Tools](annotation:tools) (*optional*)
+```{admonition} [Erhebung filmanalytischer Daten anhand Freitextannotationen mit digitalen Tools](annotation:tools) (*optional*)
 :class: lernziele, dropdown
 
 1. Die zentralen Funktionen der Annotationstools Advene und ELAN können verstanden und für filmanalytische Zwecke angewendet werden.
-2. Ein filmanalytischen Datensatz kann in den Annotationstools erstellt werden.
+2. Ein filmanalytischer Datensatz kann in den Annotationstools erstellt werden.
 3. Zwischen den verschiedenen Annotationstypen und Werten kann differenziert und ihr Einsatz für spezifische filmanalytische Fragestellungen begründen werden.
-4. Die Unterschiede in der Datenqualität zwischen manueller tabellarischer und toolbasierter Annotation kann analysiert und bewertet werden.
+4. Die Unterschiede in der Datenqualität zwischen manueller tabellarischer und toolbasierter Annotation können analysiert und bewertet werden.
 ```
 ```{admonition} [Überführung filmanalytischer Konzepte in semantische Triple nach Ontologiestruktur](einarbeiten:ontologie)
 :class: lernziele, dropdown
