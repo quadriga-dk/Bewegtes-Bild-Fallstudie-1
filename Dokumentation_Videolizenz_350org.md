@@ -36,7 +36,7 @@ Die Lizenz wurde nachträglich aus dem Videobeschreibungstext auf YouTube entfer
 
 Die ursprüngliche Lizenzangabe wurde auf dem Portal <a href="https://web.archive.org/" class="external-link" target="_blank">Internet Archive Wayback Machine</a> dokumentiert und archiviert.
 
-<img src="assets/screenshot-video-license-archive.png" alt="Screenshot Lizenznachweis" width="250">
+<img src="assets/screenshot-video-license-archive.png" alt="Screenshot Lizenznachweis" width="500">
 
 Unter folgendem <a href="https://web.archive.org/web/20201128020511/https://www.youtube.com/watch?v=5KtGg-Lvxso" class="external-link" target="_blank">Link</a> ist die archivierte Version ebenfalls verfügbar.
 
