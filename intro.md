@@ -45,9 +45,9 @@ Im Vordergrund des Forschungsansatzes steht die Fähigkeit, multimodale und temp
 ## Zielgruppe
 Die Fallstudie richtet sich an:
 
-* Promovierende
-* Wissenschaftler:innen
-* Akademiker:innen
+* Forschende (Postdocs)
+* Promovierende (Praedocs)
+* Hochschullehrende
 * Studierende
 
 der Fachrichtungen Film- und Medienwissenschaft. Auch Interessierte aus verwandten Disziplinen wie beispielsweise der Kunstgeschichte oder Literaturwissenschaft können durch die Lernmodule ein grundlegendes Verständnis für digitale Annotationsmethoden bei der Analyse audiovisuellen Bewegtbildmaterials entwickeln.

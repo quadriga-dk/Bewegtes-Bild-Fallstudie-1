@@ -26,7 +26,7 @@ Sie können die Fragen in beliebiger Reihenfolge beantworten und auch mehrfach v
 
 Es erfolgt keine Bewertung oder Speicherung Ihrer Ergebnisse. Nutzen Sie dieses Assessment, um Wissenslücken zu identifizieren und gegebenenfalls die entsprechenden Abschnitte des Kapitels noch einmal zu bearbeiten.
 
-**Geschätzte Zeit**: xxx (Platzhalter)
+**Geschätzte Zeit**: 30-45 Min.
 
 Viel Erfolg!
 ````
@@ -40,7 +40,7 @@ Viel Erfolg!
 from jupyterquiz import display_quiz
 import sys
 sys.path.append("..")
-from quadriga_config import colors
+from quadriga import colors
 
 
 multiple_choice1 = [{
@@ -80,7 +80,7 @@ display_quiz(multiple_choice1, colors=colors.jupyterquiz)
 from jupyterquiz import display_quiz
 import sys
 sys.path.append("..")
-from quadriga_config import colors
+from quadriga import colors
 
 
 multiple_choice2 = [{
@@ -132,7 +132,7 @@ D. Prüfung von Annotationswerten auf Fehler
 from jupyterquiz import display_quiz
 import sys
 sys.path.append("..")
-from quadriga_config import colors
+from quadriga import colors
 
 multiple_choice3 = [{
     "question": """Ordnen Sie die folgenden Funktionen den richtigen Phasen im Arbeitsprozess mit der AdA-Filmontologie zu""",
@@ -173,7 +173,7 @@ display_quiz(multiple_choice3, colors=colors.jupyterquiz)
 from jupyterquiz import display_quiz
 import sys
 sys.path.append("..")
-from quadriga_config import colors
+from quadriga import colors
 
 multiple_choice4 = [{
     "question": """Welche Funktion hat die AdA Corpus Analysis View im Kontext der Arbeit mit dem AdA-Template?""",
@@ -213,7 +213,7 @@ Beschreiben Sie den Prozess der automatischen Schnitterkennung und der anschlie�
 ```{code-cell} ipython3
 :tags: [remove-input]
 import sys
-sys.path.append("../quadriga_config")  # Adjust path as needed
+sys.path.append("../quadriga")  # Adjust path as needed
 from assessment import create_answer_box
 
 create_answer_box('Assessment_D-5')
@@ -223,7 +223,7 @@ create_answer_box('Assessment_D-5')
 :class: solution, dropdown
 **Beispiel für korrekte Antwort:**
 
-Die automatische Schnitterkennung wird über „File > Process Video" mit dem Filter „Scene change detection" gestartet. Dadurch werden Einstellungswechsel automatisch erkannt und als Annotationen im Typ „Scene change" gespeichert. Anschließend werden diese mit der Shot Validation View überprüft, indem jeder erkannte Schnitt manuell validiert wird. Bei falsch erkannten Schnitten kann 'Merge" genutzt werden, um sie zu entfernen; fehlende Schnitte können durch Drücken von [CTRL] und Klicken auf den ersten Frame der neuen Einstellung hinzugefügt werden. Nach der Korrektur müssen die Einstellungen in der Regel renummeriert und in die Annotationstypen „Shot" und „Shot Duration" kopiert werden.
+Die automatische Schnitterkennung wird über 'File > Process Video' mit dem Filter 'Scene change detection' gestartet. Dadurch werden Einstellungswechsel automatisch erkannt und als Annotationen im Typ 'Scene change' gespeichert. Anschließend werden diese mit der Shot Validation View überprüft, indem jeder erkannte Schnitt manuell validiert wird. Bei falsch erkannten Schnitten kann 'Merge' genutzt werden, um sie zu entfernen; fehlende Schnitte können durch Drücken von [CTRL] und Klicken auf den ersten Frame der neuen Einstellung hinzugefügt werden. Nach der Korrektur müssen die Einstellungen in der Regel renummeriert und in die Annotationstypen 'Shot' und 'Shot Duration' kopiert werden.
 
 **Feedback:** 
 Der Prozess der Schnitterkennung und -validierung ist ein wesentlicher erster Schritt bei der Arbeit mit dem AdA-Template, da die Einstellungsgrenzen die Grundlage für viele weitere Annotationstypen bilden.
@@ -238,7 +238,7 @@ Der Prozess der Schnitterkennung und -validierung ist ein wesentlicher erster Sc
 from jupyterquiz import display_quiz
 import sys
 sys.path.append("..")
-from quadriga_config import colors
+from quadriga import colors
 
 multiple_choice6 = [{
     "question": """Welche der folgenden automatischen Erkennungs- und Importfunktionen bietet Advene? (Wählen Sie alle zutreffenden Optionen)""",
@@ -281,7 +281,7 @@ Sie haben die automatische Schnitterkennung durchgeführt und möchten nun mehre
 ```{code-cell} ipython3
 :tags: [remove-input]
 import sys
-sys.path.append("../quadriga_config")  # Adjust path as needed
+sys.path.append("../quadriga")  # Adjust path as needed
 from assessment import create_answer_box
 
 create_answer_box('Assessment_D-7')
@@ -291,7 +291,7 @@ create_answer_box('Assessment_D-7')
 :class: solution, dropdown
 **Beispiel für korrekte Antwort:**
 
-Nachdem die Schnitterkennung validiert und im Annotationstyp "Shot" gespeichert wurde, kopiere ich diese Segmentierung in die anderen Typen, die nach dem Einstellungsprinzip annotiert werden sollen. Dazu ziehe ich den "Shot"-Annotationstyp per Drag-and-Drop auf die Zielspur und wähle "Duplicate all annotations". Anschließend nutze ich die "Search/replace content"-Funktion, um den Inhalt aller kopierten Annotationen zu löschen (beide Felder leer lassen). Dann verwende ich Quick Fill mit den vordefinierten Werten der AdA-Filmontologie oder Quick Edit für die Annotation. Nach jeder Annotation kann ich mit der [Tab]-Taste zur nächsten springen. Um die Vollständigkeit und Korrektheit zu überprüfen, nutze ich abschließend die Checker-Funktion.
+Nachdem die Schnitterkennung validiert und im Annotationstyp 'Shot' gespeichert wurde, kopiere ich diese Segmentierung in die anderen Typen, die nach dem Einstellungsprinzip annotiert werden sollen. Dazu ziehe ich den 'Shot'-Annotationstyp per Drag-and-Drop auf die Zielspur und wähle 'Duplicate all annotations'. Anschließend nutze ich die 'Search/replace content'-Funktion, um den Inhalt aller kopierten Annotationen zu löschen (beide Felder leer lassen). Dann verwende ich Quick Fill mit den vordefinierten Werten der AdA-Filmontologie oder Quick Edit für die Annotation. Nach jeder Annotation kann ich mit der [Tab]-Taste zur nächsten springen. Um die Vollständigkeit und Korrektheit zu überprüfen, nutze ich abschließend die Checker-Funktion.
 
 ````
 
@@ -304,7 +304,7 @@ Nachdem die Schnitterkennung validiert und im Annotationstyp "Shot" gespeichert 
 from jupyterquiz import display_quiz
 import sys
 sys.path.append("..")
-from quadriga_config import colors
+from quadriga import colors
 
 multiple_choice8 = [{
     "question": """Was bewirkt die Quick Fill-Funktion bei der Annotation mit dem AdA-Template?""",
@@ -351,7 +351,7 @@ D. Annotationen ohne spezifische Ontologie-Referenz
 from jupyterquiz import display_quiz
 import sys
 sys.path.append("..")
-from quadriga_config import colors
+from quadriga import colors
 
 multiple_choice9 = [{
     "question": """Ordnen Sie die folgenden Syntaxelemente oder Annotationsarten der AdA-Filmontologie ihrer korrekten Beschreibung zu""",
@@ -391,7 +391,7 @@ display_quiz(multiple_choice9, colors=colors.jupyterquiz)
 from jupyterquiz import display_quiz
 import sys
 sys.path.append("..")
-from quadriga_config import colors
+from quadriga import colors
 
 multiple_choice10 = [{
     "question": """Welche der folgenden Fehlertypen kann die Checker-Funktion in Advene identifizieren? (Wählen Sie alle zutreffenden Optionen)""",
@@ -430,13 +430,13 @@ display_quiz(multiple_choice10, colors=colors.jupyterquiz)
 
 ### Frage 11
 
-Sie finden in einem Annotationspaket folgende Fehler: Überlappende Annotationen im Typ "Setting", zwei Einstellungen im Typ "Shot", die gemerged wurden und fehlende Werte im Typ "Field Size". Beschreiben Sie, wie Sie diese Fehler beheben würden.
+Sie finden in einem Annotationspaket folgende Fehler: Überlappende Annotationen im Typ 'Setting', zwei Einstellungen im Typ 'Shot', die gemerged wurden und fehlende Werte im Typ 'Field Size'. Beschreiben Sie, wie Sie diese Fehler beheben würden.
 
 
 ```{code-cell} ipython3
 :tags: [remove-input]
 import sys
-sys.path.append("../quadriga_config")  # Adjust path as needed
+sys.path.append("../quadriga")  # Adjust path as needed
 from assessment import create_answer_box
 
 create_answer_box('Assessment_D-11')
@@ -447,10 +447,10 @@ create_answer_box('Assessment_D-11')
 
 **Beispiel für korrekte Antwort:**
 
-Für überlappende Annotationen im Typ "Setting": Ich würde den Checker öffnen, zum Tab "Overlapping" wechseln und die überlappenden Annotationen identifizieren. Dann würde ich die betroffenen Annotationen durch Bearbeitung ihrer Start- und Endzeiten oder durch Zusammenführen korrigieren.
+Für überlappende Annotationen im Typ 'Setting': Ich würde den Checker öffnen, zum Tab 'Overlapping' wechseln und die überlappenden Annotationen identifizieren. Dann würde ich die betroffenen Annotationen durch Bearbeitung ihrer Start- und Endzeiten oder durch Zusammenführen korrigieren.
 
-Für die „verschmolzenen“ Einstellungen: Ich würde die betreffende Annotation im Typ "Shot" auswählen und mit der "Split at current player position"-Funktion an der richtigen Stelle teilen. Danach würde ich die Shot-Nummern anpassen und dann die Änderung in alle anderen nach dem Einstellungsprinzip annotierten Typen übertragen.
-Für fehlende Werte im Typ "Field Size": Ich würde den Checker nutzen, um im Tab "EmptyContent" die Annotationen ohne Inhalt zu identifizieren, und dann mit Quick Fill oder Quick Edit die fehlenden Werte ergänzen.
+Für die "verschmolzenen" Einstellungen: Ich würde die betreffende Annotation im Typ 'Shot' auswählen und mit der 'Split at current player position'-Funktion an der richtigen Stelle teilen. Danach würde ich die Shot-Nummern anpassen und dann die Änderung in alle anderen nach dem Einstellungsprinzip annotierten Typen übertragen.
+Für fehlende Werte im Typ 'Field Size': Ich würde den Checker nutzen, um im Tab 'EmptyContent' die Annotationen ohne Inhalt zu identifizieren, und dann mit Quick Fill oder Quick Edit die fehlenden Werte ergänzen.
 
 ````
 
@@ -462,7 +462,7 @@ Diskutieren Sie Grenzen und Herausforderungen der AdA-Filmontologie anhand konkr
 ```{code-cell} ipython3
 :tags: [remove-input]
 import sys
-sys.path.append("../quadriga_config")  # Adjust path as needed
+sys.path.append("../quadriga")  # Adjust path as needed
 from assessment import create_answer_box
 
 create_answer_box('Assessment_D-12')
@@ -488,16 +488,14 @@ Basierend auf Ihrer Erfahrung mit der AdA-Filmontologie: Für welche Art von fil
 ```{code-cell} ipython3
 :tags: [remove-input]
 import sys
-sys.path.append("../quadriga_config")  # Adjust path as needed
+sys.path.append("../quadriga")  # Adjust path as needed
 from assessment import create_answer_box
 
 create_answer_box('Assessment_D-13')
 ```
 
-````{admonition} Lösung
+````{admonition} Hilfestellung zur Antwort
 :class: solution, dropdown
-
-**Hilfestellung zur Antwort: **
 
 Reflektieren Sie darüber, wie die AdA-Filmontologie die Analyse formaler, stilistischer und kompositorischer Elemente unterstützt. Überlegen Sie, welche Arten von Forschungsfragen gut durch die systematische Erfassung audiovisueller Muster und Rhythmen beantwortet werden können. Denken Sie auch darüber nach, wo die Grenzen liegen könnten, etwa bei narrativen oder inhaltsanalytischen Fragestellungen.
 

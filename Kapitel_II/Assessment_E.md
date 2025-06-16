@@ -40,7 +40,7 @@ Viel Erfolg!
 from jupyterquiz import display_quiz
 import sys
 sys.path.append("..")
-from quadriga_config import colors
+from quadriga import colors
 
 multiple_choice_ada1 = [{
     "question": """Was ist der Hauptzweck der AdA-Timeline?""",
@@ -67,7 +67,7 @@ display_quiz(multiple_choice_ada1, colors=colors.jupyterquiz)
 from jupyterquiz import display_quiz
 import sys
 sys.path.append("..")
-from quadriga_config import colors
+from quadriga import colors
 
 
 multiple_choice_ada2 = [{
@@ -96,7 +96,7 @@ Erläutern Sie, warum die AdA-Timeline als partiturähnliche Darstellung konzipi
 ```{code-cell} ipython3
 :tags: [remove-input]
 import sys
-sys.path.append("../quadriga_config")  # Adjust path as needed
+sys.path.append("../quadriga")  # Adjust path as needed
 from assessment import create_answer_box
 
 create_answer_box('Assessment_E-3')
@@ -127,29 +127,29 @@ Die AdA-Timeline wurde als partiturähnliche Darstellung konzipiert, um der zeit
 from jupyterquiz import display_quiz
 import sys
 sys.path.append("..")
-from quadriga_config import colors
+from quadriga import colors
 
 multiple_choice4 = [{
     "question": """Ordnen Sie die folgenden Funktionen den richtigen Phasen im Arbeitsprozess mit der AdA-Filmontologie zu""",
     "type": "multiple_choice",
     "answers": [
         {
-            "answer": "1 -> 2 -> 3 -> 4 -> 5 -> 6",
+            "answer": "1 → 2 → 3 → 4 → 5 → 6",
             "correct": False,
             "feedback": """× Nicht korrekt! """
         },
         {
-            "answer": "1 -> 2 -> 3 -> 5 -> 6 -> 4",
+            "answer": "1 → 2 → 3 → 5 → 6 → 4",
             "correct": False,
             "feedback": """× Nicht korrekt! """
         },
         {
-            "answer": "1 -> 3 -> 2 -> 5 -> 6 -> 4",
+            "answer": "1 → 3 → 2 → 5 → 6 → 4",
             "correct": False,
             "feedback": """× Nicht korrekt! """
         },
         {
-            "answer": "1 -> 2 -> 3 -> 6 -> 5 -> 4",
+            "answer": "1 → 2 → 3 → 6 → 5 → 4",
             "correct": True,
             "feedback": """Ausgezeichnet! Sie verstehen den korrekten Workflow für die Öffnung und Konfiguration der AdA-Timeline. Diese systematische Vorgehensweise ist wichtig für die effiziente Arbeit mit dem Tool."""
         }
@@ -173,7 +173,7 @@ D. Darstellung für numerische Werte mit Ausschlägen in beide Richtungen
 from jupyterquiz import display_quiz
 import sys
 sys.path.append("..")
-from quadriga_config import colors
+from quadriga import colors
 
 multiple_choice5 = [{
     "question": """Ordnen Sie die folgenden Darstellungsformen der AdA-Timeline ihrer korrekten Beschreibung zu""",
@@ -213,7 +213,7 @@ display_quiz(multiple_choice5, colors=colors.jupyterquiz)
 from jupyterquiz import display_quiz
 import sys
 sys.path.append("..")
-from quadriga_config import colors
+from quadriga import colors
 
 multiple_choice_ada6 = [{
     "question": """Wie kann eine angepasste Konfiguration der AdA-Timeline am besten gespeichert werden?""",
@@ -241,7 +241,7 @@ display_quiz(multiple_choice_ada6, colors=colors.jupyterquiz)
 from jupyterquiz import display_quiz
 import sys
 sys.path.append("..")
-from quadriga_config import colors
+from quadriga import colors
 
 fill_in_blank_question1 = [{
     "question": "In der AdA-Timeline werden Syntaxelemente mit dem Zeichen ________ voneinander getrennt.",
@@ -268,7 +268,7 @@ display_quiz(fill_in_blank_question1, colors=colors.jupyterquiz)
 from jupyterquiz import display_quiz
 import sys
 sys.path.append("..")
-from quadriga_config import colors
+from quadriga import colors
 
 fill_in_blank_question2 = [{
     "question": "Um einen spezifischen Zeitabschnitt festzulegen, wird das Syntaxelement ________ verwendet, gefolgt von Start- und Endzeit, getrennt durch ein ________. Bitte geben Sie Ihre Antworten in der folgenden Form ein: Antwort1, Antwort2",
@@ -302,7 +302,7 @@ display_quiz(fill_in_blank_question2, colors=colors.jupyterquiz)
 from jupyterquiz import display_quiz
 import sys
 sys.path.append("..")
-from quadriga_config import colors
+from quadriga import colors
 
 fill_in_blank_question3 = [{
     "question": """Die Darstellungsoptionen für einzelne Annotationstypen werden in ________ nach der ID des Typs angegeben. Möchte man mehrere Darstellungsoptionen für einen Typ definieren, werden diese durch ein ________ voneinander getrennt. Bitte geben Sie Ihre Antworten in der folgenden Form ein: Antwort1, Antwort2""",
@@ -349,7 +349,7 @@ display_quiz(fill_in_blank_question3, colors=colors.jupyterquiz)
 from jupyterquiz import display_quiz
 import sys
 sys.path.append("..")
-from quadriga_config import colors
+from quadriga import colors
 
 multiple_choice_ada8 = [{
     "question": """Welche der folgenden Darstellungsoptionen können in der AdA-Timeline konfiguriert werden? (Wählen Sie alle zutreffenden Optionen)""",
@@ -380,16 +380,14 @@ Erläutern Sie, wie die AdA-Timeline zur Exploration und Interpretation audiovis
 ```{code-cell} ipython3
 :tags: [remove-input]
 import sys
-sys.path.append("../quadriga_config")  # Adjust path as needed
+sys.path.append("../quadriga")  # Adjust path as needed
 from assessment import create_answer_box
 
 create_answer_box('Assessment_E-9')
 ```
 
-````{admonition} Lösung
+````{admonition} Hilfestellung zur Antwort
 :class: solution, dropdown
-
-**Hilfestellung zur Antwort:**
 
 Gehen Sie näher auf den Zusammenhang zwischen der Visualisierung und der Identifikation von Mustern ein – was wird sichtbar?
 
@@ -405,7 +403,7 @@ Wie kann die Synchronizität verschiedener Parameter analytisch greifbar gemacht
 from jupyterquiz import display_quiz
 import sys
 sys.path.append("..")
-from quadriga_config import colors
+from quadriga import colors
 
 multiple_choice10 = [{
     "question": """Welche der folgenden Aussagen beschreibt die Rolle der AdA-Timeline-Visualisierung im filmanalytischen Prozess am treffendsten?""",
@@ -450,7 +448,7 @@ D. Darstellung numerischer Werte wie Lautstärke oder Bewegungsintensität
 from jupyterquiz import display_quiz
 import sys
 sys.path.append("..")
-from quadriga_config import colors
+from quadriga import colors
 
 multiple_choice11 = [{
     "question": """Ordnen Sie die folgenden Visualisierungsformen der AdA-Timeline richtigen Anwendungsfall zu""",
@@ -488,7 +486,7 @@ Reflektieren Sie über die Grenzen und Potenziale der AdA-Timeline für die film
 ```{code-cell} ipython3
 :tags: [remove-input]
 import sys
-sys.path.append("../quadriga_config")  # Adjust path as needed
+sys.path.append("../quadriga")  # Adjust path as needed
 from assessment import create_answer_box
 
 create_answer_box('Assessment_E-12')

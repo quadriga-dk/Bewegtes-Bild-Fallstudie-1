@@ -1,45 +1,46 @@
 # yaml-language-server: $schema=https://citation-file-format.github.io/1.2.0/schema.json
 cff-version: 1.2.0
-title: Affektrhetorik in Online-Videos zur Klimakrise
-abstract: >-
-  Dieses interaktive Lehrbuch ist das Outcome der 1. Fallstudie des Datentyps Bewegtes Bild des Projekts [QUADRIGA](https://quadriga-dk.de).
-message: "Please cite this software using the metadata from `preferred-citation` in `CITATION.cff`."
+title: Affektrhetorik in Online-Videos zur Klimakrise. Datengestützte Analysen audiovisueller
+  Muster
+abstract: Dieses interaktive Lehrbuch ist das Outcome der 1. Fallstudie des Datentyps
+  Bewegtes Bild des Projekts [QUADRIGA](https://quadriga-dk.de).
+message: Please cite this software using the metadata from `preferred-citation` in
+  `CITATION.cff`.
 type: software
-authors:
-  - given-names: Derya
-    family-names: Demir
-    affiliation: Freie Universität Berlin
-  - given-names: Matthias
-    family-names: Grotkopp
-    orcid: 'https://orcid.org/0000-0002-0954-3111'
-    affiliation: Freie Universität Berlin
-repository-code: 'https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1'
-url: 'https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/'
+authors: &id001
+- given-names: Derya
+  family-names: Demir
+  affiliation: Freie Universität Berlin
+- given-names: Matthias
+  family-names: Grotkopp
+  orcid: https://orcid.org/0000-0002-0954-3111
+  affiliation: Freie Universität Berlin
+identifiers:
+- type: doi
+  value: 10.5281/zenodo.15585269
+  description: Zenodo
+repository-code: https://github.com/quadriga-dk/Bewegtes-Bild-Fallstudie-1
+url: https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/
 keywords:
-  - Open Educational Resource
-  - Filmwissenschaft
+- Open Educational Resource
+- Filmwissenschaft
 license: CC-BY-SA-4.0
 references:
-  - title: Jupyter Book
-    type: software
-    authors: 
-      - name: The Jupyter Book Community
-        website: https://github.com/jupyter-book/jupyter-book/graphs/contributors
+- title: Jupyter Book
+  type: software
+  authors:
+  - name: The Jupyter Book Community
+    website: https://github.com/jupyter-book/jupyter-book/graphs/contributors
 preferred-citation:
   year: 2025
-  authors:
-  - given-names: Derya
-    family-names: Demir
-    affiliation: Freie Universität Berlin
-  - given-names: Matthias
-    family-names: Grotkopp
-    orcid: 'https://orcid.org/0000-0002-0954-3111'
-    affiliation: Freie Universität Berlin
-  title: "Affektrhetorik in Online-Videos zur Klimakrise"
+  authors: *id001
+  title: Affektrhetorik in Online-Videos zur Klimakrise. Datengestützte Analysen audiovisueller
+    Muster
   type: book
-  url: 'https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/'
-  repository-code: 'https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1'
+  doi: 10.5281/zenodo.15585269
+  url: https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/
+  repository-code: https://github.com/quadriga-dk/Bewegtes-Bild-Fallstudie-1
   license: CC-BY-SA-4.0
   languages:
-    - deu
+  - deu
   copyright: CC-BY-SA-4.0

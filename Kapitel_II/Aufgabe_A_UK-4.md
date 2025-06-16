@@ -1,6 +1,6 @@
 # Methodenreflexion und Resümee
 
-```{admonition} Keypoints Lernmodul A
+```{admonition} Keypoints
 :class: keypoint
 * Identifikation und korrekte Kategorisierung filmischer [Grundeiheiten](Grundeinheiten-Film) und [Basisparameter](Kurdzefinition-Parameter) 
 * Systematische Erfassung filmanalytischer Primärdaten durch tabellarische Dokumentation audiovisueller Gestaltungsmittel anahnd eines [Einstellungsprotokolls](Tabellarischer-Auzug)

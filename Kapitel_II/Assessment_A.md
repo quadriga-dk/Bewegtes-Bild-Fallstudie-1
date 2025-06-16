@@ -26,7 +26,7 @@ Sie können die Fragen in beliebiger Reihenfolge beantworten und auch mehrfach v
 
 Es erfolgt keine Bewertung oder Speicherung Ihrer Ergebnisse. Nutzen Sie dieses Assessment, um Wissenslücken zu identifizieren und gegebenenfalls die entsprechenden Abschnitte des Kapitels noch einmal zu bearbeiten.
 
-**Geschätzte Zeit**: xxx (Platzhalter)
+**Geschätzte Zeit**: 20-30 Min.
 
 Viel Erfolg!
 ````
@@ -41,7 +41,7 @@ Viel Erfolg!
 from jupyterquiz import display_quiz
 import sys
 sys.path.append("..")
-from quadriga_config import colors
+from quadriga import colors
 
 multiple_choice1 = [{
     "question": """Welche der folgenden Einheiten gilt als die kleinste filmische Einheit?""",
@@ -80,7 +80,7 @@ display_quiz(multiple_choice1, colors=colors.jupyterquiz)
 from jupyterquiz import display_quiz
 import sys
 sys.path.append("..")
-from quadriga_config import colors
+from quadriga import colors
 
 multiple_choice2 = [{
     "question": """Welche der folgenden Basisparameter sind korrekt definiert? (Wählen Sie alle zutreffenden Optionen aus)""",
@@ -118,10 +118,10 @@ display_quiz(multiple_choice2, colors=colors.jupyterquiz)
 ```
 
 ### Frage 3
-A. Größte Einheit, die narrative oder formal-ästhetische Stränge verbindet
-B. Teilabschnitt eines Films mit Kontinuität von Raum, Zeit und Figuren
-C. Ununterbrochene Aufnahme ohne Schnitt
-D. Einzelbild, für das menschliche Auge kaum sichtbar
+A. Größte Einheit, die narrative oder formal-ästhetische Stränge verbindet <br>
+B. Teilabschnitt eines Films mit Kontinuität von Raum, Zeit und Figuren <br>
+C. Ununterbrochene Aufnahme ohne Schnitt <br>
+D. Einzelbild, für das menschliche Auge kaum sichtbar <br>
 
 ```{code-cell} ipython3
 :tags: [remove-input]
@@ -129,7 +129,7 @@ D. Einzelbild, für das menschliche Auge kaum sichtbar
 from jupyterquiz import display_quiz
 import sys
 sys.path.append("..")
-from quadriga_config import colors
+from quadriga import colors
 
 multiple_choice3 = [{
     "question": """Ordnen Sie die filmischen Segmentierungseinheiten ihren korrekten Definitionen zu:
@@ -180,7 +180,7 @@ from jupyterquiz import display_quiz
 
 import sys
 sys.path.append("..")
-from quadriga_config import colors
+from quadriga import colors
 
 multiple_choice_4 = [{
     "question": """Welche Reihenfolge ist korrekt?""",
@@ -219,7 +219,7 @@ Warum könnte eine Segmentierung nach Dynamiken für bestimmte analytische Zweck
 ```{code-cell} ipython3
 :tags: [remove-input]
 import sys
-sys.path.append("../quadriga_config")  # Adjust path as needed
+sys.path.append("../quadriga")  # Adjust path as needed
 from assessment import create_answer_box
 
 create_answer_box('Assessment_A-5')
@@ -246,7 +246,7 @@ Vergleichen Sie die Vor- und Nachteile der tabellarischen Annotation als Methode
 ```{code-cell} ipython3
 :tags: [remove-input]
 import sys
-sys.path.append("../quadriga_config")  # Adjust path as needed
+sys.path.append("../quadriga")  # Adjust path as needed
 from assessment import create_answer_box
 
 create_answer_box('Assessment_A-6')
@@ -267,7 +267,7 @@ Eine durchdachte Reflexion über methodische Ansätze demonstriert Ihr Verständ
 from jupyterquiz import display_quiz
 import sys
 sys.path.append("..")
-from quadriga_config import colors
+from quadriga import colors
 
 multiple_choice7 = [{
     "question": """Welches der folgenden Antwortmöglichkeiten ist kein Nachteil tabellarischer Annotationsmethoden?""",
@@ -306,7 +306,7 @@ Basierend auf Ihrer Erfahrung mit tabellarischer Annotation, welche Aspekte der 
 ```{code-cell} ipython3
 :tags: [remove-input]
 import sys
-sys.path.append("../quadriga_config")  # Adjust path as needed
+sys.path.append("../quadriga")  # Adjust path as needed
 from assessment import create_answer_box
 
 create_answer_box('Assessment_A-8')

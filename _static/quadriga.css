@@ -258,6 +258,7 @@ html[data-theme='dark'] div.cell details.above-input > summary {
     color: #f7fbff !important;
 }
 
+
 /* Zeitinfo/Bearbeitungszeit styling */
 div.zeitinfo {
     background-color: #fff9f4 !important;             /* sehr helles Apricot */
@@ -276,5 +277,20 @@ div.zeitinfo > .admonition-title::after {
     font-size: 1em !important;
     font-family: "Font Awesome 5 Free";
     font-weight: 900;
-    color: #cc6f53 !important; /* Apricot-Farbe für das Icon */
+    color: #cc6f53 !important;                  /* Apricot-Farbe für das Icon */
+}
+
+/* Dark mode overrides for zeitinfo */
+html[data-theme='dark'] div.zeitinfo {
+    background-color: rgba(229, 157, 126, 0.1) !important;
+    border-left-color: #e59d7e !important;
+}
+
+html[data-theme='dark'] div.zeitinfo > .admonition-title {
+    background-color: rgba(229, 157, 126, 0.15) !important;
+    color: #e59d7e !important;
+}
+
+html[data-theme='dark'] div.zeitinfo > .admonition-title::after {
+    color: #e59d7e !important;
 }
