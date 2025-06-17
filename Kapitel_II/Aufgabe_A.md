@@ -11,9 +11,10 @@ Um Filme, Videos oder Bewegtbildmaterial für filmanalytische Arbeiten überhaup
 <a href="https://zfdg.de/wp_2023_002" class="external-link" target="_blank">Mehr Information zu Annotationen</a>
 ```
 ````
-````{admonition} Hinweis
+
+````{admonition} Definition Annotation
 :class: hinweis
-Im Kontext der Film- und Medienwissenschaft sind Annotationen als eine zeitbasierte Anreicherung von Filmen oder Videos um Metadaten bzw. Metainformationen zu verstehen.
+Im Kontext der Film- und Medienwissenschaft sind Annotationen als eine zeitbasierte Anreicherung von Filmen oder Videos um Metadaten bzw. Metainformationen zu verstehen. Dabei handelt es sich um ein Verfahren der (semantischen) Anreicherung von Untersuchungsgegenständen, das manuell, automatisiert oder semi-automatisch erfolgen kann. Im engeren Sinne beziehen sich Annotationen direkt auf den gesamten Untersuchungsgegenstand und sind mit ihm verknüpft, indem sie Metainformationen bereitstellen. Videoannotations-Tools ermöglichen eine zeitgenaue Markierung und Kommentierung des Materials. Dadurch können filmische Strukturen wie Rhythmen, Bewegungen oder Schnittfolgen empirisch festgehalten und sichtbar gemacht werden.
 ```{image} ../assets/Annotation-Visualisierung.png
 :width: 400px
 :align: center
