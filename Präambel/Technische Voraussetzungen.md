@@ -4,15 +4,44 @@ lang: de-DE
 # Technische Voraussetzungen
 
 Zur Durchführung von Annotationen nutzen wir die frei zugänglichen Programme **Advene** und **ELAN**. Instruktionen sowie Hinweise zum Download für MacOS, Windows sowie Linux gibt es auf den jeweiligen Download-Seiten für <a href="https://www.advene.org/download.html#download" class="external-link" target="_blank">Advene</a> bzw. für <a href="https://archive.mpi.nl/tla/elan/download" class="external-link" target="_blank">ELAN</a>.
-+++
+
+## ELAN Download
+
+ELAN bietet mehrere Versionen zum Download an:
+
+![Elan-Download-Versionen](../assets/Elan-Download-Screenshot.png)
+
+Wir empfehlen mit der neusten Release-Version zu arbeiten, da diese die wichtigsten Updates und Fehlerbehebungen enthält. Die aktuelleste Version (letzter Release Dezember 2024) ist `ELAN 6.9`. Mehr Infos zu den release notes gibt es auf der <a href="https://archive.mpi.nl/tla/elan/release-notes" class="external-link" target="_blank"> Projektseite</a>.
+
+## Advene Download 
+
+````{margin}
+```{admonition} Wichtiger Hinweis
+:class: caution
+Bei Problemen mit dem Download oder der Software können Sie über den <a href="https://github.com/oaubert/advene/issues" class="external-link" target="_blank"> Github-Projektaccount</a> von Advene direkt ein Issue erstellen. Hierzu benötigen Sie einen (kostenlosen) Github-Account.
+```
+````
+
+Auf der Seite von Advene wird immer die aktuellste Version der Software zum Download angeboten.
+
+Der Download der **Windows-Version** muss über einen Admin-Account des genutzten Rechners erfolgen.
+
 Über die <a href="https://github.com/oaubert/advene/" class="external-link" target="_blank">Projektseite</a> auf Github kann ebenfalls die Advene Development-Version für Linux heruntergeladen werden.
 
-## Installationsanleitung Advene für Linux mit einer virtuellen Maschine
+```{admonition} Für wen ist die Development-Version geeignet?
+:class: hinweis
+
+Technisch versierte Nutzer:innen können alternativ auch die Development-Version von Advene herunterladen. Diese enthält die jeweils neuesten Funktionen, Erweiterungen und Bugfixes, die vom Entwickler bereitgestellt werden. Die Development-Version eignet sich daher insbesondere für Anwender:innen, die regelmäßig mit den aktuellsten Updates arbeiten möchten und Interesse daran haben, Advene stets in seiner neuesten Entwicklungsstufe zu nutzen.
+Für die Annotationsarbeit sind jedoch die angebotenen regulären Download-Versionen für Mac und Windows in jedem Fall vollkommen ausreichend – sie bieten alle notwendigen Funktionen für eine zuverlässige Nutzung.
+
+```
+
+### Installationsanleitung Advene für Linux mit einer virtuellen Maschine
 
 ````{margin}
 ```{admonition} Hinweis
 :class: hinweis 
-*Parallels Desktop* ist eine kostenpflichtige Möglichkeit, eine virtuelle Maschine auf einem Mac zu installieren und zu verwalten.
+*Parallels Desktop* ist beispielsweise eine (kostenpflichtige) Möglichkeit, eine virtuelle Maschine auf einem Mac zu installieren und zu verwalten.
 ```
 ````
 
