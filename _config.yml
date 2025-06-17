@@ -3,8 +3,8 @@
 
 title: "Affektrhetorik in Online-Videos zur Klimakrise. Datengestützte Analysen audiovisueller Muster"
 author: Derya Demir & Matthias Grotkopp
-logo: logo.jpg
-exclude_patterns: [_build, Thumbs.db, .DS_Store, "**.ipynb_checkpoints", conda, venv, README.md, LICENSE.md, "**-Reviewbogen.md", "Reviewbogen.md", "Checkliste_Finalisierung.md", "Dokumentation_Videolizenz_350org.md"]
+logo: Bild1.png
+exclude_patterns: [_build, Thumbs.db, .DS_Store, "**.ipynb_checkpoints", conda, venv, README.md, LICENSE.md, "**-Reviewbogen.md", "Reviewbogen.md", "Checkliste_Finalisierung.md"]
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
