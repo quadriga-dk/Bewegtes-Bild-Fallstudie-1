@@ -93,6 +93,9 @@ Bei ganzen Filmen ist es zunächst sinnvoller nach Sequenzen und/oder Szenen zu 
 
 (Tabellarischer-Auzug)=
 ## Tabellarischer Auszug (Exemplar)
+
+Um einen Eindruck davon zu bekommen, wie das aussehen kann, haben wir hier die ersten fünf Einstellungen exemplarisch annotiert:
+
 | Nr. | Dauer (sec.) | Screenshot                | Bildinhalt   | Einstellungsgröße  | Montage                     | Kamera                         | Ton/Musik                          | Farbe            | Licht        |
 |-----|-------------:|---------------------------|--------------|--------------------|-----------------------------|--------------------------------|------------------------------------|------------------|--------------|
 | 01  | 05''         | ![S01](../assets/S01.png) | Bühne        | medium shot        | harter Schnitt              | low-angle; Fahrt: leicht>links | Dialog/Rede (onscreen)             | schwarz          | dunkel       |
@@ -105,7 +108,7 @@ Bei ganzen Filmen ist es zunächst sinnvoller nach Sequenzen und/oder Szenen zu 
 Eine tabellarische Annotation erfordert viel Zeit und Aufmerksamkeit, da alle Daten, beispielsweise mit einem Textprogramm, manuell eingetragen werden müssen. 
 ```
 ## Schritte
-Folgende Schritte sollen als Anweisung dienen, um die Durchführung der tabellarischen Annotation eigenständig reproduzieren zu können:
+Um die tabellarische Annotation nach unserem Beispiel eigenständig durchführen zu können, haben wir folgende Schritte als kurze Übersicht notiert:
 +++
 1. *Segmentierung*: Das Video soll in diesem Schritt in die jeweiligen Einstellungen segmentiert werden
 2. *Annotationsarbeit*: Die tabellarische Annotation kann beginnen, das Template kann vollständig ausgefüllt werden 

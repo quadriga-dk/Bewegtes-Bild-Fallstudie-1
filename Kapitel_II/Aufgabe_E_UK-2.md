@@ -171,7 +171,7 @@ Sowohl die Visualisierungen als auch die Annotationen selbst sollen jedoch nicht
 > Das heißt Visualisierungen sind Interfaces und Medien der Analyse, sie sind wesentlicher Bestandteil eines abduktiven Forschungsprozesses, der sich mit Annotationen (wiederum in Konstellationen mit den Bewegtbildern) auseinandersetzt {cite}`stratil2024`.
 
 Im Folgenden haben wir ein Set von Folien bereitgestellt, in denen mit Ausschnitten der Visualiserung eine Analyse unseres Gegenstandes nachvollzogen werden kann.
-Eine ausführliche Analyse in Textform (mit direkten Verweisen auf die jeweiligen Folienabschnitte) steht hier als [PDF-Download](../assets/QUADRIGA-Dateninterpretation-A5.pdf) zur Verfügung. Die integrierten Folien können ebenfalls als [Datei](../assets/QUADRIGA-Slideshow-Analyse.pdf) heruntergeladen werden.
+Eine ausführliche Analyse in Textform (mit direkten Verweisen auf die jeweiligen Folienabschnitte) steht hier als [PDF-Download](../assets/QUADRIGA_Dateninterpretation_Fallstudie_Bewegtes_Bild_1.pdf) zur Verfügung. Die integrierten Folien können ebenfalls als [Datei](../assets/QUADRIGA-Slideshow-Analyse.pdf) heruntergeladen werden.
 
 (Slideshow-Analyse)=
 ### Slideshow der Analyse
