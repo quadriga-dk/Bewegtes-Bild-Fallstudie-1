@@ -58,7 +58,7 @@ Bitte beachten Sie, dass dieses Lehrangebot keine umfassende Einführung in das 
 
 ## Workflow der datengestützten Filmanalyse
 
-Basierend auf der Arbeit an unserer Fallstudie stellen wir Ihnen einen systematischen Workflow vor, den wir entwickelt und visualisert haben, um einen Gesamtüberblick über die Arbeitschritte zu ermöglichen. Wer unsere OER vollständig durcharbeitet, soll am Ende in der Lage sein, ein eigenes Forschungsvorhaben entlang dieses Schemas zu konzipieren. Im [letzten Abschnitt](./Kapitel_III/Summatives_Assessment.md) findet sich dazu ein anwendungsorientiertes Assessment, das zur Übertragung des Gelernten auf ein eigenes Projekt anleitet – ergänzt durch eine umfangreiche Dokumentation des hier präsentierten Workflows als Orientierungshilfe. 
+Basierend auf der Arbeit an unserer Fallstudie stellen wir Ihnen einen systematischen Workflow vor, den wir entwickelt und visualisert haben, um einen Gesamtüberblick über die Arbeitschritte zu ermöglichen. Wer unsere OER vollständig durcharbeitet, soll am Ende in der Lage sein, ein eigenes Forschungsvorhaben entlang dieses Schemas zu konzipieren. Im [letzten Abschnitt](konzeption:forschungsvorhaben) findet sich dazu ein anwendungsorientiertes Assessment, das zur Übertragung des Gelernten auf ein eigenes Projekt anleitet – ergänzt durch eine umfangreiche Dokumentation des hier präsentierten Workflows als Orientierungshilfe. 
 
 ```{figure} ../Bewegtes-Bild-Fallstudie-1/assets/Workflow_datengestützte_Filmanalyse.png
 :name: workflow-filmanalyse-2

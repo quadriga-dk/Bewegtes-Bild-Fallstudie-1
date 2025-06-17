@@ -77,6 +77,7 @@ Vergleichen Sie die verschiedenen Annotationsmethoden (tabellarisch, freitextbas
 
 Belegen Sie Ihre Argumentation mit konkreten Beispielen, die Sie beim Durcharbeiten der Fallstudie möglicherweise schon gesammelt haben. Welche Vor- und Nachteile der vorgestellten Annotationsmethoden können Sie benennen?
 
+(konzeption:forschungsvorhaben)=
 ## Konzeption einer integrativen Fallbeispielanalyse als Forschungsvorhaben
 
 Skizzieren Sie ein Forschungsprojekt, das die in der Fallstudie vorgestellten Methoden nutzt, um eine spezifische Forschungsfrage im Bereich der Film- und Medienanalyse zu beantworten.
