@@ -11,32 +11,50 @@ Wir verstehen Film als Medium, das sich in der Zeit entfaltet. Dabei ist die Zus
 Was wir wahrnehmen und fühlen, setzt sich aus dem Zusammenspiel von Intensitäten zusammen, die sich über die Zeit und den Raum gestalten: "Atmosphären entfalten sich, Gedanken kommen plötzlich, Gefühle schleichen sich ein… Film und andere audiovisuelle Medien sind in der Lage dies nicht nur in Bildern und Tönen auszudrücken, sondern auch als Erleben für den Zuschauer zu gestalten" {cite}`kappelhoff2007`
 ```
 
+<h2>2.2.2. Warum digitale Methoden? Was gibt es für Tools?</h2>
+
 ````{margin}
 ```{admonition} Was sind Annotationen
 :class: hinweis
 Ausführliche Informationen zum Begriff "Annotation" gibt es [hier](../Kapitel_II/Aufgabe_A.md).
 ```
 ````
-<h2>1.2.2. Warum digitale Methoden? Was gibt es für Tools?</h2>
-
 Digitale Methoden ermöglichen eine empirisch fundierte Auseinandersetzung mit Bewegtbildern. Insofern kann die Schnittstelle zwischen Medien und Zuschauenden durch digitale Methoden systematisiert werden. Die Erstellung von Metadaten hilft dabei, größere Sinnzusammenhänge und Dynamiken lesbar zu machen. Ebenso können Daten durch ihre Zirkulation in Austauschbewegungen zwischen verschiedenen Akteur:innen eingebunden werden. Im Fokus unserer Herangehensweisen steht die Methodik der Videoannotation. Die **Videoannotation** im Speziellen zielt hierbei darauf ab, die zeitliche Erscheinungsweise (*timeline based video analysis*) von Filmen in Form auswertbarer Daten erfahrbar sowie zugänglich zu machen. 
 
 > Von den Gedächtnisprotokollen der frühen Filmwissenschaft und Notizen im Dunkel des Kinosaals über Detailstudien am Schneidetisch bis hin zu Möglichkeiten der automatischen Schnitterkennung und -visualisierung am heimischen Laptop lässt sich eine Veränderung filmwissenschaftlicher Werkzeuge nachzeichnen. Unter Videoannotation ist dabei die zeitbezogene Ergänzung von audiovisuellen Medieninhalten um Metadaten zu verstehen {cite}`bakels2016`.
 
-````{margin}
-```{admonition} Was ist eine Datenontologie?
-:class: hinweis
-Eine Ontologie nach Semantic Web Standards ist ein semantisches Modell, das Wissen struktuiert. Sie beschreibt und ordnet Begriffe und Beziehungen zueinander, um das formulierte Wissen maschinenlesbar zu machen. Spezifische Sprachen, wie z.B. **RDF**, **OWL** oder **XSD**, ermöglichen Standards für die Formulierung von Ontologien. Mehr Infos: [Einarbeiten in die Filmontologie](/Kapitel_II/Aufgabe_C).
-```
-````
 Durch digitale Herangehensweisen können Systematiken für filmanalytische Konzepte entwickelt und diese in den Kontext bestehender Semantic Web Prinzipien eingegliedert werden. Dabei steht die Frage im Mittelpunkt, wie eine systematische Formulierung datenspezifischer sowie webbasierter Formate in eine filmanalytische Ontologie transformiert werden kann. Ontologie in diesem Kontext verstehen wir als ein Ordnungsprinzip, durch welches Informationseinheiten miteinander verknüpft werden können. Semantic Web basierte Ontologien können als Technologien beschrieben werden, die Metadaten sowohl maschinenlesbar als auch repräsentationsfähig machen.
 
-```{admonition} Tools für die Annotation audiovisueller Gegenstände
-:class: seealso
-Es gibt verschiedene Tools, mit denen audiovisuelle Gegenstände (z.B. Videoclips oder Filmszenen) annotiert werden können. Zu den gängigsten zählen:  <a href="https://www.advene.org/" class="external-link" target="_blank">Advene</a>, <a href="https://archive.mpi.nl/tla/elan" class="external-link" target="_blank">ELAN</a>, <a href="https://distantviewing.org/" class="external-link" target="_blank">Distant Viewing</a>, <a href="http://www.anvil-software.de/" class="external-link" target="_blank">Anvil</a> oder zum Beispiel die in der Entwicklungsphase stehende Software <a href="https://service.tib.eu/tibava" class="external-link" target="_blank">TIB AV-Analytics</a>.
+(semantic:web)=
+### Was versteht man unter Semantic Web und einer Ontologie?
+
+```{figure} ../assets/semantic-web-ontololy-abstract.jpg
+:name: semantic-web-ontology-abstract
+:width: 700px
+
+Abstrakte Visualisierung von verknüpftem Wissen im Semantic Web (KI-generiert)
+```
+
+Einfach erklärt: Das Semantic Web, auch Web 3.0 genannt, erweitert das klassische Web, indem es Informationen so aufbereitet, dass sie nicht nur für Menschen, sondern auch für Maschinen lesbar sind. Ziel ist es, Daten strukturierter und miteinander verknüpft bereitzustellen, um eine automatisierte, kontextbezogene Verarbeitung und eine gezielte Verknüpfung verschiedener Datenquellen zu ermöglichen. Mehr Informationen zum Semantic Web finden Sie auch in unserer QUADRIGA-Fallstudie: <a href="https://quadriga-dk.github.io/Tabelle-Fallstudie-2/Semantic_Web_Linked_Data.html" class="external-link" target="_blank">"Erfragen von Metadaten: Ein Fallbeispiel aus dem Europäischen und Deutschen Metadatenportal"</a> {cite}`Plomin_Fallstudie_2_2025`.
+
+Eine Ontologie nach Semantic Web Standards ist ein semantisches Modell, das Wissen struktuiert. Sie beschreibt und ordnet Begriffe und Beziehungen zueinander, um das formulierte Wissen maschinenlesbar zu machen. Spezifische Sprachen, wie z.B. **RDF**, **OWL** oder **XSD**, ermöglichen Standards für die Formulierung von Ontologien. Mehr Infos hierzu können Sie in dem Kapitel [Einarbeiten in die Filmontologie](../Kapitel_II/toc_C.md) nachlesen.
+
+
+### Welche Tools gibt es für die digitale Annotation von Film- und Videomaterial?
+
+Diese strukturierte Aufbereitung von Wissen durch Ontologien wird besonders relevant, wenn es um die praktische Anwendung in der Filmanalyse geht. Denn um filmanalytische Konzepte in maschinenlesbare Formate zu überführen, müssen zunächst die audiovisuellen Gestaltungsweisen selbst systematisch erfasst und beschrieben werden. Hier kommen digitale Annotationstools ins Spiel: Sie ermöglichen es, filmische Elemente wie Einstellungsgrößen, Kamerabewegungen, Schnittrhythmen oder narrative Strukturen präzise zu markieren und zu kategorisieren. Diese Annotationen bilden dann die Grundlage für die ontologische Strukturierung – sie liefern die konkreten Daten, die später in semantische Zusammenhänge eingebettet werden können.
+
+```{figure} ../assets/_images/annotation-interface-abstract.png
+:name: annotationsoberflächer-timeline
+:width: 500px
+
+Abstrakte Visualisierung einer Annotationsoberflächer mit Timeline 
+```
+
+Es gibt verschiedene Tools, mit denen audiovisuelle Gegenstände (z.B. Videoclips oder Filmszenen) annotiert werden können. Zu den gängigsten zählen: <a href="https://www.advene.org/" class="external-link" target="_blank">Advene</a>, <a href="https://archive.mpi.nl/tla/elan" class="external-link" target="_blank">ELAN</a>, <a href="https://distantviewing.org/" class="external-link" target="_blank">Distant Viewing</a>, <a href="http://www.anvil-software.de/" class="external-link" target="_blank">Anvil</a> oder zum Beispiel die in der Entwicklungsphase stehende Software <a href="https://service.tib.eu/tibava" class="external-link" target="_blank">TIB AV-Analytics</a>.
 
 Es gibt sowohl browserbasierte Anwendungstools als auch Software, die offline verwendet werden kann.
-```
+
 ## Welche Systematisierungsansätze, Methoden und Werkzeuge gibt es bereits?
 Im Bereich der Filmanalyse existieren bereits eine Vielzahl von Ansätzen und Methoden, um einerseits das Vokabular und andererseits ebenso die Techniken zu systematisieren und zu strukturieren. 
 Eine einheitliche Systematisierung gibt es dabei nicht. Durch Ansätze verschiedener Akteur:innen, Institutionen und deren Arbeiten gibt es jedoch Zugänge zu unterschiedlichen Glossaren, Nachschlagewerken sowie Verfahren, in denen Begriffe, Definitionen und Funktionsweisen filmanalytischer Termini erläutert, zusammengefasst sowie öffentlich zugänglich gemacht werden. Um sich eine Übersicht zu verschaffen, wird hier eine kleine Auswahl bereitgestellt. **Diese Informationen bilden den Grundstein für ein Basisverständnis filmanalytischer Arbeit.** 

@@ -32,21 +32,6 @@ ____________________
 
 * Als erstes werden Basisparameter für die zu analysierenden Segmente festgelegt; die Auswahl der zu untersuchenden Basisparameter soll dazu dienen, die zentralen kompositorischen Einheiten filmischer Intensitäten und Bewegungen als deskriptive Analysemuster in einem ersten Schritt greifen zu können.
 
-    ````{margin}
-    ```{admonition} Kategorisierung von "Bildinhalt"
-    :class: hinweis
-    Des weiteren haben wir den Parameter "Bildinhalt" hinzugefügt und diesen wie folgt kategorisiert: 
-    1. Bühne
-    2. Publikum
-    3. 2D-Animation
-    4. Found Footage
-    5. Interview
-    
-    Es können auch ausführlichere Beschreibungen eingetragen werden. Wir haben uns für eine allgemeine Kategorisierung entschieden.
-    ```
-    ````
-
-
 Kurzdefinitionen zu unseren Basisparametern haben wir hier zusammengefasst:
 
 (Kurdzefinition-Parameter)=
@@ -73,6 +58,16 @@ ____________________
 <ins>**Licht:** </ins> <br>
 Gestaltung der Hell-Dunkel-Kontraste sowie Lichtstärke 
 
+Des weiteren haben wir den Parameter <ins>**Bildinhalt** </ins> hinzugefügt und diesen wie folgt kategorisiert: 
+
+1. Bühne
+2. Publikum
+3. 2D-Animation
+4. Found Footage
+5. Interview
+    
+Es können auch ausführlichere Beschreibungen eingetragen werden. Wir haben uns für eine allgemeine Kategorisierung entschieden.
+
 ```{admonition} Weiterführende Literatur zu Grundbegriffen
 :class: seealso
 Für eine vertiefende Beschäftigung mit den Grundbegriffen empfehlen wir folgende Internetseiten bzw. Lektüre: 
@@ -89,7 +84,7 @@ Bei ganzen Filmen ist es zunächst sinnvoller nach Sequenzen und/oder Szenen zu 
 ````
 
 * Anschließend wird eine Segmentierungslogik, nach der der Videoclip analysiert werden soll, festgelegt. Wir haben uns, aufgrund der Länge des Gegenstandes, für eine Segmentierung in **Einstellungen** entschieden. 
-* Sobald die Grundstruktur der zu analysierenden Einheiten steht, kann mit der tabellarischen Annotation begonnen werden, d.h., dass den Parametern Inhalte bzw. Werte beigeordnet werden, die aus der Inszenierung des Videos hervorgehen. Ein Template (als [Word-Datei](../assets/Tabellarische-Annotation-Template-Quadriga.docx) und [PDF](../assets/Tabellarische-Annotation-Template-Quadriga.pdf)) zum Ausfüllen des Einstellungsprotokolls kann hier heruntergeladen werden.
+* Sobald die Grundstruktur der zu analysierenden Einheiten steht, kann mit der tabellarischen Annotation begonnen werden, d.h., dass den Parametern Inhalte bzw. Werte beigeordnet werden, die aus der Inszenierung des Videos hervorgehen. Ein Template (als [Word-Datei](../assets/Tabellarische-Annotation-Template-Quadriga.docx), [Excel-Vorlage](../assets/Tabellarische-Annotation-Template-Quadriga.xlsx) und [PDF](../assets/Tabellarische-Annotation-Template-Quadriga.pdf)) zum Ausfüllen des Einstellungsprotokolls kann hier heruntergeladen werden.
 
 (Tabellarischer-Auzug)=
 ## Tabellarischer Auszug (Exemplar)

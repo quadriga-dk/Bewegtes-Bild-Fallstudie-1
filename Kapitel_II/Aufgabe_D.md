@@ -54,7 +54,14 @@ Für die Annotationsarbeit mit der Ontologie wurden zwei Videotutorials erstellt
 ## Weiterführende Infos und Material
 
 Beide Videotutorials bieten gute Einstiegshilfen und Erklärungen der wichtigsten Funktionen und Anwendungen für die Arbeit mit der AdA-Filmontologie. Als Quick Guides sollen sie somit einen schnellen Start in die Annotationsarbeit ermöglichen. 
-+++
+
+````{margin}
+```{admonition} Lizenzangabe AdA-Publikationen
+:class: hinweis
+Die AdA-Publikationen wurden unter der Lizenzangabe <a href="https://creativecommons.org/licenses/by-sa/3.0/de/deed.de" class="external-link" target="_blank">CC BY-SA 3.0</a> veröffentlicht. D.h, dass die Werke unter Namensnennung weiterverwendet und verändert werden dürfen, solange sie unter derselben Lizenz (ShareAlike) weitergegeben werden. Detaillierte Informationen zur Lizenzangabe gibt es auf der <a href="https://github.com/ProjectAdA/public/blob/v1.1/License" class="external-link" target="_blank">Github-Projektseite</a> von AdA.
+```
+````
+
 Im Rahmen des AdA-Projekts wurde als Teil des AdA-Toolkits ein Manual entwickelt, welches darüber hinaus noch ausführlichere Anweisungen bereitstellt {cite}`ada2021`. Detaillierte und spezifische Hilfen zu den je einzelnen Funktionen können dem Manual entnommen werden. Hier steht das Manual in deutscher Fassung zum Dowload bereit: [AdA-Manual](../assets/Manual_Advene_AdA_D_Vers1_0.pdf). Eine englische Version kann vom <a href="https://www.ada.cinepoetics.fu-berlin.de/ada-toolkit/index.html" class="external-link" target="_blank">AdA-Toolkit</a> bezogen werden.
 
 ## Die nächsten Schritte...
@@ -63,7 +70,7 @@ Im Rahmen des AdA-Projekts wurde als Teil des AdA-Toolkits ein Manual entwickelt
 :height: 200px
 :name: laptop-manual
 ```
-1.	Videos anschauen und Manual (bei Bedarf) hinzuziehen <br>
+1.	Videos anschauen und Manual hinzuziehen <br>
 2.	Advene starten und loslegen! 🎬
 +++
 ```{admonition} nächste Schritte
