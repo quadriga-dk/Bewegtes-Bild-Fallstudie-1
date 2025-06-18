@@ -52,9 +52,7 @@ Die Fallstudie richtet sich an:
 
 der Fachrichtungen Film- und Medienwissenschaft. Auch Interessierte aus verwandten Disziplinen wie beispielsweise der Kunstgeschichte oder Literaturwissenschaft können durch die Lernmodule ein grundlegendes Verständnis für digitale Annotationsmethoden bei der Analyse audiovisuellen Bewegtbildmaterials entwickeln.
 
-**Grundkenntnisse** in der Filmanalyse werden für die Arbeit mit dieser Fallstudie vorausgesetzt. Für interessierte Nutzer:innen aus anderen Fachrichtungen besteht jedoch die Möglichkeit, sich grundlegendes Wissen (z.B im [Einführungskapitel](./Kapitel_I/toc.md)) anzueignen – **dies wird auch für fortgeschrittene Nutzer:innen ausdrücklich empfohlen**.
-
-Bitte beachten Sie, dass dieses Lehrangebot keine umfassende Einführung in das Forschungsfeld der Filmanalyse leisten kann. Stattdessen verweisen wir auf weiterführende Materialien und externe Ressourcen, die an entsprechender Stelle verlinkt sind.
+Bitte beachten Sie, dass dieses Lehrangebot keine umfassende Einführung in das Forschungsfeld der Filmanalyse leisten kann. Stattdessen verweisen wir auf weiterführende Materialien und externe Ressourcen, die an entsprechender Stelle verlinkt sind. Es wird allen Nutzer:innen **ausdrücklich empfohlen**, sich das [Einführungskapitel](./Kapitel_I/toc.md) vorab gründlich durchzulesen.
 
 ## Workflow der datengestützten Filmanalyse
 

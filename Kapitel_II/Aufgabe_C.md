@@ -16,7 +16,7 @@ In diesem Kapitel soll es darum gehen, diese Konzeptualisierung bzw. Systematisi
 (Semantische-Triple)=
 ## Semantische Triple
 
-Nachdem wir die die praktischen Möglichkeiten der digitalen Annotation kennengelernt haben, stellt sich nun die zentrale Frage: Wie können diese beiden Bereiche – also filmanalytische Beschreibungen (Annotationen) und Semantic Web Prinzipien – konkret zusammengeführt werden? Anders formuliert: Wie lassen sich die durch Annotationen erfassten filmanalytischen Beschreibungen in ontologische Strukturen des Semantic Web integrieren?
+Nachdem wir die die praktischen Möglichkeiten der digitalen Annotation kennengelernt haben, stellt sich nun die zentrale Frage: Wie können diese beiden Bereiche – also filmanalytische Beschreibungen (Annotationen) und [Semantic Web](semantic:web) Prinzipien – konkret zusammengeführt werden? Anders formuliert: Wie lassen sich die durch Annotationen erfassten filmanalytischen Beschreibungen in ontologische Strukturen des Semantic Web integrieren?
 
 Der Schlüssel liegt in der Transformation der Annotationsdaten in ein Format, das sowohl den Semantic Web Standards entspricht als auch für filmanalytische Zwecke praktikabel ist. Denn die in den Annotationstools erfassten Informationen – seien es Einstellungsgrößen, Schnittrhythmen oder Farbwerte – müssen so strukturiert werden, dass sie Teil einer maschinenlesbaren Ontologie werden können.
 
