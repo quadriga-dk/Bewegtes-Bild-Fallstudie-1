@@ -11,15 +11,7 @@ In dem Clip erklärt McKibben auf Basis konkreter Zahlen den Konflikt zwischen d
 Mithilfe datengestützer Annotationsmethoden und einer umfassenden Ontologie soll diese Ausgangshypothese am Ende der Fallstudie beantwortet werden. Eine Zusammenstellung der Metadaten des Videos ist nachfolgend eingebettet. Über den unten aufgeführten YouTube-Link sowie über den  Videoserver der Universität Potsdam (<a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=2a2ea03a-909a-40b5-987c-b21800bd9d13" class="external-link" target="_blank">VideoUP</a>) ist ebenfalls ein Zugriff auf das Video möglich.
 ```
 
-## Metadaten zum Videoausschnitt
-
-````{margin}
-```{admonition} Achtung
-:class: caution
-Ein Download des Videoausschnitts ist via Youtube möglich. Für die Annotationsarbeit ist es notwendig die Datei (am besten im MP4-Format) lokal abzuspeichern.
-```
-````
-
+## Metadaten zum Videoausschnitt und Download-Möglichkeit
 
 |                     |                                                    |
 |---------------------|----------------------------------------------------|
@@ -29,6 +21,16 @@ Ein Download des Videoausschnitts ist via Youtube möglich. Für die Annotations
 | **Erschienen auf**  | <a href="https://www.youtube.com/watch?v=5KtGg-Lvxso" class="external-link" target="_blank">Youtube</a> und auf <a href="https://act.350.org/signup/math-movie/" class="external-link" target="_blank">https://act.350.org/signup/math-movie/</a> |
 | **Verzeichnete Aufrufe** | 42.580 (Stand: Oktober 2024)                    |
 | **Lizenz**          | Creative Commons-Lizenz mit Quellenangabe (Wiederverwendung erlaubt) |
+
+Das Video wird im Rahmen dieser OER über einen **externen Download-Link (FU-Box)** zur Verfügung gestellt.
+
+🔗 Unter folgendem <a href="https://box.fu-berlin.de/s/LAryL6sa7sEXFEa" class="external-link" target="_blank">Downloadlink</a> kann das Video für den lokalen, privaten Gebrauch heruntergeladen werden. 
+
+```{admonition} Achtung
+:class: caution
+Für die Annotationsarbeit in den Tools ist es notwendig, die Datei lokal abzuspeichern.
+```
+Sämtliche Lizenzhinweise sowie weiterführende Informationen zur Nutzung finden Sie in einer begleitenden Dokumentation in unserem <a href="https://github.com/quadriga-dk/Bewegtes-Bild-Fallstudie-1/blob/main/Dokumentation_Videolizenz_350org.md" class="external-link" target="_blank">GitHub-Repository</a>. Bitte informieren Sie sich dort über alle relevanten Bedingungen zur Verwendung des Videos.
 
 ## Audiovisuelle Referenzen
 
