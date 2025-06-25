@@ -58,7 +58,7 @@ ____________________
 <ins>**Licht:** </ins> <br>
 Gestaltung der Hell-Dunkel-Kontraste sowie Lichtstärke 
 
-Des weiteren haben wir den Parameter <ins>**Bildinhalt** </ins> hinzugefügt und diesen wie folgt kategorisiert: 
+Um die für unser Beispielvideo spezifischen Gestaltungsebenen ebenfalls adäquat erfassen zu können, haben wir - neben den oben gelistetet allgemeineren Analysekategorien - den Parameter <ins>**Bildinhalt** </ins> hinzugefügt und diesen wie folgt kategorisiert: 
 
 1. Bühne
 2. Publikum
@@ -89,7 +89,7 @@ Bei ganzen Filmen ist es zunächst sinnvoller nach Sequenzen und/oder Szenen zu 
 (Tabellarischer-Auzug)=
 ## Tabellarischer Auszug (Exemplar)
 
-Um einen Eindruck davon zu bekommen, wie das aussehen kann, haben wir hier die ersten fünf Einstellungen exemplarisch annotiert:
+Um einen Eindruck davon zu bekommen, wie eine tabellarische Annotation aussehen kann, haben wir hier die ersten fünf Einstellungen exemplarisch annotiert:
 
 | Nr. | Dauer (sec.) | Screenshot                | Bildinhalt   | Einstellungsgröße  | Montage                     | Kamera                         | Ton/Musik                          | Farbe            | Licht        |
 |-----|-------------:|---------------------------|--------------|--------------------|-----------------------------|--------------------------------|------------------------------------|------------------|--------------|
@@ -124,7 +124,7 @@ In dieser Übung sollen Sie die tabellarische Annotation eigenständig reproduzi
 <span style="color:purple">**Aufgabe**</span>:
 1. Gehen Sie die Durchführung der Schritte nochmals genau durch 
 2. Orientieren Sie sich an den hier dargestellten Beispielen
-3. Erstellen Sie ein Einstellungsprotokoll für den hier ausgewählten [Untersuchungsgegenstand](../Kapitel_I/Untersuchungsgegenstand.md)
+3. Erstellen Sie ein Einstellungsprotokoll für den hier ausgewählten [Untersuchungsgegenstand](../Kapitel_I/Untersuchungsgegenstand.md) (“To understand climate change, understand these three numbers”) mit dem Themenschwerpunkt Klimawandel.
 4. Vergleichen Sie Ihre Annotationsergebnisse mit der bereitgestellten[ Musterlösung](../assets/Tabellarische-Annotation-Musterlösung-Quadriga.pdf) und refektieren Sie eventuelle Unterschiede und Abweichungen
 
 <span style="color:purple">**Bearbeitungzeit**</span>: Ca. 120 Min.

@@ -5,7 +5,7 @@
         "answers": [
             {
                 "type": "value",
-                "value": 7,
+                "value": 8,
                 "correct": true,
                 "feedback": "Genau, es sind 7."
             }

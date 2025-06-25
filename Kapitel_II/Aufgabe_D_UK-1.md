@@ -164,7 +164,19 @@ display_quiz("../quizzes/D_UK-1_Quiz-4.json", colors = colors.jupyterquiz)
 
 ```{admonition} Antwort
 :class: solution, dropdown
+Die korrekte Antwort ist: 8
+
 Die Verwendung von Syntaxelementen ermöglicht es kontinuierliche Entwicklungen wie auch synchrone Kontraste, die beispielsweise innerhalb einer Einstellung auftauchen, miteinander zu verbinden. Ein gutes Beispiel für für die Verwendung des Syntaxelement [TO] ist der Wechsel von Einstellungsgrößen innerhalb einer Einstellung. Ein gutes Beispiel für die Verwendung des Syntaxelement [VS] sind synchron inszenierte Dialog Emotionen bei mehreren Figuren innerhalb einer Einstellung.
+
+Für folgende Annotationstypen des Core-Templates können Syntaxelemente verwendet werden:
+1. Dialogue Emotion [VS]
+2. Body Language Emotion [VS]
+3. Recording/Playback Speed [TO]
+4. Camera Angle [TO]
+5. Field Size [TO]
+6. Image Brightness [TO]
+7. Image Intrinsic Movement [TO], [VS]
+8. Dominant Movement Direction [TO], [VS]
 ```
 
 8. Nutzen Sie die 'Search/replace'-Funktion zur effizienten Übertragung von Segmentierungen
