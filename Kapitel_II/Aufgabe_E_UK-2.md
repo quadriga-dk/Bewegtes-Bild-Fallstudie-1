@@ -77,13 +77,14 @@ DominantMovementDirection(colorfield:duration labels:true representation:rect le
 display_quiz("../quizzes/E_UK-2_Quiz-1.json", colors = colors.jupyterquiz)
 ```
 
-```{admonition} Lösungsweg
+````{admonition} Lösungsweg
 :class: solution, dropdown
 Hier nochmal die richtige Lösung:
-+++
-DominantMovementDirection(colorfield:content labels:true representation:rect legend:true colorscheme:paired), <br>
+
+```bash
+DominantMovementDirection(colorfield:content labels:true representation:rect legend:true colorscheme:paired), 
 ImageIntrinsicMovement(height:100 representation:line labels:false)
-+++
+```
 Gehen wir die **Syntaxelemente** einzeln durch:
 +++
 Für **DominantMovementDirection** gilt:
@@ -105,7 +106,7 @@ Für **ImageIntrinsicMovement** gilt:
 `representation`: der Wert `line` ist korrekt, auch hier sehen die anderen Werte der Darstellungsoption `representation` ganz anders aus (durch ein wenig Ausprobieren kommt man schnell zur Lösung…).
 +++
 `labels`: der Wert `false` ist korrekt, wir haben die Timecode-Leiste für den Annotationstypen ausgeblendet.
-```
+````
 ## Aufgabe 2
 
 Eine Visualisierung mit folgenden Eigenschaften soll erstellt werden:
@@ -118,7 +119,7 @@ Der Annotationstyp **Image Intrinsic Movement** soll als Histogramm mit einer Pi
 
 Der Annotationstyp **Recording/Playback Speed** soll als Balkendiagramm mit einer Legende und den Annotationsinhalten im Farbschema `dark2` angezeigt werden.
 
-```{admonition} Übungsaufgabe
+````{admonition} Übungsaufgabe
 :class: exercise
 <span style="color:purple">**Ziel**</span>: Eigenständige Konfiguration einer Timeline-Visualisierung nach vorgegebenen Kriterien
 
@@ -128,15 +129,28 @@ Der Annotationstyp **Recording/Playback Speed** soll als Balkendiagramm mit eine
 4. Erstellen Sie einen Screenshot der fertigen Visualisierung und vergleichen Sie Ihr Ergebnis mit der Lösung
 
 <span style="color:purple">**Bearbeitungzeit**</span>: Ca. 10-15 Min.
-```
 
-```{admonition} Lösung
+```{admonition} Hilfestellung zur Antwort
+:class: solution, dropdown
+Lesen Sie sich das Kapitel "7. Visualisierung" (S. 133) des Manuals nochmals gründlich durch. Auf was muss geachtet werden, damit die Visualisierung korrekt konfiguriert wird? Wie setzt sich die Syntax richtig zusammen (d.h, welche Elemente dürfen nicht fehlen und wie müssen sie genau angeordnet sein)? Können alle Annotationstypen mit allen Repräsentationswerten angezeigt werden oder gibt es möglicherweise Einschränkungen?
+```
+````
+
+````{admonition} Lösung
 :class: solution, dropdown
 Folgende Konfigurationen in der Syntax haben wir eingegeben, um die oben beschriebene Ansicht zu erhalten: 
 
 ![screenshot-A5-11](../assets/_images/A5-S11.png)
 
-Auf was besonders zu achten ist:
+Zum Kopieren hier nochmal als Code:
+```bash
+data=../export/FlatJsonExporter&types=Shot,
+FoundFootage(height:30 single_line:true legend:true colorfield:content colorscheme:plasma),
+ImageIntrinsicMovement(height:100 representation:hist legend:true colorfield:parsed colorname:true colorscheme:pinkyellowgreen),
+RecordingPlaybackSpeed(representation:rect legend:true colorfield:content colorscheme:dark2),
+```
+
+**Auf was besonders zu achten ist:**
 +++
 * Um die Syntaxelemente zu konfigurieren, müssen die Werte durch Klammern (ohne Leerzeichen) angegeben werden
 * Die Syntaxreihe für jeden Annotationstypen muss mit einem Komma abgeschlossen werden
@@ -151,7 +165,8 @@ So sieht die oben beschriebene Darstellung als Datenvisualisierung aus: <br>
 
 ![screenshot-A5-12](../assets/_images/A5-S12.png)
 
-```
+````
+
 (Dateninterpretation)=
 ## Qualifizierung der Daten: Dateninterpretation
 
@@ -170,11 +185,32 @@ Sowohl die Visualisierungen als auch die Annotationen selbst sollen jedoch nicht
 
 > Das heißt Visualisierungen sind Interfaces und Medien der Analyse, sie sind wesentlicher Bestandteil eines abduktiven Forschungsprozesses, der sich mit Annotationen (wiederum in Konstellationen mit den Bewegtbildern) auseinandersetzt {cite}`stratil2024`.
 
-Im Folgenden haben wir ein Set von Folien bereitgestellt, in denen mit Ausschnitten der Visualiserung eine Analyse unseres Gegenstandes nachvollzogen werden kann.
-Eine ausführliche Analyse in Textform (mit direkten Verweisen auf die jeweiligen Folienabschnitte) steht hier als [PDF-Download](../assets/QUADRIGA_Dateninterpretation_Fallstudie_Bewegtes_Bild_1.pdf) zur Verfügung. Die integrierten Folien können ebenfalls als [Datei](../assets/QUADRIGA-Slideshow-Analyse.pdf) heruntergeladen werden.
+Wie kann der Prozess der Qualifizierung nun ganz konkret aussehen? Oder einfacher gesagt: Wie kann aus filmwissenschaftlicher Perspektive mit den vorhandenen Datensätzen und ihrer Visualisierung gearbeitet werden, um sie in eine analytische Kontextualisierung miteinzubeziehen? 
+Die Weiterverarbeitung der Daten und die Rückbeziehung auf eine filmanalytisch fundierte Analysearbeit kann unterschiedlich aussehen. Bevor wir exemplarisch zeigen, wie eine solche Qualifizierung und Interpretation konkret aussehen kann, haben wir eine Übung vorbereitet, in der Sie selbst erproben können, wie sich erste analytische Zugänge auf Grundlage der visualisierten Daten potenziell entwickeln lassen.
+
+```{admonition} Übungsaufgabe
+:class: exercise
+<span style="color:purple">**Ziel**</span>: Filmwissenschaftliche Analyse und Interpretation der visualisierten Annotationsdaten
+
+<span style="color:purple">**Aufgabe**</span>:
+1. Untersuchen Sie Ihre erstellte Visualisierung auf Inszernierungsmuster und Auffälligkeiten, die sich anhand der Annotationsdaten erkennen lassen
+2. Analysieren Sie mindestens drei identifizierbare Gestaltungweisen im Hinblick auf:
+* Schnittfrequenz oder Montagemuster
+* Helligkeitsverhältnisse oder Bewegungsformen
+* Temporale und multimodale Interdependenzen zwischen verschiedenen Annotationstypen
+3. Verfassen Sie eine kurze Analyse (max. 500-750 Wörter), die:
+* Konkrete Verweise auf spezifische Stellen Ihrer Visualisierung enthält
+* Die Annotationsdaten filmwissenschaftlich qualifiziert
+* Reflektiert, wie die Visualisierungen als "Medien und Verfahren des Denkens" Ihren Analyseprozess beeinflusst haben
+
+<span style="color:purple">**Bearbeitungzeit**</span>: Ca. 180 Min.
+```
 
 (Slideshow-Analyse)=
 ### Slideshow der Analyse
+
+Unseren Dateninterpretationsansatz haben wir im Folgenden in Form eines kommentierten Foliensets bereitgestellt, welches mit Ausschnitten der Visualiserung eine beispielhafte Analyse unseres Gegenstandes zeigt.
+Eine ausführliche Analyse in Textform (mit direkten Verweisen auf die jeweiligen Folienabschnitte) steht hier als [PDF-Download](../assets/QUADRIGA_Dateninterpretation_Fallstudie_Bewegtes_Bild_1.pdf) zur Verfügung. Die integrierten Folien können ebenfalls als [Datei](../assets/QUADRIGA-Slideshow-Analyse.pdf) heruntergeladen werden. Dieses Material dient als Anregung zur Vertiefung und soll mögliche Deutungsansätze illustrieren.
 
 ````{card-carousel} 1
 
@@ -278,24 +314,6 @@ Eine ausführliche Analyse in Textform (mit direkten Verweisen auf die jeweilige
 ![slide-20](../assets/_images/carousel-20.png)
 ```
 ````
-
-```{admonition} Übungsaufgabe
-:class: exercise
-<span style="color:purple">**Ziel**</span>: Filmwissenschaftliche Analyse und Interpretation der visualisierten Annotationsdaten
-
-<span style="color:purple">**Aufgabe**</span>:
-1. Untersuchen Sie Ihre erstellte Visualisierung auf Inszernierungsmuster und Auffälligkeiten, die sich anhand der Annotationsdaten erkennen lassen
-2. Analysieren Sie mindestens drei identifizierbare Gestaltungweisen im Hinblick auf:
-* Schnittfrequenz oder Montagemuster
-* Helligkeitsverhältnisse oder Bewegungsformen
-* Temporale und multimodale Interdependenzen zwischen verschiedenen Annotationstypen
-3. Verfassen Sie eine kurze Analyse (max. 500-750 Wörter), die:
-* Konkrete Verweise auf spezifische Stellen Ihrer Visualisierung enthält
-* Die Annotationsdaten filmwissenschaftlich qualifiziert
-* Reflektiert, wie die Visualisierungen als "Medien und Verfahren des Denkens" Ihren Analyseprozess beeinflusst haben
-
-<span style="color:purple">**Bearbeitungzeit**</span>: Ca. 180 Min.
-```
 
 ## Literatur
 
