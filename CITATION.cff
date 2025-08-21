@@ -32,7 +32,7 @@ references:
   - name: The Jupyter Book Community
     website: https://github.com/jupyter-book/jupyter-book/graphs/contributors
 preferred-citation:
-  year: 2025
+  year: '2025'
   authors: *id001
   title: Affektrhetorik in Online-Videos zur Klimakrise. Datengestützte Analysen audiovisueller
     Muster
@@ -44,3 +44,5 @@ preferred-citation:
   languages:
   - deu
   copyright: CC-BY-SA-4.0
+  version: 1.0.0
+version: 1.0.0
