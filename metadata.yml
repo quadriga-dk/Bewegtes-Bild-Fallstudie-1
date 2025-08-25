@@ -1,50 +1,9 @@
-# yaml-language-server: $schema=quadriga-schema.json
+# yaml-language-server: $schema=https://quadriga-dk.github.io/quadriga-schema/v1.0.0-alpha/schema.json
 schema-version: 1.1-beta2
 book-version: 1.0.0
 title: Affektrhetorik in Online-Videos zur Klimakrise. Datengestützte Analysen audiovisueller
   Muster
-description:
-  introduction: Diese OER vermittelt Methoden der Filmanalyse mit digitalen Annotationswerkzeugen.
-    Anhand eines Online-Videos zur Klimakrise werden audiovisuelle Inszenierungsmuster
-    analysiert, um affektive Rhetoriken politischer Zielsetzungen zu erkennen und
-    zu verstehen.
-  table-of-contents: '- Präambel
-
-    - Einführung
-
-    - Tabellarische Annotation (optional)
-
-    - Annotieren mit Tools (optional)
-
-    - Einarbeiten in die Filmontologie
-
-    - Annotieren mit einer Filmontologie
-
-    - Datenvisualisierung
-
-    - Reflexion und Resümee
-
-    - Epilog'
-discipline:
-- übergreifend
-duration: 72h
-type-of-research-object:
-- übergreifend
 identifier: https://doi.org/10.5281/zenodo.15585269
-url: https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/
-git: https://github.com/quadriga-dk/Bewegtes-Bild-Fallstudie-1
-license:
-  code: https://opensource.org/licenses/AGPL-3.0
-  content:
-    url: https://creativecommons.org/licenses/by-sa/4.0/
-    name: CC BY-SA 4.0
-date-of-last-change: '2025-06-04'
-publication-date: 2025-06-03
-target-group:
-- Forschende (PostDoc)
-- Forschende (Projektleitung)
-- Promovierende
-- Hochschullehrende
 authors:
 - given-names: Derya
   family-names: Demir
@@ -58,12 +17,40 @@ authors:
   credit:
   - Writing
   orcid: https://orcid.org/0000-0002-0954-3111
+table-of-contents: '- Präambel
+
+  - Einführung
+
+  - Tabellarische Annotation (optional)
+
+  - Annotieren mit Tools (optional)
+
+  - Einarbeiten in die Filmontologie
+
+  - Annotieren mit einer Filmontologie
+
+  - Datenvisualisierung
+
+  - Reflexion und Resümee
+
+  - Epilog'
+description: Diese OER vermittelt Methoden der Filmanalyse mit digitalen Annotationswerkzeugen.
+  Anhand eines Online-Videos zur Klimakrise werden audiovisuelle Inszenierungsmuster
+  analysiert, um affektive Rhetoriken politischer Zielsetzungen zu erkennen und zu
+  verstehen.
+discipline:
+- übergreifend
+research-object-type:
+- übergreifend
 chapters:
-- description: Erläuterung und Vermittlung der theoretischen und methodischen Grundlagen
+- title: Einführung
+  url: https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_I/toc.html
+  description: Erläuterung und Vermittlung der theoretischen und methodischen Grundlagen
     datengestützter Filmanalyse sowie Kontextualisierung des Untersuchungsgegenstandes.
   learning-goal: Die Grundlagen datengestützter Filmanalyse können erklärt und die
     zentralen Forschungsfragen der Fallstudie identifiziert werden.
   duration: 1h
+  educational-level: TODO
   learning-objectives:
   - learning-objective: Die drei zentralen Forschungsfragen zu Affektrhetoriken in
       audiovisuellen Diskursen können benannt und deren Relevanz erläutert werden.
@@ -77,13 +64,14 @@ chapters:
     focus: Wissen
     data-flow: Grundlagen
     blooms-category: 2 Verstehen
-  title: Einführung
-  url: https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_I/toc.html
-- description: Einführung in die tabellarische Annotation als Methode zur systematischen
+- title: Tabellarische Annotation (optional)
+  url: https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_II/toc_A.html
+  description: Einführung in die tabellarische Annotation als Methode zur systematischen
     Erfassung filmanalytischer Daten mit Fokus auf Kategorisierung von Grundparametern
     zur Erstellung eines Einstellungsprotokolls.
   learning-goal: Filmanalytische Daten zu audiovisuellem Material können systematisch
     anhand tabellarischer Annotation erhoben und ausgewertet werden.
+  educational-level: TODO
   learning-objectives:
   - learning-objective: Die methodischen Grundlagen der tabellarischen Annotation
       können definiert und ihre Bedeutung für die filmanalytische Datenerhebung erläutert
@@ -111,13 +99,14 @@ chapters:
     focus: Haltung
     data-flow: Planung
     blooms-category: 3 Anwenden
-  title: Tabellarische Annotation (optional)
-  url: https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_II/toc_A.html
-- description: Einführung in die toolbasierte Annotation audiovisuellen Materials
+- title: Annotieren mit Tools (optional)
+  url: https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_II/toc_B.html
+  description: Einführung in die toolbasierte Annotation audiovisuellen Materials
     mit digitalen Werkzeugen sowie praktische Anwendung der Tools zur Erhebung filmanalytischer
     Datensätze.
   learning-goal: Filmanalytische Daten können mit digitalen Annotationstools systematisch
     erhoben und die Qualität verschiedener Annotationsverfahren bewertet werden.
+  educational-level: TODO
   learning-objectives:
   - learning-objective: Die zentralen Funktionen der Annotationstools Advene und ELAN
       können verstanden und für filmanalytische Zwecke angewendet werden.
@@ -144,13 +133,14 @@ chapters:
     focus: Fähigkeit
     data-flow: Analyse
     blooms-category: 4 Analysieren
-  title: Annotieren mit Tools (optional)
-  url: https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_II/toc_B.html
-- description: Praktische Überführung filmanalytischer Grundbegriffe in hierarchische
+- title: Einarbeiten in die Filmontologie
+  url: https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_II/toc_C.html
+  description: Praktische Überführung filmanalytischer Grundbegriffe in hierarchische
     Datenstrukturen nach Semantic Web-Prinzipien sowie Einführung in die ontologiebasierte
     Annotation am Beispiel der AdA-Ontologie.
   learning-goal: Filmanalytische Konzepte können in semantische Triple nach Ontologiestruktur
     überführt sowie die Prinzipien einer Filmontologie nachvollzogen werden.
+  educational-level: TODO
   learning-objectives:
   - learning-objective: Die Grundprinzipien des Semantic Web können definiert und
       ihre Relevanz für filmwissenschaftliche Datenmodelle erläutert werden.
@@ -176,13 +166,14 @@ chapters:
     focus: Haltung
     data-flow: Management
     blooms-category: 5 Bewerten
-  title: Einarbeiten in die Filmontologie
-  url: https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_II/toc_C.html
-- description: Einführung in die ontologiebasierte Annotation audiovisuellen Materials
+- title: Annotieren mit einer Filmontologie
+  url: https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_II/toc_D.html
+  description: Einführung in die ontologiebasierte Annotation audiovisuellen Materials
     mit der AdA-Filmontologie sowie praktische Implementierung und Anwendung der Ontologie
     in Advene zur systematischen Erhebung filmanalytischer Daten.
   learning-goal: Filmanalytische Daten können mit digitalen Annotationverfahren ontologiebasiert
     erhoben werden.
+  educational-level: TODO
   learning-objectives:
   - learning-objective: Die Struktur der AdA-Filmontologie kann beschrieben und ihre
       methodischen Grundlagen erläutert werden.
@@ -214,14 +205,15 @@ chapters:
     focus: Fähigkeit
     data-flow: Erhebung und Aufbereitung
     blooms-category: 5 Bewerten
-  title: Annotieren mit einer Filmontologie
-  url: https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_II/toc_D.html
-- description: Einführung in die Visualisierung filmanalytischer Annotationsdaten
+- title: Datenvisualisierung
+  url: https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_II/toc_E.html
+  description: Einführung in die Visualisierung filmanalytischer Annotationsdaten
     mit der AdA-Timeline sowie praktische Konfiguration und Anpassung der Visualisierung
     zur Exploration, Analyse und Interpretation temporaler Verlaufsdynamiken affektiver
     Inszenierungsmuster.
   learning-goal: Ontologiebasierte Annotationsdaten können mit der AdA-Timeline konfiguriert
     und anschließend exploriert sowie filmanalytisch interpretiert werden.
+  educational-level: TODO
   learning-objectives:
   - learning-objective: Die Funktionsweise der AdA-Timeline kann beschrieben und ihre
       Bedeutung für die filmanalytische Datenexploration erläutert werden.
@@ -255,13 +247,14 @@ chapters:
     focus: Wissen
     data-flow: Erhebung und Aufbereitung
     blooms-category: 6 Erschaffen
-  title: Datenvisualisierung
-  url: https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_II/toc_E.html
-- description: Zusammenfassung und kritische Reflexion des methodischen Übergangs
+- title: Reflexion und Resümee
+  url: https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_III/toc.html
+  description: Zusammenfassung und kritische Reflexion des methodischen Übergangs
     von tabellarischer Annotation zur ontologiebasierten Filmanalyse sowie Einordnung
     quantitativer Datenproduktion als Hilfsmittel qualitativer Empirie.
   learning-goal: Die Entwicklung von tabellarischer Annotation zur ontologiebasierten
     Annotation kann zusammengefassst und die Methoden kritisch reflektiert werden.
+  educational-level: TODO
   learning-objectives:
   - learning-objective: Der Übergang von tabellarischer Annotation zur Ontologie kann
       rekapituliert werden.
@@ -281,9 +274,22 @@ chapters:
     focus: Haltung
     data-flow: Erhebung und Aufbereitung
     blooms-category: 5 Bewerten
-  title: Reflexion und Resümee
-  url: https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_III/toc.html
+target-group:
+- Forschende (PostDoc)
+- Forschende (Projektleitung)
+- Promovierende
+- Hochschullehrende
+duration: 72h
+date-published: '2025-06-04'
+date-modified: '2025-06-03'
 context-of-creation: 'Die vorliegenden Open Educational Resources wurden durch das
   Datenkompetenzzentrum QUADRIGA erstellt.
 
   Förderkennzeichen: 16DKZ1034'
+url: https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/
+git: https://github.com/quadriga-dk/Bewegtes-Bild-Fallstudie-1
+license:
+  code: https://opensource.org/licenses/AGPL-3.0
+  content:
+    url: https://creativecommons.org/licenses/by-sa/4.0/
+    name: CC BY-SA 4.0
