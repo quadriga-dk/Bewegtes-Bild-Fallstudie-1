@@ -112,97 +112,65 @@ Die AdA-Timeline wurde als partiturähnliche Darstellung konzipiert, um der zeit
 ## Sektion II: Bedienung und Konfiguration der AdA-Timeline
 
 ### Frage 4
-1.	AdA-Template-Annotationspaket in Advene öffnen
-2.	W3-Symbol in der Icon-Leiste klicken und Timeline-Variante auswählen
-3.	Im Browser öffnet sich die Timeline mit Standardkonfiguration
-4.	Änderungen mit "OK" bestätigen, um die Timeline neu zu laden
-5.	Syntaxelemente im Edit-Fenster anpassen
-6.	"Edit"-Button klicken, um das Edit-Fenster zu öffnen
-
-
 
 ```{code-cell} ipython3
 :tags: [remove-input]
 
-from jupyterquiz import display_quiz
 import sys
-sys.path.append("..")
-from quadriga import colors
+sys.path.append("../quadriga")
+from assessment import DragDropQuiz
 
-multiple_choice4 = [{
-    "question": """Ordnen Sie die folgenden Funktionen den richtigen Phasen im Arbeitsprozess mit der AdA-Filmontologie zu""",
-    "type": "multiple_choice",
-    "answers": [
-        {
-            "answer": "1 → 2 → 3 → 4 → 5 → 6",
-            "correct": False,
-            "feedback": """× Nicht korrekt! """
-        },
-        {
-            "answer": "1 → 2 → 3 → 5 → 6 → 4",
-            "correct": False,
-            "feedback": """× Nicht korrekt! """
-        },
-        {
-            "answer": "1 → 3 → 2 → 5 → 6 → 4",
-            "correct": False,
-            "feedback": """× Nicht korrekt! """
-        },
-        {
-            "answer": "1 → 2 → 3 → 6 → 5 → 4",
-            "correct": True,
-            "feedback": """Ausgezeichnet! Sie verstehen den korrekten Workflow für die Öffnung und Konfiguration der AdA-Timeline. Diese systematische Vorgehensweise ist wichtig für die effiziente Arbeit mit dem Tool."""
-        }
-    ]
-}]
+quiz = DragDropQuiz()
 
-display_quiz(multiple_choice4, colors=colors.jupyterquiz)
+quiz.create_matching_quiz(
+    title="Ordnen Sie die folgenden Schritte zur Öffnung und Konfiguration der AdA-Timeline in der richtigen Reihenfolge an:",
+    descriptions=[
+        "Syntaxelemente im Edit-Fenster anpassen",
+        "AdA-Template-Annotationspaket in Advene öffnen",
+        "W3-Symbol in der Icon-Leiste klicken und Timeline-Variante auswählen",
+        "'Edit'-Button klicken, um das Edit-Fenster zu öffnen",
+        "Änderungen mit 'OK' bestätigen, um die Timeline neu zu laden",
+        "Im Browser öffnet sich die Timeline mit Standardkonfiguration"
+    ],
+    options=["1", "2", "3", "4", "5", "6"],
+    correct_mapping={
+        "AdA-Template-Annotationspaket in Advene öffnen": "1",
+        "W3-Symbol in der Icon-Leiste klicken und Timeline-Variante auswählen": "2",
+        "Im Browser öffnet sich die Timeline mit Standardkonfiguration": "3",
+        "'Edit'-Button klicken, um das Edit-Fenster zu öffnen": "4",
+        "Syntaxelemente im Edit-Fenster anpassen": "5",
+        "Änderungen mit 'OK' bestätigen, um die Timeline neu zu laden": "6"
+    }
+)
 ```
 
 ### Frage 5
 
-A. Annotationen werden in Zeilen mit eigenen Farben als Balken angezeigt  
-B. Geeignet für Annotationstypen ohne Überlappungen von Werten   
-C. Breite und Höhe der Blöcke entsprechen der Dauer einer Annotation  
-D. Darstellung für numerische Werte mit Ausschlägen in beide Richtungen
-
-
 ```{code-cell} ipython3
 :tags: [remove-input]
 
-from jupyterquiz import display_quiz
 import sys
-sys.path.append("..")
-from quadriga import colors
+sys.path.append("../quadriga")
+from assessment import DragDropQuiz
 
-multiple_choice5 = [{
-    "question": """Ordnen Sie die folgenden Darstellungsformen der AdA-Timeline ihrer korrekten Beschreibung zu""",
-    "type": "multiple_choice",
-    "answers": [
-        {
-            "answer": "A. Balkendiagramm (rect), B. Einzeilige Darstellung (single_line), C. Wellenform (wave) , D. Säulenansicht (hist)",
-            "correct": False,
-            "feedback": """× Nicht korrekt! """
-        },
-        {
-            "answer": "A. Wellenform (wave), B. Balkendiagramm (rect), C. Einzeilige Darstellung (single_line), D. Säulenansicht (hist)",
-            "correct": False,
-            "feedback": """× Nicht korrekt! """
-        },
-        {
-            "answer": "A. Wellenform (wave), B. Einzeilige Darstellung (single_line), C. Balkendiagramm (rect), D. Säulenansicht (hist) ",
-            "correct": False,
-            "feedback": """× Nicht korrekt! """
-        },
-        {
-            "answer": "A. Balkendiagramm (rect), B. Einzeilige Darstellung (single_line), C. Säulenansicht (hist), D. Wellenform (wave)",
-            "correct": True,
-            "feedback": """Sehr gut! Sie verstehen die verschiedenen Darstellungsformen der AdA-Timeline und können sie korrekt ihren Beschreibungen zuordnen. Dieses Wissen ist entscheidend für die Auswahl der geeigneten Visualisierung für verschiedene Annotationstypen."""
-        }
-    ]
-}]
+quiz = DragDropQuiz()
 
-display_quiz(multiple_choice5, colors=colors.jupyterquiz)
+quiz.create_matching_quiz(
+    title="Ordnen Sie die folgenden Darstellungsformen der AdA-Timeline ihrer korrekten Beschreibung zu:",
+    descriptions=[
+        "Annotationen werden in Zeilen mit eigenen Farben als Balken angezeigt",
+        "Geeignet für Annotationstypen ohne Überlappungen von Werten",
+        "Breite und Höhe der Blöcke entsprechen der Dauer einer Annotation",
+        "Darstellung für numerische Werte mit Ausschlägen in beide Richtungen"
+    ],
+    options=["Balkendiagramm (rect)", "Einzeilige Darstellung (single_line)", "Säulenansicht (hist)", "Wellenform (wave)"],
+    correct_mapping={
+        "Annotationen werden in Zeilen mit eigenen Farben als Balken angezeigt": "Balkendiagramm (rect)",
+        "Geeignet für Annotationstypen ohne Überlappungen von Werten": "Einzeilige Darstellung (single_line)",
+        "Breite und Höhe der Blöcke entsprechen der Dauer einer Annotation": "Säulenansicht (hist)",
+        "Darstellung für numerische Werte mit Ausschlägen in beide Richtungen": "Wellenform (wave)"
+    }
+)
 ```
 
 ### Frage 6
@@ -437,47 +405,30 @@ display_quiz(multiple_choice10, colors=colors.jupyterquiz)
 
 ### Frage 11
 
-A. Visualisierung kategorischer Werte wie Einstellungsgrößen oder Kamerabewegungstypen  
-B. Darstellung des Schnittrhythmus und der Einstellungsdauern  
-C. Visualisierung der Farbgestaltung und Farbwechsel im Film  
-D. Darstellung numerischer Werte wie Lautstärke oder Bewegungsintensität  
-
 ```{code-cell} ipython3
 :tags: [remove-input]
-
-from jupyterquiz import display_quiz
 import sys
-sys.path.append("..")
-from quadriga import colors
+sys.path.append("../quadriga")
+from assessment import DragDropQuiz
 
-multiple_choice11 = [{
-    "question": """Ordnen Sie die folgenden Visualisierungsformen der AdA-Timeline richtigen Anwendungsfall zu""",
-    "type": "multiple_choice",
-    "answers": [
-        {
-            "answer": "A. Balkendiagramm (rect), B. Säulendiagramm (hist), C. Wellenform (wave) , D. Farbwerte (colorfield:parsed)",
-            "correct": False,
-            "feedback": """× Nicht korrekt! """
-        },
-        {
-            "answer": "A. Wellenform (wave), B. Balkendiagramm (rect), C. Farbwerte (colorfield:parsed), D. Säulenansicht (hist)",
-            "correct": False,
-            "feedback": """× Nicht korrekt! """
-        },
-        {
-            "answer": "A. Wellenform (wave), B. Farbwerte (colorfield:parsed), C. Balkendiagramm (rect), D. Säulenansicht (hist) ",
-            "correct": False,
-            "feedback": """× Nicht korrekt! """
-        },
-        {
-            "answer": "A. Balkendiagramm (rect), B. Säulendiagramm (hist), C. Farbwerte (colorfield:parsed), D. Wellenform (wave)",
-            "correct": True,
-            "feedback": """Ausgezeichnet! Sie verstehen, welche Visualisierungsformen für welche Arten von Annotationsdaten am besten geeignet sind. Diese Zuordnung ist wichtig für die Auswahl der optimalen Darstellung verschiedener filmischer Parameter."""
-        }
-    ]
-}]
+quiz = DragDropQuiz()
 
-display_quiz(multiple_choice11, colors=colors.jupyterquiz)
+quiz.create_matching_quiz(
+    title="Ordnen Sie die folgenden Visualisierungsformen der AdA-Timeline dem richtigen Anwendungsfall zu:",
+    descriptions=[
+        "Visualisierung kategorischer Werte wie Einstellungsgrößen oder Kamerabewegungstypen",
+        "Darstellung des Schnittrhythmus und der Einstellungsdauern",
+        "Visualisierung der Farbgestaltung und Farbwechsel im Film",
+        "Darstellung numerischer Werte wie Lautstärke oder Bewegungsintensität"
+    ],
+    options=["Balkendiagramm (rect)", "Säulendiagramm (hist)", "Farbwerte (colorfield:parsed)", "Wellenform (wave)"],
+    correct_mapping={
+        "Visualisierung kategorischer Werte wie Einstellungsgrößen oder Kamerabewegungstypen": "Balkendiagramm (rect)",
+        "Darstellung des Schnittrhythmus und der Einstellungsdauern": "Säulendiagramm (hist)",
+        "Visualisierung der Farbgestaltung und Farbwechsel im Film": "Farbwerte (colorfield:parsed)",
+        "Darstellung numerischer Werte wie Lautstärke oder Bewegungsintensität": "Wellenform (wave)"
+    }
+)
 ```
 
 ### Frage 12

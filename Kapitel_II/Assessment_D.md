@@ -119,49 +119,32 @@ display_quiz(multiple_choice2, colors=colors.jupyterquiz)
 ```
 
 ### Frage 3
-A. Automatische Schnitterkennung  
-B. Überprüfung und Korrektur der Schnittgrenzen  
-C. Import von Untertiteln  
-D. Prüfung von Annotationswerten auf Fehler 
-
-
 
 ```{code-cell} ipython3
 :tags: [remove-input]
 
-from jupyterquiz import display_quiz
 import sys
-sys.path.append("..")
-from quadriga import colors
+sys.path.append("../quadriga")
+from assessment import DragDropQuiz
 
-multiple_choice3 = [{
-    "question": """Ordnen Sie die folgenden Funktionen den richtigen Phasen im Arbeitsprozess mit der AdA-Filmontologie zu""",
-    "type": "multiple_choice",
-    "answers": [
-        {
-            "answer": "A. Process Video , B. Checker Function, C. Import File , D. Shot Validation",
-            "correct": False,
-            "feedback": """× Nicht korrekt! """
-        },
-        {
-            "answer": "A. Checker Function, B. Process Video, C. Import File, D. Shot Validation",
-            "correct": False,
-            "feedback": """× Nicht korrekt! """
-        },
-        {
-            "answer": "A. Checker Function, B. Process Video, C. Import File , D. Shot Validation ",
-            "correct": False,
-            "feedback": """× Nicht korrekt! """
-        },
-        {
-            "answer": "A. Process Video, B. Shot Validation, C. Import File, D. Checker Function",
-            "correct": True,
-            "feedback": """Ausgezeichnet! Sie verstehen die verschiedenen Phasen des Arbeitsprozesses mit der AdA-Filmontologie und können die entsprechenden Funktionen in Advene korrekt zuordnen."""
-        }
-    ]
-}]
+quiz = DragDropQuiz()
 
-display_quiz(multiple_choice3, colors=colors.jupyterquiz)
+quiz.create_matching_quiz(
+    title="Ordnen Sie die folgenden Funktionen den richtigen Phasen im Arbeitsprozess mit der AdA-Filmontologie zu:",
+    descriptions=[
+        "Automatische Schnitterkennung",
+        "Überprüfung und Korrektur der Schnittgrenzen", 
+        "Import von Untertiteln",
+        "Prüfung von Annotationswerten auf Fehler"
+    ],
+    options=["Process Video", "Shot Validation", "Import File", "Checker Function"],
+    correct_mapping={
+        "Automatische Schnitterkennung": "Process Video",
+        "Überprüfung und Korrektur der Schnittgrenzen": "Shot Validation",
+        "Import von Untertiteln": "Import File",
+        "Prüfung von Annotationswerten auf Fehler": "Checker Function"
+    }
+)
 ```
 
 ## Sektion II: Arbeiten mit dem AdA-Template in Advene
@@ -339,48 +322,31 @@ display_quiz(multiple_choice8, colors=colors.jupyterquiz)
 
 ### Frage 9
 
-A. Beschreibt zwei kontrastierende Werte innerhalb einer Annotation  
-B. Annotationen mit einem oder mehreren Werten aus der Ontologie  
-C. Beschreibt eine kontinuierliche Entwicklung zwischen zwei Werten  
-D. Annotationen ohne spezifische Ontologie-Referenz
-
-
 ```{code-cell} ipython3
 :tags: [remove-input]
 
-from jupyterquiz import display_quiz
 import sys
-sys.path.append("..")
-from quadriga import colors
+sys.path.append("../quadriga")
+from assessment import DragDropQuiz
 
-multiple_choice9 = [{
-    "question": """Ordnen Sie die folgenden Syntaxelemente oder Annotationsarten der AdA-Filmontologie ihrer korrekten Beschreibung zu""",
-    "type": "multiple_choice",
-    "answers": [
-        {
-            "answer": """A. [VS], B. PredefinedValuesAnnotationType, C. [TO], D. FreeTextAnnotationType""",
-            "correct": True,
-            "feedback": "Ausgezeichnet! Sie verstehen die verschiedenen Syntaxelemente und Annotationsarten der AdA-Filmontologie und können sie korrekt beschreiben."
-        },
-        {
-            "answer": """A. [VS], B. FreeTextAnnotationType, C. PredefinedValuesAnnotationType, D. [TO]""",
-            "correct": False,
-            "feedback": "x Nicht korrekt. "
-        },
-        {
-            "answer": """A. FreeTextAnnotationType, B. PredefinedValuesAnnotationType, C. [VS], D. [TO]""",
-            "correct": False,
-            "feedback": "x Nicht korrekt. "
-        },
-        {
-            "answer": """A. [TO], B. FreeTextAnnotationType, C. [VS], D. PredefinedValuesAnnotationType""",
-            "correct": False,
-            "feedback": "x Nicht korrekt. "
-        }
-    ]
-}]
+quiz = DragDropQuiz()
 
-display_quiz(multiple_choice9, colors=colors.jupyterquiz)
+quiz.create_matching_quiz(
+    title="Ordnen Sie die folgenden Syntaxelemente oder Annotationsarten der AdA-Filmontologie ihrer korrekten Beschreibung zu:",
+    descriptions=[
+        "Beschreibt zwei kontrastierende Werte innerhalb einer Annotation",
+        "Annotationen mit einem oder mehreren Werten aus der Ontologie",
+        "Beschreibt eine kontinuierliche Entwicklung zwischen zwei Werten",
+        "Annotationen ohne spezifische Ontologie-Referenz"
+    ],
+    options=["[VS]", "PredefinedValuesAnnotationType", "[TO]", "FreeTextAnnotationType"],
+    correct_mapping={
+        "Beschreibt zwei kontrastierende Werte innerhalb einer Annotation": "[VS]",
+        "Annotationen mit einem oder mehreren Werten aus der Ontologie": "PredefinedValuesAnnotationType",
+        "Beschreibt eine kontinuierliche Entwicklung zwischen zwei Werten": "[TO]",
+        "Annotationen ohne spezifische Ontologie-Referenz": "FreeTextAnnotationType"
+    }
+)
 ```
 
 ### Frage 10
