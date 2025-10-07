@@ -118,50 +118,32 @@ display_quiz(multiple_choice2, colors=colors.jupyterquiz)
 ```
 
 ### Frage 3
-A. Größte Einheit, die narrative oder formal-ästhetische Stränge verbindet <br>
-B. Teilabschnitt eines Films mit Kontinuität von Raum, Zeit und Figuren <br>
-C. Ununterbrochene Aufnahme ohne Schnitt <br>
-D. Einzelbild, für das menschliche Auge kaum sichtbar <br>
 
 ```{code-cell} ipython3
 :tags: [remove-input]
-
-from jupyterquiz import display_quiz
 import sys
-sys.path.append("..")
-from quadriga import colors
+sys.path.append("../quadriga")
+from assessment import DragDropQuiz
 
-multiple_choice3 = [{
-    "question": """Ordnen Sie die filmischen Segmentierungseinheiten ihren korrekten Definitionen zu:
+quiz = DragDropQuiz()
 
- """,
-    "type": "multiple_choice",
-    "answers": [
-        {
-            "answer": "A. Szene - B. Sequenz - c. Einstellung - D. Frame",
-            "correct": False,
-            "feedback": """× Nicht korrekt"""
-        },
-        {
-            "answer": "A. Sequenz - B. Szene -  C. Einstellung - D. Frame",
-            "correct": True,
-            "feedback": """✓ Sehr gut! Sie verstehen die Hierarchie der filmischen Segmentierungseinheiten von der größten (Sequenz) bis zur kleinsten (Frame)."""
-        },
-        {
-            "answer": "A. Sequenz - B. Szene - C. Frame - D. Einstellung",
-            "correct": False,
-            "feedback": """× Nicht korrekt"""
-        },
-        {
-            "answer": "A. Frame - B. Einstellung - C. Szene - D. Sequenz",
-            "correct": False,
-            "feedback": """× Nicht korrekt"""
-        }
-    ]
-}]
+quiz.create_matching_quiz(
+    title="Ordnen Sie die filmischen Segmentierungseinheiten ihren korrekten Definitionen zu:",
+    descriptions=["Größte Einheit, die narrative oder formal-ästhetische Stränge verbindet",
+        "Teilabschnitt eines Films mit Kontinuität von Raum, Zeit und Figuren", 
+        "Ununterbrochene Aufnahme ohne Schnitt",
+        "Einzelbild, für das menschliche Auge kaum sichtbar"],
+    options=["Sequenz", "Szene", "Einstellung", "Frame"],
+    correct_mapping={
+        "Größte Einheit, die narrative oder formal-ästhetische Stränge verbindet" : "Sequenz",
+        "Teilabschnitt eines Films mit Kontinuität von Raum, Zeit und Figuren" : "Szene",
+        "Ununterbrochene Aufnahme ohne Schnitt" : "Einstellung",
+        "Einzelbild, für das menschliche Auge kaum sichtbar" : "Frame"
+    }
+)
 
-display_quiz(multiple_choice3, colors=colors.jupyterquiz)
 ```
+
 
 ## Sektion II: Erstellung und Diskussion tabellarischer Annotationen
 
@@ -176,40 +158,28 @@ Ordnen Sie die folgenden Schritte zur Durchführung einer tabellarischen Annotat
 
 ```{code-cell} ipython3
 :tags: [remove-input]
-from jupyterquiz import display_quiz
-
 import sys
-sys.path.append("..")
-from quadriga import colors
+sys.path.append("../quadriga")
+from assessment import DragDropQuiz
 
-multiple_choice_4 = [{
-    "question": """Welche Reihenfolge ist korrekt?""",
-    "type": "multiple_choice",
-    "answers": [
-        {
-            "answer": "1 → 2 → 3 → 4",
-            "correct": True,
-            "feedback": """✓ Richtig! Dies ist der korrekte Arbeitsablauf für die tabellarische Filmannotation. Die Einhaltung eines systematischen Ansatzes gewährleistet, dass Ihre Analyse umfassend und methodisch ist."""
-        },
-        {
-            "answer": "2 → 1 → 3 → 4",
-            "correct": False,
-            "feedback": """× Nicht korrekt. Obwohl es sinnvoll erscheinen mag, zuerst die Segmentierungslogik festzulegen, sollten die zu untersuchenden Parameter zuerst bestimmt werden, um den Analyserahmen zu definieren."""
-        },
-        {
-            "answer": "2 → 3 → 1 → 4",
-            "correct": False,
-            "feedback": """× Nicht korrekt. Die Basisparameter sollten bereits vor der Segmentierung festgelegt werden, damit klar ist, welche Aspekte in den einzelnen Segmenten untersucht werden sollen."""
-        },
-        {
-            "answer": "4 → 1 → 2 → 3",
-            "correct": False,
-            "feedback": """× Nicht korrekt. Die tabellarische Annotation (4) ist der letzte Schritt im Prozess und kann erst erfolgen, nachdem die Parameter bestimmt und das Video segmentiert wurde."""
-        }
-    ]
-}]
+quiz = DragDropQuiz()
 
-display_quiz(multiple_choice_4, colors=colors.jupyterquiz)
+quiz.create_matching_quiz(
+    title="Ordnen Sie die folgenden Schritte zur Durchführung einer tabellarischen Annotationsanalyse in der richtigen Reihenfolge an:",
+    descriptions=[
+        "Segmentierung des Videos entsprechend der gewählten Logik",
+        "Bestimmung der Basisparameter für die zu analysierenden Segmente",
+        "Auswahl einer geeigneten Segmentierungslogik (z.B. Einstellungen)", 
+        "Erstellung der tabellarischen Annotation durch Zuordnung von Werten zu Parametern"
+    ],
+    options=["1", "2", "3", "4"],
+    correct_mapping={
+        "Bestimmung der Basisparameter für die zu analysierenden Segmente": "1",
+        "Auswahl einer geeigneten Segmentierungslogik (z.B. Einstellungen)": "2",
+        "Segmentierung des Videos entsprechend der gewählten Logik": "3",
+        "Erstellung der tabellarischen Annotation durch Zuordnung von Werten zu Parametern": "4"
+    }
+)
 ```
 
 ### Frage 5

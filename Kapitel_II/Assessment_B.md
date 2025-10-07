@@ -116,49 +116,31 @@ display_quiz(multiple_choice2, colors=colors.jupyterquiz)
 ```
 
 ### Frage 3
-A. Annotationszeilen in ELAN  
-B. Format für den Inhalt einer Annotation  
-C. Standardformat zur Angabe des Dateityps und Inhalts  
-D. Methoden unabhängig von spezifischen Werkzeugen anwenden  
-
 
 ```{code-cell} ipython3
 :tags: [remove-input]
-
-from jupyterquiz import display_quiz
 import sys
-sys.path.append("..")
-from quadriga import colors
+sys.path.append("../quadriga")
+from assessment import DragDropQuiz
 
-multiple_choice3 = [{
-    "question": """Ordnen Sie die Begriffe ihren korrekten Definitionen zu:
- """,
-    "type": "multiple_choice",
-    "answers": [
-        {
-            "answer": "A. Mime Type, B. Tiers, C. Toolagnostische Perspektive, D. Content Type",
-            "correct": False,
-            "feedback": """× Nicht korrekt. """
-        },
-        {
-            "answer": "A. Tiers, B. Content Type, C. Mime Type, D. Toolagnostische Perspektive",
-            "correct": True,
-            "feedback": """✓ Sehr gut! """
-        },
-        {
-            "answer": "A. Mime Type, B. Tiers, C. Content Type , D. Toolagnostische Perspektive ",
-            "correct": False,
-            "feedback": """× Nicht korrekt."""
-        },
-        {
-            "answer": "A. Tiers, B. Mime Type, C. Content Type, D. Toolagnostische Perspektive",
-            "correct": False,
-            "feedback": """× Nicht korrekt."""
-        }
-    ]
-}]
+quiz = DragDropQuiz()
 
-display_quiz(multiple_choice3, colors=colors.jupyterquiz)
+quiz.create_matching_quiz(
+    title="Ordnen Sie die Begriffe ihren korrekten Definitionen zu:",
+    descriptions=[
+        "Annotationszeilen in ELAN",
+        "Format für den Inhalt einer Annotation",
+        "Standardformat zur Angabe des Dateityps und Inhalts",
+        "Methoden unabhängig von spezifischen Werkzeugen anwenden"
+    ],
+    options=["Tiers", "Content Type", "Mime Type", "Toolagnostische Perspektive"],
+    correct_mapping={
+        "Annotationszeilen in ELAN": "Tiers",
+        "Format für den Inhalt einer Annotation": "Content Type",
+        "Standardformat zur Angabe des Dateityps und Inhalts": "Mime Type",
+        "Methoden unabhängig von spezifischen Werkzeugen anwenden": "Toolagnostische Perspektive"
+    }
+)
 ```
 
 ## Sektion II: Arbeiten mit Advene

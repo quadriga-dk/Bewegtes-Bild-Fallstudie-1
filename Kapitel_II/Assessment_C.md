@@ -116,49 +116,32 @@ display_quiz(multiple_choice2, colors=colors.jupyterquiz)
 ```
 
 ### Frage 3
-A. Die Entität, über die eine Aussage getroffen wird  
-B. Der Wert oder die Entität, die dem Subjekt durch das Prädikat zugeordnet wird  
-C. Die Relation oder Eigenschaft, die das Subjekt mit dem Objekt verbindet  
-D. Eine eindeutige Kennung für die Komponenten eines Triples  
-
-
 
 ```{code-cell} ipython3
 :tags: [remove-input]
 
-from jupyterquiz import display_quiz
 import sys
-sys.path.append("..")
-from quadriga import colors
+sys.path.append("../quadriga")
+from assessment import DragDropQuiz
 
-multiple_choice3 = [{
-    "question": """Ordnen Sie die Komponenten des semantischen Triples ihren korrekten Beschreibungen zu""",
-    "type": "multiple_choice",
-    "answers": [
-        {
-            "answer": "A. Subjekt , B. Prädikat , C. Objekt , D. URI",
-            "correct": False,
-            "feedback": """× Nicht korrekt """
-        },
-        {
-            "answer": "A. Subjekt, B. Prädikat, C. URI, D. Objekt",
-            "correct": False,
-            "feedback": """× Nicht korrekt """
-        },
-        {
-            "answer": "A. Subjekt, B. Objekt, C. URI , D. Prädikat ",
-            "correct": False,
-            "feedback": """× Nicht korrekt """
-        },
-        {
-            "answer": "A. Subjekt, B. Objekt, C. Prädikat, D. URI",
-            "correct": True,
-            "feedback": """Hervorragend! Sie verstehen die Grundbausteine von semantischen Triples und ihre Funktionen innerhalb des Semantic Web."""
-        }
-    ]
-}]
+quiz = DragDropQuiz()
 
-display_quiz(multiple_choice3, colors=colors.jupyterquiz)
+quiz.create_matching_quiz(
+    title="Ordnen Sie die Komponenten des semantischen Triples ihren korrekten Beschreibungen zu:",
+    descriptions=[
+        "Die Entität, über die eine Aussage getroffen wird",
+        "Der Wert oder die Entität, die dem Subjekt durch das Prädikat zugeordnet wird",
+        "Die Relation oder Eigenschaft, die das Subjekt mit dem Objekt verbindet",
+        "Eine eindeutige Kennung für die Komponenten eines Triples"
+    ],
+    options=["Subjekt", "Objekt", "Prädikat", "URI", "Namespace"],
+    correct_mapping={
+        "Die Entität, über die eine Aussage getroffen wird": "Subjekt",
+        "Der Wert oder die Entität, die dem Subjekt durch das Prädikat zugeordnet wird": "Objekt",
+        "Die Relation oder Eigenschaft, die das Subjekt mit dem Objekt verbindet": "Prädikat",
+        "Eine eindeutige Kennung für die Komponenten eines Triples": "URI"
+    }
+)
 ```
 
 ### Frage 4
