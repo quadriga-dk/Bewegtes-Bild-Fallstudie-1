@@ -22,7 +22,7 @@ Zur Beantwortung der genannten Fragestellung wurde ein dreistufiges Analysemodel
 ```{figure} ../assets/eMAEX-Dreistufenmodell.png
 :name: dreistufenmodell
 
-Das Dreistufenmodell der eMAEX-Methode
+Das Dreistufenmodell der eMAEX-Methode, © Bildquelle: [Empirische Medienästhetik – das eMAEX-System](https://www.empirische-medienaesthetik.fu-berlin.de/emaex-system/emaex_kurzversion/entwicklung_emaex/04_operationalisierung/index.html)
 ```
 
 ````{margin}
@@ -48,7 +48,7 @@ Ein Beispiel aus dem Film *A Walk in the Sun* (Lewis Milestone, USA 1945) zeigt 
 ```{figure} ../assets/eMAEX-Pathosszene-Abfolge.png
 :name: pathosszene-abfolge
 
-Zeitliche Abfolge der Pathosszenen nach der eMAEX-Methode
+Zeitliche Abfolge der Pathosszenen nach der eMAEX-Methode, © Bildquelle: [Diagramm aus der Datenmatrix Kriegsfilm – eMAEX](https://www.empirische-medienaesthetik.fu-berlin.de/emaex-system/affektdatenmatrix/diagramme/diagramm_a_walk_in_the_sun.html)
 ```
 
 Ausführliche Informationen zum Drei-Stufen-Modell der eMAEX-Methode gibt es unter <a href="https://www.empirische-medienaesthetik.fu-berlin.de/emaex-system/emaex_kurzversion/entwicklung_emaex/03_drei_ebenen_modell/index.html" class="external-link" target="_blank">Empirische Medienästhetik</a>.
