@@ -44,7 +44,7 @@ Die AdA-Ontologie umfasst 502 einzelne Annotationswerte, die 78  Annotationstype
 :height: 450px
 :name: ada-lodlive
 
-Struktur: Ebenen, Typen, Werte – visualisiert mit LodLive
+Struktur: Ebenen, Typen, Werte – visualisiert mit LodLive, © Bildquelle: [ProjectAdA-Github](https://github.com/ProjectAdA/public/tree/master/ontology)
 ```
 Definiert sind die filmanalytischen Konzepte, Begriffe und Beschreibungen auf der Grundlage von OWL (Web Ontology Language) und RDF (Ressource Description Framework) in einer Klassenstruktur mit dazugehörigen Eigenschaften:
 
@@ -63,7 +63,7 @@ Die mit OntoViz erstellte <a href="https://ada.cinepoetics.org/ontoviz/" class="
 :height: 450px
 :name: ada-ontoviz
 
-Visualisierung mit OntoViz
+Visualisierung mit OntoViz, © Bildquelle: [AdA-Ontoviz](https://ada.cinepoetics.org/ontoviz/)
 ```
 
 ### Annotationsmodell und Architektur
@@ -74,7 +74,7 @@ Die Ontologie umfasst ein Annotationsmodell für semantische Videoannotationen. 
 :height: 350px
 :name: ada-rdf-example
 
-Beispielannotation einer Kamerafahrt als RDF-Graph
+Beispielannotation einer Kamerafahrt als RDF-Graph, © Bildquelle: [ProjectAdA-Github](https://github.com/ProjectAdA/public/tree/master/ontology)
 ```
 Die Informationen, wie auf der Abbildung zu sehen, sind in RDF maschinenlesbar gespeichert. Jedes Konzept der Ontologie (und jede einzelne Annotation) hat einen eindeutigen Bezeichner, also eine URI.
 +++
@@ -93,7 +93,12 @@ Ebenso wird unterscheiden in:
 * Ordered from **value1** to **value2**: Beschreibt eine sequenzielle Ordnungslogik der Werte für einen bestimmten Typ
 
 Die gesamte Ontologie steht auf <a href="https://github.com/ProjectAdA/public/tree/master/ontology" class="external-link" target="_blank">Github</a> zur Verfügung. Eine PDF-Version, besonders geeignet für die Annotationsarbeit, ist auf der Website als Teil des <a href="https://www.ada.cinepoetics.fu-berlin.de/ada-toolkit/index.html" class="external-link" target="_blank">AdA-Toolkits</a> sowie [hier](../assets/Ada_Filmontologie_Deu_23_07_2021.pdf) in der deutschen Fassung Version 1.0. (Stand Juli 2021) als Download hinterlegt.
-+++
+
+---
+Lizenzhinweis: "AdA-Filmontologie" von <a href="https://www.ada.cinepoetics.fu-berlin.de/index.html" class="external-link" target="_blank">Affektrhetoriken des Audiovisuellen</a>" unter der Lizenz <a href="https://creativecommons.org/licenses/by-sa/3.0/de/deed.de" class="external-link" target="_blank">CC BY-SA 3.0</a> via  <a href="https://www.ada.cinepoetics.fu-berlin.de/ada-toolkit/index.html" class="external-link" target="_blank">AdA-Toolkit FU Berlin</a>
+
+---
+
 Eine durchsuchbare Online-Version stellt die Datensätze der Ontologie ebenfalls zur Verfügung. Die Daten werden über den RDF-Triplestore <a href="https://virtuoso.openlinksw.com/" class="external-link" target="_blank">OpenLink Virtuoso</a> und <a href="https://github.com/LodLive/LodView" class="external-link" target="_blank">LodView</a> bereitgestellt. 
 Die <a href="https://ada.cinepoetics.org/resource/2021/05/19/eMAEXannotationMethod.html" class="external-link" target="_blank">eMAEX-Methode</a> empfehlen wir als Einstiegspunkt. Weitere Ressourcen sind unten exemplarisch aufgeführt:
 
