@@ -10,12 +10,13 @@ Die OER wurde im Jahr 2024 erstmals als Work-in-Progress-Version über Github al
 ## Datenkompetenzzentrum QUADRIGA
 
 QUADRIGA ist das Berlin-Brandenburgische Datenkompetenzzentrum für Digital Humanities, Verwaltungswissenschaften, Informatik und Informationswissenschaft. 
-Es wird gefördert im Rahmen der <a href="https://www.bildung-forschung.digital/digitalezukunft/de/wissen/Datenkompetenzen/datenkompetenzzentren_fuer_die_wissenschaft_ordner/datenkompetenzzentren_fuer_die_wissenschaft.html" class="external-link" target="_blank">Richtlinie</a> zur Förderung von Projekten zum Aufbau von Datenkompetenzzentren in der Wissenschaft des Bundesministeriums für Bildung und Forschung.
-Anhand modellhafter Forschungsfragen werden für die drei Datentypen Bewegtes Bild, Tabelle und Text Fallstudien entworfen, die Forschenden der angesprochenen Fachrichtungen Kompetenzen im Bereich der Datenanwendung disziplinspezifisch näher bringen.
+Es wird gefördert im Rahmen der <a href="https://www.bmftr.bund.de/DE/Forschung/Wissenschaftssystem/Forschungsdaten/DatenkompetenzenInDerWissenschaft/datenkompetenzeninderwissenschaft_node.html" class="external-link" target="_blank">Richtlinie</a> zur Förderung von Projekten zum Aufbau von Datenkompetenzzentren in der Wissenschaft des Bundesministeriums für Forschung, Technologie und Raumfahrt (BMFTR, vormals BMBF).
+Anhand modellhafter Forschungsfragen werden für die drei Datentypen Bewegtes Bild, Tabelle und Text Fallstudien entworfen, die Forschenden der angesprochenen Fachrichtungen Kompetenzen im Bereich der Datenanwendung disziplinspezifisch näher bringen.  
+
 
 ## Nutzung dieser OER
 
-Sie können dieses JupyterBook zu Lehr- und Lernzwecken verwenden. Sie können sie zudem teilen und bearbeiten unter der Bedingung der Nennung der Autor:innen und der gleichen Lizenzierung. Weitere Informationen dazu entnehmen Sie bitte den <a href="https://github.com/quadriga-dk/Bewegtes-Bild-Fallstudie-1/blob/main/LICENSE.md" target="_blank">Lizenzhinweisen</a>.  
+Sie können dieses JupyterBook zu Lehr- und Lernzwecken verwenden. Sie können sie zudem teilen und bearbeiten unter der Bedingung der Nennung der Autor:innen und der gleichen Lizensierung (CC BY-SA). Weitere Informationen dazu entnehmen Sie bitte den <a href="https://github.com/quadriga-dk/Bewegtes-Bild-Fallstudie-1/blob/main/LICENSE.md" target="_blank">Lizenzhinweisen</a>.  
 
 ## Inhalt der OER
 
