@@ -1,0 +1,66 @@
+{
+  "upload_type": "lesson",
+  "title": "Affektrhetorik in Online-Videos zur Klimakrise. Datengestützte Analysen audiovisueller Muster",
+  "creators": [
+    {
+      "name": "Demir, Derya",
+      "affiliation": "Freie Universität Berlin"
+    },
+    {
+      "name": "Grotkopp, Matthias",
+      "affiliation": "Freie Universität Berlin",
+      "orcid": "0000-0002-0954-3111"
+    }
+  ],
+  "description": "Dieses interaktive Lehrbuch ist das Outcome der 1. Fallstudie des Datentyps Bewegtes Bild des Projekts [QUADRIGA](https://quadriga-dk.de).",
+  "publication_date": "2025-06-03",
+  "keywords": [
+    "TODO (Liste der relevanten Schlagworte auf Deutsch)"
+  ],
+  "license": "CC-BY-SA-4.0",
+  "language": "deu",
+  "contributors": [
+    {
+      "name": "Schnaitter, Hannes",
+      "type": "Other",
+      "affiliation": "Humboldt-Universität zu Berlin, Institut für Bibliotheks- und Informationswissenschaft",
+      "orcid": "0000-0002-1602-6032"
+    },
+    {
+      "name": "Samoilova, Evgenia",
+      "type": "Other",
+      "affiliation": "Universität Potsdam",
+      "orcid": "0000-0003-3858-901X"
+    },
+    {
+      "name": "Schneemann, Carsten",
+      "type": "Other",
+      "affiliation": "Fachhochschule Potsdam",
+      "orcid": "0000-0002-2683-5853"
+    },
+    {
+      "name": "Islam, Lamia",
+      "type": "Other",
+      "affiliation": "Universität Potsdam",
+      "orcid": "0009-0001-1879-9880"
+    }
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/quadriga-dk/Bewegtes-Bild-Fallstudie-1",
+      "relation": "isSupplementedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/",
+      "relation": "isAlternateIdentifier",
+      "scheme": "url"
+    }
+  ],
+  "communities": [
+    {
+      "identifier": "quadriga"
+    }
+  ],
+  "version": "1.0.0"
+}
