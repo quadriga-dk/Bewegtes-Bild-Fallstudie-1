@@ -22,6 +22,11 @@ identifiers:
 repository-code: https://github.com/quadriga-dk/Bewegtes-Bild-Fallstudie-1
 url: https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/
 keywords: &id002
+- Open Educational Resources
+- Offene Bildungsressource
+- Jupyter Book
+- Data Literacy
+- Datenkompetenz
 - TODO (Liste der relevanten Schlagworte auf Deutsch)
 license: CC-BY-SA-4.0
 references:

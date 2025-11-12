@@ -1,9 +1,11 @@
 # yaml-language-server: $schema=https://quadriga-dk.github.io/quadriga-schema/v1.0.0/schema.json
 schema-version: 1.0.0
-book-version: 1.0.0
 title: Affektrhetorik in Online-Videos zur Klimakrise. Datengestützte Analysen audiovisueller
   Muster
 identifier: https://doi.org/10.5281/zenodo.15585269
+version: 1.0.0
+date-issued: 2025-06-04
+date-modified: '2025-11-12'
 authors:
 - given-names: Derya
   family-names: Demir
@@ -68,10 +70,36 @@ description: Diese OER vermittelt Methoden der Filmanalyse mit digitalen Annotat
   Anhand eines Online-Videos zur Klimakrise werden audiovisuelle Inszenierungsmuster
   analysiert, um affektive Rhetoriken politischer Zielsetzungen zu erkennen und zu
   verstehen.
+keywords:
+- Open Educational Resources
+- de: Offene Bildungsressource
+- en: Jupyter Book
+- en: Data Literacy
+- de: Datenkompetenz
+- de: TODO (Liste der relevanten Schlagworte auf Deutsch)
+language: de
 discipline:
 - übergreifend
 research-object-type:
 - übergreifend
+target-group:
+- Forschende (PostDoc)
+- Forschende (Projektleitung)
+- Promovierende
+- Hochschullehrende
+time-required: PT72H
+context-of-creation: 'Die vorliegenden Open Educational Resources wurden durch das
+  Datenkompetenzzentrum QUADRIGA erstellt.
+
+
+  Förderkennzeichen: 16DKZ2034'
+url: https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/
+git: https://github.com/quadriga-dk/Bewegtes-Bild-Fallstudie-1
+license:
+  code: https://opensource.org/licenses/AGPL-3.0
+  content:
+    url: https://creativecommons.org/licenses/by-sa/4.0/
+    name: CC BY-SA 4.0
 chapters:
 - title: Einführung
   url: https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_I/toc.html
@@ -79,7 +107,7 @@ chapters:
     datengestützter Filmanalyse sowie Kontextualisierung des Untersuchungsgegenstandes.
   learning-goal: Die Grundlagen datengestützter Filmanalyse können erklärt und die
     zentralen Forschungsfragen der Fallstudie identifiziert werden.
-  duration: 1h
+  time-required: PT1H
   learning-objectives:
   - learning-objective: Die drei zentralen Forschungsfragen zu Affektrhetoriken in
       audiovisuellen Diskursen können benannt und deren Relevanz erläutert werden.
@@ -91,8 +119,6 @@ chapters:
     competency: Orientierungswissen
     data-flow: übergreifend
     blooms-category: 2 Verstehen
-  supplemented-by:
-  - TODO (Link zu weiterführenden Materialien)
 - title: Tabellarische Annotation (optional)
   url: https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_II/toc_A.html
   description: Einführung in die tabellarische Annotation als Methode zur systematischen
@@ -100,8 +126,7 @@ chapters:
     zur Erstellung eines Einstellungsprotokolls.
   learning-goal: Filmanalytische Daten zu audiovisuellem Material können systematisch
     anhand tabellarischer Annotation erhoben und ausgewertet werden.
-  duration: TODO
-  educational-level: TODO
+  time-required: TODO (z.B. PT1H, PT1H30M, PT15M)
   learning-objectives:
   - learning-objective: Die methodischen Grundlagen der tabellarischen Annotation
       können definiert und ihre Bedeutung für die filmanalytische Datenerhebung erläutert
@@ -125,8 +150,6 @@ chapters:
     competency: 2 Qualitätssicherung
     data-flow: 1 Planung
     blooms-category: 3 Anwenden
-  supplemented-by:
-  - TODO (Link zu weiterführenden Materialien)
 - title: Annotieren mit Tools (optional)
   url: https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_II/toc_B.html
   description: Einführung in die toolbasierte Annotation audiovisuellen Materials
@@ -134,8 +157,7 @@ chapters:
     Datensätze.
   learning-goal: Filmanalytische Daten können mit digitalen Annotationstools systematisch
     erhoben und die Qualität verschiedener Annotationsverfahren bewertet werden.
-  duration: TODO
-  educational-level: TODO
+  time-required: TODO (z.B. PT1H, PT1H30M, PT15M)
   learning-objectives:
   - learning-objective: Die zentralen Funktionen der Annotationstools Advene und ELAN
       können verstanden und für filmanalytische Zwecke angewendet werden.
@@ -158,8 +180,6 @@ chapters:
     competency: 9 Datenanalyse
     data-flow: 4 Analyse
     blooms-category: 4 Analysieren
-  supplemented-by:
-  - TODO (Link zu weiterführenden Materialien)
 - title: Einarbeiten in die Filmontologie
   url: https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_II/toc_C.html
   description: Praktische Überführung filmanalytischer Grundbegriffe in hierarchische
@@ -167,8 +187,7 @@ chapters:
     Annotation am Beispiel der AdA-Ontologie.
   learning-goal: Filmanalytische Konzepte können in semantische Triple nach Ontologiestruktur
     überführt sowie die Prinzipien einer Filmontologie nachvollzogen werden.
-  duration: TODO
-  educational-level: TODO
+  time-required: TODO (z.B. PT1H, PT1H30M, PT15M)
   learning-objectives:
   - learning-objective: Die Grundprinzipien des Semantic Web können definiert und
       ihre Relevanz für filmwissenschaftliche Datenmodelle erläutert werden.
@@ -190,8 +209,6 @@ chapters:
     competency: 8 Erschließung
     data-flow: 3 Management
     blooms-category: 5 Bewerten
-  supplemented-by:
-  - TODO (Link zu weiterführenden Materialien)
 - title: Annotieren mit einer Filmontologie
   url: https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_II/toc_D.html
   description: Einführung in die ontologiebasierte Annotation audiovisuellen Materials
@@ -199,8 +216,7 @@ chapters:
     in Advene zur systematischen Erhebung filmanalytischer Daten.
   learning-goal: Filmanalytische Daten können mit digitalen Annotationverfahren ontologiebasiert
     erhoben werden.
-  duration: TODO
-  educational-level: TODO
+  time-required: TODO (z.B. PT1H, PT1H30M, PT15M)
   learning-objectives:
   - learning-objective: Die Struktur der AdA-Filmontologie kann beschrieben und ihre
       methodischen Grundlagen erläutert werden.
@@ -227,8 +243,6 @@ chapters:
     competency: 5 Validierung
     data-flow: 2 Erhebung und Aufbereitung
     blooms-category: 5 Bewerten
-  supplemented-by:
-  - TODO (Link zu weiterführenden Materialien)
 - title: Datenvisualisierung
   url: https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_II/toc_E.html
   description: Einführung in die Visualisierung filmanalytischer Annotationsdaten
@@ -237,8 +251,7 @@ chapters:
     Inszenierungsmuster.
   learning-goal: Ontologiebasierte Annotationsdaten können mit der AdA-Timeline konfiguriert
     und anschließend exploriert sowie filmanalytisch interpretiert werden.
-  duration: TODO
-  educational-level: TODO
+  time-required: TODO (z.B. PT1H, PT1H30M, PT15M)
   learning-objectives:
   - learning-objective: Die Funktionsweise der AdA-Timeline kann beschrieben und ihre
       Bedeutung für die filmanalytische Datenexploration erläutert werden.
@@ -267,8 +280,6 @@ chapters:
     competency: 6 Aufbereitung
     data-flow: 2 Erhebung und Aufbereitung
     blooms-category: 6 Erschaffen
-  supplemented-by:
-  - TODO (Link zu weiterführenden Materialien)
 - title: Reflexion und Resümee
   url: https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_III/toc.html
   description: Zusammenfassung und kritische Reflexion des methodischen Übergangs
@@ -276,8 +287,7 @@ chapters:
     quantitativer Datenproduktion als Hilfsmittel qualitativer Empirie.
   learning-goal: Die Entwicklung von tabellarischer Annotation zur ontologiebasierten
     Annotation kann zusammengefassst und die Methoden kritisch reflektiert werden.
-  duration: TODO
-  educational-level: TODO
+  time-required: TODO (z.B. PT1H, PT1H30M, PT15M)
   learning-objectives:
   - learning-objective: Der Übergang von tabellarischer Annotation zur Ontologie kann
       rekapituliert werden.
@@ -294,37 +304,7 @@ chapters:
     competency: 5 Validierung
     data-flow: 2 Erhebung und Aufbereitung
     blooms-category: 5 Bewerten
-  supplemented-by:
-  - TODO (Link zu weiterführenden Materialien)
-target-group:
-- Forschende (PostDoc)
-- Forschende (Projektleitung)
-- Promovierende
-- Hochschullehrende
-duration: 72h
-date-published: 2025-06-04
-date-modified: 2025-06-03
 quality-assurance:
 - person: TODO (Name der prüfenden Person)
   description: TODO
-  date: 2025-06-03
-prerequisites:
-- description: TODO (Liste der notwendigen Vorkenntnisse)
-keywords:
-- de: TODO (Liste der relevanten Schlagworte auf Deutsch)
-language: de
-learning-resource-type: Jupyter Book
-context-of-creation: 'Die vorliegenden Open Educational Resources wurden durch das
-  Datenkompetenzzentrum QUADRIGA erstellt.
-
-
-  Förderkennzeichen: 16DKZ2034'
-url: https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/
-git: https://github.com/quadriga-dk/Bewegtes-Bild-Fallstudie-1
-used-tools:
-- TODO (Liste der verwendeten Software-Tools)
-license:
-  code: https://opensource.org/licenses/AGPL-3.0
-  content:
-    url: https://creativecommons.org/licenses/by-sa/4.0/
-    name: CC BY-SA 4.0
+  date: 2025-11-10

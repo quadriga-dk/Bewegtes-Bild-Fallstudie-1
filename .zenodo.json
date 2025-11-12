@@ -13,8 +13,13 @@
     }
   ],
   "description": "Dieses interaktive Lehrbuch ist das Outcome der 1. Fallstudie des Datentyps Bewegtes Bild des Projekts [QUADRIGA](https://quadriga-dk.de).",
-  "publication_date": "2025-06-03",
+  "publication_date": "2025-11-12",
   "keywords": [
+    "Open Educational Resources",
+    "Offene Bildungsressource",
+    "Jupyter Book",
+    "Data Literacy",
+    "Datenkompetenz",
     "TODO (Liste der relevanten Schlagworte auf Deutsch)"
   ],
   "license": "CC-BY-SA-4.0",
