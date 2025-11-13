@@ -21,9 +21,13 @@ identifiers:
   description: Zenodo
 repository-code: https://github.com/quadriga-dk/Bewegtes-Bild-Fallstudie-1
 url: https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/
-keywords:
-- Open Educational Resource
-- Filmwissenschaft
+keywords: &id002
+- Open Educational Resources
+- Offene Bildungsressource
+- Jupyter Book
+- Data Literacy
+- Datenkompetenz
+- TODO (Liste der relevanten Schlagworte auf Deutsch)
 license: CC-BY-SA-4.0
 references:
 - title: Jupyter Book
@@ -45,4 +49,5 @@ preferred-citation:
   - deu
   copyright: CC-BY-SA-4.0
   version: 1.0.0
+  keywords: *id002
 version: 1.0.0
