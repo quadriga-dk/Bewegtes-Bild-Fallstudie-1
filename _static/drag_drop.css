@@ -175,3 +175,11 @@
     color: #856404;
     border: 1px solid #ffeaa7;
 }
+
+.drop-area.correct-answer {
+    background-color: #d4edda;
+}
+
+.drop-area.incorrect-answer {
+    background-color: #f8d7da;
+}

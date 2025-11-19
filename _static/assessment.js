@@ -160,13 +160,24 @@ class DragDropQuizManager {
         let correctCount = 0;
         let totalPairs = quiz.correctPairs.length;
         
-        // Check each correct pair
+        // Check each correct pair and apply visual feedback
         quiz.correctPairs.forEach(([descId, optionId]) => {
             const dropArea = document.getElementById(`${quizId}_drop_${descId}`);
             const droppedItem = dropArea.querySelector('.dropped-item');
             
-            if (droppedItem && parseInt(droppedItem.dataset.itemId) === optionId) {
-                correctCount++;
+            // Remove previous feedback classes
+            dropArea.classList.remove('correct-answer', 'incorrect-answer');
+            
+            if (droppedItem) {
+                if (parseInt(droppedItem.dataset.itemId) === optionId) {
+                    correctCount++;
+                    dropArea.classList.add('correct-answer');
+                } else {
+                    dropArea.classList.add('incorrect-answer');
+                }
+            } else {
+                // Empty drop area is also incorrect
+                dropArea.classList.add('incorrect-answer');
             }
         });
         
@@ -192,9 +203,10 @@ class DragDropQuizManager {
         const dropAreas = document.querySelectorAll(`#${quizId} .drop-area`);
         const feedback = document.getElementById(`${quizId}_feedback`);
         
-        // Clear all drop areas
+        // Clear all drop areas and remove feedback classes
         dropAreas.forEach(area => {
             area.innerHTML = '<span class="drop-placeholder">Hier ablegen</span>';
+            area.classList.remove('correct-answer', 'incorrect-answer');
         });
         
         // Clear feedback
