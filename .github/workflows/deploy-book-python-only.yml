@@ -18,44 +18,54 @@ jobs:
       id-token: write
     if: ${{ github.event.workflow_run.conclusion == 'success' }}
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-    # Python
-    - name: Set up Python 3.11
-      uses: actions/setup-python@v5
-      with:
-        python-version-file: .python-version
-        cache: pip
+      # Python
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version-file: .python-version
+          cache: pip
 
-    - name: Install Python dependencies
-      run: |
-        pip install -r requirements.txt
-     
-    
-    # check all kernels 
-    - name: Log all available kernels
-      run: |
-        jupyter kernelspec list
+      - name: Install Python dependencies
+        run: |
+          pip install -r requirements.txt
 
-    # only caches if set up in _config.yml with:
-    # execute:
-    #   execute_notebooks: cache
-    - name: Cache executed notebooks
-      uses: actions/cache@v3
-      with:
-        path: _build/.jupyter_cache
-        key: jupyter-book-cache-${{ hashFiles('requirements.txt') }}
+      # check all kernels
+      - name: Log all available kernels
+        run: |
+          jupyter kernelspec list
 
-    - name: Build the book
-      run: |
-        jupyter-book build .
+      # only caches if set up in _config.yml with:
+      # execute:
+      #   execute_notebooks: cache
+      - name: Cache executed notebooks
+        uses: actions/cache@v3
+        with:
+          path: _build/.jupyter_cache
+          key: jupyter-book-cache-${{ hashFiles('requirements.txt') }}
 
-    - name: Upload book artifact
-      uses: actions/upload-pages-artifact@v3
-      with:
-        path: "_build/html"
+      - name: Build the book
+        run: |
+          jupyter-book build .
 
-    - name: Deploy to GitHub Pages
-      id: deployment
-      uses: actions/deploy-pages@v4
+      - name: Inject all metadata into HTML
+        run: |
+          python -m quadriga.metadata.inject_all_metadata
+          echo "Injected all metadata (OpenGraph, JSON-LD, and RDF links) into HTML head"
+
+      - name: Copy metadata files to build directory
+        run: |
+          cp metadata.jsonld _build/html/metadata.jsonld
+          cp metadata.rdf _build/html/metadata.rdf
+          echo "Copied metadata files to _build/html for discovery"
+
+      - name: Upload book artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "_build/html"
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
