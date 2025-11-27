@@ -1,0 +1,436 @@
+{
+  "@context": {
+    "schema": "http://schema.org/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "dcterms": "http://purl.org/dc/terms/",
+    "lrmi": "http://purl.org/dcx/lrmi-terms/",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "@vocab": "http://schema.org/"
+  },
+  "@type": [
+    "Book",
+    "LearningResource"
+  ],
+  "name": "Affektrhetorik in Online-Videos zur Klimakrise. Datengestützte Analysen audiovisueller Muster",
+  "description": "Diese OER vermittelt Methoden der Filmanalyse mit digitalen Annotationswerkzeugen. Anhand eines Online-Videos zur Klimakrise werden audiovisuelle Inszenierungsmuster analysiert, um affektive Rhetoriken politischer Zielsetzungen zu erkennen und zu verstehen.",
+  "identifier": {
+    "@type": "PropertyValue",
+    "propertyID": "DOI",
+    "value": "10.5281/zenodo.15585269",
+    "url": "https://doi.org/10.5281/zenodo.15585269"
+  },
+  "version": "1.0.0",
+  "schemaVersion": "1.0.0",
+  "url": "https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/",
+  "workExample": {
+    "@type": "SoftwareSourceCode",
+    "name": "Source Code Repository",
+    "codeRepository": "https://github.com/quadriga-dk/Bewegtes-Bild-Fallstudie-1"
+  },
+  "datePublished": "2025-06-04",
+  "dateModified": "2025-11-12",
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Derya",
+      "familyName": "Demir",
+      "name": "Derya Demir",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Freie Universität Berlin"
+      }
+    },
+    {
+      "@type": "Person",
+      "givenName": "Matthias",
+      "familyName": "Grotkopp",
+      "name": "Matthias Grotkopp",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "ORCID",
+        "value": "0000-0002-0954-3111",
+        "url": "https://orcid.org/0000-0002-0954-3111"
+      },
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Freie Universität Berlin"
+      }
+    }
+  ],
+  "contributor": [
+    {
+      "@type": "Person",
+      "givenName": "Hannes",
+      "familyName": "Schnaitter",
+      "name": "Hannes Schnaitter",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "ORCID",
+        "value": "0000-0002-1602-6032",
+        "url": "https://orcid.org/0000-0002-1602-6032"
+      },
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Humboldt-Universität zu Berlin, Institut für Bibliotheks- und Informationswissenschaft"
+      }
+    },
+    {
+      "@type": "Person",
+      "givenName": "Evgenia",
+      "familyName": "Samoilova",
+      "name": "Evgenia Samoilova",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "ORCID",
+        "value": "0000-0003-3858-901X",
+        "url": "https://orcid.org/0000-0003-3858-901X"
+      },
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universität Potsdam"
+      }
+    },
+    {
+      "@type": "Person",
+      "givenName": "Carsten",
+      "familyName": "Schneemann",
+      "name": "Carsten Schneemann",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "ORCID",
+        "value": "0000-0002-2683-5853",
+        "url": "https://orcid.org/0000-0002-2683-5853"
+      },
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Fachhochschule Potsdam"
+      }
+    },
+    {
+      "@type": "Person",
+      "givenName": "Lamia",
+      "familyName": "Islam",
+      "name": "Lamia Islam",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "ORCID",
+        "value": "0009-0001-1879-9880",
+        "url": "https://orcid.org/0009-0001-1879-9880"
+      },
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universität Potsdam"
+      }
+    }
+  ],
+  "inLanguage": "de",
+  "keywords": [
+    "Open Educational Resources",
+    "Offene Bildungsressource",
+    "Jupyter Book",
+    "Data Literacy",
+    "Datenkompetenz",
+    "TODO (Liste der relevanten Schlagworte auf Deutsch)"
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Open Educational Resources"
+    },
+    {
+      "@type": "Thing",
+      "name": "Offene Bildungsressource"
+    },
+    {
+      "@type": "Thing",
+      "name": "Jupyter Book"
+    },
+    {
+      "@type": "Thing",
+      "name": "Data Literacy"
+    },
+    {
+      "@type": "Thing",
+      "name": "Datenkompetenz"
+    },
+    {
+      "@type": "Thing",
+      "name": "TODO (Liste der relevanten Schlagworte auf Deutsch)"
+    },
+    {
+      "@type": "Thing",
+      "name": "übergreifend"
+    },
+    {
+      "@type": "Thing",
+      "name": "übergreifend"
+    }
+  ],
+  "audience": [
+    {
+      "@type": "Audience",
+      "audienceType": "Forschende (PostDoc)"
+    },
+    {
+      "@type": "Audience",
+      "audienceType": "Forschende (Projektleitung)"
+    },
+    {
+      "@type": "Audience",
+      "audienceType": "Promovierende"
+    },
+    {
+      "@type": "Audience",
+      "audienceType": "Hochschullehrende"
+    }
+  ],
+  "timeRequired": "PT72H",
+  "license": [
+    {
+      "@type": "CreativeWork",
+      "name": "Source Code",
+      "license": "https://opensource.org/licenses/AGPL-3.0"
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "Content",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  ],
+  "hasPart": [
+    {
+      "@type": "LearningResource",
+      "name": "Einführung",
+      "description": "Erläuterung und Vermittlung der theoretischen und methodischen Grundlagen datengestützter Filmanalyse sowie Kontextualisierung des Untersuchungsgegenstandes.",
+      "url": "https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_I/toc.html",
+      "timeRequired": "PT1H",
+      "teaches": "Die Grundlagen datengestützter Filmanalyse können erklärt und die zentralen Forschungsfragen der Fallstudie identifiziert werden.",
+      "educationalAlignment": [
+        {
+          "@type": "AlignmentObject",
+          "targetName": "Die drei zentralen Forschungsfragen zu Affektrhetoriken in audiovisuellen Diskursen können benannt und deren Relevanz erläutert werden.",
+          "educationalFramework": "QUADRIGA Competency Framework",
+          "targetDescription": "Competency: Orientierungswissen | Bloom's: 2 Verstehen | Data Flow: übergreifend"
+        },
+        {
+          "@type": "AlignmentObject",
+          "targetName": "Die eMAEX-Methode der empirischen Medienästhetik kann beschrieben und deren Anwendung in der Filmanalyse erklärt werden.",
+          "educationalFramework": "QUADRIGA Competency Framework",
+          "targetDescription": "Competency: Orientierungswissen | Bloom's: 2 Verstehen | Data Flow: übergreifend"
+        }
+      ]
+    },
+    {
+      "@type": "LearningResource",
+      "name": "Tabellarische Annotation (optional)",
+      "description": "Einführung in die tabellarische Annotation als Methode zur systematischen Erfassung filmanalytischer Daten mit Fokus auf Kategorisierung von Grundparametern zur Erstellung eines Einstellungsprotokolls.",
+      "url": "https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_II/toc_A.html",
+      "timeRequired": "TODO (z.B. PT1H, PT1H30M, PT15M)",
+      "teaches": "Filmanalytische Daten zu audiovisuellem Material können systematisch anhand tabellarischer Annotation erhoben und ausgewertet werden.",
+      "educationalAlignment": [
+        {
+          "@type": "AlignmentObject",
+          "targetName": "Die methodischen Grundlagen der tabellarischen Annotation können definiert und ihre Bedeutung für die filmanalytische Datenerhebung erläutert werden.",
+          "educationalFramework": "QUADRIGA Competency Framework",
+          "targetDescription": "Competency: Orientierungswissen | Bloom's: 1 Erinnern | Data Flow: übergreifend"
+        },
+        {
+          "@type": "AlignmentObject",
+          "targetName": "Zeitbasierte Metadaten zu filmischem Bewegtbildmaterial können systematisch in tabellarischer Form erfasst und die Unterschiede zwischen den Segmentierungsformen in der Anwendung begründet werden.",
+          "educationalFramework": "QUADRIGA Competency Framework",
+          "targetDescription": "Competency: 4 Erhebung | Bloom's: 3 Anwenden | Data Flow: 2 Erhebung und Aufbereitung"
+        },
+        {
+          "@type": "AlignmentObject",
+          "targetName": "Filmanalytische Grundparameter können identifiziert und korrekt kategorisiert werden.",
+          "educationalFramework": "QUADRIGA Competency Framework",
+          "targetDescription": "Competency: 4 Erhebung | Bloom's: 3 Anwenden | Data Flow: 2 Erhebung und Aufbereitung"
+        },
+        {
+          "@type": "AlignmentObject",
+          "targetName": "Die Grenzen und Möglichkeiten tabellarischer Annotation für affektrhetorische Analysen können reflektiert werden.",
+          "educationalFramework": "QUADRIGA Competency Framework",
+          "targetDescription": "Competency: 2 Qualitätssicherung | Bloom's: 3 Anwenden | Data Flow: 1 Planung"
+        }
+      ]
+    },
+    {
+      "@type": "LearningResource",
+      "name": "Annotieren mit Tools (optional)",
+      "description": "Einführung in die toolbasierte Annotation audiovisuellen Materials mit digitalen Werkzeugen sowie praktische Anwendung der Tools zur Erhebung filmanalytischer Datensätze.",
+      "url": "https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_II/toc_B.html",
+      "timeRequired": "TODO (z.B. PT1H, PT1H30M, PT15M)",
+      "teaches": "Filmanalytische Daten können mit digitalen Annotationstools systematisch erhoben und die Qualität verschiedener Annotationsverfahren bewertet werden.",
+      "educationalAlignment": [
+        {
+          "@type": "AlignmentObject",
+          "targetName": "Die zentralen Funktionen der Annotationstools Advene und ELAN können verstanden und für filmanalytische Zwecke angewendet werden.",
+          "educationalFramework": "QUADRIGA Competency Framework",
+          "targetDescription": "Competency: 8 Erschließung | Bloom's: 3 Anwenden | Data Flow: 3 Management"
+        },
+        {
+          "@type": "AlignmentObject",
+          "targetName": "Ein filmanalytischer Datensatz kann in den Annotationstools erstellt werden.",
+          "educationalFramework": "QUADRIGA Competency Framework",
+          "targetDescription": "Competency: 4 Erhebung | Bloom's: 3 Anwenden | Data Flow: 2 Erhebung und Aufbereitung"
+        },
+        {
+          "@type": "AlignmentObject",
+          "targetName": "Zwischen den verschiedenen Annotationstypen und Werten kann differenziert und ihr Einsatz für spezifische filmanalytische Fragestellungen begründen werden.",
+          "educationalFramework": "QUADRIGA Competency Framework",
+          "targetDescription": "Competency: 8 Erschließung | Bloom's: 4 Analysieren | Data Flow: 2 Erhebung und Aufbereitung"
+        },
+        {
+          "@type": "AlignmentObject",
+          "targetName": "Die Unterschiede in der Datenqualität zwischen manueller tabellarischer und toolbasierter Annotation können analysiert und bewertet werden.",
+          "educationalFramework": "QUADRIGA Competency Framework",
+          "targetDescription": "Competency: 9 Datenanalyse | Bloom's: 4 Analysieren | Data Flow: 4 Analyse"
+        }
+      ]
+    },
+    {
+      "@type": "LearningResource",
+      "name": "Einarbeiten in die Filmontologie",
+      "description": "Praktische Überführung filmanalytischer Grundbegriffe in hierarchische Datenstrukturen nach Semantic Web-Prinzipien sowie Einführung in die ontologiebasierte Annotation am Beispiel der AdA-Ontologie.",
+      "url": "https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_II/toc_C.html",
+      "timeRequired": "TODO (z.B. PT1H, PT1H30M, PT15M)",
+      "teaches": "Filmanalytische Konzepte können in semantische Triple nach Ontologiestruktur überführt sowie die Prinzipien einer Filmontologie nachvollzogen werden.",
+      "educationalAlignment": [
+        {
+          "@type": "AlignmentObject",
+          "targetName": "Die Grundprinzipien des Semantic Web können definiert und ihre Relevanz für filmwissenschaftliche Datenmodelle erläutert werden.",
+          "educationalFramework": "QUADRIGA Competency Framework",
+          "targetDescription": "Competency: Orientierungswissen | Bloom's: 2 Verstehen | Data Flow: übergreifend"
+        },
+        {
+          "@type": "AlignmentObject",
+          "targetName": "Der Unterschied zwischen Freitextannotation und ontologiebasierter Annotation kann anhand konkreter Beispiele erklärt werden.",
+          "educationalFramework": "QUADRIGA Competency Framework",
+          "targetDescription": "Competency: Orientierungswissen | Bloom's: 2 Verstehen | Data Flow: übergreifend"
+        },
+        {
+          "@type": "AlignmentObject",
+          "targetName": "Filmanalytische Grundbegriffe können in eine hierarchische Ontologiestruktur eingeordnet werden.",
+          "educationalFramework": "QUADRIGA Competency Framework",
+          "targetDescription": "Competency: Orientierungswissen | Bloom's: 3 Anwenden | Data Flow: übergreifend"
+        },
+        {
+          "@type": "AlignmentObject",
+          "targetName": "Die Notwendigkeit eines einheitlichen Datenframeworks für vergleichende Filmanalysen kann argumentativ begründet werden.",
+          "educationalFramework": "QUADRIGA Competency Framework",
+          "targetDescription": "Competency: 8 Erschließung | Bloom's: 5 Bewerten | Data Flow: 3 Management"
+        }
+      ]
+    },
+    {
+      "@type": "LearningResource",
+      "name": "Annotieren mit einer Filmontologie",
+      "description": "Einführung in die ontologiebasierte Annotation audiovisuellen Materials mit der AdA-Filmontologie sowie praktische Implementierung und Anwendung der Ontologie in Advene zur systematischen Erhebung filmanalytischer Daten.",
+      "url": "https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_II/toc_D.html",
+      "timeRequired": "TODO (z.B. PT1H, PT1H30M, PT15M)",
+      "teaches": "Filmanalytische Daten können mit digitalen Annotationverfahren ontologiebasiert erhoben werden.",
+      "educationalAlignment": [
+        {
+          "@type": "AlignmentObject",
+          "targetName": "Die Struktur der AdA-Filmontologie kann beschrieben und ihre methodischen Grundlagen erläutert werden.",
+          "educationalFramework": "QUADRIGA Competency Framework",
+          "targetDescription": "Competency: Orientierungswissen | Bloom's: 2 Verstehen | Data Flow: übergreifend"
+        },
+        {
+          "@type": "AlignmentObject",
+          "targetName": "Die AdA-Filmontologie kann in Advene implementiert und für eigene Analysen konfiguriert werden.",
+          "educationalFramework": "QUADRIGA Competency Framework",
+          "targetDescription": "Competency: 8 Erschließung | Bloom's: 3 Anwenden | Data Flow: 3 Management"
+        },
+        {
+          "@type": "AlignmentObject",
+          "targetName": "Ontologiebasierte Annotationen können zu einem gegebenen Video erstellt und methodisch begründet werden.",
+          "educationalFramework": "QUADRIGA Competency Framework",
+          "targetDescription": "Competency: 4 Erhebung | Bloom's: 3 Anwenden | Data Flow: 2 Erhebung und Aufbereitung"
+        },
+        {
+          "@type": "AlignmentObject",
+          "targetName": "Entscheidungsprozesse können bei der Anwendung der Ontologie dokumentiert und verglichen werden.",
+          "educationalFramework": "QUADRIGA Competency Framework",
+          "targetDescription": "Competency: 5 Validierung | Bloom's: 4 Analysieren | Data Flow: 2 Erhebung und Aufbereitung"
+        },
+        {
+          "@type": "AlignmentObject",
+          "targetName": "Die Anpassungsmöglichkeiten der AdA-Filmontologie können für eigene Forschungskontexte evaluiert werden.",
+          "educationalFramework": "QUADRIGA Competency Framework",
+          "targetDescription": "Competency: 5 Validierung | Bloom's: 5 Bewerten | Data Flow: 2 Erhebung und Aufbereitung"
+        }
+      ]
+    },
+    {
+      "@type": "LearningResource",
+      "name": "Datenvisualisierung",
+      "description": "Einführung in die Visualisierung filmanalytischer Annotationsdaten mit der AdA-Timeline sowie praktische Konfiguration und Anpassung der Visualisierung zur Exploration, Analyse und Interpretation temporaler Verlaufsdynamiken affektiver Inszenierungsmuster.",
+      "url": "https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_II/toc_E.html",
+      "timeRequired": "TODO (z.B. PT1H, PT1H30M, PT15M)",
+      "teaches": "Ontologiebasierte Annotationsdaten können mit der AdA-Timeline konfiguriert und anschließend exploriert sowie filmanalytisch interpretiert werden.",
+      "educationalAlignment": [
+        {
+          "@type": "AlignmentObject",
+          "targetName": "Die Funktionsweise der AdA-Timeline kann beschrieben und ihre Bedeutung für die filmanalytische Datenexploration erläutert werden.",
+          "educationalFramework": "QUADRIGA Competency Framework",
+          "targetDescription": "Competency: Orientierungswissen | Bloom's: 2 Verstehen | Data Flow: übergreifend"
+        },
+        {
+          "@type": "AlignmentObject",
+          "targetName": "Die AdA-Timeline kann zur Visualisierung komplexer Annotationsdaten konfiguriert und angepasst werden.",
+          "educationalFramework": "QUADRIGA Competency Framework",
+          "targetDescription": "Competency: 10 Visualisierung | Bloom's: 3 Anwenden | Data Flow: 4 Analyse"
+        },
+        {
+          "@type": "AlignmentObject",
+          "targetName": "Temporale Verlaufsdynamiken affektiver Inszenierungsmuster können anhand der Visualisierung exploriert und identifiziert werden.",
+          "educationalFramework": "QUADRIGA Competency Framework",
+          "targetDescription": "Competency: 9 Datenanalyse | Bloom's: 4 Analysieren | Data Flow: 4 Analyse"
+        },
+        {
+          "@type": "AlignmentObject",
+          "targetName": "Temporale und multimodale Verlaufsdynamiken von Gestaltungsweisen (z.B. Musik, Montage, Farb- und Helligkeitsbeziehungen) können gezielt visualisiert und ihre affektrhetorische Funktion für politische Zielsetzungen in Online-Videos zur Klimakrise interpretiert werden.",
+          "educationalFramework": "QUADRIGA Competency Framework",
+          "targetDescription": "Competency: 11 Interpretation | Bloom's: 4 Analysieren | Data Flow: 4 Analyse"
+        },
+        {
+          "@type": "AlignmentObject",
+          "targetName": "Visualisierte Daten können für wissenschaftliche Präsentationen und Publikationen aufbereitet werden.",
+          "educationalFramework": "QUADRIGA Competency Framework",
+          "targetDescription": "Competency: 6 Aufbereitung | Bloom's: 6 Erschaffen | Data Flow: 2 Erhebung und Aufbereitung"
+        }
+      ]
+    },
+    {
+      "@type": "LearningResource",
+      "name": "Reflexion und Resümee",
+      "description": "Zusammenfassung und kritische Reflexion des methodischen Übergangs von tabellarischer Annotation zur ontologiebasierten Filmanalyse sowie Einordnung quantitativer Datenproduktion als Hilfsmittel qualitativer Empirie.",
+      "url": "https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_III/toc.html",
+      "timeRequired": "TODO (z.B. PT1H, PT1H30M, PT15M)",
+      "teaches": "Die Entwicklung von tabellarischer Annotation zur ontologiebasierten Annotation kann zusammengefassst und die Methoden kritisch reflektiert werden.",
+      "educationalAlignment": [
+        {
+          "@type": "AlignmentObject",
+          "targetName": "Der Übergang von tabellarischer Annotation zur Ontologie kann rekapituliert werden.",
+          "educationalFramework": "QUADRIGA Competency Framework",
+          "targetDescription": "Competency: Orientierungswissen | Bloom's: 1 Erinnern | Data Flow: übergreifend"
+        },
+        {
+          "@type": "AlignmentObject",
+          "targetName": "Die Grenzen und Erweiterungsmöglichkeiten der AdA-Ontologie können reflektiert werden.",
+          "educationalFramework": "QUADRIGA Competency Framework",
+          "targetDescription": "Competency: 5 Validierung | Bloom's: 5 Bewerten | Data Flow: 2 Erhebung und Aufbereitung"
+        },
+        {
+          "@type": "AlignmentObject",
+          "targetName": "Die Rolle quantitativer Datenproduktion als Hilfsmittel qualitativer Empirie kann eingeordnet und kritisch hinterfragt werden.",
+          "educationalFramework": "QUADRIGA Competency Framework",
+          "targetDescription": "Competency: 5 Validierung | Bloom's: 5 Bewerten | Data Flow: 2 Erhebung und Aufbereitung"
+        }
+      ]
+    }
+  ],
+  "dcterms:tableOfContents": "- Präambel\n- Einführung\n- Tabellarische Annotation (optional)\n- Annotieren mit Tools (optional)\n- Einarbeiten in die Filmontologie\n- Annotieren mit einer Filmontologie\n- Datenvisualisierung\n- Reflexion und Resümee\n- Epilog",
+  "funding": "Die vorliegenden Open Educational Resources wurden durch das Datenkompetenzzentrum QUADRIGA erstellt.\n\nFörderkennzeichen: 16DKZ2034"
+}
