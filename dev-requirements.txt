@@ -1,1 +1,5 @@
 pyyaml
+mypy
+ruff
+types-PyYAML
+rdflib
