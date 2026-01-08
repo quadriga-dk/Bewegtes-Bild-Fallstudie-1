@@ -1,4 +1,6 @@
 jupyter-book==1.0.*
+teachbooks==0.2.3
+sphinx_apa_references==1.0
 matplotlib
 numpy==2.2.*
 jupyterquiz==2.9.*
