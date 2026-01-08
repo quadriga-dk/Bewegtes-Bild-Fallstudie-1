@@ -45,11 +45,6 @@
       </schema1:Thing>
     </schema1:about>
     <schema1:about>
-      <schema1:Thing rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#keyword_5">
-        <schema1:name>TODO (Liste der relevanten Schlagworte auf Deutsch)</schema1:name>
-      </schema1:Thing>
-    </schema1:about>
-    <schema1:about>
       <schema1:Thing rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#research_object_0">
         <schema1:name>übergreifend</schema1:name>
       </schema1:Thing>
@@ -153,7 +148,7 @@ Förderkennzeichen: 16DKZ2034</schema1:funding>
         <schema1:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_1_objective_3"/>
         <schema1:name>Tabellarische Annotation (optional)</schema1:name>
         <schema1:teaches>Filmanalytische Daten zu audiovisuellem Material können systematisch anhand tabellarischer Annotation erhoben und ausgewertet werden.</schema1:teaches>
-        <schema1:timeRequired>TODO (z.B. PT1H, PT1H30M, PT15M)</schema1:timeRequired>
+        <schema1:timeRequired>PT2H30M</schema1:timeRequired>
         <schema1:url rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_II/toc_A.html"/>
       </schema1:LearningResource>
     </schema1:hasPart>
@@ -166,7 +161,7 @@ Förderkennzeichen: 16DKZ2034</schema1:funding>
         <schema1:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_2_objective_3"/>
         <schema1:name>Annotieren mit Tools (optional)</schema1:name>
         <schema1:teaches>Filmanalytische Daten können mit digitalen Annotationstools systematisch erhoben und die Qualität verschiedener Annotationsverfahren bewertet werden.</schema1:teaches>
-        <schema1:timeRequired>TODO (z.B. PT1H, PT1H30M, PT15M)</schema1:timeRequired>
+        <schema1:timeRequired>PT5H</schema1:timeRequired>
         <schema1:url rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_II/toc_B.html"/>
       </schema1:LearningResource>
     </schema1:hasPart>
@@ -179,7 +174,7 @@ Förderkennzeichen: 16DKZ2034</schema1:funding>
         <schema1:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_3_objective_3"/>
         <schema1:name>Einarbeiten in die Filmontologie</schema1:name>
         <schema1:teaches>Filmanalytische Konzepte können in semantische Triple nach Ontologiestruktur überführt sowie die Prinzipien einer Filmontologie nachvollzogen werden.</schema1:teaches>
-        <schema1:timeRequired>TODO (z.B. PT1H, PT1H30M, PT15M)</schema1:timeRequired>
+        <schema1:timeRequired>PT1H30M</schema1:timeRequired>
         <schema1:url rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_II/toc_C.html"/>
       </schema1:LearningResource>
     </schema1:hasPart>
@@ -193,7 +188,7 @@ Förderkennzeichen: 16DKZ2034</schema1:funding>
         <schema1:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_4_objective_4"/>
         <schema1:name>Annotieren mit einer Filmontologie</schema1:name>
         <schema1:teaches>Filmanalytische Daten können mit digitalen Annotationverfahren ontologiebasiert erhoben werden.</schema1:teaches>
-        <schema1:timeRequired>TODO (z.B. PT1H, PT1H30M, PT15M)</schema1:timeRequired>
+        <schema1:timeRequired>PT5H</schema1:timeRequired>
         <schema1:url rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_II/toc_D.html"/>
       </schema1:LearningResource>
     </schema1:hasPart>
@@ -207,7 +202,7 @@ Förderkennzeichen: 16DKZ2034</schema1:funding>
         <schema1:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_5_objective_4"/>
         <schema1:name>Datenvisualisierung</schema1:name>
         <schema1:teaches>Ontologiebasierte Annotationsdaten können mit der AdA-Timeline konfiguriert und anschließend exploriert sowie filmanalytisch interpretiert werden.</schema1:teaches>
-        <schema1:timeRequired>TODO (z.B. PT1H, PT1H30M, PT15M)</schema1:timeRequired>
+        <schema1:timeRequired>PT4H30M</schema1:timeRequired>
         <schema1:url rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_II/toc_E.html"/>
       </schema1:LearningResource>
     </schema1:hasPart>
@@ -219,7 +214,7 @@ Förderkennzeichen: 16DKZ2034</schema1:funding>
         <schema1:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_6_objective_2"/>
         <schema1:name>Reflexion und Resümee</schema1:name>
         <schema1:teaches>Die Entwicklung von tabellarischer Annotation zur ontologiebasierten Annotation kann zusammengefassst und die Methoden kritisch reflektiert werden.</schema1:teaches>
-        <schema1:timeRequired>TODO (z.B. PT1H, PT1H30M, PT15M)</schema1:timeRequired>
+        <schema1:timeRequired>PT30M</schema1:timeRequired>
         <schema1:url rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_III/toc.html"/>
       </schema1:LearningResource>
     </schema1:hasPart>
@@ -236,7 +231,6 @@ Förderkennzeichen: 16DKZ2034</schema1:funding>
     <schema1:keywords>Jupyter Book</schema1:keywords>
     <schema1:keywords>Offene Bildungsressource</schema1:keywords>
     <schema1:keywords>Open Educational Resources</schema1:keywords>
-    <schema1:keywords>TODO (Liste der relevanten Schlagworte auf Deutsch)</schema1:keywords>
     <schema1:license>
       <schema1:CreativeWork rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#license_code">
         <schema1:license rdf:resource="https://opensource.org/licenses/AGPL-3.0"/>
@@ -251,7 +245,7 @@ Förderkennzeichen: 16DKZ2034</schema1:funding>
     </schema1:license>
     <schema1:name>Affektrhetorik in Online-Videos zur Klimakrise. Datengestützte Analysen audiovisueller Muster</schema1:name>
     <schema1:schemaVersion>1.0.0</schema1:schemaVersion>
-    <schema1:timeRequired>PT72H</schema1:timeRequired>
+    <schema1:timeRequired>PT20H</schema1:timeRequired>
     <schema1:url rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/"/>
     <schema1:version>1.0.0</schema1:version>
     <schema1:workExample>

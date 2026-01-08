@@ -129,8 +129,7 @@
     "Offene Bildungsressource",
     "Jupyter Book",
     "Data Literacy",
-    "Datenkompetenz",
-    "TODO (Liste der relevanten Schlagworte auf Deutsch)"
+    "Datenkompetenz"
   ],
   "about": [
     {
@@ -152,10 +151,6 @@
     {
       "@type": "Thing",
       "name": "Datenkompetenz"
-    },
-    {
-      "@type": "Thing",
-      "name": "TODO (Liste der relevanten Schlagworte auf Deutsch)"
     },
     {
       "@type": "Thing",
@@ -184,7 +179,7 @@
       "audienceType": "Hochschullehrende"
     }
   ],
-  "timeRequired": "PT72H",
+  "timeRequired": "PT20H",
   "license": [
     {
       "@type": "CreativeWork",
@@ -225,7 +220,7 @@
       "name": "Tabellarische Annotation (optional)",
       "description": "Einführung in die tabellarische Annotation als Methode zur systematischen Erfassung filmanalytischer Daten mit Fokus auf Kategorisierung von Grundparametern zur Erstellung eines Einstellungsprotokolls.",
       "url": "https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_II/toc_A.html",
-      "timeRequired": "TODO (z.B. PT1H, PT1H30M, PT15M)",
+      "timeRequired": "PT2H30M",
       "teaches": "Filmanalytische Daten zu audiovisuellem Material können systematisch anhand tabellarischer Annotation erhoben und ausgewertet werden.",
       "educationalAlignment": [
         {
@@ -259,7 +254,7 @@
       "name": "Annotieren mit Tools (optional)",
       "description": "Einführung in die toolbasierte Annotation audiovisuellen Materials mit digitalen Werkzeugen sowie praktische Anwendung der Tools zur Erhebung filmanalytischer Datensätze.",
       "url": "https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_II/toc_B.html",
-      "timeRequired": "TODO (z.B. PT1H, PT1H30M, PT15M)",
+      "timeRequired": "PT5H",
       "teaches": "Filmanalytische Daten können mit digitalen Annotationstools systematisch erhoben und die Qualität verschiedener Annotationsverfahren bewertet werden.",
       "educationalAlignment": [
         {
@@ -293,7 +288,7 @@
       "name": "Einarbeiten in die Filmontologie",
       "description": "Praktische Überführung filmanalytischer Grundbegriffe in hierarchische Datenstrukturen nach Semantic Web-Prinzipien sowie Einführung in die ontologiebasierte Annotation am Beispiel der AdA-Ontologie.",
       "url": "https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_II/toc_C.html",
-      "timeRequired": "TODO (z.B. PT1H, PT1H30M, PT15M)",
+      "timeRequired": "PT1H30M",
       "teaches": "Filmanalytische Konzepte können in semantische Triple nach Ontologiestruktur überführt sowie die Prinzipien einer Filmontologie nachvollzogen werden.",
       "educationalAlignment": [
         {
@@ -327,7 +322,7 @@
       "name": "Annotieren mit einer Filmontologie",
       "description": "Einführung in die ontologiebasierte Annotation audiovisuellen Materials mit der AdA-Filmontologie sowie praktische Implementierung und Anwendung der Ontologie in Advene zur systematischen Erhebung filmanalytischer Daten.",
       "url": "https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_II/toc_D.html",
-      "timeRequired": "TODO (z.B. PT1H, PT1H30M, PT15M)",
+      "timeRequired": "PT5H",
       "teaches": "Filmanalytische Daten können mit digitalen Annotationverfahren ontologiebasiert erhoben werden.",
       "educationalAlignment": [
         {
@@ -367,7 +362,7 @@
       "name": "Datenvisualisierung",
       "description": "Einführung in die Visualisierung filmanalytischer Annotationsdaten mit der AdA-Timeline sowie praktische Konfiguration und Anpassung der Visualisierung zur Exploration, Analyse und Interpretation temporaler Verlaufsdynamiken affektiver Inszenierungsmuster.",
       "url": "https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_II/toc_E.html",
-      "timeRequired": "TODO (z.B. PT1H, PT1H30M, PT15M)",
+      "timeRequired": "PT4H30M",
       "teaches": "Ontologiebasierte Annotationsdaten können mit der AdA-Timeline konfiguriert und anschließend exploriert sowie filmanalytisch interpretiert werden.",
       "educationalAlignment": [
         {
@@ -407,7 +402,7 @@
       "name": "Reflexion und Resümee",
       "description": "Zusammenfassung und kritische Reflexion des methodischen Übergangs von tabellarischer Annotation zur ontologiebasierten Filmanalyse sowie Einordnung quantitativer Datenproduktion als Hilfsmittel qualitativer Empirie.",
       "url": "https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_III/toc.html",
-      "timeRequired": "TODO (z.B. PT1H, PT1H30M, PT15M)",
+      "timeRequired": "PT30M",
       "teaches": "Die Entwicklung von tabellarischer Annotation zur ontologiebasierten Annotation kann zusammengefassst und die Methoden kritisch reflektiert werden.",
       "educationalAlignment": [
         {
