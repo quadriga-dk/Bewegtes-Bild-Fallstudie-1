@@ -22,6 +22,11 @@ Eine kurze Inhaltsübersicht soll zur Orientierung dienen. Wer ab einem bestimmt
 
 <iframe src="https://videoup.uni-potsdam.de/Panopto/Pages/Embed.aspx?id=e1e937e6-7bd3-43fa-a4f3-b20300a66b54&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
+---
+Lizenzhinweis: Video "AdA-Timeline" von <a href="https://www.ada.cinepoetics.fu-berlin.de/index.html" class="external-link" target="_blank">Affektrhetoriken des Audiovisuellen</a>" unter der Lizenz <a href="https://creativecommons.org/licenses/by-sa/3.0/de/deed.de" class="external-link" target="_blank">CC BY-SA 3.0</a> via  <a href="https://www.ada.cinepoetics.fu-berlin.de/ada-toolkit/index.html" class="external-link" target="_blank">AdA-Toolkit FU Berlin</a>
+
+---
+
 ## Die wichtigsten Schritte im Überblick
 
 ### Timeline aufrufen

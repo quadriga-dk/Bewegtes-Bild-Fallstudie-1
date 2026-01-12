@@ -19,7 +19,7 @@ Im Fokus steht hierbei die empirische Rekonstruktion einer Zuschauendenaffizieru
 :name: eMAEX-A3
 
 eMAEX-Annotationsmethode: Analyseebenen & <br>
-Zeitliche Entfaltung von Ausdrucksbewegungen
+Zeitliche Entfaltung von Ausdrucksbewegungen © Bildquelle: [Empirische Medienästhetik – das eMAEX-System](https://www.empirische-medienaesthetik.fu-berlin.de/emaex-system/emaex_kurzversion/entwicklung_emaex/04_operationalisierung/index.html)
 ```
 ## Ontologie
 
@@ -95,7 +95,7 @@ Ebenso wird unterscheiden in:
 Die gesamte Ontologie steht auf <a href="https://github.com/ProjectAdA/public/tree/master/ontology" class="external-link" target="_blank">Github</a> zur Verfügung. Eine PDF-Version, besonders geeignet für die Annotationsarbeit, ist auf der Website als Teil des <a href="https://www.ada.cinepoetics.fu-berlin.de/ada-toolkit/index.html" class="external-link" target="_blank">AdA-Toolkits</a> sowie [hier](../assets/Ada_Filmontologie_Deu_23_07_2021.pdf) in der deutschen Fassung Version 1.0. (Stand Juli 2021) als Download hinterlegt.
 
 ---
-Lizenzhinweis: "AdA-Filmontologie" von <a href="https://www.ada.cinepoetics.fu-berlin.de/index.html" class="external-link" target="_blank">Affektrhetoriken des Audiovisuellen</a>" unter der Lizenz <a href="https://creativecommons.org/licenses/by-sa/3.0/de/deed.de" class="external-link" target="_blank">CC BY-SA 3.0</a> via  <a href="https://www.ada.cinepoetics.fu-berlin.de/ada-toolkit/index.html" class="external-link" target="_blank">AdA-Toolkit FU Berlin</a>
+Lizenzhinweis: "AdA-Filmontologie" von <a href="https://www.ada.cinepoetics.fu-berlin.de/index.html" class="external-link" target="_blank">Affektrhetoriken des Audiovisuellen</a> unter der Lizenz <a href="https://creativecommons.org/licenses/by-sa/3.0/de/deed.de" class="external-link" target="_blank">CC BY-SA 3.0</a> via  <a href="https://www.ada.cinepoetics.fu-berlin.de/ada-toolkit/index.html" class="external-link" target="_blank">AdA-Toolkit FU Berlin</a>
 
 ---
 

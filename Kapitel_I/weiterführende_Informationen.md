@@ -48,7 +48,7 @@ Diese strukturierte Aufbereitung von Wissen durch Ontologien wird besonders rele
 :name: annotationsoberflächer-timeline
 :width: 500px
 
-Abstrakte Visualisierung einer Annotationsoberflächer mit Timeline 
+Abstrakte Visualisierung einer Annotationsoberfläche mit Timeline 
 ```
 
 Es gibt verschiedene Tools, mit denen audiovisuelle Gegenstände (z.B. Videoclips oder Filmszenen) annotiert werden können. Zu den gängigsten zählen: <a href="https://www.advene.org/" class="external-link" target="_blank">Advene</a>, <a href="https://archive.mpi.nl/tla/elan" class="external-link" target="_blank">ELAN</a>, <a href="https://distantviewing.org/" class="external-link" target="_blank">Distant Viewing</a>, <a href="http://www.anvil-software.de/" class="external-link" target="_blank">Anvil</a> oder zum Beispiel die in der Entwicklungsphase stehende Software <a href="https://service.tib.eu/tibava" class="external-link" target="_blank">TIB AV-Analytics</a>.
