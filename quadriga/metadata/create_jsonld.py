@@ -161,6 +161,7 @@ def transform_learning_objective(objective_data: Any) -> dict[str, Any]:
     - learning-objective -> schema:teaches / lrmi:teaches (closeMatch)
     - competency -> maps to modalia:Skill
     - blooms-category -> part of educational alignment
+    - assessment -> lrmi:assesses / schema:assesses (closeMatch)
 
     Args:
         objective_data (dict): Learning objective dictionary
@@ -198,6 +199,10 @@ def transform_learning_objective(objective_data: Any) -> dict[str, Any]:
             objective["targetDescription"] += f" | Data Flow: {objective_data['data-flow']}"
         else:
             objective["targetDescription"] = f"Data Flow: {objective_data['data-flow']}"
+
+    # assessment -> lrmi:assesses / schema:assesses (closeMatch)
+    if "assessment" in objective_data:
+        objective["lrmi:assesses"] = objective_data["assessment"]
 
     return objective
 
@@ -555,8 +560,19 @@ def create_jsonld() -> bool | None:
             jsonld["funding"] = metadata["context-of-creation"]
             logger.info("Added context of creation")
 
-        # quality-assurance is not included in JSON-LD
-        # It's in active development and has no standard schema.org mapping
+        # learning-resource-type -> schema:learningResourceType (closeMatch)
+        #                        -> lrmi:learningResourceType (closeMatch)
+        #                        -> dcterms:type (broadMatch)
+        #                        -> dc:type (broadMatch)
+        if "learning-resource-type" in metadata:
+            jsonld["learningResourceType"] = metadata["learning-resource-type"]
+            jsonld["lrmi:learningResourceType"] = metadata["learning-resource-type"]
+            jsonld["dcterms:type"] = metadata["learning-resource-type"]
+            jsonld["dc:type"] = metadata["learning-resource-type"]
+            logger.info("Added learning resource type: %s", metadata["learning-resource-type"])
+
+        # quality-assurance: not mapped to JSON-LD
+        # All schema x-mappings are relatedMatch only — too loose for RDF/JSON-LD output
 
         # Write JSON-LD file
         try:

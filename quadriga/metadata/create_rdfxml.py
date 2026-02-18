@@ -12,8 +12,8 @@ semantic web applications, triple stores, and other RDF-aware systems.
 from __future__ import annotations
 
 import logging
-import os
 import sys
+import xml.etree.ElementTree as ET
 from pathlib import Path
 from typing import Any
 
@@ -22,13 +22,6 @@ from rdflib.namespace import DCTERMS, SKOS, XSD  # type: ignore[import-not-found
 
 from .utils import extract_keywords, get_file_path, get_repo_root, load_yaml_file
 
-# Ensure deterministic hash seed for consistent RDF serialization
-# This must be set before any dictionaries/sets are created
-if "PYTHONHASHSEED" not in os.environ:
-    os.environ["PYTHONHASHSEED"] = "0"
-    # Re-exec the script with the environment variable set
-    os.execv(sys.executable, [sys.executable] + sys.argv)
-
 logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
 logger = logging.getLogger(__name__)
 
@@ -36,6 +29,24 @@ logger = logging.getLogger(__name__)
 SCHEMA = Namespace("http://schema.org/")
 DC = Namespace("http://purl.org/dc/elements/1.1/")
 LRMI = Namespace("http://purl.org/dcx/lrmi-terms/")
+
+
+def _sort_xml_element(element: ET.Element) -> None:
+    """
+    Recursively sort child elements for deterministic XML output.
+
+    Sorts by tag name, then by attributes (as sorted key-value pairs),
+    then by text content. This ensures identical output regardless of
+    Python's hash randomization (PYTHONHASHSEED).
+
+    Args:
+        element: XML element whose children will be sorted in-place
+    """
+    children = list(element)
+    for child in children:
+        _sort_xml_element(child)
+    children.sort(key=lambda e: (e.tag, sorted(e.attrib.items()), e.text or ""))
+    element[:] = children
 
 
 def clean_orcid(orcid_string: str) -> str | None:
@@ -171,6 +182,7 @@ def add_learning_objective(
     - learning-objective -> schema:teaches / lrmi:teaches (closeMatch)
     - competency -> maps to modalia:Skill
     - blooms-category -> part of educational alignment
+    - assessment -> lrmi:assesses / schema:assesses (closeMatch)
 
     Args:
         graph: RDF graph to add triples to
@@ -216,6 +228,10 @@ def add_learning_objective(
     # Combine descriptions
     if descriptions:
         graph.add((obj_uri, SCHEMA.targetDescription, Literal(" | ".join(descriptions))))
+
+    # assessment -> lrmi:assesses (closeMatch)
+    if "assessment" in objective_data:
+        graph.add((obj_uri, LRMI.assesses, Literal(objective_data["assessment"])))
 
     return obj_uri
 
@@ -562,28 +578,53 @@ def create_rdfxml() -> bool | None:
             graph.add((resource_uri, SCHEMA.funding, Literal(metadata["context-of-creation"])))
             logger.info("Added context of creation")
 
-        # quality-assurance is not included in RDF
-        # It's in active development and has no standard schema.org mapping
+        # learning-resource-type -> schema:learningResourceType (closeMatch)
+        #                        -> lrmi:learningResourceType (closeMatch)
+        #                        -> dcterms:type (broadMatch)
+        #                        -> dc:type (broadMatch)
+        if "learning-resource-type" in metadata:
+            lrt = Literal(metadata["learning-resource-type"])
+            graph.add((resource_uri, SCHEMA.learningResourceType, lrt))
+            graph.add((resource_uri, LRMI.learningResourceType, lrt))
+            graph.add((resource_uri, DCTERMS.type, lrt))
+            graph.add((resource_uri, DC.type, lrt))
+            logger.info("Added learning resource type: %s", metadata["learning-resource-type"])
 
-        # Sort triples for deterministic output
-        # This ensures consistent ordering regardless of Python's hash randomization
-        logger.info("Sorting triples for deterministic output...")
-        sorted_triples = sorted(graph, key=lambda t: (str(t[0]), str(t[1]), str(t[2])))
+        # quality-assurance: not mapped to RDF
+        # All schema x-mappings are relatedMatch only — too loose for RDF/JSON-LD output
 
-        # Create a new graph with sorted triples
-        sorted_graph = Graph()
-        for prefix, namespace in graph.namespaces():
-            sorted_graph.bind(prefix, namespace)
+        # Serialize to RDF/XML and post-process for deterministic output.
+        # rdflib's pretty-xml serializer uses Python dicts internally, so element
+        # and namespace ordering varies across process invocations due to hash
+        # randomization. We sort the XML elements after serialization to guarantee
+        # reproducible output regardless of PYTHONHASHSEED.
+        logger.info("Serializing %d triples to RDF/XML...", len(graph))
 
-        for triple in sorted_triples:
-            sorted_graph.add(triple)
-
-        logger.info("Sorted %d triples", len(sorted_triples))
-
-        # Write RDF/XML file
         try:
-            with rdf_path.open("wb") as f:
-                sorted_graph.serialize(f, format="pretty-xml", encoding="utf-8")
+            xml_bytes = graph.serialize(format="pretty-xml", encoding="utf-8")
+            xml_str = xml_bytes.decode("utf-8") if isinstance(xml_bytes, bytes) else xml_bytes
+
+            # Register namespace prefixes so ElementTree preserves them
+            for prefix, uri in [
+                ("rdf", "http://www.w3.org/1999/02/22-rdf-syntax-ns#"),
+                ("schema", str(SCHEMA)),
+                ("dc", str(DC)),
+                ("dcterms", str(DCTERMS)),
+                ("lrmi", str(LRMI)),
+                ("skos", str(SKOS)),
+            ]:
+                ET.register_namespace(prefix, uri)
+
+            # Parse, sort elements recursively, and re-serialize
+            root = ET.fromstring(xml_str)  # noqa: S314 — parsing our own rdflib output
+            _sort_xml_element(root)
+            ET.indent(root, space="  ")
+
+            sorted_xml = ET.tostring(root, encoding="unicode", xml_declaration=True)
+
+            with rdf_path.open("w", encoding="utf-8") as f:
+                f.write(sorted_xml)
+                f.write("\n")
         except OSError:
             logger.exception("Error writing to %s", rdf_path)
             return False

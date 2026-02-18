@@ -275,9 +275,7 @@ def create_bibtex_from_cff() -> bool | None:
             if "repository-code" in pref and "note" not in pref:
                 bibtex_lines.append(f"  note      = {{Repository: {pref['repository-code']}}},")
 
-            # Add version info
-            if "version" in pref:
-                bibtex_lines.append(f"  version   = {{{pref['version']}}},")
+            # Note: version is already added in the common fields section above
 
             # Add software-specific details as howpublished if not present
             if ("howpublished" not in pref) and ("repository-code" in pref or "url" in pref):
@@ -331,7 +329,7 @@ def create_bibtex_from_cff() -> bool | None:
             with citation_bib_path.open("w", encoding="utf-8") as f:
                 f.write(bibtex)
         except OSError:
-            logger.exception("Error writing to {citation_bib_path}")
+            logger.exception("Error writing to %s", citation_bib_path)
             return False
         else:
             logger.info("BibTeX citation successfully created at %s", citation_bib_path)
