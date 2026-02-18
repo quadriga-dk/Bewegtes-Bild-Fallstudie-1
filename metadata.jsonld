@@ -28,7 +28,7 @@
     "codeRepository": "https://github.com/quadriga-dk/Bewegtes-Bild-Fallstudie-1"
   },
   "datePublished": "2025-06-04",
-  "dateModified": "2025-11-12",
+  "dateModified": "2026-02-18",
   "author": [
     {
       "@type": "Person",
@@ -233,19 +233,19 @@
           "@type": "AlignmentObject",
           "targetName": "Zeitbasierte Metadaten zu filmischem Bewegtbildmaterial können systematisch in tabellarischer Form erfasst und die Unterschiede zwischen den Segmentierungsformen in der Anwendung begründet werden.",
           "educationalFramework": "QUADRIGA Competency Framework",
-          "targetDescription": "Competency: 4 Erhebung | Bloom's: 3 Anwenden | Data Flow: 2 Erhebung und Aufbereitung"
+          "targetDescription": "Competency: 2.1 Erhebung | Bloom's: 3 Anwenden | Data Flow: 2 Erhebung und Aufbereitung"
         },
         {
           "@type": "AlignmentObject",
           "targetName": "Filmanalytische Grundparameter können identifiziert und korrekt kategorisiert werden.",
           "educationalFramework": "QUADRIGA Competency Framework",
-          "targetDescription": "Competency: 4 Erhebung | Bloom's: 3 Anwenden | Data Flow: 2 Erhebung und Aufbereitung"
+          "targetDescription": "Competency: 2.1 Erhebung | Bloom's: 3 Anwenden | Data Flow: 2 Erhebung und Aufbereitung"
         },
         {
           "@type": "AlignmentObject",
           "targetName": "Die Grenzen und Möglichkeiten tabellarischer Annotation für affektrhetorische Analysen können reflektiert werden.",
           "educationalFramework": "QUADRIGA Competency Framework",
-          "targetDescription": "Competency: 2 Qualitätssicherung | Bloom's: 3 Anwenden | Data Flow: 1 Planung"
+          "targetDescription": "Competency: 1.2 Qualitätssicherung | Bloom's: 3 Anwenden | Data Flow: 1 Planung"
         }
       ]
     },
@@ -261,25 +261,25 @@
           "@type": "AlignmentObject",
           "targetName": "Die zentralen Funktionen der Annotationstools Advene und ELAN können verstanden und für filmanalytische Zwecke angewendet werden.",
           "educationalFramework": "QUADRIGA Competency Framework",
-          "targetDescription": "Competency: 8 Erschließung | Bloom's: 3 Anwenden | Data Flow: 3 Management"
+          "targetDescription": "Competency: 3.2 Erschließung | Bloom's: 3 Anwenden | Data Flow: 3 Management"
         },
         {
           "@type": "AlignmentObject",
           "targetName": "Ein filmanalytischer Datensatz kann in den Annotationstools erstellt werden.",
           "educationalFramework": "QUADRIGA Competency Framework",
-          "targetDescription": "Competency: 4 Erhebung | Bloom's: 3 Anwenden | Data Flow: 2 Erhebung und Aufbereitung"
+          "targetDescription": "Competency: 2.1 Erhebung | Bloom's: 3 Anwenden | Data Flow: 2 Erhebung und Aufbereitung"
         },
         {
           "@type": "AlignmentObject",
           "targetName": "Zwischen den verschiedenen Annotationstypen und Werten kann differenziert und ihr Einsatz für spezifische filmanalytische Fragestellungen begründen werden.",
           "educationalFramework": "QUADRIGA Competency Framework",
-          "targetDescription": "Competency: 8 Erschließung | Bloom's: 4 Analysieren | Data Flow: 2 Erhebung und Aufbereitung"
+          "targetDescription": "Competency: 3.2 Erschließung | Bloom's: 4 Analysieren | Data Flow: 2 Erhebung und Aufbereitung"
         },
         {
           "@type": "AlignmentObject",
           "targetName": "Die Unterschiede in der Datenqualität zwischen manueller tabellarischer und toolbasierter Annotation können analysiert und bewertet werden.",
           "educationalFramework": "QUADRIGA Competency Framework",
-          "targetDescription": "Competency: 9 Datenanalyse | Bloom's: 4 Analysieren | Data Flow: 4 Analyse"
+          "targetDescription": "Competency: 4.1 Datenanalyse | Bloom's: 4 Analysieren | Data Flow: 4 Analyse"
         }
       ]
     },
@@ -313,7 +313,7 @@
           "@type": "AlignmentObject",
           "targetName": "Die Notwendigkeit eines einheitlichen Datenframeworks für vergleichende Filmanalysen kann argumentativ begründet werden.",
           "educationalFramework": "QUADRIGA Competency Framework",
-          "targetDescription": "Competency: 8 Erschließung | Bloom's: 5 Bewerten | Data Flow: 3 Management"
+          "targetDescription": "Competency: 3.2 Erschließung | Bloom's: 5 Bewerten | Data Flow: 3 Management"
         }
       ]
     },
@@ -335,25 +335,25 @@
           "@type": "AlignmentObject",
           "targetName": "Die AdA-Filmontologie kann in Advene implementiert und für eigene Analysen konfiguriert werden.",
           "educationalFramework": "QUADRIGA Competency Framework",
-          "targetDescription": "Competency: 8 Erschließung | Bloom's: 3 Anwenden | Data Flow: 3 Management"
+          "targetDescription": "Competency: 3.2 Erschließung | Bloom's: 3 Anwenden | Data Flow: 3 Management"
         },
         {
           "@type": "AlignmentObject",
           "targetName": "Ontologiebasierte Annotationen können zu einem gegebenen Video erstellt und methodisch begründet werden.",
           "educationalFramework": "QUADRIGA Competency Framework",
-          "targetDescription": "Competency: 4 Erhebung | Bloom's: 3 Anwenden | Data Flow: 2 Erhebung und Aufbereitung"
+          "targetDescription": "Competency: 2.1 Erhebung | Bloom's: 3 Anwenden | Data Flow: 2 Erhebung und Aufbereitung"
         },
         {
           "@type": "AlignmentObject",
           "targetName": "Entscheidungsprozesse können bei der Anwendung der Ontologie dokumentiert und verglichen werden.",
           "educationalFramework": "QUADRIGA Competency Framework",
-          "targetDescription": "Competency: 5 Validierung | Bloom's: 4 Analysieren | Data Flow: 2 Erhebung und Aufbereitung"
+          "targetDescription": "Competency: 2.2 Validierung | Bloom's: 4 Analysieren | Data Flow: 2 Erhebung und Aufbereitung"
         },
         {
           "@type": "AlignmentObject",
           "targetName": "Die Anpassungsmöglichkeiten der AdA-Filmontologie können für eigene Forschungskontexte evaluiert werden.",
           "educationalFramework": "QUADRIGA Competency Framework",
-          "targetDescription": "Competency: 5 Validierung | Bloom's: 5 Bewerten | Data Flow: 2 Erhebung und Aufbereitung"
+          "targetDescription": "Competency: 2.2 Validierung | Bloom's: 5 Bewerten | Data Flow: 2 Erhebung und Aufbereitung"
         }
       ]
     },
@@ -375,25 +375,25 @@
           "@type": "AlignmentObject",
           "targetName": "Die AdA-Timeline kann zur Visualisierung komplexer Annotationsdaten konfiguriert und angepasst werden.",
           "educationalFramework": "QUADRIGA Competency Framework",
-          "targetDescription": "Competency: 10 Visualisierung | Bloom's: 3 Anwenden | Data Flow: 4 Analyse"
+          "targetDescription": "Competency: 4.2 Visualisierung | Bloom's: 3 Anwenden | Data Flow: 4 Analyse"
         },
         {
           "@type": "AlignmentObject",
           "targetName": "Temporale Verlaufsdynamiken affektiver Inszenierungsmuster können anhand der Visualisierung exploriert und identifiziert werden.",
           "educationalFramework": "QUADRIGA Competency Framework",
-          "targetDescription": "Competency: 9 Datenanalyse | Bloom's: 4 Analysieren | Data Flow: 4 Analyse"
+          "targetDescription": "Competency: 4.1 Datenanalyse | Bloom's: 4 Analysieren | Data Flow: 4 Analyse"
         },
         {
           "@type": "AlignmentObject",
           "targetName": "Temporale und multimodale Verlaufsdynamiken von Gestaltungsweisen (z.B. Musik, Montage, Farb- und Helligkeitsbeziehungen) können gezielt visualisiert und ihre affektrhetorische Funktion für politische Zielsetzungen in Online-Videos zur Klimakrise interpretiert werden.",
           "educationalFramework": "QUADRIGA Competency Framework",
-          "targetDescription": "Competency: 11 Interpretation | Bloom's: 4 Analysieren | Data Flow: 4 Analyse"
+          "targetDescription": "Competency: 4.3 Interpretation | Bloom's: 4 Analysieren | Data Flow: 4 Analyse"
         },
         {
           "@type": "AlignmentObject",
           "targetName": "Visualisierte Daten können für wissenschaftliche Präsentationen und Publikationen aufbereitet werden.",
           "educationalFramework": "QUADRIGA Competency Framework",
-          "targetDescription": "Competency: 6 Aufbereitung | Bloom's: 6 Erschaffen | Data Flow: 2 Erhebung und Aufbereitung"
+          "targetDescription": "Competency: 2.3 Aufbereitung | Bloom's: 6 Erschaffen | Data Flow: 2 Erhebung und Aufbereitung"
         }
       ]
     },
@@ -415,17 +415,21 @@
           "@type": "AlignmentObject",
           "targetName": "Die Grenzen und Erweiterungsmöglichkeiten der AdA-Ontologie können reflektiert werden.",
           "educationalFramework": "QUADRIGA Competency Framework",
-          "targetDescription": "Competency: 5 Validierung | Bloom's: 5 Bewerten | Data Flow: 2 Erhebung und Aufbereitung"
+          "targetDescription": "Competency: 2.2 Validierung | Bloom's: 5 Bewerten | Data Flow: 2 Erhebung und Aufbereitung"
         },
         {
           "@type": "AlignmentObject",
           "targetName": "Die Rolle quantitativer Datenproduktion als Hilfsmittel qualitativer Empirie kann eingeordnet und kritisch hinterfragt werden.",
           "educationalFramework": "QUADRIGA Competency Framework",
-          "targetDescription": "Competency: 5 Validierung | Bloom's: 5 Bewerten | Data Flow: 2 Erhebung und Aufbereitung"
+          "targetDescription": "Competency: 2.2 Validierung | Bloom's: 5 Bewerten | Data Flow: 2 Erhebung und Aufbereitung"
         }
       ]
     }
   ],
   "dcterms:tableOfContents": "- Präambel\n- Einführung\n- Tabellarische Annotation (optional)\n- Annotieren mit Tools (optional)\n- Einarbeiten in die Filmontologie\n- Annotieren mit einer Filmontologie\n- Datenvisualisierung\n- Reflexion und Resümee\n- Epilog",
-  "funding": "Die vorliegenden Open Educational Resources wurden durch das Datenkompetenzzentrum QUADRIGA erstellt.\n\nFörderkennzeichen: 16DKZ2034"
+  "funding": "Die vorliegenden Open Educational Resources wurden durch das Datenkompetenzzentrum QUADRIGA erstellt.\n\nFörderkennzeichen: 16DKZ2034",
+  "learningResourceType": "Jupyter Book",
+  "lrmi:learningResourceType": "Jupyter Book",
+  "dcterms:type": "Jupyter Book",
+  "dc:type": "Jupyter Book"
 }

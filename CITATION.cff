@@ -2,8 +2,10 @@
 cff-version: 1.2.0
 title: Affektrhetorik in Online-Videos zur Klimakrise. Datengestützte Analysen audiovisueller
   Muster
-abstract: Dieses interaktive Lehrbuch ist das Outcome der 1. Fallstudie des Datentyps
-  Bewegtes Bild des Projekts [QUADRIGA](https://quadriga-dk.de).
+abstract: Diese OER vermittelt Methoden der Filmanalyse mit digitalen Annotationswerkzeugen.
+  Anhand eines Online-Videos zur Klimakrise werden audiovisuelle Inszenierungsmuster
+  analysiert, um affektive Rhetoriken politischer Zielsetzungen zu erkennen und zu
+  verstehen.
 message: Please cite this software using the metadata from `preferred-citation` in
   `CITATION.cff`.
 type: software
@@ -35,7 +37,7 @@ references:
   - name: The Jupyter Book Community
     website: https://github.com/jupyter-book/jupyter-book/graphs/contributors
 preferred-citation:
-  year: '2025'
+  year: '2026'
   authors: *id001
   title: Affektrhetorik in Online-Videos zur Klimakrise. Datengestützte Analysen audiovisueller
     Muster

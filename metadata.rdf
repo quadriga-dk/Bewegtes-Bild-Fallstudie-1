@@ -1,10 +1,142 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rdf:RDF
-  xmlns:schema1="http://schema.org/"
-  xmlns:dcterms="http://purl.org/dc/terms/"
-  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
->
-  <schema1:Book rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/">
+<?xml version='1.0' encoding='utf-8'?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:lrmi="http://purl.org/dcx/lrmi-terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schema="http://schema.org/">
+  <schema:AlignmentObject rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_0_objective_0">
+    <schema:educationalFramework>QUADRIGA Competency Framework</schema:educationalFramework>
+    <schema:targetDescription>Competency: Orientierungswissen | Bloom's: 2 Verstehen | Data Flow: übergreifend</schema:targetDescription>
+    <schema:targetName>Die drei zentralen Forschungsfragen zu Affektrhetoriken in audiovisuellen Diskursen können benannt und deren Relevanz erläutert werden.</schema:targetName>
+  </schema:AlignmentObject>
+  <schema:AlignmentObject rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_0_objective_1">
+    <schema:educationalFramework>QUADRIGA Competency Framework</schema:educationalFramework>
+    <schema:targetDescription>Competency: Orientierungswissen | Bloom's: 2 Verstehen | Data Flow: übergreifend</schema:targetDescription>
+    <schema:targetName>Die eMAEX-Methode der empirischen Medienästhetik kann beschrieben und deren Anwendung in der Filmanalyse erklärt werden.</schema:targetName>
+  </schema:AlignmentObject>
+  <schema:AlignmentObject rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_1_objective_0">
+    <schema:educationalFramework>QUADRIGA Competency Framework</schema:educationalFramework>
+    <schema:targetDescription>Competency: Orientierungswissen | Bloom's: 1 Erinnern | Data Flow: übergreifend</schema:targetDescription>
+    <schema:targetName>Die methodischen Grundlagen der tabellarischen Annotation können definiert und ihre Bedeutung für die filmanalytische Datenerhebung erläutert werden.</schema:targetName>
+  </schema:AlignmentObject>
+  <schema:AlignmentObject rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_1_objective_1">
+    <schema:educationalFramework>QUADRIGA Competency Framework</schema:educationalFramework>
+    <schema:targetDescription>Competency: 2.1 Erhebung | Bloom's: 3 Anwenden | Data Flow: 2 Erhebung und Aufbereitung</schema:targetDescription>
+    <schema:targetName>Zeitbasierte Metadaten zu filmischem Bewegtbildmaterial können systematisch in tabellarischer Form erfasst und die Unterschiede zwischen den Segmentierungsformen in der Anwendung begründet werden.</schema:targetName>
+  </schema:AlignmentObject>
+  <schema:AlignmentObject rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_1_objective_2">
+    <schema:educationalFramework>QUADRIGA Competency Framework</schema:educationalFramework>
+    <schema:targetDescription>Competency: 2.1 Erhebung | Bloom's: 3 Anwenden | Data Flow: 2 Erhebung und Aufbereitung</schema:targetDescription>
+    <schema:targetName>Filmanalytische Grundparameter können identifiziert und korrekt kategorisiert werden.</schema:targetName>
+  </schema:AlignmentObject>
+  <schema:AlignmentObject rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_1_objective_3">
+    <schema:educationalFramework>QUADRIGA Competency Framework</schema:educationalFramework>
+    <schema:targetDescription>Competency: 1.2 Qualitätssicherung | Bloom's: 3 Anwenden | Data Flow: 1 Planung</schema:targetDescription>
+    <schema:targetName>Die Grenzen und Möglichkeiten tabellarischer Annotation für affektrhetorische Analysen können reflektiert werden.</schema:targetName>
+  </schema:AlignmentObject>
+  <schema:AlignmentObject rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_2_objective_0">
+    <schema:educationalFramework>QUADRIGA Competency Framework</schema:educationalFramework>
+    <schema:targetDescription>Competency: 3.2 Erschließung | Bloom's: 3 Anwenden | Data Flow: 3 Management</schema:targetDescription>
+    <schema:targetName>Die zentralen Funktionen der Annotationstools Advene und ELAN können verstanden und für filmanalytische Zwecke angewendet werden.</schema:targetName>
+  </schema:AlignmentObject>
+  <schema:AlignmentObject rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_2_objective_1">
+    <schema:educationalFramework>QUADRIGA Competency Framework</schema:educationalFramework>
+    <schema:targetDescription>Competency: 2.1 Erhebung | Bloom's: 3 Anwenden | Data Flow: 2 Erhebung und Aufbereitung</schema:targetDescription>
+    <schema:targetName>Ein filmanalytischer Datensatz kann in den Annotationstools erstellt werden.</schema:targetName>
+  </schema:AlignmentObject>
+  <schema:AlignmentObject rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_2_objective_2">
+    <schema:educationalFramework>QUADRIGA Competency Framework</schema:educationalFramework>
+    <schema:targetDescription>Competency: 3.2 Erschließung | Bloom's: 4 Analysieren | Data Flow: 2 Erhebung und Aufbereitung</schema:targetDescription>
+    <schema:targetName>Zwischen den verschiedenen Annotationstypen und Werten kann differenziert und ihr Einsatz für spezifische filmanalytische Fragestellungen begründen werden.</schema:targetName>
+  </schema:AlignmentObject>
+  <schema:AlignmentObject rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_2_objective_3">
+    <schema:educationalFramework>QUADRIGA Competency Framework</schema:educationalFramework>
+    <schema:targetDescription>Competency: 4.1 Datenanalyse | Bloom's: 4 Analysieren | Data Flow: 4 Analyse</schema:targetDescription>
+    <schema:targetName>Die Unterschiede in der Datenqualität zwischen manueller tabellarischer und toolbasierter Annotation können analysiert und bewertet werden.</schema:targetName>
+  </schema:AlignmentObject>
+  <schema:AlignmentObject rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_3_objective_0">
+    <schema:educationalFramework>QUADRIGA Competency Framework</schema:educationalFramework>
+    <schema:targetDescription>Competency: Orientierungswissen | Bloom's: 2 Verstehen | Data Flow: übergreifend</schema:targetDescription>
+    <schema:targetName>Die Grundprinzipien des Semantic Web können definiert und ihre Relevanz für filmwissenschaftliche Datenmodelle erläutert werden.</schema:targetName>
+  </schema:AlignmentObject>
+  <schema:AlignmentObject rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_3_objective_1">
+    <schema:educationalFramework>QUADRIGA Competency Framework</schema:educationalFramework>
+    <schema:targetDescription>Competency: Orientierungswissen | Bloom's: 2 Verstehen | Data Flow: übergreifend</schema:targetDescription>
+    <schema:targetName>Der Unterschied zwischen Freitextannotation und ontologiebasierter Annotation kann anhand konkreter Beispiele erklärt werden.</schema:targetName>
+  </schema:AlignmentObject>
+  <schema:AlignmentObject rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_3_objective_2">
+    <schema:educationalFramework>QUADRIGA Competency Framework</schema:educationalFramework>
+    <schema:targetDescription>Competency: Orientierungswissen | Bloom's: 3 Anwenden | Data Flow: übergreifend</schema:targetDescription>
+    <schema:targetName>Filmanalytische Grundbegriffe können in eine hierarchische Ontologiestruktur eingeordnet werden.</schema:targetName>
+  </schema:AlignmentObject>
+  <schema:AlignmentObject rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_3_objective_3">
+    <schema:educationalFramework>QUADRIGA Competency Framework</schema:educationalFramework>
+    <schema:targetDescription>Competency: 3.2 Erschließung | Bloom's: 5 Bewerten | Data Flow: 3 Management</schema:targetDescription>
+    <schema:targetName>Die Notwendigkeit eines einheitlichen Datenframeworks für vergleichende Filmanalysen kann argumentativ begründet werden.</schema:targetName>
+  </schema:AlignmentObject>
+  <schema:AlignmentObject rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_4_objective_0">
+    <schema:educationalFramework>QUADRIGA Competency Framework</schema:educationalFramework>
+    <schema:targetDescription>Competency: Orientierungswissen | Bloom's: 2 Verstehen | Data Flow: übergreifend</schema:targetDescription>
+    <schema:targetName>Die Struktur der AdA-Filmontologie kann beschrieben und ihre methodischen Grundlagen erläutert werden.</schema:targetName>
+  </schema:AlignmentObject>
+  <schema:AlignmentObject rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_4_objective_1">
+    <schema:educationalFramework>QUADRIGA Competency Framework</schema:educationalFramework>
+    <schema:targetDescription>Competency: 3.2 Erschließung | Bloom's: 3 Anwenden | Data Flow: 3 Management</schema:targetDescription>
+    <schema:targetName>Die AdA-Filmontologie kann in Advene implementiert und für eigene Analysen konfiguriert werden.</schema:targetName>
+  </schema:AlignmentObject>
+  <schema:AlignmentObject rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_4_objective_2">
+    <schema:educationalFramework>QUADRIGA Competency Framework</schema:educationalFramework>
+    <schema:targetDescription>Competency: 2.1 Erhebung | Bloom's: 3 Anwenden | Data Flow: 2 Erhebung und Aufbereitung</schema:targetDescription>
+    <schema:targetName>Ontologiebasierte Annotationen können zu einem gegebenen Video erstellt und methodisch begründet werden.</schema:targetName>
+  </schema:AlignmentObject>
+  <schema:AlignmentObject rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_4_objective_3">
+    <schema:educationalFramework>QUADRIGA Competency Framework</schema:educationalFramework>
+    <schema:targetDescription>Competency: 2.2 Validierung | Bloom's: 4 Analysieren | Data Flow: 2 Erhebung und Aufbereitung</schema:targetDescription>
+    <schema:targetName>Entscheidungsprozesse können bei der Anwendung der Ontologie dokumentiert und verglichen werden.</schema:targetName>
+  </schema:AlignmentObject>
+  <schema:AlignmentObject rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_4_objective_4">
+    <schema:educationalFramework>QUADRIGA Competency Framework</schema:educationalFramework>
+    <schema:targetDescription>Competency: 2.2 Validierung | Bloom's: 5 Bewerten | Data Flow: 2 Erhebung und Aufbereitung</schema:targetDescription>
+    <schema:targetName>Die Anpassungsmöglichkeiten der AdA-Filmontologie können für eigene Forschungskontexte evaluiert werden.</schema:targetName>
+  </schema:AlignmentObject>
+  <schema:AlignmentObject rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_5_objective_0">
+    <schema:educationalFramework>QUADRIGA Competency Framework</schema:educationalFramework>
+    <schema:targetDescription>Competency: Orientierungswissen | Bloom's: 2 Verstehen | Data Flow: übergreifend</schema:targetDescription>
+    <schema:targetName>Die Funktionsweise der AdA-Timeline kann beschrieben und ihre Bedeutung für die filmanalytische Datenexploration erläutert werden.</schema:targetName>
+  </schema:AlignmentObject>
+  <schema:AlignmentObject rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_5_objective_1">
+    <schema:educationalFramework>QUADRIGA Competency Framework</schema:educationalFramework>
+    <schema:targetDescription>Competency: 4.2 Visualisierung | Bloom's: 3 Anwenden | Data Flow: 4 Analyse</schema:targetDescription>
+    <schema:targetName>Die AdA-Timeline kann zur Visualisierung komplexer Annotationsdaten konfiguriert und angepasst werden.</schema:targetName>
+  </schema:AlignmentObject>
+  <schema:AlignmentObject rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_5_objective_2">
+    <schema:educationalFramework>QUADRIGA Competency Framework</schema:educationalFramework>
+    <schema:targetDescription>Competency: 4.1 Datenanalyse | Bloom's: 4 Analysieren | Data Flow: 4 Analyse</schema:targetDescription>
+    <schema:targetName>Temporale Verlaufsdynamiken affektiver Inszenierungsmuster können anhand der Visualisierung exploriert und identifiziert werden.</schema:targetName>
+  </schema:AlignmentObject>
+  <schema:AlignmentObject rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_5_objective_3">
+    <schema:educationalFramework>QUADRIGA Competency Framework</schema:educationalFramework>
+    <schema:targetDescription>Competency: 4.3 Interpretation | Bloom's: 4 Analysieren | Data Flow: 4 Analyse</schema:targetDescription>
+    <schema:targetName>Temporale und multimodale Verlaufsdynamiken von Gestaltungsweisen (z.B. Musik, Montage, Farb- und Helligkeitsbeziehungen) können gezielt visualisiert und ihre affektrhetorische Funktion für politische Zielsetzungen in Online-Videos zur Klimakrise interpretiert werden.</schema:targetName>
+  </schema:AlignmentObject>
+  <schema:AlignmentObject rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_5_objective_4">
+    <schema:educationalFramework>QUADRIGA Competency Framework</schema:educationalFramework>
+    <schema:targetDescription>Competency: 2.3 Aufbereitung | Bloom's: 6 Erschaffen | Data Flow: 2 Erhebung und Aufbereitung</schema:targetDescription>
+    <schema:targetName>Visualisierte Daten können für wissenschaftliche Präsentationen und Publikationen aufbereitet werden.</schema:targetName>
+  </schema:AlignmentObject>
+  <schema:AlignmentObject rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_6_objective_0">
+    <schema:educationalFramework>QUADRIGA Competency Framework</schema:educationalFramework>
+    <schema:targetDescription>Competency: Orientierungswissen | Bloom's: 1 Erinnern | Data Flow: übergreifend</schema:targetDescription>
+    <schema:targetName>Der Übergang von tabellarischer Annotation zur Ontologie kann rekapituliert werden.</schema:targetName>
+  </schema:AlignmentObject>
+  <schema:AlignmentObject rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_6_objective_1">
+    <schema:educationalFramework>QUADRIGA Competency Framework</schema:educationalFramework>
+    <schema:targetDescription>Competency: 2.2 Validierung | Bloom's: 5 Bewerten | Data Flow: 2 Erhebung und Aufbereitung</schema:targetDescription>
+    <schema:targetName>Die Grenzen und Erweiterungsmöglichkeiten der AdA-Ontologie können reflektiert werden.</schema:targetName>
+  </schema:AlignmentObject>
+  <schema:AlignmentObject rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_6_objective_2">
+    <schema:educationalFramework>QUADRIGA Competency Framework</schema:educationalFramework>
+    <schema:targetDescription>Competency: 2.2 Validierung | Bloom's: 5 Bewerten | Data Flow: 2 Erhebung und Aufbereitung</schema:targetDescription>
+    <schema:targetName>Die Rolle quantitativer Datenproduktion als Hilfsmittel qualitativer Empirie kann eingeordnet und kritisch hinterfragt werden.</schema:targetName>
+  </schema:AlignmentObject>
+  <schema:Book rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/">
+    <dc:type>Jupyter Book</dc:type>
     <dcterms:tableOfContents>- Präambel
 - Einführung
 - Tabellarische Annotation (optional)
@@ -14,424 +146,292 @@
 - Datenvisualisierung
 - Reflexion und Resümee
 - Epilog</dcterms:tableOfContents>
-    <schema1:about>
-      <schema1:Thing rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#discipline_0">
-        <schema1:name>übergreifend</schema1:name>
-      </schema1:Thing>
-    </schema1:about>
-    <schema1:about>
-      <schema1:Thing rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#keyword_0">
-        <schema1:name>Open Educational Resources</schema1:name>
-      </schema1:Thing>
-    </schema1:about>
-    <schema1:about>
-      <schema1:Thing rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#keyword_1">
-        <schema1:name>Offene Bildungsressource</schema1:name>
-      </schema1:Thing>
-    </schema1:about>
-    <schema1:about>
-      <schema1:Thing rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#keyword_2">
-        <schema1:name>Jupyter Book</schema1:name>
-      </schema1:Thing>
-    </schema1:about>
-    <schema1:about>
-      <schema1:Thing rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#keyword_3">
-        <schema1:name>Data Literacy</schema1:name>
-      </schema1:Thing>
-    </schema1:about>
-    <schema1:about>
-      <schema1:Thing rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#keyword_4">
-        <schema1:name>Datenkompetenz</schema1:name>
-      </schema1:Thing>
-    </schema1:about>
-    <schema1:about>
-      <schema1:Thing rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#research_object_0">
-        <schema1:name>übergreifend</schema1:name>
-      </schema1:Thing>
-    </schema1:about>
-    <schema1:audience>
-      <schema1:Audience rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#audience_0">
-        <schema1:audienceType>Forschende (PostDoc)</schema1:audienceType>
-      </schema1:Audience>
-    </schema1:audience>
-    <schema1:audience>
-      <schema1:Audience rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#audience_1">
-        <schema1:audienceType>Forschende (Projektleitung)</schema1:audienceType>
-      </schema1:Audience>
-    </schema1:audience>
-    <schema1:audience>
-      <schema1:Audience rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#audience_2">
-        <schema1:audienceType>Promovierende</schema1:audienceType>
-      </schema1:Audience>
-    </schema1:audience>
-    <schema1:audience>
-      <schema1:Audience rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#audience_3">
-        <schema1:audienceType>Hochschullehrende</schema1:audienceType>
-      </schema1:Audience>
-    </schema1:audience>
-    <schema1:author>
-      <schema1:Person rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#author_0">
-        <schema1:affiliation rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#author_0_org"/>
-        <schema1:familyName>Demir</schema1:familyName>
-        <schema1:givenName>Derya</schema1:givenName>
-        <schema1:name>Derya Demir</schema1:name>
-      </schema1:Person>
-    </schema1:author>
-    <schema1:author>
-      <schema1:Person rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#author_1">
-        <schema1:affiliation rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#author_1_org"/>
-        <schema1:familyName>Grotkopp</schema1:familyName>
-        <schema1:givenName>Matthias</schema1:givenName>
-        <schema1:identifier rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#author_1_orcid"/>
-        <schema1:name>Matthias Grotkopp</schema1:name>
-      </schema1:Person>
-    </schema1:author>
-    <schema1:contributor>
-      <schema1:Person rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#contributor_0">
-        <schema1:affiliation rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#contributor_0_org"/>
-        <schema1:familyName>Schnaitter</schema1:familyName>
-        <schema1:givenName>Hannes</schema1:givenName>
-        <schema1:identifier rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#contributor_0_orcid"/>
-        <schema1:name>Hannes Schnaitter</schema1:name>
-      </schema1:Person>
-    </schema1:contributor>
-    <schema1:contributor>
-      <schema1:Person rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#contributor_1">
-        <schema1:affiliation rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#contributor_1_org"/>
-        <schema1:familyName>Samoilova</schema1:familyName>
-        <schema1:givenName>Evgenia</schema1:givenName>
-        <schema1:identifier rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#contributor_1_orcid"/>
-        <schema1:name>Evgenia Samoilova</schema1:name>
-      </schema1:Person>
-    </schema1:contributor>
-    <schema1:contributor>
-      <schema1:Person rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#contributor_2">
-        <schema1:affiliation rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#contributor_2_org"/>
-        <schema1:familyName>Schneemann</schema1:familyName>
-        <schema1:givenName>Carsten</schema1:givenName>
-        <schema1:identifier rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#contributor_2_orcid"/>
-        <schema1:name>Carsten Schneemann</schema1:name>
-      </schema1:Person>
-    </schema1:contributor>
-    <schema1:contributor>
-      <schema1:Person rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#contributor_3">
-        <schema1:affiliation rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#contributor_3_org"/>
-        <schema1:familyName>Islam</schema1:familyName>
-        <schema1:givenName>Lamia</schema1:givenName>
-        <schema1:identifier rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#contributor_3_orcid"/>
-        <schema1:name>Lamia Islam</schema1:name>
-      </schema1:Person>
-    </schema1:contributor>
-    <schema1:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-11-12</schema1:dateModified>
-    <schema1:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-06-04</schema1:datePublished>
-    <schema1:description>Diese OER vermittelt Methoden der Filmanalyse mit digitalen Annotationswerkzeugen. Anhand eines Online-Videos zur Klimakrise werden audiovisuelle Inszenierungsmuster analysiert, um affektive Rhetoriken politischer Zielsetzungen zu erkennen und zu verstehen.</schema1:description>
-    <schema1:funding>Die vorliegenden Open Educational Resources wurden durch das Datenkompetenzzentrum QUADRIGA erstellt.
+    <dcterms:type>Jupyter Book</dcterms:type>
+    <lrmi:learningResourceType>Jupyter Book</lrmi:learningResourceType>
+    <schema:about>
+      <schema:Thing rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#keyword_0">
+        <schema:name>Open Educational Resources</schema:name>
+      </schema:Thing>
+    </schema:about>
+    <schema:about>
+      <schema:Thing rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#keyword_1">
+        <schema:name>Offene Bildungsressource</schema:name>
+      </schema:Thing>
+    </schema:about>
+    <schema:about>
+      <schema:Thing rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#keyword_2">
+        <schema:name>Jupyter Book</schema:name>
+      </schema:Thing>
+    </schema:about>
+    <schema:about>
+      <schema:Thing rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#keyword_3">
+        <schema:name>Data Literacy</schema:name>
+      </schema:Thing>
+    </schema:about>
+    <schema:about>
+      <schema:Thing rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#keyword_4">
+        <schema:name>Datenkompetenz</schema:name>
+      </schema:Thing>
+    </schema:about>
+    <schema:about>
+      <schema:Thing rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#discipline_0">
+        <schema:name>übergreifend</schema:name>
+      </schema:Thing>
+    </schema:about>
+    <schema:about>
+      <schema:Thing rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#research_object_0">
+        <schema:name>übergreifend</schema:name>
+      </schema:Thing>
+    </schema:about>
+    <schema:audience>
+      <schema:Audience rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#audience_0">
+        <schema:audienceType>Forschende (PostDoc)</schema:audienceType>
+      </schema:Audience>
+    </schema:audience>
+    <schema:audience>
+      <schema:Audience rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#audience_1">
+        <schema:audienceType>Forschende (Projektleitung)</schema:audienceType>
+      </schema:Audience>
+    </schema:audience>
+    <schema:audience>
+      <schema:Audience rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#audience_2">
+        <schema:audienceType>Promovierende</schema:audienceType>
+      </schema:Audience>
+    </schema:audience>
+    <schema:audience>
+      <schema:Audience rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#audience_3">
+        <schema:audienceType>Hochschullehrende</schema:audienceType>
+      </schema:Audience>
+    </schema:audience>
+    <schema:author>
+      <schema:Person rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#author_0">
+        <schema:affiliation rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#author_0_org" />
+        <schema:familyName>Demir</schema:familyName>
+        <schema:givenName>Derya</schema:givenName>
+        <schema:name>Derya Demir</schema:name>
+      </schema:Person>
+    </schema:author>
+    <schema:author>
+      <schema:Person rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#author_1">
+        <schema:affiliation rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#author_1_org" />
+        <schema:familyName>Grotkopp</schema:familyName>
+        <schema:givenName>Matthias</schema:givenName>
+        <schema:identifier rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#author_1_orcid" />
+        <schema:name>Matthias Grotkopp</schema:name>
+      </schema:Person>
+    </schema:author>
+    <schema:contributor>
+      <schema:Person rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#contributor_0">
+        <schema:affiliation rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#contributor_0_org" />
+        <schema:familyName>Schnaitter</schema:familyName>
+        <schema:givenName>Hannes</schema:givenName>
+        <schema:identifier rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#contributor_0_orcid" />
+        <schema:name>Hannes Schnaitter</schema:name>
+      </schema:Person>
+    </schema:contributor>
+    <schema:contributor>
+      <schema:Person rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#contributor_1">
+        <schema:affiliation rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#contributor_1_org" />
+        <schema:familyName>Samoilova</schema:familyName>
+        <schema:givenName>Evgenia</schema:givenName>
+        <schema:identifier rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#contributor_1_orcid" />
+        <schema:name>Evgenia Samoilova</schema:name>
+      </schema:Person>
+    </schema:contributor>
+    <schema:contributor>
+      <schema:Person rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#contributor_2">
+        <schema:affiliation rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#contributor_2_org" />
+        <schema:familyName>Schneemann</schema:familyName>
+        <schema:givenName>Carsten</schema:givenName>
+        <schema:identifier rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#contributor_2_orcid" />
+        <schema:name>Carsten Schneemann</schema:name>
+      </schema:Person>
+    </schema:contributor>
+    <schema:contributor>
+      <schema:Person rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#contributor_3">
+        <schema:affiliation rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#contributor_3_org" />
+        <schema:familyName>Islam</schema:familyName>
+        <schema:givenName>Lamia</schema:givenName>
+        <schema:identifier rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#contributor_3_orcid" />
+        <schema:name>Lamia Islam</schema:name>
+      </schema:Person>
+    </schema:contributor>
+    <schema:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-02-18</schema:dateModified>
+    <schema:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-06-04</schema:datePublished>
+    <schema:description>Diese OER vermittelt Methoden der Filmanalyse mit digitalen Annotationswerkzeugen. Anhand eines Online-Videos zur Klimakrise werden audiovisuelle Inszenierungsmuster analysiert, um affektive Rhetoriken politischer Zielsetzungen zu erkennen und zu verstehen.</schema:description>
+    <schema:funding>Die vorliegenden Open Educational Resources wurden durch das Datenkompetenzzentrum QUADRIGA erstellt.
 
-Förderkennzeichen: 16DKZ2034</schema1:funding>
-    <schema1:hasPart>
-      <schema1:LearningResource rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_0">
-        <schema1:description>Erläuterung und Vermittlung der theoretischen und methodischen Grundlagen datengestützter Filmanalyse sowie Kontextualisierung des Untersuchungsgegenstandes.</schema1:description>
-        <schema1:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_0_objective_0"/>
-        <schema1:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_0_objective_1"/>
-        <schema1:name>Einführung</schema1:name>
-        <schema1:teaches>Die Grundlagen datengestützter Filmanalyse können erklärt und die zentralen Forschungsfragen der Fallstudie identifiziert werden.</schema1:teaches>
-        <schema1:timeRequired>PT1H</schema1:timeRequired>
-        <schema1:url rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_I/toc.html"/>
-      </schema1:LearningResource>
-    </schema1:hasPart>
-    <schema1:hasPart>
-      <schema1:LearningResource rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_1">
-        <schema1:description>Einführung in die tabellarische Annotation als Methode zur systematischen Erfassung filmanalytischer Daten mit Fokus auf Kategorisierung von Grundparametern zur Erstellung eines Einstellungsprotokolls.</schema1:description>
-        <schema1:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_1_objective_0"/>
-        <schema1:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_1_objective_1"/>
-        <schema1:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_1_objective_2"/>
-        <schema1:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_1_objective_3"/>
-        <schema1:name>Tabellarische Annotation (optional)</schema1:name>
-        <schema1:teaches>Filmanalytische Daten zu audiovisuellem Material können systematisch anhand tabellarischer Annotation erhoben und ausgewertet werden.</schema1:teaches>
-        <schema1:timeRequired>PT2H30M</schema1:timeRequired>
-        <schema1:url rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_II/toc_A.html"/>
-      </schema1:LearningResource>
-    </schema1:hasPart>
-    <schema1:hasPart>
-      <schema1:LearningResource rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_2">
-        <schema1:description>Einführung in die toolbasierte Annotation audiovisuellen Materials mit digitalen Werkzeugen sowie praktische Anwendung der Tools zur Erhebung filmanalytischer Datensätze.</schema1:description>
-        <schema1:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_2_objective_0"/>
-        <schema1:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_2_objective_1"/>
-        <schema1:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_2_objective_2"/>
-        <schema1:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_2_objective_3"/>
-        <schema1:name>Annotieren mit Tools (optional)</schema1:name>
-        <schema1:teaches>Filmanalytische Daten können mit digitalen Annotationstools systematisch erhoben und die Qualität verschiedener Annotationsverfahren bewertet werden.</schema1:teaches>
-        <schema1:timeRequired>PT5H</schema1:timeRequired>
-        <schema1:url rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_II/toc_B.html"/>
-      </schema1:LearningResource>
-    </schema1:hasPart>
-    <schema1:hasPart>
-      <schema1:LearningResource rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_3">
-        <schema1:description>Praktische Überführung filmanalytischer Grundbegriffe in hierarchische Datenstrukturen nach Semantic Web-Prinzipien sowie Einführung in die ontologiebasierte Annotation am Beispiel der AdA-Ontologie.</schema1:description>
-        <schema1:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_3_objective_0"/>
-        <schema1:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_3_objective_1"/>
-        <schema1:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_3_objective_2"/>
-        <schema1:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_3_objective_3"/>
-        <schema1:name>Einarbeiten in die Filmontologie</schema1:name>
-        <schema1:teaches>Filmanalytische Konzepte können in semantische Triple nach Ontologiestruktur überführt sowie die Prinzipien einer Filmontologie nachvollzogen werden.</schema1:teaches>
-        <schema1:timeRequired>PT1H30M</schema1:timeRequired>
-        <schema1:url rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_II/toc_C.html"/>
-      </schema1:LearningResource>
-    </schema1:hasPart>
-    <schema1:hasPart>
-      <schema1:LearningResource rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_4">
-        <schema1:description>Einführung in die ontologiebasierte Annotation audiovisuellen Materials mit der AdA-Filmontologie sowie praktische Implementierung und Anwendung der Ontologie in Advene zur systematischen Erhebung filmanalytischer Daten.</schema1:description>
-        <schema1:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_4_objective_0"/>
-        <schema1:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_4_objective_1"/>
-        <schema1:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_4_objective_2"/>
-        <schema1:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_4_objective_3"/>
-        <schema1:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_4_objective_4"/>
-        <schema1:name>Annotieren mit einer Filmontologie</schema1:name>
-        <schema1:teaches>Filmanalytische Daten können mit digitalen Annotationverfahren ontologiebasiert erhoben werden.</schema1:teaches>
-        <schema1:timeRequired>PT5H</schema1:timeRequired>
-        <schema1:url rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_II/toc_D.html"/>
-      </schema1:LearningResource>
-    </schema1:hasPart>
-    <schema1:hasPart>
-      <schema1:LearningResource rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_5">
-        <schema1:description>Einführung in die Visualisierung filmanalytischer Annotationsdaten mit der AdA-Timeline sowie praktische Konfiguration und Anpassung der Visualisierung zur Exploration, Analyse und Interpretation temporaler Verlaufsdynamiken affektiver Inszenierungsmuster.</schema1:description>
-        <schema1:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_5_objective_0"/>
-        <schema1:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_5_objective_1"/>
-        <schema1:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_5_objective_2"/>
-        <schema1:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_5_objective_3"/>
-        <schema1:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_5_objective_4"/>
-        <schema1:name>Datenvisualisierung</schema1:name>
-        <schema1:teaches>Ontologiebasierte Annotationsdaten können mit der AdA-Timeline konfiguriert und anschließend exploriert sowie filmanalytisch interpretiert werden.</schema1:teaches>
-        <schema1:timeRequired>PT4H30M</schema1:timeRequired>
-        <schema1:url rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_II/toc_E.html"/>
-      </schema1:LearningResource>
-    </schema1:hasPart>
-    <schema1:hasPart>
-      <schema1:LearningResource rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_6">
-        <schema1:description>Zusammenfassung und kritische Reflexion des methodischen Übergangs von tabellarischer Annotation zur ontologiebasierten Filmanalyse sowie Einordnung quantitativer Datenproduktion als Hilfsmittel qualitativer Empirie.</schema1:description>
-        <schema1:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_6_objective_0"/>
-        <schema1:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_6_objective_1"/>
-        <schema1:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_6_objective_2"/>
-        <schema1:name>Reflexion und Resümee</schema1:name>
-        <schema1:teaches>Die Entwicklung von tabellarischer Annotation zur ontologiebasierten Annotation kann zusammengefassst und die Methoden kritisch reflektiert werden.</schema1:teaches>
-        <schema1:timeRequired>PT30M</schema1:timeRequired>
-        <schema1:url rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_III/toc.html"/>
-      </schema1:LearningResource>
-    </schema1:hasPart>
-    <schema1:identifier>
-      <schema1:PropertyValue rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#doi">
-        <schema1:propertyID>DOI</schema1:propertyID>
-        <schema1:url rdf:resource="https://doi.org/10.5281/zenodo.15585269"/>
-        <schema1:value>10.5281/zenodo.15585269</schema1:value>
-      </schema1:PropertyValue>
-    </schema1:identifier>
-    <schema1:inLanguage>de</schema1:inLanguage>
-    <schema1:keywords>Data Literacy</schema1:keywords>
-    <schema1:keywords>Datenkompetenz</schema1:keywords>
-    <schema1:keywords>Jupyter Book</schema1:keywords>
-    <schema1:keywords>Offene Bildungsressource</schema1:keywords>
-    <schema1:keywords>Open Educational Resources</schema1:keywords>
-    <schema1:license>
-      <schema1:CreativeWork rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#license_code">
-        <schema1:license rdf:resource="https://opensource.org/licenses/AGPL-3.0"/>
-        <schema1:name>Source Code</schema1:name>
-      </schema1:CreativeWork>
-    </schema1:license>
-    <schema1:license>
-      <schema1:CreativeWork rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#license_content">
-        <schema1:license rdf:resource="https://creativecommons.org/licenses/by-sa/4.0/"/>
-        <schema1:name>Content</schema1:name>
-      </schema1:CreativeWork>
-    </schema1:license>
-    <schema1:name>Affektrhetorik in Online-Videos zur Klimakrise. Datengestützte Analysen audiovisueller Muster</schema1:name>
-    <schema1:schemaVersion>1.0.0</schema1:schemaVersion>
-    <schema1:timeRequired>PT20H</schema1:timeRequired>
-    <schema1:url rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/"/>
-    <schema1:version>1.0.0</schema1:version>
-    <schema1:workExample>
-      <schema1:SoftwareSourceCode rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#repository">
-        <schema1:codeRepository rdf:resource="https://github.com/quadriga-dk/Bewegtes-Bild-Fallstudie-1"/>
-        <schema1:name>Source Code Repository</schema1:name>
-      </schema1:SoftwareSourceCode>
-    </schema1:workExample>
-    <rdf:type rdf:resource="http://schema.org/LearningResource"/>
-  </schema1:Book>
-  <schema1:AlignmentObject rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_3_objective_2">
-    <schema1:educationalFramework>QUADRIGA Competency Framework</schema1:educationalFramework>
-    <schema1:targetDescription>Competency: Orientierungswissen | Bloom's: 3 Anwenden | Data Flow: übergreifend</schema1:targetDescription>
-    <schema1:targetName>Filmanalytische Grundbegriffe können in eine hierarchische Ontologiestruktur eingeordnet werden.</schema1:targetName>
-  </schema1:AlignmentObject>
-  <schema1:PropertyValue rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#author_1_orcid">
-    <schema1:propertyID>ORCID</schema1:propertyID>
-    <schema1:url rdf:resource="https://orcid.org/0000-0002-0954-3111"/>
-    <schema1:value>0000-0002-0954-3111</schema1:value>
-  </schema1:PropertyValue>
-  <schema1:AlignmentObject rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_0_objective_1">
-    <schema1:educationalFramework>QUADRIGA Competency Framework</schema1:educationalFramework>
-    <schema1:targetDescription>Competency: Orientierungswissen | Bloom's: 2 Verstehen | Data Flow: übergreifend</schema1:targetDescription>
-    <schema1:targetName>Die eMAEX-Methode der empirischen Medienästhetik kann beschrieben und deren Anwendung in der Filmanalyse erklärt werden.</schema1:targetName>
-  </schema1:AlignmentObject>
-  <schema1:AlignmentObject rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_6_objective_2">
-    <schema1:educationalFramework>QUADRIGA Competency Framework</schema1:educationalFramework>
-    <schema1:targetDescription>Competency: 5 Validierung | Bloom's: 5 Bewerten | Data Flow: 2 Erhebung und Aufbereitung</schema1:targetDescription>
-    <schema1:targetName>Die Rolle quantitativer Datenproduktion als Hilfsmittel qualitativer Empirie kann eingeordnet und kritisch hinterfragt werden.</schema1:targetName>
-  </schema1:AlignmentObject>
-  <schema1:AlignmentObject rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_1_objective_0">
-    <schema1:educationalFramework>QUADRIGA Competency Framework</schema1:educationalFramework>
-    <schema1:targetDescription>Competency: Orientierungswissen | Bloom's: 1 Erinnern | Data Flow: übergreifend</schema1:targetDescription>
-    <schema1:targetName>Die methodischen Grundlagen der tabellarischen Annotation können definiert und ihre Bedeutung für die filmanalytische Datenerhebung erläutert werden.</schema1:targetName>
-  </schema1:AlignmentObject>
-  <schema1:Organization rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#contributor_0_org">
-    <schema1:name>Humboldt-Universität zu Berlin, Institut für Bibliotheks- und Informationswissenschaft</schema1:name>
-  </schema1:Organization>
-  <schema1:AlignmentObject rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_2_objective_1">
-    <schema1:educationalFramework>QUADRIGA Competency Framework</schema1:educationalFramework>
-    <schema1:targetDescription>Competency: 4 Erhebung | Bloom's: 3 Anwenden | Data Flow: 2 Erhebung und Aufbereitung</schema1:targetDescription>
-    <schema1:targetName>Ein filmanalytischer Datensatz kann in den Annotationstools erstellt werden.</schema1:targetName>
-  </schema1:AlignmentObject>
-  <schema1:AlignmentObject rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_4_objective_3">
-    <schema1:educationalFramework>QUADRIGA Competency Framework</schema1:educationalFramework>
-    <schema1:targetDescription>Competency: 5 Validierung | Bloom's: 4 Analysieren | Data Flow: 2 Erhebung und Aufbereitung</schema1:targetDescription>
-    <schema1:targetName>Entscheidungsprozesse können bei der Anwendung der Ontologie dokumentiert und verglichen werden.</schema1:targetName>
-  </schema1:AlignmentObject>
-  <schema1:AlignmentObject rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_4_objective_4">
-    <schema1:educationalFramework>QUADRIGA Competency Framework</schema1:educationalFramework>
-    <schema1:targetDescription>Competency: 5 Validierung | Bloom's: 5 Bewerten | Data Flow: 2 Erhebung und Aufbereitung</schema1:targetDescription>
-    <schema1:targetName>Die Anpassungsmöglichkeiten der AdA-Filmontologie können für eigene Forschungskontexte evaluiert werden.</schema1:targetName>
-  </schema1:AlignmentObject>
-  <schema1:AlignmentObject rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_4_objective_0">
-    <schema1:educationalFramework>QUADRIGA Competency Framework</schema1:educationalFramework>
-    <schema1:targetDescription>Competency: Orientierungswissen | Bloom's: 2 Verstehen | Data Flow: übergreifend</schema1:targetDescription>
-    <schema1:targetName>Die Struktur der AdA-Filmontologie kann beschrieben und ihre methodischen Grundlagen erläutert werden.</schema1:targetName>
-  </schema1:AlignmentObject>
-  <schema1:AlignmentObject rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_4_objective_1">
-    <schema1:educationalFramework>QUADRIGA Competency Framework</schema1:educationalFramework>
-    <schema1:targetDescription>Competency: 8 Erschließung | Bloom's: 3 Anwenden | Data Flow: 3 Management</schema1:targetDescription>
-    <schema1:targetName>Die AdA-Filmontologie kann in Advene implementiert und für eigene Analysen konfiguriert werden.</schema1:targetName>
-  </schema1:AlignmentObject>
-  <schema1:AlignmentObject rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_5_objective_1">
-    <schema1:educationalFramework>QUADRIGA Competency Framework</schema1:educationalFramework>
-    <schema1:targetDescription>Competency: 10 Visualisierung | Bloom's: 3 Anwenden | Data Flow: 4 Analyse</schema1:targetDescription>
-    <schema1:targetName>Die AdA-Timeline kann zur Visualisierung komplexer Annotationsdaten konfiguriert und angepasst werden.</schema1:targetName>
-  </schema1:AlignmentObject>
-  <schema1:Organization rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#contributor_2_org">
-    <schema1:name>Fachhochschule Potsdam</schema1:name>
-  </schema1:Organization>
-  <schema1:AlignmentObject rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_3_objective_0">
-    <schema1:educationalFramework>QUADRIGA Competency Framework</schema1:educationalFramework>
-    <schema1:targetDescription>Competency: Orientierungswissen | Bloom's: 2 Verstehen | Data Flow: übergreifend</schema1:targetDescription>
-    <schema1:targetName>Die Grundprinzipien des Semantic Web können definiert und ihre Relevanz für filmwissenschaftliche Datenmodelle erläutert werden.</schema1:targetName>
-  </schema1:AlignmentObject>
-  <schema1:AlignmentObject rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_0_objective_0">
-    <schema1:educationalFramework>QUADRIGA Competency Framework</schema1:educationalFramework>
-    <schema1:targetDescription>Competency: Orientierungswissen | Bloom's: 2 Verstehen | Data Flow: übergreifend</schema1:targetDescription>
-    <schema1:targetName>Die drei zentralen Forschungsfragen zu Affektrhetoriken in audiovisuellen Diskursen können benannt und deren Relevanz erläutert werden.</schema1:targetName>
-  </schema1:AlignmentObject>
-  <schema1:PropertyValue rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#contributor_0_orcid">
-    <schema1:propertyID>ORCID</schema1:propertyID>
-    <schema1:url rdf:resource="https://orcid.org/0000-0002-1602-6032"/>
-    <schema1:value>0000-0002-1602-6032</schema1:value>
-  </schema1:PropertyValue>
-  <schema1:AlignmentObject rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_1_objective_2">
-    <schema1:educationalFramework>QUADRIGA Competency Framework</schema1:educationalFramework>
-    <schema1:targetDescription>Competency: 4 Erhebung | Bloom's: 3 Anwenden | Data Flow: 2 Erhebung und Aufbereitung</schema1:targetDescription>
-    <schema1:targetName>Filmanalytische Grundparameter können identifiziert und korrekt kategorisiert werden.</schema1:targetName>
-  </schema1:AlignmentObject>
-  <schema1:PropertyValue rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#contributor_1_orcid">
-    <schema1:propertyID>ORCID</schema1:propertyID>
-    <schema1:url rdf:resource="https://orcid.org/0000-0003-3858-901X"/>
-    <schema1:value>0000-0003-3858-901X</schema1:value>
-  </schema1:PropertyValue>
-  <schema1:PropertyValue rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#contributor_2_orcid">
-    <schema1:propertyID>ORCID</schema1:propertyID>
-    <schema1:url rdf:resource="https://orcid.org/0000-0002-2683-5853"/>
-    <schema1:value>0000-0002-2683-5853</schema1:value>
-  </schema1:PropertyValue>
-  <schema1:AlignmentObject rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_2_objective_3">
-    <schema1:educationalFramework>QUADRIGA Competency Framework</schema1:educationalFramework>
-    <schema1:targetDescription>Competency: 9 Datenanalyse | Bloom's: 4 Analysieren | Data Flow: 4 Analyse</schema1:targetDescription>
-    <schema1:targetName>Die Unterschiede in der Datenqualität zwischen manueller tabellarischer und toolbasierter Annotation können analysiert und bewertet werden.</schema1:targetName>
-  </schema1:AlignmentObject>
-  <schema1:AlignmentObject rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_5_objective_3">
-    <schema1:educationalFramework>QUADRIGA Competency Framework</schema1:educationalFramework>
-    <schema1:targetDescription>Competency: 11 Interpretation | Bloom's: 4 Analysieren | Data Flow: 4 Analyse</schema1:targetDescription>
-    <schema1:targetName>Temporale und multimodale Verlaufsdynamiken von Gestaltungsweisen (z.B. Musik, Montage, Farb- und Helligkeitsbeziehungen) können gezielt visualisiert und ihre affektrhetorische Funktion für politische Zielsetzungen in Online-Videos zur Klimakrise interpretiert werden.</schema1:targetName>
-  </schema1:AlignmentObject>
-  <schema1:PropertyValue rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#contributor_3_orcid">
-    <schema1:propertyID>ORCID</schema1:propertyID>
-    <schema1:url rdf:resource="https://orcid.org/0009-0001-1879-9880"/>
-    <schema1:value>0009-0001-1879-9880</schema1:value>
-  </schema1:PropertyValue>
-  <schema1:AlignmentObject rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_6_objective_1">
-    <schema1:educationalFramework>QUADRIGA Competency Framework</schema1:educationalFramework>
-    <schema1:targetDescription>Competency: 5 Validierung | Bloom's: 5 Bewerten | Data Flow: 2 Erhebung und Aufbereitung</schema1:targetDescription>
-    <schema1:targetName>Die Grenzen und Erweiterungsmöglichkeiten der AdA-Ontologie können reflektiert werden.</schema1:targetName>
-  </schema1:AlignmentObject>
-  <schema1:AlignmentObject rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_5_objective_2">
-    <schema1:educationalFramework>QUADRIGA Competency Framework</schema1:educationalFramework>
-    <schema1:targetDescription>Competency: 9 Datenanalyse | Bloom's: 4 Analysieren | Data Flow: 4 Analyse</schema1:targetDescription>
-    <schema1:targetName>Temporale Verlaufsdynamiken affektiver Inszenierungsmuster können anhand der Visualisierung exploriert und identifiziert werden.</schema1:targetName>
-  </schema1:AlignmentObject>
-  <schema1:AlignmentObject rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_2_objective_0">
-    <schema1:educationalFramework>QUADRIGA Competency Framework</schema1:educationalFramework>
-    <schema1:targetDescription>Competency: 8 Erschließung | Bloom's: 3 Anwenden | Data Flow: 3 Management</schema1:targetDescription>
-    <schema1:targetName>Die zentralen Funktionen der Annotationstools Advene und ELAN können verstanden und für filmanalytische Zwecke angewendet werden.</schema1:targetName>
-  </schema1:AlignmentObject>
-  <schema1:AlignmentObject rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_3_objective_1">
-    <schema1:educationalFramework>QUADRIGA Competency Framework</schema1:educationalFramework>
-    <schema1:targetDescription>Competency: Orientierungswissen | Bloom's: 2 Verstehen | Data Flow: übergreifend</schema1:targetDescription>
-    <schema1:targetName>Der Unterschied zwischen Freitextannotation und ontologiebasierter Annotation kann anhand konkreter Beispiele erklärt werden.</schema1:targetName>
-  </schema1:AlignmentObject>
-  <schema1:AlignmentObject rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_1_objective_3">
-    <schema1:educationalFramework>QUADRIGA Competency Framework</schema1:educationalFramework>
-    <schema1:targetDescription>Competency: 2 Qualitätssicherung | Bloom's: 3 Anwenden | Data Flow: 1 Planung</schema1:targetDescription>
-    <schema1:targetName>Die Grenzen und Möglichkeiten tabellarischer Annotation für affektrhetorische Analysen können reflektiert werden.</schema1:targetName>
-  </schema1:AlignmentObject>
-  <schema1:AlignmentObject rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_1_objective_1">
-    <schema1:educationalFramework>QUADRIGA Competency Framework</schema1:educationalFramework>
-    <schema1:targetDescription>Competency: 4 Erhebung | Bloom's: 3 Anwenden | Data Flow: 2 Erhebung und Aufbereitung</schema1:targetDescription>
-    <schema1:targetName>Zeitbasierte Metadaten zu filmischem Bewegtbildmaterial können systematisch in tabellarischer Form erfasst und die Unterschiede zwischen den Segmentierungsformen in der Anwendung begründet werden.</schema1:targetName>
-  </schema1:AlignmentObject>
-  <schema1:AlignmentObject rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_5_objective_0">
-    <schema1:educationalFramework>QUADRIGA Competency Framework</schema1:educationalFramework>
-    <schema1:targetDescription>Competency: Orientierungswissen | Bloom's: 2 Verstehen | Data Flow: übergreifend</schema1:targetDescription>
-    <schema1:targetName>Die Funktionsweise der AdA-Timeline kann beschrieben und ihre Bedeutung für die filmanalytische Datenexploration erläutert werden.</schema1:targetName>
-  </schema1:AlignmentObject>
-  <schema1:AlignmentObject rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_5_objective_4">
-    <schema1:educationalFramework>QUADRIGA Competency Framework</schema1:educationalFramework>
-    <schema1:targetDescription>Competency: 6 Aufbereitung | Bloom's: 6 Erschaffen | Data Flow: 2 Erhebung und Aufbereitung</schema1:targetDescription>
-    <schema1:targetName>Visualisierte Daten können für wissenschaftliche Präsentationen und Publikationen aufbereitet werden.</schema1:targetName>
-  </schema1:AlignmentObject>
-  <schema1:Organization rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#contributor_3_org">
-    <schema1:name>Universität Potsdam</schema1:name>
-  </schema1:Organization>
-  <schema1:Organization rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#author_0_org">
-    <schema1:name>Freie Universität Berlin</schema1:name>
-  </schema1:Organization>
-  <schema1:AlignmentObject rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_2_objective_2">
-    <schema1:educationalFramework>QUADRIGA Competency Framework</schema1:educationalFramework>
-    <schema1:targetDescription>Competency: 8 Erschließung | Bloom's: 4 Analysieren | Data Flow: 2 Erhebung und Aufbereitung</schema1:targetDescription>
-    <schema1:targetName>Zwischen den verschiedenen Annotationstypen und Werten kann differenziert und ihr Einsatz für spezifische filmanalytische Fragestellungen begründen werden.</schema1:targetName>
-  </schema1:AlignmentObject>
-  <schema1:Organization rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#contributor_1_org">
-    <schema1:name>Universität Potsdam</schema1:name>
-  </schema1:Organization>
-  <schema1:AlignmentObject rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_3_objective_3">
-    <schema1:educationalFramework>QUADRIGA Competency Framework</schema1:educationalFramework>
-    <schema1:targetDescription>Competency: 8 Erschließung | Bloom's: 5 Bewerten | Data Flow: 3 Management</schema1:targetDescription>
-    <schema1:targetName>Die Notwendigkeit eines einheitlichen Datenframeworks für vergleichende Filmanalysen kann argumentativ begründet werden.</schema1:targetName>
-  </schema1:AlignmentObject>
-  <schema1:Organization rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#author_1_org">
-    <schema1:name>Freie Universität Berlin</schema1:name>
-  </schema1:Organization>
-  <schema1:AlignmentObject rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_4_objective_2">
-    <schema1:educationalFramework>QUADRIGA Competency Framework</schema1:educationalFramework>
-    <schema1:targetDescription>Competency: 4 Erhebung | Bloom's: 3 Anwenden | Data Flow: 2 Erhebung und Aufbereitung</schema1:targetDescription>
-    <schema1:targetName>Ontologiebasierte Annotationen können zu einem gegebenen Video erstellt und methodisch begründet werden.</schema1:targetName>
-  </schema1:AlignmentObject>
-  <schema1:AlignmentObject rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_6_objective_0">
-    <schema1:educationalFramework>QUADRIGA Competency Framework</schema1:educationalFramework>
-    <schema1:targetDescription>Competency: Orientierungswissen | Bloom's: 1 Erinnern | Data Flow: übergreifend</schema1:targetDescription>
-    <schema1:targetName>Der Übergang von tabellarischer Annotation zur Ontologie kann rekapituliert werden.</schema1:targetName>
-  </schema1:AlignmentObject>
+Förderkennzeichen: 16DKZ2034</schema:funding>
+    <schema:hasPart>
+      <schema:LearningResource rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_0">
+        <schema:description>Erläuterung und Vermittlung der theoretischen und methodischen Grundlagen datengestützter Filmanalyse sowie Kontextualisierung des Untersuchungsgegenstandes.</schema:description>
+        <schema:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_0_objective_0" />
+        <schema:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_0_objective_1" />
+        <schema:name>Einführung</schema:name>
+        <schema:teaches>Die Grundlagen datengestützter Filmanalyse können erklärt und die zentralen Forschungsfragen der Fallstudie identifiziert werden.</schema:teaches>
+        <schema:timeRequired>PT1H</schema:timeRequired>
+        <schema:url rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_I/toc.html" />
+      </schema:LearningResource>
+    </schema:hasPart>
+    <schema:hasPart>
+      <schema:LearningResource rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_1">
+        <schema:description>Einführung in die tabellarische Annotation als Methode zur systematischen Erfassung filmanalytischer Daten mit Fokus auf Kategorisierung von Grundparametern zur Erstellung eines Einstellungsprotokolls.</schema:description>
+        <schema:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_1_objective_0" />
+        <schema:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_1_objective_1" />
+        <schema:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_1_objective_2" />
+        <schema:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_1_objective_3" />
+        <schema:name>Tabellarische Annotation (optional)</schema:name>
+        <schema:teaches>Filmanalytische Daten zu audiovisuellem Material können systematisch anhand tabellarischer Annotation erhoben und ausgewertet werden.</schema:teaches>
+        <schema:timeRequired>PT2H30M</schema:timeRequired>
+        <schema:url rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_II/toc_A.html" />
+      </schema:LearningResource>
+    </schema:hasPart>
+    <schema:hasPart>
+      <schema:LearningResource rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_2">
+        <schema:description>Einführung in die toolbasierte Annotation audiovisuellen Materials mit digitalen Werkzeugen sowie praktische Anwendung der Tools zur Erhebung filmanalytischer Datensätze.</schema:description>
+        <schema:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_2_objective_0" />
+        <schema:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_2_objective_1" />
+        <schema:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_2_objective_2" />
+        <schema:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_2_objective_3" />
+        <schema:name>Annotieren mit Tools (optional)</schema:name>
+        <schema:teaches>Filmanalytische Daten können mit digitalen Annotationstools systematisch erhoben und die Qualität verschiedener Annotationsverfahren bewertet werden.</schema:teaches>
+        <schema:timeRequired>PT5H</schema:timeRequired>
+        <schema:url rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_II/toc_B.html" />
+      </schema:LearningResource>
+    </schema:hasPart>
+    <schema:hasPart>
+      <schema:LearningResource rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_3">
+        <schema:description>Praktische Überführung filmanalytischer Grundbegriffe in hierarchische Datenstrukturen nach Semantic Web-Prinzipien sowie Einführung in die ontologiebasierte Annotation am Beispiel der AdA-Ontologie.</schema:description>
+        <schema:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_3_objective_0" />
+        <schema:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_3_objective_1" />
+        <schema:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_3_objective_2" />
+        <schema:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_3_objective_3" />
+        <schema:name>Einarbeiten in die Filmontologie</schema:name>
+        <schema:teaches>Filmanalytische Konzepte können in semantische Triple nach Ontologiestruktur überführt sowie die Prinzipien einer Filmontologie nachvollzogen werden.</schema:teaches>
+        <schema:timeRequired>PT1H30M</schema:timeRequired>
+        <schema:url rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_II/toc_C.html" />
+      </schema:LearningResource>
+    </schema:hasPart>
+    <schema:hasPart>
+      <schema:LearningResource rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_4">
+        <schema:description>Einführung in die ontologiebasierte Annotation audiovisuellen Materials mit der AdA-Filmontologie sowie praktische Implementierung und Anwendung der Ontologie in Advene zur systematischen Erhebung filmanalytischer Daten.</schema:description>
+        <schema:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_4_objective_0" />
+        <schema:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_4_objective_1" />
+        <schema:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_4_objective_2" />
+        <schema:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_4_objective_3" />
+        <schema:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_4_objective_4" />
+        <schema:name>Annotieren mit einer Filmontologie</schema:name>
+        <schema:teaches>Filmanalytische Daten können mit digitalen Annotationverfahren ontologiebasiert erhoben werden.</schema:teaches>
+        <schema:timeRequired>PT5H</schema:timeRequired>
+        <schema:url rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_II/toc_D.html" />
+      </schema:LearningResource>
+    </schema:hasPart>
+    <schema:hasPart>
+      <schema:LearningResource rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_5">
+        <schema:description>Einführung in die Visualisierung filmanalytischer Annotationsdaten mit der AdA-Timeline sowie praktische Konfiguration und Anpassung der Visualisierung zur Exploration, Analyse und Interpretation temporaler Verlaufsdynamiken affektiver Inszenierungsmuster.</schema:description>
+        <schema:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_5_objective_0" />
+        <schema:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_5_objective_1" />
+        <schema:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_5_objective_2" />
+        <schema:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_5_objective_3" />
+        <schema:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_5_objective_4" />
+        <schema:name>Datenvisualisierung</schema:name>
+        <schema:teaches>Ontologiebasierte Annotationsdaten können mit der AdA-Timeline konfiguriert und anschließend exploriert sowie filmanalytisch interpretiert werden.</schema:teaches>
+        <schema:timeRequired>PT4H30M</schema:timeRequired>
+        <schema:url rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_II/toc_E.html" />
+      </schema:LearningResource>
+    </schema:hasPart>
+    <schema:hasPart>
+      <schema:LearningResource rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_6">
+        <schema:description>Zusammenfassung und kritische Reflexion des methodischen Übergangs von tabellarischer Annotation zur ontologiebasierten Filmanalyse sowie Einordnung quantitativer Datenproduktion als Hilfsmittel qualitativer Empirie.</schema:description>
+        <schema:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_6_objective_0" />
+        <schema:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_6_objective_1" />
+        <schema:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_6_objective_2" />
+        <schema:name>Reflexion und Resümee</schema:name>
+        <schema:teaches>Die Entwicklung von tabellarischer Annotation zur ontologiebasierten Annotation kann zusammengefassst und die Methoden kritisch reflektiert werden.</schema:teaches>
+        <schema:timeRequired>PT30M</schema:timeRequired>
+        <schema:url rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_III/toc.html" />
+      </schema:LearningResource>
+    </schema:hasPart>
+    <schema:identifier>
+      <schema:PropertyValue rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#doi">
+        <schema:propertyID>DOI</schema:propertyID>
+        <schema:url rdf:resource="https://doi.org/10.5281/zenodo.15585269" />
+        <schema:value>10.5281/zenodo.15585269</schema:value>
+      </schema:PropertyValue>
+    </schema:identifier>
+    <schema:inLanguage>de</schema:inLanguage>
+    <schema:keywords>Data Literacy</schema:keywords>
+    <schema:keywords>Datenkompetenz</schema:keywords>
+    <schema:keywords>Jupyter Book</schema:keywords>
+    <schema:keywords>Offene Bildungsressource</schema:keywords>
+    <schema:keywords>Open Educational Resources</schema:keywords>
+    <schema:learningResourceType>Jupyter Book</schema:learningResourceType>
+    <schema:license>
+      <schema:CreativeWork rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#license_code">
+        <schema:license rdf:resource="https://opensource.org/licenses/AGPL-3.0" />
+        <schema:name>Source Code</schema:name>
+      </schema:CreativeWork>
+    </schema:license>
+    <schema:license>
+      <schema:CreativeWork rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#license_content">
+        <schema:license rdf:resource="https://creativecommons.org/licenses/by-sa/4.0/" />
+        <schema:name>Content</schema:name>
+      </schema:CreativeWork>
+    </schema:license>
+    <schema:name>Affektrhetorik in Online-Videos zur Klimakrise. Datengestützte Analysen audiovisueller Muster</schema:name>
+    <schema:schemaVersion>1.0.0</schema:schemaVersion>
+    <schema:timeRequired>PT20H</schema:timeRequired>
+    <schema:url rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/" />
+    <schema:version>1.0.0</schema:version>
+    <schema:workExample>
+      <schema:SoftwareSourceCode rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#repository">
+        <schema:codeRepository rdf:resource="https://github.com/quadriga-dk/Bewegtes-Bild-Fallstudie-1" />
+        <schema:name>Source Code Repository</schema:name>
+      </schema:SoftwareSourceCode>
+    </schema:workExample>
+    <rdf:type rdf:resource="http://schema.org/LearningResource" />
+  </schema:Book>
+  <schema:Organization rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#author_0_org">
+    <schema:name>Freie Universität Berlin</schema:name>
+  </schema:Organization>
+  <schema:Organization rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#author_1_org">
+    <schema:name>Freie Universität Berlin</schema:name>
+  </schema:Organization>
+  <schema:Organization rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#contributor_0_org">
+    <schema:name>Humboldt-Universität zu Berlin, Institut für Bibliotheks- und Informationswissenschaft</schema:name>
+  </schema:Organization>
+  <schema:Organization rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#contributor_1_org">
+    <schema:name>Universität Potsdam</schema:name>
+  </schema:Organization>
+  <schema:Organization rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#contributor_2_org">
+    <schema:name>Fachhochschule Potsdam</schema:name>
+  </schema:Organization>
+  <schema:Organization rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#contributor_3_org">
+    <schema:name>Universität Potsdam</schema:name>
+  </schema:Organization>
+  <schema:PropertyValue rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#author_1_orcid">
+    <schema:propertyID>ORCID</schema:propertyID>
+    <schema:url rdf:resource="https://orcid.org/0000-0002-0954-3111" />
+    <schema:value>0000-0002-0954-3111</schema:value>
+  </schema:PropertyValue>
+  <schema:PropertyValue rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#contributor_0_orcid">
+    <schema:propertyID>ORCID</schema:propertyID>
+    <schema:url rdf:resource="https://orcid.org/0000-0002-1602-6032" />
+    <schema:value>0000-0002-1602-6032</schema:value>
+  </schema:PropertyValue>
+  <schema:PropertyValue rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#contributor_1_orcid">
+    <schema:propertyID>ORCID</schema:propertyID>
+    <schema:url rdf:resource="https://orcid.org/0000-0003-3858-901X" />
+    <schema:value>0000-0003-3858-901X</schema:value>
+  </schema:PropertyValue>
+  <schema:PropertyValue rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#contributor_2_orcid">
+    <schema:propertyID>ORCID</schema:propertyID>
+    <schema:url rdf:resource="https://orcid.org/0000-0002-2683-5853" />
+    <schema:value>0000-0002-2683-5853</schema:value>
+  </schema:PropertyValue>
+  <schema:PropertyValue rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#contributor_3_orcid">
+    <schema:propertyID>ORCID</schema:propertyID>
+    <schema:url rdf:resource="https://orcid.org/0009-0001-1879-9880" />
+    <schema:value>0009-0001-1879-9880</schema:value>
+  </schema:PropertyValue>
 </rdf:RDF>
