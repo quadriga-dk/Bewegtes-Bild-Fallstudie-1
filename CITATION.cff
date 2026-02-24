@@ -2,10 +2,10 @@
 cff-version: 1.2.0
 title: Affektrhetorik in Online-Videos zur Klimakrise. Datengestützte Analysen audiovisueller
   Muster
-abstract: Diese OER vermittelt Methoden der Filmanalyse mit digitalen Annotationswerkzeugen.
-  Anhand eines Online-Videos zur Klimakrise werden audiovisuelle Inszenierungsmuster
-  analysiert, um affektive Rhetoriken politischer Zielsetzungen zu erkennen und zu
-  verstehen.
+abstract: Diese OER vermittelt datengestützte Methoden der Filmanalyse mit digitalen
+  Annotationswerkzeugen. Anhand eines Online-Videos zur Klimakrise werden audiovisuelle
+  Inszenierungsmuster analysiert, um affektive Rhetoriken politischer Zielsetzungen
+  zu erkennen und zu verstehen.
 message: Please cite this software using the metadata from `preferred-citation` in
   `CITATION.cff`.
 type: software

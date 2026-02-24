@@ -175,12 +175,12 @@
     </schema:about>
     <schema:about>
       <schema:Thing rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#discipline_0">
-        <schema:name>übergreifend</schema:name>
+        <schema:name>Digital Humanities</schema:name>
       </schema:Thing>
     </schema:about>
     <schema:about>
       <schema:Thing rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#research_object_0">
-        <schema:name>übergreifend</schema:name>
+        <schema:name>Bewegtes Bild</schema:name>
       </schema:Thing>
     </schema:about>
     <schema:audience>
@@ -258,7 +258,7 @@
     </schema:contributor>
     <schema:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-02-19</schema:dateModified>
     <schema:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-06-04</schema:datePublished>
-    <schema:description>Diese OER vermittelt Methoden der Filmanalyse mit digitalen Annotationswerkzeugen. Anhand eines Online-Videos zur Klimakrise werden audiovisuelle Inszenierungsmuster analysiert, um affektive Rhetoriken politischer Zielsetzungen zu erkennen und zu verstehen.</schema:description>
+    <schema:description>Diese OER vermittelt datengestützte Methoden der Filmanalyse mit digitalen Annotationswerkzeugen. Anhand eines Online-Videos zur Klimakrise werden audiovisuelle Inszenierungsmuster analysiert, um affektive Rhetoriken politischer Zielsetzungen zu erkennen und zu verstehen.</schema:description>
     <schema:funding>Die vorliegenden Open Educational Resources wurden durch das Datenkompetenzzentrum QUADRIGA erstellt.
 
 Förderkennzeichen: 16DKZ2034</schema:funding>
