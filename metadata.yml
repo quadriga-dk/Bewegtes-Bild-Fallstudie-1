@@ -21,7 +21,7 @@ keywords:
 - en: Jupyter Book
 - en: Data Literacy
 - de: Datenkompetenz
-description: Diese OER vermittelt Methoden der Filmanalyse mit digitalen Annotationswerkzeugen.
+description: Diese OER vermittelt datengestützte Methoden der Filmanalyse mit digitalen Annotationswerkzeugen.
   Anhand eines Online-Videos zur Klimakrise werden audiovisuelle Inszenierungsmuster
   analysiert, um affektive Rhetoriken politischer Zielsetzungen zu erkennen und zu
   verstehen.
@@ -43,9 +43,9 @@ table-of-contents: '- Präambel
 
   - Epilog'
 discipline:
-- übergreifend
+- Digital Humanities
 research-object-type:
-- übergreifend
+- Bewegtes Bild
 target-group:
 - Forschende (PostDoc)
 - Forschende (Projektleitung)
