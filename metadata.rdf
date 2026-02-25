@@ -208,6 +208,7 @@
         <schema:affiliation rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#author_0_org" />
         <schema:familyName>Demir</schema:familyName>
         <schema:givenName>Derya</schema:givenName>
+        <schema:identifier rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#author_0_orcid" />
         <schema:name>Derya Demir</schema:name>
       </schema:Person>
     </schema:author>
@@ -409,6 +410,11 @@ Förderkennzeichen: 16DKZ2034</schema:funding>
   <schema:Organization rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#contributor_3_org">
     <schema:name>Universität Potsdam</schema:name>
   </schema:Organization>
+  <schema:PropertyValue rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#author_0_orcid">
+    <schema:propertyID>ORCID</schema:propertyID>
+    <schema:url rdf:resource="https://orcid.org/0009-0000-2237-9400" />
+    <schema:value>0009-0000-2237-9400</schema:value>
+  </schema:PropertyValue>
   <schema:PropertyValue rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#author_1_orcid">
     <schema:propertyID>ORCID</schema:propertyID>
     <schema:url rdf:resource="https://orcid.org/0000-0002-0954-3111" />

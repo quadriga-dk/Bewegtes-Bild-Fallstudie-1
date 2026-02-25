@@ -35,6 +35,12 @@
       "givenName": "Derya",
       "familyName": "Demir",
       "name": "Derya Demir",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "ORCID",
+        "value": "0009-0000-2237-9400",
+        "url": "https://orcid.org/0009-0000-2237-9400"
+      },
       "affiliation": {
         "@type": "Organization",
         "name": "Freie Universität Berlin"
