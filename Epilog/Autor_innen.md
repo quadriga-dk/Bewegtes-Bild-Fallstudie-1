@@ -2,7 +2,7 @@
 
 ## Autor:innen der Inhalte
 
-### Derya Demir <span style="font-size:8pt">(sie/ihr)
+### Derya Demir <span style="font-size:8pt">(sie/ihr)</span> <a href="https://orcid.org/0009-0000-2237-9400" target="_blank"><img src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" alt="ORCID Logo"></a></h3>
 <table style="margin-left: 0">
 <tr>
 <td><b>Rolle in QUADRIGA:</b></td>
