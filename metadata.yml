@@ -88,10 +88,10 @@ identifier: https://doi.org/10.5281/zenodo.15585269
 git: https://github.com/quadriga-dk/Bewegtes-Bild-Fallstudie-1
 url: https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/
 used-tools:
-  - name: Advene
-    url: https://www.advene.org/
-  - name: ELAN
-    url: https://archive.mpi.nl/tla/elan
+- name: Advene
+  url: https://www.advene.org/
+- name: ELAN
+  url: https://archive.mpi.nl/tla/elan
 chapters:
 - title: Einführung
   url: https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_I/toc.html
