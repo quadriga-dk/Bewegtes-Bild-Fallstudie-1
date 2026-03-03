@@ -155,7 +155,11 @@ def extract_admonition_blocks(
         if learning_goal_match:
             learning_goal = normalize_whitespace(learning_goal_match.group(1))
         else:
-            learning_goal = section_title
+            learning_goal = section_title # make it TODO
+            validation_issues.append({
+                'section': section_title,
+                'missing_fields': ['learning-goal']
+            })
 
         # Extract chapter name from the outermost START marker
         chapter = None
@@ -208,6 +212,10 @@ def extract_admonition_blocks(
                     "Add '<!-- START: ChapterName -->' at the beginning of the objectives.",
                     section_title
                 )
+                validation_issues.append({
+                    'section': section_title,
+                    'missing_fields': ['chapter']
+                })
             
             blocks.append(block_data)
             logger.info(
@@ -282,11 +290,16 @@ def generate_validation_report(
         
         for i, issue in enumerate(validation_issues, 1):
             report += f"{i}. Section: {issue['section']}\n"
-            report += f"   Objective: {issue['objective']}...\n"
+            if 'objective' in issue:
+                report += f"   Objective: {issue['objective']}...\n"
             report += f"   Missing: {', '.join(issue['missing_fields'])}\n\n"
         
-        report += "\nTo fix: Add HTML comments after each objective:\n"
+        report += "\nTo fix missing competency/blooms: Add HTML comments after each objective:\n"
         report += "<!-- competency: X | blooms: Y -->\n"
+        report += "\nTo fix missing learning-goal: Add a comment inside the admonition block:\n"
+        report += "<!-- learning-goal: Your learning goal text -->\n"
+        report += "\nTo fix missing chapter: Add a START marker inside the admonition block:\n"
+        report += "<!-- START: ChapterName -->\n"
     
     if output_path:
         with output_path.open("w", encoding="utf-8") as f:
@@ -333,7 +346,7 @@ def merge_learning_objectives_into_metadata() -> bool:
         if validation_issues:
             generate_validation_report(validation_issues, report_path)
             logger.warning(
-                "Found %d objectives with missing metadata. "
+                "⚠️ Found %d objectives with missing metadata. "
                 "See learning-objectives-validation.txt for details.",
                 len(validation_issues),
             )
