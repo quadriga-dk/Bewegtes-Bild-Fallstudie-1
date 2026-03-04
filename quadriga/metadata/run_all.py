@@ -37,9 +37,9 @@ def main() -> bool | None:
 
         logger.info("Running all metadata update scripts...")
         
-        # new step: Extract learning objectives from Lernziele.md files
+        # Extract learning objectives
         try:
-            logger.info("Extracting learning objectives from Markdown files...")
+            logger.info("Extracting learning objectives from Lernziele.md...")
             if not merge_learning_objectives_into_metadata():
                 logger.error("Learning objective extraction failed.")
                 return False
