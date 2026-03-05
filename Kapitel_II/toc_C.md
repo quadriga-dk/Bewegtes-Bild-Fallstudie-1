@@ -5,14 +5,14 @@
 - [](./Aufgabe_C_UK-2.md)
 - [](./Aufgabe_C_UK-3.md)
 
-```{admonition} Überführung filmanalytischer Konzepte in semantische Triple nach Ontologiestruktur
+````{admonition} Überführung filmanalytischer Konzepte in semantische Triple nach Ontologiestruktur
 :class: lernziele
 
-1. Die Grundprinzipien des Semantic Web können definiert und ihre Relevanz für filmwissenschaftliche Datenmodelle erläutert werden.
-2. Der Unterschied zwischen Freitextannotation und ontologiebasierter Annotation kann anhand konkreter Beispiele erklärt werden.
-3. Filmanalytische Grundbegriffe können in eine hierarchische Ontologiestruktur eingeordnet werden.
-4. Die Notwendigkeit eines einheitlichen Datenframeworks für vergleichende Filmanalysen kann argumentativ begründet werden.
+```{include} ../Präambel/Lernziele.md
+:start-after: "<!-- START: Einarbeiten in die Filmontologie -->"
+:end-before: "<!-- END: Einarbeiten in die Filmontologie -->"
 ```
+````
 
 In diesem Kapitel sollen die Prinzpien von Semantic Web anhand der Überführung filmanalytischen Grundvokabulars in eine Ontolgie nachvollzogen und reproduziert werden.
 +++

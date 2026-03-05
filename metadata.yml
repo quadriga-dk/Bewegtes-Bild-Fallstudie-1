@@ -132,8 +132,8 @@ chapters:
     competency: 2.1 Erhebung
     data-flow: 2 Erhebung und Aufbereitung
     blooms-category: 3 Anwenden
-  - learning-objective: Filmanalytische Grundparameter können identifiziert und korrekt
-      kategorisiert werden.
+  - learning-objective: Filmanalytische Grundparameter (Einstellungsgrößen, Kamerabewegungen,
+      Montage) können identifiziert und korrekt kategorisiert werden.
     competency: 2.1 Erhebung
     data-flow: 2 Erhebung und Aufbereitung
     blooms-category: 3 Anwenden
@@ -165,7 +165,7 @@ chapters:
       differenziert und ihr Einsatz für spezifische filmanalytische Fragestellungen
       begründen werden.
     competency: 3.2 Erschließung
-    data-flow: 2 Erhebung und Aufbereitung
+    data-flow: 3 Management
     blooms-category: 4 Analysieren
   - learning-objective: Die Unterschiede in der Datenqualität zwischen manueller tabellarischer
       und toolbasierter Annotation können analysiert und bewertet werden.
@@ -277,9 +277,9 @@ chapters:
   description: Zusammenfassung und kritische Reflexion des methodischen Übergangs
     von tabellarischer Annotation zur ontologiebasierten Filmanalyse sowie Einordnung
     quantitativer Datenproduktion als Hilfsmittel qualitativer Empirie.
+  time-required: PT30M
   learning-goal: Die Entwicklung von tabellarischer Annotation zur ontologiebasierten
     Annotation kann zusammengefassst und die Methoden kritisch reflektiert werden.
-  time-required: PT30M
   learning-objectives:
   - learning-objective: Der Übergang von tabellarischer Annotation zur Ontologie kann
       rekapituliert werden.

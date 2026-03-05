@@ -5,15 +5,14 @@
 - [](./Aufgabe_D_UK-2.md)
 - [](./Aufgabe_D_UK-3.md)
 
-```{admonition} Erhebung filmanalytischer Daten durch digitale Annotation mit einer Filmontologie
+````{admonition} Erhebung filmanalytischer Daten durch digitale Annotation mit einer Filmontologie
 :class: lernziele
 
-1. Die Struktur der AdA-Filmontologie kann beschrieben und ihre methodischen Grundlagen erläutert werden.
-2. Die AdA-Filmontologie kann in Advene implementiert und für eigene Analysen konfiguriert werden.
-3. Ontologiebasierte Annotationen können zu einem gegebenen Video erstellt und methodisch begründet werden.
-4. Entscheidungsprozesse können bei der Anwendung der Ontologie dokumentiert und verglichen werden.
-5. Die Anpassungsmöglichkeiten der AdA-Filmontologie können für eigene Forschungskontexte evaluiert werden.
+```{include} ../Präambel/Lernziele.md
+:start-after: "<!-- START: Annotieren mit einer Filmontologie -->"
+:end-before: "<!-- END: Annotieren mit einer Filmontologie -->"
 ```
+````
 
 In diesem Kapitel erstellen wir Annotationen mit einer Filmontologie.
 +++

@@ -7,13 +7,13 @@
 - [](./Aufgabe_A_UK-4.md)
 
 
-```{admonition} Erhebung filmanalytischer Daten zu audiovisuellem Material anhand tabellarischer Annotation
+````{admonition} Erhebung filmanalytischer Daten zu audiovisuellem Material anhand tabellarischer Annotation
 :class: lernziele
-1. Die methodischen Grundlagen der tabellarischen Annotation können definiert und ihre Bedeutung für die filmanalytische Datenerhebung erläutert werden.
-2. Zeitbasierte Metadaten zu filmischem Bewegtbildmaterial können systematisch in tabellarischer Form erfasst und die Unterschiede zwischen den Segmentierungsformen in der Anwendung begründet werden.
-3. Filmanalytische Grundparameter (Einstellungsgrößen, Kamerabewegungen, Montage) können identifiziert und korrekt kategorisiert werden.
-4. Die Grenzen und Möglichkeiten tabellarischer Annotation für affektrhetorische Analysen können reflektiert werden.
+```{include} ../Präambel/Lernziele.md
+:start-after: "<!-- START: Tabellarische Annotation (optional) -->"
+:end-before: "<!-- END: Tabellarische Annotation (optional) -->"
 ```
+````
 In diesem Kapitel werden die Grundlagen tabellarischer Annotationsarbeit abgedeckt.
 
 *Wir befinden uns hier:*
