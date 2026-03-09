@@ -12,7 +12,7 @@
     "LearningResource"
   ],
   "name": "Affektrhetorik in Online-Videos zur Klimakrise. Datengestützte Analysen audiovisueller Muster",
-  "description": "Diese OER vermittelt Methoden der Filmanalyse mit digitalen Annotationswerkzeugen. Anhand eines Online-Videos zur Klimakrise werden audiovisuelle Inszenierungsmuster analysiert, um affektive Rhetoriken politischer Zielsetzungen zu erkennen und zu verstehen.",
+  "description": "Diese OER vermittelt datengestützte Methoden der Filmanalyse mit digitalen Annotationswerkzeugen. Anhand eines Online-Videos zur Klimakrise werden audiovisuelle Inszenierungsmuster analysiert, um affektive Rhetoriken politischer Zielsetzungen zu erkennen und zu verstehen.",
   "identifier": {
     "@type": "PropertyValue",
     "propertyID": "DOI",
@@ -28,13 +28,19 @@
     "codeRepository": "https://github.com/quadriga-dk/Bewegtes-Bild-Fallstudie-1"
   },
   "datePublished": "2025-06-04",
-  "dateModified": "2026-02-18",
+  "dateModified": "2026-02-19",
   "author": [
     {
       "@type": "Person",
       "givenName": "Derya",
       "familyName": "Demir",
       "name": "Derya Demir",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "ORCID",
+        "value": "0009-0000-2237-9400",
+        "url": "https://orcid.org/0009-0000-2237-9400"
+      },
       "affiliation": {
         "@type": "Organization",
         "name": "Freie Universität Berlin"
@@ -154,11 +160,11 @@
     },
     {
       "@type": "Thing",
-      "name": "übergreifend"
+      "name": "Digital Humanities"
     },
     {
       "@type": "Thing",
-      "name": "übergreifend"
+      "name": "Bewegtes Bild"
     }
   ],
   "audience": [

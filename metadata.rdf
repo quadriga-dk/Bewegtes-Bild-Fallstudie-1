@@ -175,12 +175,12 @@
     </schema:about>
     <schema:about>
       <schema:Thing rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#discipline_0">
-        <schema:name>übergreifend</schema:name>
+        <schema:name>Digital Humanities</schema:name>
       </schema:Thing>
     </schema:about>
     <schema:about>
       <schema:Thing rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#research_object_0">
-        <schema:name>übergreifend</schema:name>
+        <schema:name>Bewegtes Bild</schema:name>
       </schema:Thing>
     </schema:about>
     <schema:audience>
@@ -208,6 +208,7 @@
         <schema:affiliation rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#author_0_org" />
         <schema:familyName>Demir</schema:familyName>
         <schema:givenName>Derya</schema:givenName>
+        <schema:identifier rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#author_0_orcid" />
         <schema:name>Derya Demir</schema:name>
       </schema:Person>
     </schema:author>
@@ -256,9 +257,9 @@
         <schema:name>Lamia Islam</schema:name>
       </schema:Person>
     </schema:contributor>
-    <schema:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-02-18</schema:dateModified>
+    <schema:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-02-19</schema:dateModified>
     <schema:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-06-04</schema:datePublished>
-    <schema:description>Diese OER vermittelt Methoden der Filmanalyse mit digitalen Annotationswerkzeugen. Anhand eines Online-Videos zur Klimakrise werden audiovisuelle Inszenierungsmuster analysiert, um affektive Rhetoriken politischer Zielsetzungen zu erkennen und zu verstehen.</schema:description>
+    <schema:description>Diese OER vermittelt datengestützte Methoden der Filmanalyse mit digitalen Annotationswerkzeugen. Anhand eines Online-Videos zur Klimakrise werden audiovisuelle Inszenierungsmuster analysiert, um affektive Rhetoriken politischer Zielsetzungen zu erkennen und zu verstehen.</schema:description>
     <schema:funding>Die vorliegenden Open Educational Resources wurden durch das Datenkompetenzzentrum QUADRIGA erstellt.
 
 Förderkennzeichen: 16DKZ2034</schema:funding>
@@ -409,6 +410,11 @@ Förderkennzeichen: 16DKZ2034</schema:funding>
   <schema:Organization rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#contributor_3_org">
     <schema:name>Universität Potsdam</schema:name>
   </schema:Organization>
+  <schema:PropertyValue rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#author_0_orcid">
+    <schema:propertyID>ORCID</schema:propertyID>
+    <schema:url rdf:resource="https://orcid.org/0009-0000-2237-9400" />
+    <schema:value>0009-0000-2237-9400</schema:value>
+  </schema:PropertyValue>
   <schema:PropertyValue rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#author_1_orcid">
     <schema:propertyID>ORCID</schema:propertyID>
     <schema:url rdf:resource="https://orcid.org/0000-0002-0954-3111" />
