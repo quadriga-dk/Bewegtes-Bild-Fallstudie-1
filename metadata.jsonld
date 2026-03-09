@@ -225,6 +225,12 @@
       "educationalAlignment": [
         {
           "@type": "AlignmentObject",
+          "targetName": "Die methodischen Grundlagen der tabellarischen Annotation können definiert und ihre Bedeutung für die filmanalytische Datenerhebung erläutert werden.",
+          "educationalFramework": "QUADRIGA Competency Framework",
+          "targetDescription": "Competency: Orientierungswissen | Bloom's: 1 Erinnern | Data Flow: übergreifend"
+        },
+        {
+          "@type": "AlignmentObject",
           "targetName": "Zeitbasierte Metadaten zu filmischem Bewegtbildmaterial können systematisch in tabellarischer Form erfasst und die Unterschiede zwischen den Segmentierungsformen in der Anwendung begründet werden.",
           "educationalFramework": "QUADRIGA Competency Framework",
           "targetDescription": "Competency: 2.1 Erhebung | Bloom's: 3 Anwenden | Data Flow: 2 Erhebung und Aufbereitung"

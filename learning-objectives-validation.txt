@@ -1,10 +1,13 @@
-⚠️ Found 2 issues with missing metadata:
+⚠️ Found 3 issues with missing metadata:
 
 1. Section: Grundlagen datengestützter Filmanalyse
-   Objective: Die drei zentralen Forschungsfragen zu Affektrhetoriken in a...
+   Missing: learning-goal
+
+2. Section: Grundlagen datengestützter Filmanalyse
+   Objective: Die eMAEX-Methode der empirischen Medienästhetik kann beschr...
    Missing: competency, blooms-category
 
-2. Section: Erhebung filmanalytischer Daten anhand Freitextannotationen mit digitalen Tools
+3. Section: Grundlagen datengestützter Filmanalyse
    Missing: chapter
 
 
