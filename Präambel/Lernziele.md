@@ -11,7 +11,7 @@ Nach erfolgreichem Durchlaufen dieses JupyterNotebooks können im Erfolgsfall di
 
 <!-- START: E1 -->
 1. Die drei zentralen Forschungsfragen zu Affektrhetoriken in audiovisuellen Diskursen können benannt und deren Relevanz erläutert werden.
-
+<!-- competency: Orientierungswissen | bloom: 2 Verstehen -->
 <!-- END: E1 -->
 
 <!-- START: E2 -->
@@ -150,7 +150,8 @@ Nach erfolgreichem Durchlaufen dieses JupyterNotebooks können im Erfolgsfall di
 :class: lernziele, dropdown
 
 <!-- START: Reflexion und Resümee -->
-
+<!-- learning-goal: Die Entwicklung von tabellarischer Annotation zur ontologiebasierten
+    Annotation kann zusammengefassst und die Methoden kritisch reflektiert werden. -->
 
 1. Der Übergang von tabellarischer Annotation zur Ontologie kann rekapituliert werden.
 <!-- competency: Orientierungswissen | bloom: 1 Erinnern -->
