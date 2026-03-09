@@ -63,18 +63,13 @@ jobs:
 
       - name: Stage metadata files
         run: |
-          # Add all metadata files that exist (handles both new and modified files)
-          for file in metadata.yml CITATION.bib CITATION.cff .zenodo.json metadata.jsonld metadata.rdf; do
-            [ -f "$file" ] && git add "$file"
-          done
-
-          # Handle learning-objectives-validation.txt:
-          # Stage it if it exists (new or updated) and remove it from tracking if it was deleted
-          if [ -f learning-objectives-validation.txt ]; then
-            git add learning-objectives-validation.txt
-          elif git ls-files --error-unmatch -- learning-objectives-validation.txt 2>/dev/null; then
-            git rm --cached -- learning-objectives-validation.txt
-          fi
+          git add metadata.yml 2>/dev/null || true
+          git add CITATION.bib 2>/dev/null || true
+          git add CITATION.cff 2>/dev/null || true
+          git add .zenodo.json 2>/dev/null || true
+          git add metadata.jsonld 2>/dev/null || true
+          git add metadata.rdf 2>/dev/null || true
+          git add learning-objectives-validation.txt 2>/dev/null || true
 
       - name: Check if files staged
         id: check_changes
