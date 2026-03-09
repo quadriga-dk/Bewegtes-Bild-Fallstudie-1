@@ -68,6 +68,14 @@ jobs:
             [ -f "$file" ] && git add "$file"
           done
 
+          # Handle learning-objectives-validation.txt:
+          # Stage it if it exists (new or updated) and remove it from tracking if it was deleted
+          if [ -f learning-objectives-validation.txt ]; then
+            git add learning-objectives-validation.txt
+          elif git ls-files --error-unmatch -- learning-objectives-validation.txt 2>/dev/null; then
+            git rm --cached -- learning-objectives-validation.txt
+          fi
+
       - name: Check if files staged
         id: check_changes
         run: |
