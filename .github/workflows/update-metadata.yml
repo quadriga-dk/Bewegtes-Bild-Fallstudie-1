@@ -64,7 +64,7 @@ jobs:
       - name: Check if files changed
         id: check_changes
         run: |
-          if git diff --quiet metadata.yml && git diff --quiet CITATION.bib && git diff --quiet CITATION.cff && git diff --quiet .zenodo.json && git diff --quiet metadata.jsonld && git diff --quiet metadata.rdf && git diff --quiet learning-objectives-validation.txt && ! git ls-files --others --exclude-standard | grep -q learning-objectives-validation.txt; then
+          if git diff --quiet metadata.yml && git diff --quiet CITATION.bib && git diff --quiet CITATION.cff && git diff --quiet .zenodo.json && git diff --quiet metadata.jsonld && git diff --quiet metadata.rdf && git diff --quiet -- learning-objectives-validation.txt && ! git ls-files --others --exclude-standard | grep -q learning-objectives-validation.txt; then
             echo "changes_detected=false" >> $GITHUB_OUTPUT
           else
             echo "changes_detected=true" >> $GITHUB_OUTPUT
@@ -75,7 +75,8 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add metadata.yml CITATION.bib CITATION.cff .zenodo.json metadata.jsonld metadata.rdf learning-objectives-validation.txt
+          git add metadata.yml CITATION.bib CITATION.cff .zenodo.json metadata.jsonld metadata.rdf
+          if [ -f learning-objectives-validation.txt ]; then git add learning-objectives-validation.txt; fi
           git commit -m "[Automated] Update metadata files"
           git push
 
@@ -87,7 +88,8 @@ jobs:
           git config --local user.name "github-actions[bot]"
 
           # Commit the metadata changes
-          git add metadata.yml CITATION.bib CITATION.cff .zenodo.json metadata.jsonld metadata.rdf learning-objectives-validation.txt
+          git add metadata.yml CITATION.bib CITATION.cff .zenodo.json metadata.jsonld metadata.rdf
+          if [ -f learning-objectives-validation.txt ]; then git add learning-objectives-validation.txt; fi
           git commit -m "[Automated] Update metadata for version ${{ steps.extract_version.outputs.version }}"
 
           # Delete the old tag (locally and remotely)
