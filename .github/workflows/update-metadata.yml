@@ -76,7 +76,11 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add metadata.yml CITATION.bib CITATION.cff .zenodo.json metadata.jsonld metadata.rdf
-          if [ -f learning-objectives-validation.txt ]; then git add learning-objectives-validation.txt; fi
+          if [ -f learning-objectives-validation.txt ]; then
+            git add learning-objectives-validation.txt
+          elif git ls-files --error-unmatch -- learning-objectives-validation.txt 2>/dev/null; then
+            git rm --cached -- learning-objectives-validation.txt
+          fi
           git commit -m "[Automated] Update metadata files"
           git push
 
@@ -89,7 +93,11 @@ jobs:
 
           # Commit the metadata changes
           git add metadata.yml CITATION.bib CITATION.cff .zenodo.json metadata.jsonld metadata.rdf
-          if [ -f learning-objectives-validation.txt ]; then git add learning-objectives-validation.txt; fi
+          if [ -f learning-objectives-validation.txt ]; then
+            git add learning-objectives-validation.txt
+          elif git ls-files --error-unmatch -- learning-objectives-validation.txt 2>/dev/null; then
+            git rm --cached -- learning-objectives-validation.txt
+          fi
           git commit -m "[Automated] Update metadata for version ${{ steps.extract_version.outputs.version }}"
 
           # Delete the old tag (locally and remotely)
