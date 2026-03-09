@@ -124,11 +124,9 @@ def extract_admonition_blocks(
                 'missing_fields': ['learning-goal']
             })
 
-        # Chapter — search only in the portion of the body that precedes the learning goal
+        # Chapter — use the first <!-- START: ChapterName --> tag in the admonition body.
         chapter = None
-        learning_goal_pos = re.search(r'<!--\s*learning-goal:', body)
-        chapter_search_region = body[:learning_goal_pos.start()] if learning_goal_pos else ""
-        start_match = re.search(r'<!--\s*START:\s*(.+?)\s*-->', chapter_search_region)
+        start_match = re.search(r'<!--\s*START:\s*(.+?)\s*-->', body)
         if start_match:
             chapter = start_match.group(1).strip()
 

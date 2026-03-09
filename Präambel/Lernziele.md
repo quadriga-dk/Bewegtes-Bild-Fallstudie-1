@@ -6,16 +6,17 @@ Nach erfolgreichem Durchlaufen dieses JupyterNotebooks können im Erfolgsfall di
 :class: lernziele, dropdown
 
 <!-- START: Einführung -->
-
+<!-- learning-goal: Die Grundlagen datengestützter Filmanalyse können erklärt und die
+    zentralen Forschungsfragen der Fallstudie identifiziert werden. -->
 
 <!-- START: E1 -->
 1. Die drei zentralen Forschungsfragen zu Affektrhetoriken in audiovisuellen Diskursen können benannt und deren Relevanz erläutert werden.
-<!-- competency: Orientierungswissen | bloom: 2 Verstehen -->
+
 <!-- END: E1 -->
 
 <!-- START: E2 -->
 2. Die eMAEX-Methode der empirischen Medienästhetik kann beschrieben und deren Anwendung in der Filmanalyse erklärt werden.
-
+<!-- competency: Orientierungswissen | bloom: 2 Verstehen -->
 <!-- END: E2 -->
 
 <!-- END: Einführung -->
@@ -149,8 +150,7 @@ Nach erfolgreichem Durchlaufen dieses JupyterNotebooks können im Erfolgsfall di
 :class: lernziele, dropdown
 
 <!-- START: Reflexion und Resümee -->
-<!-- learning-goal: Die Entwicklung von tabellarischer Annotation zur ontologiebasierten
-    Annotation kann zusammengefassst und die Methoden kritisch reflektiert werden. -->
+
 
 1. Der Übergang von tabellarischer Annotation zur Ontologie kann rekapituliert werden.
 <!-- competency: Orientierungswissen | bloom: 1 Erinnern -->
