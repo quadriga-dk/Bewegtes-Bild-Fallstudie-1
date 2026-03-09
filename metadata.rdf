@@ -122,7 +122,7 @@
   </schema:AlignmentObject>
   <schema:AlignmentObject rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_6_objective_0">
     <schema:educationalFramework>QUADRIGA Competency Framework</schema:educationalFramework>
-    <schema:targetDescription>Competency: nicht anwendbar | Bloom's: nicht anwendbar | Data Flow: nicht anwendbar</schema:targetDescription>
+    <schema:targetDescription>Competency: Orientierungswissen | Bloom's: 1 Erinnern | Data Flow: übergreifend</schema:targetDescription>
     <schema:targetName>Der Übergang von tabellarischer Annotation zur Ontologie kann rekapituliert werden.</schema:targetName>
   </schema:AlignmentObject>
   <schema:AlignmentObject rdf:about="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_6_objective_1">
@@ -269,7 +269,7 @@ Förderkennzeichen: 16DKZ2034</schema:funding>
         <schema:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_0_objective_0" />
         <schema:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_0_objective_1" />
         <schema:name>Einführung</schema:name>
-        <schema:teaches>TODO</schema:teaches>
+        <schema:teaches>Die Grundlagen datengestützter Filmanalyse können erklärt und die zentralen Forschungsfragen der Fallstudie identifiziert werden.</schema:teaches>
         <schema:timeRequired>PT1H</schema:timeRequired>
         <schema:url rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_I/toc.html" />
       </schema:LearningResource>
