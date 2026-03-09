@@ -50,6 +50,7 @@ def validate_objective_metadata(objective_data: dict[str, Any]) -> list[str]:
     if not objective_data.get('competency'):
         missing_fields.append('competency')
         objective_data['competency'] = DEFAULT_COMPETENCY
+        objective_data['data-flow'] = DEFAULT_DATA_FLOW
     
     if not objective_data.get('blooms-category'):
         missing_fields.append('blooms-category')

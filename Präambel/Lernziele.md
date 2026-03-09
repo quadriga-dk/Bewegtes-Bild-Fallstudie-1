@@ -6,17 +6,11 @@ Nach erfolgreichem Durchlaufen dieses JupyterNotebooks können im Erfolgsfall di
 :class: lernziele, dropdown
 
 <!-- START: Einführung -->
-<!-- learning-goal: Die Grundlagen datengestützter Filmanalyse können erklärt und die
-    zentralen Forschungsfragen der Fallstudie identifiziert werden. -->
 
-<!-- START: E1 -->
-1. Die drei zentralen Forschungsfragen zu Affektrhetoriken in audiovisuellen Diskursen können benannt und deren Relevanz erläutert werden.
-
-<!-- END: E1 -->
 
 <!-- START: E2 -->
 2. Die eMAEX-Methode der empirischen Medienästhetik kann beschrieben und deren Anwendung in der Filmanalyse erklärt werden.
-<!-- competency: Orientierungswissen | bloom: 2 Verstehen -->
+
 <!-- END: E2 -->
 
 <!-- END: Einführung -->
@@ -29,6 +23,10 @@ Nach erfolgreichem Durchlaufen dieses JupyterNotebooks können im Erfolgsfall di
 <!-- learning-goal: Filmanalytische Daten zu audiovisuellem Material können systematisch
     anhand tabellarischer Annotation erhoben und ausgewertet werden. -->
 
+<!-- START: TA1 -->
+1. Die methodischen Grundlagen der tabellarischen Annotation können definiert und ihre Bedeutung für die filmanalytische Datenerhebung erläutert werden.
+<!-- competency: Orientierungswissen | bloom: 1 Erinnern  -->
+<!-- END: TA1 -->
 
 <!-- START: TA2 -->
 2. Zeitbasierte Metadaten zu filmischem Bewegtbildmaterial können systematisch in tabellarischer Form erfasst und die Unterschiede zwischen den Segmentierungsformen in der Anwendung begründet werden.
@@ -51,7 +49,7 @@ Nach erfolgreichem Durchlaufen dieses JupyterNotebooks können im Erfolgsfall di
 ```{admonition} [Erhebung filmanalytischer Daten anhand Freitextannotationen mit digitalen Tools](annotation:tools) (*optional*)
 :class: lernziele, dropdown
 
-
+<!-- START: Annotieren mit Tools (optional) -->
 <!-- learning-goal: Filmanalytische Daten können mit digitalen Annotationstools systematisch
     erhoben und die Qualität verschiedener Annotationsverfahren bewertet werden. -->
 
@@ -67,7 +65,7 @@ Nach erfolgreichem Durchlaufen dieses JupyterNotebooks können im Erfolgsfall di
 4. Die Unterschiede in der Datenqualität zwischen manueller tabellarischer und toolbasierter Annotation können analysiert und bewertet werden.
 <!-- competency: 4.1 Datenanalyse | bloom: 4 Analysieren -->
 
-
+<!-- END: Annotieren mit Tools (optional) -->
 ```
 
 ```{admonition} [Überführung filmanalytischer Konzepte in semantische Triple nach Ontologiestruktur](einarbeiten:ontologie)
