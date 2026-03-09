@@ -1,0 +1,11 @@
+⚠️ Found 1 issues with missing metadata:
+
+1. Section: Grundlagen datengestützter Filmanalyse
+   Objective: Die drei zentralen Forschungsfragen zu Affektrhetoriken in a...
+   Missing: competency, blooms-category
+
+
+How to fix:
+  competency/bloom   → <!-- competency: X | bloom: Y --> after the objective
+  learning-goal      → <!-- learning-goal: ... --> inside the admonition block
+  chapter            → <!-- START: ChapterName --> before the learning goal
