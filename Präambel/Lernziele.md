@@ -11,12 +11,12 @@ Nach erfolgreichem Durchlaufen dieses JupyterNotebooks können im Erfolgsfall di
 
 <!-- START: E1 -->
 1. Die drei zentralen Forschungsfragen zu Affektrhetoriken in audiovisuellen Diskursen können benannt und deren Relevanz erläutert werden.
-<!-- competency: Orientierungswissen | blooms: 2 Verstehen -->
+<!-- competency: Orientierungswissen | bloom: 2 Verstehen -->
 <!-- END: E1 -->
 
 <!-- START: E2 -->
 2. Die eMAEX-Methode der empirischen Medienästhetik kann beschrieben und deren Anwendung in der Filmanalyse erklärt werden.
-<!-- competency: Orientierungswissen | blooms: 2 Verstehen -->
+<!-- competency: Orientierungswissen | bloom: 2 Verstehen -->
 <!-- END: E2 -->
 
 <!-- END: Einführung -->
@@ -31,22 +31,22 @@ Nach erfolgreichem Durchlaufen dieses JupyterNotebooks können im Erfolgsfall di
 
 <!-- START: TA1 -->
 1. Die methodischen Grundlagen der tabellarischen Annotation können definiert und ihre Bedeutung für die filmanalytische Datenerhebung erläutert werden.
-<!-- competency: Orientierungswissen | blooms: 1 Erinnern  -->
+<!-- competency: Orientierungswissen | bloom: 1 Erinnern  -->
 <!-- END: TA1 -->
 
 <!-- START: TA2 -->
 2. Zeitbasierte Metadaten zu filmischem Bewegtbildmaterial können systematisch in tabellarischer Form erfasst und die Unterschiede zwischen den Segmentierungsformen in der Anwendung begründet werden.
-<!-- competency: 2.1 Erhebung | blooms: 3 Anwenden -->
+<!-- competency: 2.1 Erhebung | bloom: 3 Anwenden -->
 <!-- END: TA2 -->
 
 <!-- START: TA3 -->
 3. Filmanalytische Grundparameter (Einstellungsgrößen, Kamerabewegungen, Montage) können identifiziert und korrekt kategorisiert werden.
-<!-- competency: 2.1 Erhebung | blooms: 3 Anwenden -->
+<!-- competency: 2.1 Erhebung | bloom: 3 Anwenden -->
 <!-- END: TA3 -->
 
 <!-- START: TA4 -->
 4. Die Grenzen und Möglichkeiten tabellarischer Annotation für affektrhetorische Analysen können reflektiert werden.
-<!-- competency: 1.2 Qualitätssicherung | blooms: 3 Anwenden -->
+<!-- competency: 1.2 Qualitätssicherung | bloom: 3 Anwenden -->
 <!-- END: TA4 -->
 
 <!-- END: Tabellarische Annotation (optional) -->
@@ -60,16 +60,16 @@ Nach erfolgreichem Durchlaufen dieses JupyterNotebooks können im Erfolgsfall di
     erhoben und die Qualität verschiedener Annotationsverfahren bewertet werden. -->
 
 1. Die zentralen Funktionen der Annotationstools Advene und ELAN können verstanden und für filmanalytische Zwecke angewendet werden.
-<!-- competency: 3.2 Erschließung | blooms: 3 Anwenden -->
+<!-- competency: 3.2 Erschließung | bloom: 3 Anwenden -->
 
 2. Ein filmanalytischer Datensatz kann in den Annotationstools erstellt werden.
-<!-- competency: 2.1 Erhebung | blooms: 3 Anwenden -->
+<!-- competency: 2.1 Erhebung | bloom: 3 Anwenden -->
 
 3. Zwischen den verschiedenen Annotationstypen und Werten kann differenziert und ihr Einsatz für spezifische filmanalytische Fragestellungen begründen werden.
-<!-- competency: 3.2 Erschließung | blooms: 4 Analysieren -->
+<!-- competency: 3.2 Erschließung | bloom: 4 Analysieren -->
 
 4. Die Unterschiede in der Datenqualität zwischen manueller tabellarischer und toolbasierter Annotation können analysiert und bewertet werden.
-<!-- competency: 4.1 Datenanalyse | blooms: 4 Analysieren -->
+<!-- competency: 4.1 Datenanalyse | bloom: 4 Analysieren -->
 
 <!-- END: Annotieren mit Tools (optional) -->
 ```
@@ -82,16 +82,16 @@ Nach erfolgreichem Durchlaufen dieses JupyterNotebooks können im Erfolgsfall di
     überführt sowie die Prinzipien einer Filmontologie nachvollzogen werden. -->
 
 1. Die Grundprinzipien des Semantic Web können definiert und ihre Relevanz für filmwissenschaftliche Datenmodelle erläutert werden.
-<!-- competency: Orientierungswissen | blooms: 2 Verstehen -->
+<!-- competency: Orientierungswissen | bloom: 2 Verstehen -->
 
 2. Der Unterschied zwischen Freitextannotation und ontologiebasierter Annotation kann anhand konkreter Beispiele erklärt werden.
-<!-- competency: Orientierungswissen | blooms: 2 Verstehen -->
+<!-- competency: Orientierungswissen | bloom: 2 Verstehen -->
 
 3. Filmanalytische Grundbegriffe können in eine hierarchische Ontologiestruktur eingeordnet werden.
-<!-- competency: Orientierungswissen | blooms: 3 Anwenden -->
+<!-- competency: Orientierungswissen | bloom: 3 Anwenden -->
 
 4. Die Notwendigkeit eines einheitlichen Datenframeworks für vergleichende Filmanalysen kann argumentativ begründet werden.
-<!-- competency: 3.2 Erschließung | blooms: 5 Bewerten -->
+<!-- competency: 3.2 Erschließung | bloom: 5 Bewerten -->
 
 <!-- END: Einarbeiten in die Filmontologie -->
 ```
@@ -104,19 +104,19 @@ Nach erfolgreichem Durchlaufen dieses JupyterNotebooks können im Erfolgsfall di
     erhoben werden. -->
 
 1. Die Struktur der AdA-Filmontologie kann beschrieben und ihre methodischen Grundlagen erläutert werden.
-<!-- competency: Orientierungswissen | blooms: 2 Verstehen -->
+<!-- competency: Orientierungswissen | bloom: 2 Verstehen -->
 
 2. Die AdA-Filmontologie kann in Advene implementiert und für eigene Analysen konfiguriert werden.
-<!-- competency: 3.2 Erschließung | blooms: 3 Anwenden -->
+<!-- competency: 3.2 Erschließung | bloom: 3 Anwenden -->
 
 3. Ontologiebasierte Annotationen können zu einem gegebenen Video erstellt und methodisch begründet werden.
-<!-- competency: 2.1 Erhebung | blooms: 3 Anwenden -->
+<!-- competency: 2.1 Erhebung | bloom: 3 Anwenden -->
 
 4. Entscheidungsprozesse können bei der Anwendung der Ontologie dokumentiert und verglichen werden.
-<!-- competency: 2.2 Validierung | blooms: 4 Analysieren -->
+<!-- competency: 2.2 Validierung | bloom: 4 Analysieren -->
 
 5. Die Anpassungsmöglichkeiten der AdA-Filmontologie können für eigene Forschungskontexte evaluiert werden.
-<!-- competency: 2.2 Validierung | blooms: 5 Bewerten -->
+<!-- competency: 2.2 Validierung | bloom: 5 Bewerten -->
 
 <!-- END: Annotieren mit einer Filmontologie -->
 ```
@@ -129,19 +129,19 @@ Nach erfolgreichem Durchlaufen dieses JupyterNotebooks können im Erfolgsfall di
     und anschließend exploriert sowie filmanalytisch interpretiert werden. -->
 
 1. Die Funktionsweise der AdA-Timeline kann beschrieben und ihre Bedeutung für die filmanalytische Datenexploration erläutert werden.
-<!-- competency: Orientierungswissen | blooms: 2 Verstehen -->
+<!-- competency: Orientierungswissen | bloom: 2 Verstehen -->
 
 2. Die AdA-Timeline kann zur Visualisierung komplexer Annotationsdaten konfiguriert und angepasst werden.
-<!-- competency: 4.2 Visualisierung | blooms: 3 Anwenden -->
+<!-- competency: 4.2 Visualisierung | bloom: 3 Anwenden -->
 
 3. Temporale Verlaufsdynamiken affektiver Inszenierungsmuster können anhand der Visualisierung exploriert und identifiziert werden.
-<!-- competency: 4.1 Datenanalyse | blooms: 4 Analysieren -->
+<!-- competency: 4.1 Datenanalyse | bloom: 4 Analysieren -->
 
 4. Temporale und multimodale Verlaufsdynamiken von Gestaltungsweisen (z.B. Musik, Montage, Farb- und Helligkeitsbeziehungen) können gezielt visualisiert und ihre affektrhetorische Funktion für politische Zielsetzungen in Online-Videos zur Klimakrise interpretiert werden.
-<!-- competency: 4.3 Interpretation | blooms: 4 Analysieren -->
+<!-- competency: 4.3 Interpretation | bloom: 4 Analysieren -->
 
 5. Visualisierte Daten können für wissenschaftliche Präsentationen und Publikationen aufbereitet werden.
-<!-- competency: 2.3 Aufbereitung | blooms: 6 Erschaffen -->
+<!-- competency: 2.3 Aufbereitung | bloom: 6 Erschaffen -->
 
 <!-- END: Datenvisualisierung -->
 ```
@@ -154,13 +154,13 @@ Nach erfolgreichem Durchlaufen dieses JupyterNotebooks können im Erfolgsfall di
     Annotation kann zusammengefassst und die Methoden kritisch reflektiert werden. -->
 
 1. Der Übergang von tabellarischer Annotation zur Ontologie kann rekapituliert werden.
-<!-- competency: Orientierungswissen | blooms: 1 Erinnern -->
+<!-- competency: Orientierungswissen | bloom: 1 Erinnern -->
 
 2. Die Grenzen und Erweiterungsmöglichkeiten der AdA-Ontologie können reflektiert werden.
-<!-- competency: 2.2 Validierung | blooms: 5 Bewerten -->
+<!-- competency: 2.2 Validierung | bloom: 5 Bewerten -->
 
 3. Die Rolle quantitativer Datenproduktion als Hilfsmittel qualitativer Empirie kann eingeordnet und kritisch hinterfragt werden.
-<!-- competency: 2.2 Validierung | blooms: 5 Bewerten -->
+<!-- competency: 2.2 Validierung | bloom: 5 Bewerten -->
 
 <!-- END: Reflexion und Resümee -->
 ```

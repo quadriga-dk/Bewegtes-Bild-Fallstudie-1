@@ -19,7 +19,6 @@ from quadriga.metadata.create_zenodo_json import create_zenodo_json
 from quadriga.metadata.extract_from_book_config import extract_and_update
 from quadriga.metadata.update_citation_cff import update_citation
 from quadriga.metadata.validate_schema import validate_schema
-
 from quadriga.metadata.extract_from_lernziele import merge_learning_objectives_into_metadata
 
 logger = logging.getLogger(__name__)

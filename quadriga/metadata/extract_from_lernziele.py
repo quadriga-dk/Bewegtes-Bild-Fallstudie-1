@@ -5,14 +5,14 @@ import logging
 import re
 from pathlib import Path
 from typing import Any
-from .utils import get_repo_root, save_yaml_file, get_file_path, load_yaml_file
+from .utils import get_repo_root, save_yaml_file, get_file_path, load_yaml_file, iter_toc_files
 
 logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
 logger = logging.getLogger(__name__)
 
 
 DEFAULT_COMPETENCY = "nicht anwendbar"
-DEFAULT_BLOOMS = "nicht anwendbar"
+DEFAULT_BLOOM = "nicht anwendbar"
 DEFAULT_DATA_FLOW = "nicht anwendbar"
 
 
@@ -22,7 +22,7 @@ def normalize_whitespace(text: str) -> str:
 
 
 def parse_metadata_comment(comment: str) -> dict[str, str]:
-    """Parse 'competency: X | blooms: Y' from the inner text of an HTML comment."""
+    """Parse 'competency: X | bloom: Y' from the inner text of an HTML comment."""
     metadata = {}
 
     for part in comment.split('|'):
@@ -34,7 +34,7 @@ def parse_metadata_comment(comment: str) -> dict[str, str]:
         value = value.strip()
         if not value:
             continue
-        if key == 'blooms':
+        if key == 'bloom':
             metadata['blooms-category'] = value
         elif key == 'competency':
             metadata[key] = value
@@ -44,7 +44,7 @@ def parse_metadata_comment(comment: str) -> dict[str, str]:
 
 
 def validate_objective_metadata(objective_data: dict[str, Any]) -> list[str]:
-    """Fill in missing competency/blooms/data-flow defaults and return names of missing fields."""
+    """Fill in missing competency/bloom/data-flow defaults and return names of missing fields."""
     missing_fields = []
     
     if not objective_data.get('competency'):
@@ -53,7 +53,7 @@ def validate_objective_metadata(objective_data: dict[str, Any]) -> list[str]:
     
     if not objective_data.get('blooms-category'):
         missing_fields.append('blooms-category')
-        objective_data['blooms-category'] = DEFAULT_BLOOMS
+        objective_data['blooms-category'] = DEFAULT_BLOOM
     
     return missing_fields
 
@@ -151,7 +151,7 @@ def extract_admonition_blocks(
             if missing_fields:
                 validation_issues.append({
                     'section': section_title,
-                    'objective': objective_text[:60],
+                    'objective': objective_text,
                     'missing_fields': missing_fields
                 })
 
@@ -212,10 +212,10 @@ def generate_validation_report(
         for i, issue in enumerate(validation_issues, 1):
             report += f"{i}. Section: {issue['section']}\n"
             if 'objective' in issue:
-                report += f"   Objective: {issue['objective']}...\n"
+                report += f"   Objective: {issue['objective'][:60]}...\n"
             report += f"   Missing: {', '.join(issue['missing_fields'])}\n\n"
         report += "\nHow to fix:\n"
-        report += "  competency/blooms  → <!-- competency: X | blooms: Y --> after the objective\n"
+        report += "  competency/bloom   → <!-- competency: X | bloom: Y --> after the objective\n"
         report += "  learning-goal      → <!-- learning-goal: ... --> inside the admonition block\n"
         report += "  chapter            → <!-- START: ChapterName --> before the learning goal\n"
 
@@ -228,23 +228,21 @@ def merge_learning_objectives_into_metadata() -> bool:
     try:
         repo_root = get_repo_root()
 
-        excluded_parts = {"_build", "_jupyter_execute", "_sources", "__pycache__"}
+        toc_data = load_yaml_file(get_file_path("_toc.yml", repo_root))
 
-        def is_valid(f: Path) -> bool:
-            return (
-                not f.name.startswith('_')
-                and f.suffix != '.j2'
-                and not any(part in excluded_parts for part in f.parts)
-            )
-
-        patterns = ["**/[Ll]ernziel*.md", "**/*learning*objective*.md"]
-        md_file = next(
-            (f for pattern in patterns for f in repo_root.glob(pattern) if is_valid(f)),
-            None,
-        )
+        md_file = None
+        for file_str in iter_toc_files(toc_data or {}):
+            p = Path(file_str)
+            if re.search(r'lernziel|learning.?objective', p.stem, re.IGNORECASE):
+                if p.suffix not in [".md", ".ipynb"]:
+                    p = p.with_suffix(".md")
+                full_path = get_file_path(p, repo_root)
+                if full_path.exists():
+                    md_file = full_path
+                    break
 
         if md_file is None:
-            logger.warning("No Lernziele file found")
+            logger.warning("No Lernziele file found in _toc.yml")
             return True
 
         sections, validation_issues = extract_from_lernziele_file(md_file)
