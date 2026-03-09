@@ -8,9 +8,14 @@ Nach erfolgreichem Durchlaufen dieses JupyterNotebooks können im Erfolgsfall di
 <!-- START: Einführung -->
 
 
+<!-- START: E1 -->
+1. Die drei zentralen Forschungsfragen zu Affektrhetoriken in audiovisuellen Diskursen können benannt und deren Relevanz erläutert werden.
+
+<!-- END: E1 -->
+
 <!-- START: E2 -->
 2. Die eMAEX-Methode der empirischen Medienästhetik kann beschrieben und deren Anwendung in der Filmanalyse erklärt werden.
-
+<!-- competency: Orientierungswissen | -->
 <!-- END: E2 -->
 
 <!-- END: Einführung -->
