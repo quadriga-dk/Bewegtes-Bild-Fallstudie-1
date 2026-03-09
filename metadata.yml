@@ -97,8 +97,7 @@ chapters:
   url: https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_I/toc.html
   description: Erläuterung und Vermittlung der theoretischen und methodischen Grundlagen
     datengestützter Filmanalyse sowie Kontextualisierung des Untersuchungsgegenstandes.
-  learning-goal: Die Grundlagen datengestützter Filmanalyse können erklärt und die
-    zentralen Forschungsfragen der Fallstudie identifiziert werden.
+  learning-goal: TODO
   time-required: PT1H
   learning-objectives:
   - learning-objective: Die drei zentralen Forschungsfragen zu Affektrhetoriken in
@@ -283,9 +282,9 @@ chapters:
   learning-objectives:
   - learning-objective: Der Übergang von tabellarischer Annotation zur Ontologie kann
       rekapituliert werden.
-    competency: Orientierungswissen
-    data-flow: übergreifend
-    blooms-category: 1 Erinnern
+    competency: nicht anwendbar
+    data-flow: nicht anwendbar
+    blooms-category: nicht anwendbar
   - learning-objective: Die Grenzen und Erweiterungsmöglichkeiten der AdA-Ontologie
       können reflektiert werden.
     competency: 2.2 Validierung
