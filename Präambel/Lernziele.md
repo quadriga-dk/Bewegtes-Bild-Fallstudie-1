@@ -11,7 +11,7 @@ Nach erfolgreichem Durchlaufen dieses JupyterNotebooks können im Erfolgsfall di
 
 <!-- START: E1 -->
 1. Die drei zentralen Forschungsfragen zu Affektrhetoriken in audiovisuellen Diskursen können benannt und deren Relevanz erläutert werden.
-
+<!-- competency: Orientierungswissen | bloom: 2 Verstehen -->
 <!-- END: E1 -->
 
 <!-- START: E2 -->
