@@ -205,7 +205,7 @@
       "description": "Erläuterung und Vermittlung der theoretischen und methodischen Grundlagen datengestützter Filmanalyse sowie Kontextualisierung des Untersuchungsgegenstandes.",
       "url": "https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_I/toc.html",
       "timeRequired": "PT1H",
-      "teaches": "Die Grundlagen datengestützter Filmanalyse können erklärt und die zentralen Forschungsfragen der Fallstudie identifiziert werden.",
+      "teaches": "TODO",
       "educationalAlignment": [
         {
           "@type": "AlignmentObject",
@@ -415,7 +415,7 @@
           "@type": "AlignmentObject",
           "targetName": "Der Übergang von tabellarischer Annotation zur Ontologie kann rekapituliert werden.",
           "educationalFramework": "QUADRIGA Competency Framework",
-          "targetDescription": "Competency: Orientierungswissen | Bloom's: 1 Erinnern | Data Flow: übergreifend"
+          "targetDescription": "Competency: nicht anwendbar | Bloom's: nicht anwendbar | Data Flow: nicht anwendbar"
         },
         {
           "@type": "AlignmentObject",
