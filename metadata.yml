@@ -97,9 +97,9 @@ chapters:
   learning-objectives:
   - learning-objective: Die drei zentralen Forschungsfragen zu Affektrhetoriken in
       audiovisuellen Diskursen können benannt und deren Relevanz erläutert werden.
-    competency: Orientierungswissen
-    data-flow: übergreifend
-    blooms-category: 2 Verstehen
+    competency: nicht anwendbar
+    data-flow: nicht anwendbar
+    blooms-category: nicht anwendbar
   - learning-objective: Die eMAEX-Methode der empirischen Medienästhetik kann beschrieben
       und deren Anwendung in der Filmanalyse erklärt werden.
     competency: Orientierungswissen
@@ -272,8 +272,7 @@ chapters:
     von tabellarischer Annotation zur ontologiebasierten Filmanalyse sowie Einordnung
     quantitativer Datenproduktion als Hilfsmittel qualitativer Empirie.
   time-required: PT30M
-  learning-goal: Die Entwicklung von tabellarischer Annotation zur ontologiebasierten
-    Annotation kann zusammengefassst und die Methoden kritisch reflektiert werden.
+  learning-goal: TODO
   learning-objectives:
   - learning-objective: Der Übergang von tabellarischer Annotation zur Ontologie kann
       rekapituliert werden.

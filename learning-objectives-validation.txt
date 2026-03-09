@@ -1,14 +1,11 @@
-⚠️ Found 3 issues with missing metadata:
+⚠️ Found 2 issues with missing metadata:
 
 1. Section: Grundlagen datengestützter Filmanalyse
-   Missing: learning-goal
-
-2. Section: Grundlagen datengestützter Filmanalyse
-   Objective: Die eMAEX-Methode der empirischen Medienästhetik kann beschr...
+   Objective: Die drei zentralen Forschungsfragen zu Affektrhetoriken in a...
    Missing: competency, blooms-category
 
-3. Section: Grundlagen datengestützter Filmanalyse
-   Missing: chapter
+2. Section: Zusammenfassung und Reflexion der Entwicklung von tabellarischer Annotation zur strukturierten Ontologie
+   Missing: learning-goal
 
 
 How to fix:
