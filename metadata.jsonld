@@ -205,7 +205,7 @@
           "@type": "AlignmentObject",
           "targetName": "Die drei zentralen Forschungsfragen zu Affektrhetoriken in audiovisuellen Diskursen können benannt und deren Relevanz erläutert werden.",
           "educationalFramework": "QUADRIGA Competency Framework",
-          "targetDescription": "Competency: nicht anwendbar | Bloom's: nicht anwendbar | Data Flow: nicht anwendbar"
+          "targetDescription": "Competency: Orientierungswissen | Bloom's: 2 Verstehen | Data Flow: übergreifend"
         },
         {
           "@type": "AlignmentObject",
@@ -403,7 +403,7 @@
       "description": "Zusammenfassung und kritische Reflexion des methodischen Übergangs von tabellarischer Annotation zur ontologiebasierten Filmanalyse sowie Einordnung quantitativer Datenproduktion als Hilfsmittel qualitativer Empirie.",
       "url": "https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_III/toc.html",
       "timeRequired": "PT30M",
-      "teaches": "TODO",
+      "teaches": "Die Entwicklung von tabellarischer Annotation zur ontologiebasierten Annotation kann zusammengefassst und die Methoden kritisch reflektiert werden.",
       "educationalAlignment": [
         {
           "@type": "AlignmentObject",
