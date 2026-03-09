@@ -205,7 +205,7 @@
           "@type": "AlignmentObject",
           "targetName": "Die drei zentralen Forschungsfragen zu Affektrhetoriken in audiovisuellen Diskursen können benannt und deren Relevanz erläutert werden.",
           "educationalFramework": "QUADRIGA Competency Framework",
-          "targetDescription": "Competency: Orientierungswissen | Bloom's: 2 Verstehen | Data Flow: übergreifend"
+          "targetDescription": "Competency: nicht anwendbar | Bloom's: nicht anwendbar"
         },
         {
           "@type": "AlignmentObject",
@@ -223,12 +223,6 @@
       "timeRequired": "PT2H30M",
       "teaches": "Filmanalytische Daten zu audiovisuellem Material können systematisch anhand tabellarischer Annotation erhoben und ausgewertet werden.",
       "educationalAlignment": [
-        {
-          "@type": "AlignmentObject",
-          "targetName": "Die methodischen Grundlagen der tabellarischen Annotation können definiert und ihre Bedeutung für die filmanalytische Datenerhebung erläutert werden.",
-          "educationalFramework": "QUADRIGA Competency Framework",
-          "targetDescription": "Competency: Orientierungswissen | Bloom's: 1 Erinnern | Data Flow: übergreifend"
-        },
         {
           "@type": "AlignmentObject",
           "targetName": "Zeitbasierte Metadaten zu filmischem Bewegtbildmaterial können systematisch in tabellarischer Form erfasst und die Unterschiede zwischen den Segmentierungsformen in der Anwendung begründet werden.",
