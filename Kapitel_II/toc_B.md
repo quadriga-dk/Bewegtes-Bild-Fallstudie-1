@@ -5,13 +5,13 @@
 - [](./Aufgabe_B_UK-2.md)
 - [](./Aufgabe_B_UK-3.md)
 
-```{admonition} Erhebung filmanalytischer Daten anhand Freitextannotationen mit digitalen Tools
+````{admonition} Erhebung filmanalytischer Daten anhand Freitextannotationen mit digitalen Tools
 :class: lernziele
-1. Die zentralen Funktionen der Annotationstools Advene und ELAN können verstanden und für filmanalytische Zwecke angewendet werden.
-2. Ein filmanalytischer Datensatz kann in den Annotationstools erstellt werden.
-3. Zwischen den verschiedenen Annotationstypen und Werten kann differenziert und ihr Einsatz für spezifische filmanalytische Fragestellungen begründen werden.
-4. Die Unterschiede in der Datenqualität zwischen manueller tabellarischer und toolbasierter Annotation können analysiert und bewertet werden.
+```{include} ../Präambel/Lernziele.md
+:start-after: "<!-- START: Annotieren mit Tools (optional) -->"
+:end-before: "<!-- END: Annotieren mit Tools (optional) -->"
 ```
+````
 
 ````{margin}
 ```{admonition} Siehe auch
