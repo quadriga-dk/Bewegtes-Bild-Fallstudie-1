@@ -63,10 +63,13 @@ jobs:
 
       - name: Stage metadata files
         run: |
-          # Add all metadata files that exist (handles both new and modified files)
-          for file in metadata.yml CITATION.bib CITATION.cff .zenodo.json metadata.jsonld metadata.rdf; do
-            [ -f "$file" ] && git add "$file"
-          done
+          git add metadata.yml 2>/dev/null || true
+          git add CITATION.bib 2>/dev/null || true
+          git add CITATION.cff 2>/dev/null || true
+          git add .zenodo.json 2>/dev/null || true
+          git add metadata.jsonld 2>/dev/null || true
+          git add metadata.rdf 2>/dev/null || true
+          git add learning-objectives-validation.txt 2>/dev/null || true
 
       - name: Check if files staged
         id: check_changes
