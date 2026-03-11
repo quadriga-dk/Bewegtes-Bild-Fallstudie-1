@@ -232,7 +232,7 @@ def merge_learning_objectives_into_metadata() -> bool:
         md_file = None
         for file_str in iter_toc_files(toc_data or {}):
             p = Path(file_str)
-            if re.search(r'lernziel|learning.?objective', p.stem, re.IGNORECASE):
+            if re.search(r'lernziel|learning.?objective|learning.?outcome', p.stem, re.IGNORECASE):
                 if p.suffix not in [".md", ".ipynb"]:
                     p = p.with_suffix(".md")
                 full_path = get_file_path(p, repo_root)
