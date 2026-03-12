@@ -7,14 +7,14 @@
 - [ ] Aktualität und Relevanz
 - [ ] Fachliche Korrektheit
 - [ ] Verständlichkeit/Nachvollziehbarkeit
-- [ ] Rechtliche (und ethische) Aspekte
+- [x] Rechtliche (und ethische) Aspekte
 
 ---
 
 ## Didaktik
-- [ ] Zielgruppe
+- [x] Zielgruppe
 - [ ] Vorwissen
-- [ ] Lernziele
+- [x] Lernziele
 - [ ] Dauer
 - [ ] Vermittlungswege
 - [ ] Assessment
@@ -23,7 +23,7 @@
 ---
 
 ## Technik
-- [ ] Funktionsfähigkeit
+- [x] Funktionsfähigkeit
 - [ ] Code-Abhängigkeiten
 - [ ] Dateiformate
 - [ ] Open Source Tools
@@ -31,11 +31,11 @@
 ---
 
 ## Formalia
-- [ ] Struktur und Gestaltung
+- [x] Struktur und Gestaltung
 - [ ] Modularität
 - [ ] Wissenschaftlicher Standard
 - [ ] Formale Korrektheit
-- [ ] Vollständigkeit
+- [x] Vollständigkeit
 - [ ] Kommentarfunktion
 
 ---
