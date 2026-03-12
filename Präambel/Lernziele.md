@@ -57,6 +57,10 @@ Nach erfolgreichem Durchlaufen dieses JupyterNotebooks können im Erfolgsfall di
 <!-- learning-goal: Filmanalytische Daten können mit digitalen Annotationstools systematisch
     erhoben und die Qualität verschiedener Annotationsverfahren bewertet werden. -->
 
+<!-- START: Annotieren mit Tools (optional) -->
+<!-- learning-goal: Filmanalytische Daten können mit digitalen Annotationstools systematisch
+    erhoben und die Qualität verschiedener Annotationsverfahren bewertet werden. -->
+
 1. Die zentralen Funktionen der Annotationstools Advene und ELAN können verstanden und für filmanalytische Zwecke angewendet werden.
 <!-- competency: 3.2 Erschließung | bloom: 3 Anwenden -->
 
@@ -78,6 +82,10 @@ Nach erfolgreichem Durchlaufen dieses JupyterNotebooks können im Erfolgsfall di
 <!-- learning-goal: Filmanalytische Konzepte können in semantische Triple nach Ontologiestruktur
     überführt sowie die Prinzipien einer Filmontologie nachvollzogen werden. -->
 
+<!-- START: Einarbeiten in die Filmontologie -->
+<!-- learning-goal: Filmanalytische Konzepte können in semantische Triple nach Ontologiestruktur
+    überführt sowie die Prinzipien einer Filmontologie nachvollzogen werden. -->
+
 1. Die Grundprinzipien des Semantic Web können definiert und ihre Relevanz für filmwissenschaftliche Datenmodelle erläutert werden.
 <!-- competency: Orientierungswissen | bloom: 2 Verstehen -->
 
@@ -96,6 +104,10 @@ Nach erfolgreichem Durchlaufen dieses JupyterNotebooks können im Erfolgsfall di
 ```{admonition} [Erhebung filmanalytischer Daten durch digitale Annotation mit einer Filmontologie](annotieren:ontologie)
 :class: lernziele
 
+<!-- learning-goal:Filmanalytische Daten können mit digitalen Annotationverfahren ontologiebasiert
+    erhoben werden. -->
+
+<!-- START: Annotieren mit einer Filmontologie -->
 <!-- learning-goal:Filmanalytische Daten können mit digitalen Annotationverfahren ontologiebasiert
     erhoben werden. -->
 
@@ -144,6 +156,10 @@ Nach erfolgreichem Durchlaufen dieses JupyterNotebooks können im Erfolgsfall di
 ```{admonition} [Zusammenfassung und Reflexion der Entwicklung von tabellarischer Annotation zur strukturierten Ontologie](reflexion:resümee)
 :class: lernziele
 
+<!-- learning-goal: Die Entwicklung von tabellarischer Annotation zur ontologiebasierten
+    Annotation kann zusammengefassst und die Methoden kritisch reflektiert werden. -->
+
+<!-- START: Reflexion und Resümee -->
 <!-- learning-goal: Die Entwicklung von tabellarischer Annotation zur ontologiebasierten
     Annotation kann zusammengefassst und die Methoden kritisch reflektiert werden. -->
 

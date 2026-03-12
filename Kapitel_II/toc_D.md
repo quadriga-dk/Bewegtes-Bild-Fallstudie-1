@@ -12,6 +12,7 @@
 :end-before: "<!-- END: Annotieren mit einer Filmontologie -->"
 ```
 
+
 In diesem Kapitel erstellen wir Annotationen mit einer Filmontologie.
 +++
 *Wir befinden uns hier:*

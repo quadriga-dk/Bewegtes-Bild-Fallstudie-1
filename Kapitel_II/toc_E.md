@@ -12,6 +12,7 @@
 :end-before: "<!-- END: Datenvisualisierung -->"
 ```
 
+
 In diesem Kapitel visualisieren wir die mit der AdA-Ontologie erstellten Annotationen.
 +++
 *Wir befinden uns hier:*

@@ -7,12 +7,10 @@
 - [](./Aufgabe_A_UK-4.md)
 
 
-
 ```{include} ../Präambel/Lernziele.md
 :start-after: "<!-- START: Tabellarische Annotation (optional) -->"
 :end-before: "<!-- END: Tabellarische Annotation (optional) -->"
 ```
-
 In diesem Kapitel werden die Grundlagen tabellarischer Annotationsarbeit abgedeckt.
 
 *Wir befinden uns hier:*

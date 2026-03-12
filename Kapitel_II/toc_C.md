@@ -11,6 +11,7 @@
 :end-before: "<!-- END: Einarbeiten in die Filmontologie -->"
 ```
 
+
 In diesem Kapitel sollen die Prinzpien von Semantic Web anhand der Überführung filmanalytischen Grundvokabulars in eine Ontolgie nachvollzogen und reproduziert werden.
 +++
 *Wir befinden uns hier:*

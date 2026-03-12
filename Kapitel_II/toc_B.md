@@ -5,7 +5,6 @@
 - [](./Aufgabe_B_UK-2.md)
 - [](./Aufgabe_B_UK-3.md)
 
-
 ```{include} ../Präambel/Lernziele.md
 :start-after: "<!-- START: Annotieren mit Tools (optional) -->"
 :end-before: "<!-- END: Annotieren mit Tools (optional) -->"
