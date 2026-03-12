@@ -5,11 +5,10 @@
 - [](./Empirische_Methoden.md)
 - [](./Untersuchungsgegenstand.md)
 
-````{admonition} Grundlagen datengestützter Filmanalyse
-:class: lernziele
+
 
 ```{include} ../Präambel/Lernziele.md
 :start-after: "<!-- START: Einführung -->"
 :end-before: "<!-- END: Einführung -->"
 ```
-````
+

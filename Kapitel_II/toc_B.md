@@ -5,13 +5,12 @@
 - [](./Aufgabe_B_UK-2.md)
 - [](./Aufgabe_B_UK-3.md)
 
-````{admonition} Erhebung filmanalytischer Daten anhand Freitextannotationen mit digitalen Tools
-:class: lernziele
+
 ```{include} ../Präambel/Lernziele.md
 :start-after: "<!-- START: Annotieren mit Tools (optional) -->"
 :end-before: "<!-- END: Annotieren mit Tools (optional) -->"
 ```
-````
+
 
 ````{margin}
 ```{admonition} Siehe auch

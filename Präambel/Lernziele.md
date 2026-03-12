@@ -2,10 +2,10 @@
 
 Nach erfolgreichem Durchlaufen dieses JupyterNotebooks können im Erfolgsfall die folgenden Lernziele erreicht werden:
 
-```{admonition} [Grundlagen datengestützter Filmanalyse](einführung:filmanalyse)
-:class: lernziele, dropdown
-
 <!-- START: Einführung -->
+```{admonition} [Grundlagen datengestützter Filmanalyse](einführung:filmanalyse)
+:class: lernziele
+
 <!-- learning-goal: Die Grundlagen datengestützter Filmanalyse können erklärt und die
     zentralen Forschungsfragen der Fallstudie identifiziert werden. -->
 
@@ -18,14 +18,13 @@ Nach erfolgreichem Durchlaufen dieses JupyterNotebooks können im Erfolgsfall di
 2. Die eMAEX-Methode der empirischen Medienästhetik kann beschrieben und deren Anwendung in der Filmanalyse erklärt werden.
 <!-- competency: Orientierungswissen | bloom: 2 Verstehen -->
 <!-- END: E2 -->
-
-<!-- END: Einführung -->
 ```
-
-```{admonition} [Erhebung filmanalytischer Daten zu audiovisuellem Material anhand tabellarischer Annotation](tabellarische:annotation) (*optional*)
-:class: lernziele, dropdown
+<!-- END: Einführung -->
 
 <!-- START: Tabellarische Annotation (optional) -->
+```{admonition} [Erhebung filmanalytischer Daten zu audiovisuellem Material anhand tabellarischer Annotation](tabellarische:annotation) (*optional*)
+:class: lernziele
+
 <!-- learning-goal: Filmanalytische Daten zu audiovisuellem Material können systematisch
     anhand tabellarischer Annotation erhoben und ausgewertet werden. -->
 
@@ -48,14 +47,13 @@ Nach erfolgreichem Durchlaufen dieses JupyterNotebooks können im Erfolgsfall di
 4. Die Grenzen und Möglichkeiten tabellarischer Annotation für affektrhetorische Analysen können reflektiert werden.
 <!-- competency: 1.2 Qualitätssicherung | bloom: 3 Anwenden -->
 <!-- END: TA4 -->
-
-<!-- END: Tabellarische Annotation (optional) -->
 ```
-
-```{admonition} [Erhebung filmanalytischer Daten anhand Freitextannotationen mit digitalen Tools](annotation:tools) (*optional*)
-:class: lernziele, dropdown
+<!-- END: Tabellarische Annotation (optional) -->
 
 <!-- START: Annotieren mit Tools (optional) -->
+```{admonition} [Erhebung filmanalytischer Daten anhand Freitextannotationen mit digitalen Tools](annotation:tools) (*optional*)
+:class: lernziele
+
 <!-- learning-goal: Filmanalytische Daten können mit digitalen Annotationstools systematisch
     erhoben und die Qualität verschiedener Annotationsverfahren bewertet werden. -->
 
@@ -70,14 +68,13 @@ Nach erfolgreichem Durchlaufen dieses JupyterNotebooks können im Erfolgsfall di
 
 4. Die Unterschiede in der Datenqualität zwischen manueller tabellarischer und toolbasierter Annotation können analysiert und bewertet werden.
 <!-- competency: 4.1 Datenanalyse | bloom: 4 Analysieren -->
-
-<!-- END: Annotieren mit Tools (optional) -->
 ```
-
-```{admonition} [Überführung filmanalytischer Konzepte in semantische Triple nach Ontologiestruktur](einarbeiten:ontologie)
-:class: lernziele, dropdown
+<!-- END: Annotieren mit Tools (optional) -->
 
 <!-- START: Einarbeiten in die Filmontologie -->
+```{admonition} [Überführung filmanalytischer Konzepte in semantische Triple nach Ontologiestruktur](einarbeiten:ontologie)
+:class: lernziele
+
 <!-- learning-goal: Filmanalytische Konzepte können in semantische Triple nach Ontologiestruktur
     überführt sowie die Prinzipien einer Filmontologie nachvollzogen werden. -->
 
@@ -92,14 +89,13 @@ Nach erfolgreichem Durchlaufen dieses JupyterNotebooks können im Erfolgsfall di
 
 4. Die Notwendigkeit eines einheitlichen Datenframeworks für vergleichende Filmanalysen kann argumentativ begründet werden.
 <!-- competency: 3.2 Erschließung | bloom: 5 Bewerten -->
-
-<!-- END: Einarbeiten in die Filmontologie -->
 ```
-
-```{admonition} [Erhebung filmanalytischer Daten durch digitale Annotation mit einer Filmontologie](annotieren:ontologie)
-:class: lernziele, dropdown
+<!-- END: Einarbeiten in die Filmontologie -->
 
 <!-- START: Annotieren mit einer Filmontologie -->
+```{admonition} [Erhebung filmanalytischer Daten durch digitale Annotation mit einer Filmontologie](annotieren:ontologie)
+:class: lernziele
+
 <!-- learning-goal:Filmanalytische Daten können mit digitalen Annotationverfahren ontologiebasiert
     erhoben werden. -->
 
@@ -117,14 +113,13 @@ Nach erfolgreichem Durchlaufen dieses JupyterNotebooks können im Erfolgsfall di
 
 5. Die Anpassungsmöglichkeiten der AdA-Filmontologie können für eigene Forschungskontexte evaluiert werden.
 <!-- competency: 2.2 Validierung | bloom: 5 Bewerten -->
-
-<!-- END: Annotieren mit einer Filmontologie -->
 ```
-
-```{admonition} [Syntaxbasierte Datenvisualisierung -,exploration und -interpretation](visualisierung:daten)
-:class: lernziele, dropdown
+<!-- END: Annotieren mit einer Filmontologie -->
 
 <!-- START: Datenvisualisierung -->
+```{admonition} [Syntaxbasierte Datenvisualisierung -,exploration und -interpretation](visualisierung:daten)
+:class: lernziele
+
 <!-- learning-goal: Ontologiebasierte Annotationsdaten können mit der AdA-Timeline konfiguriert
     und anschließend exploriert sowie filmanalytisch interpretiert werden. -->
 
@@ -142,14 +137,13 @@ Nach erfolgreichem Durchlaufen dieses JupyterNotebooks können im Erfolgsfall di
 
 5. Visualisierte Daten können für wissenschaftliche Präsentationen und Publikationen aufbereitet werden.
 <!-- competency: 2.3 Aufbereitung | bloom: 6 Erschaffen -->
-
-<!-- END: Datenvisualisierung -->
 ```
-
-```{admonition} [Zusammenfassung und Reflexion der Entwicklung von tabellarischer Annotation zur strukturierten Ontologie](reflexion:resümee)
-:class: lernziele, dropdown
+<!-- END: Datenvisualisierung -->
 
 <!-- START: Reflexion und Resümee -->
+```{admonition} [Zusammenfassung und Reflexion der Entwicklung von tabellarischer Annotation zur strukturierten Ontologie](reflexion:resümee)
+:class: lernziele
+
 <!-- learning-goal: Die Entwicklung von tabellarischer Annotation zur ontologiebasierten
     Annotation kann zusammengefassst und die Methoden kritisch reflektiert werden. -->
 
@@ -161,6 +155,5 @@ Nach erfolgreichem Durchlaufen dieses JupyterNotebooks können im Erfolgsfall di
 
 3. Die Rolle quantitativer Datenproduktion als Hilfsmittel qualitativer Empirie kann eingeordnet und kritisch hinterfragt werden.
 <!-- competency: 2.2 Validierung | bloom: 5 Bewerten -->
-
-<!-- END: Reflexion und Resümee -->
 ```
+<!-- END: Reflexion und Resümee -->
