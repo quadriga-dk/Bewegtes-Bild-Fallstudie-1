@@ -5,14 +5,13 @@
 - [](./Aufgabe_D_UK-2.md)
 - [](./Aufgabe_D_UK-3.md)
 
-````{admonition} Erhebung filmanalytischer Daten durch digitale Annotation mit einer Filmontologie
-:class: lernziele
+
 
 ```{include} ../Präambel/Lernziele.md
 :start-after: "<!-- START: Annotieren mit einer Filmontologie -->"
 :end-before: "<!-- END: Annotieren mit einer Filmontologie -->"
 ```
-````
+
 
 In diesem Kapitel erstellen wir Annotationen mit einer Filmontologie.
 +++

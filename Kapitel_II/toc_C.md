@@ -5,14 +5,12 @@
 - [](./Aufgabe_C_UK-2.md)
 - [](./Aufgabe_C_UK-3.md)
 
-````{admonition} Überführung filmanalytischer Konzepte in semantische Triple nach Ontologiestruktur
-:class: lernziele
 
 ```{include} ../Präambel/Lernziele.md
 :start-after: "<!-- START: Einarbeiten in die Filmontologie -->"
 :end-before: "<!-- END: Einarbeiten in die Filmontologie -->"
 ```
-````
+
 
 In diesem Kapitel sollen die Prinzpien von Semantic Web anhand der Überführung filmanalytischen Grundvokabulars in eine Ontolgie nachvollzogen und reproduziert werden.
 +++

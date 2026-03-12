@@ -5,14 +5,13 @@
 - [](./Aufgabe_E_UK-2.md)
 - [](./Aufgabe_E_UK-3.md)
 
-````{admonition} Syntaxbasierte Datenvisualisierung -,exploration und -interpretation
-:class: lernziele
+
 
 ```{include} ../Präambel/Lernziele.md
 :start-after: "<!-- START: Datenvisualisierung -->"
 :end-before: "<!-- END: Datenvisualisierung -->"
 ```
-````
+
 
 In diesem Kapitel visualisieren wir die mit der AdA-Ontologie erstellten Annotationen.
 +++
