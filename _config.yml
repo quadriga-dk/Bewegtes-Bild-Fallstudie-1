@@ -12,11 +12,13 @@ exclude_patterns:
     "**.ipynb_checkpoints",
     conda,
     venv,
+    .venv,
     README.md,
     LICENSE.md,
     "**-Reviewbogen.md",
     "Reviewbogen.md",
     "Checkliste_Finalisierung.md",
+    "Checkliste_Qualitätssicherung.md",
     "Dokumentation_Videolizenz_350org.md",
   ]
 
