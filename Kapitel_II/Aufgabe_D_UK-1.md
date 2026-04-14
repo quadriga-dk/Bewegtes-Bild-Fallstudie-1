@@ -20,7 +20,7 @@ from quadriga import colors
 (Schritte-und-Arbeitsprozess)=
 # Annotation mit dem AdA-Template: Schritte und Arbeitsprozess
 
-Für die Arbeit mit dem AdA-Template muss Advene installiert sein und ausgeführt werden. Installationsanweisungen und Hinweise gibt unter [Technische Voraussetzungen](../Präambel/Technische%20Voraussetzungen.md).
+Für die Arbeit mit dem AdA-Template muss Advene installiert sein und ausgeführt werden. Installationsanweisungen und Hinweise gibt unter [Technische Voraussetzungen](../Einstieg/Technische%20Voraussetzungen.md).
 
 ```{admonition} Übungsaufgabe
 :class: exercise
@@ -37,7 +37,7 @@ In den folgenden Abschnitten finden Sie eine detaillierte Beschreibung des gesam
 ### Einrichtung und Vorbereitung der Annotationsumgebung
 
 1.	Installieren Sie Advene und laden sie das [AdA-Template](../assets/AdA_template_07_2021.azp), die [AdA-Filmontologie](../assets/Ada_Filmontologie_Deu_23_07_2021.pdf) und das [Manual](../assets/Manual_Advene_AdA_D_Vers1_0.pdf) herunter.
-2.	Starten Sie Advene. Wird die Developement-Version von Advene über eine virtuelle Maschine für Linux genutzt, muss einer dieser beiden Befehle im Ubuntu-Terminal eingegeben werden: 
+2.	Starten Sie Advene. Wird die Developement-Version von Advene über eine virtuelle Maschine für Linux genutzt, muss einer dieser beiden Befehle im Ubuntu-Terminal eingegeben werden:
 `cd src/advene` oder `GDK_BACKEND=x11 advene`.
 Advene öffnet automatisch bei jedem Start ein neues Paket als advenespezifische **.azp-Datei**
 3.	Importieren sie das AdA-Template (.azp-Datei) in das Paket und verknüpfen Sie das Video (<a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=71ca2ea8-b7ee-492f-a9ef-b20300a665d3&start=126" target="_blank" class="external-link" >Video: Ada-Template: Package</a>, Manual: S. 4)

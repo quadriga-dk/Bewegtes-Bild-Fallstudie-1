@@ -5,7 +5,7 @@
 - [](./Aufgabe_B_UK-2.md)
 - [](./Aufgabe_B_UK-3.md)
 
-```{include} ../Präambel/Lernziele.md
+```{include} ../Einstieg/Lernziele.md
 :start-after: "<!-- START: Annotieren mit Tools (optional) -->"
 :end-before: "<!-- END: Annotieren mit Tools (optional) -->"
 ```
@@ -26,7 +26,7 @@ Hierzu wird zunächst eine Parameterbestimmung und -erweiterung vorgenommen. Mit
 
 ```{admonition} Bearbeitungszeit
 :class: zeitinfo
-Die geschätzte Bearbeitungszeit dieser Lerneinheit beträgt ca. 90-120 Min. Dies schließt die gekennzeichneten Übungsaufgaben, deren Bearbeitungsdauer individuell variiert, aus. 
+Die geschätzte Bearbeitungszeit dieser Lerneinheit beträgt ca. 90-120 Min. Dies schließt die gekennzeichneten Übungsaufgaben, deren Bearbeitungsdauer individuell variiert, aus.
 
 Die geschätzte Bearbeitungszeit **inklusive** der Übungsaufgaben kann mehrere Stunden in Anspruch nehmen. Die Dauer variiert je nach individuellem Tempo bei der Erstellung der Annotationspakete. Im Durchschnitt sollten Sie etwa 5 Stunden einplanen, inklusive der Erstellung eines Annotationsdatensets in einem der Programme (Advene oder ELAN).
 

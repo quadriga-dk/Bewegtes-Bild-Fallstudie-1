@@ -6,7 +6,7 @@
 - [](./Untersuchungsgegenstand.md)
 
 
-```{include} ../Präambel/Lernziele.md
+```{include} ../Einstieg/Lernziele.md
 :start-after: "<!-- START: Einführung -->"
 :end-before: "<!-- END: Einführung -->"
 ```
