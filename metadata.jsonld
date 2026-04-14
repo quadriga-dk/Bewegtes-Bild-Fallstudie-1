@@ -19,7 +19,7 @@
     "value": "10.5281/zenodo.15585269",
     "url": "https://doi.org/10.5281/zenodo.15585269"
   },
-  "version": "1.0.0",
+  "version": "1.0.0-beta.3",
   "schemaVersion": "1.0.0",
   "url": "https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/",
   "workExample": {
@@ -28,7 +28,7 @@
     "codeRepository": "https://github.com/quadriga-dk/Bewegtes-Bild-Fallstudie-1"
   },
   "datePublished": "2025-06-04",
-  "dateModified": "2026-02-19",
+  "dateModified": "2026-04-14",
   "author": [
     {
       "@type": "Person",
@@ -432,7 +432,7 @@
       ]
     }
   ],
-  "dcterms:tableOfContents": "- Präambel\n- Einführung\n- Tabellarische Annotation (optional)\n- Annotieren mit Tools (optional)\n- Einarbeiten in die Filmontologie\n- Annotieren mit einer Filmontologie\n- Datenvisualisierung\n- Reflexion und Resümee\n- Epilog",
+  "dcterms:tableOfContents": "- Einstieg\n- Einführung\n- Tabellarische Annotation (optional)\n- Annotieren mit Tools (optional)\n- Einarbeiten in die Filmontologie\n- Annotieren mit einer Filmontologie\n- Datenvisualisierung\n- Reflexion und Resümee\n- Abschluss",
   "funding": "Die vorliegenden Open Educational Resources wurden durch das Datenkompetenzzentrum QUADRIGA erstellt.\n\nFörderkennzeichen: 16DKZ2034",
   "learningResourceType": "Jupyter Book",
   "lrmi:learningResourceType": "Jupyter Book",

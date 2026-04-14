@@ -26,7 +26,7 @@ description: Diese OER vermittelt datengestützte Methoden der Filmanalyse mit d
   Annotationswerkzeugen. Anhand eines Online-Videos zur Klimakrise werden audiovisuelle
   Inszenierungsmuster analysiert, um affektive Rhetoriken politischer Zielsetzungen
   zu erkennen und zu verstehen.
-table-of-contents: '- Präambel
+table-of-contents: '- Einstieg
 
   - Einführung
 
@@ -42,7 +42,7 @@ table-of-contents: '- Präambel
 
   - Reflexion und Resümee
 
-  - Epilog'
+  - Abschluss'
 discipline:
 - Digital Humanities
 research-object-type:
@@ -297,8 +297,8 @@ chapters:
     data-flow: 2 Erhebung und Aufbereitung
     blooms-category: 5 Bewerten
 date-issued: '2025-06-04'
-date-modified: '2026-02-19'
-version: 1.0.0
+date-modified: '2026-04-14'
+version: 1.0.0-beta.3
 context-of-creation: 'Die vorliegenden Open Educational Resources wurden durch das
   Datenkompetenzzentrum QUADRIGA erstellt.
 
@@ -306,7 +306,7 @@ context-of-creation: 'Die vorliegenden Open Educational Resources wurden durch d
   Förderkennzeichen: 16DKZ2034'
 quality-assurance:
   description: https://doi.org/10.5281/zenodo.18953896
-  date: '2026-11-14'
+  date: '2026-04-14'
 learning-resource-type: Jupyter Book
 license:
   code: https://opensource.org/licenses/AGPL-3.0
