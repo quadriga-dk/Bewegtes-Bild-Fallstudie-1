@@ -6,7 +6,7 @@
 
 
 
-```{include} ../Präambel/Lernziele.md
+```{include} ../Einstieg/Lernziele.md
 :start-after: "<!-- START: Reflexion und Resümee -->"
 :end-before: "<!-- END: Reflexion und Resümee -->"
 ```

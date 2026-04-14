@@ -79,11 +79,11 @@ def iter_toc_files(node: dict | list):
     Example — given::
 
         chapters:
-          - file: Präambel/toc
+          - file: Einstieg/toc
             sections:
-              - file: Präambel/Lernziele
+              - file: Einstieg/Lernziele
 
-    Yields: ``"Präambel/toc"``, ``"Präambel/Lernziele"``
+    Yields: ``"Einstieg/toc"``, ``"Einstieg/Lernziele"``
     """
     if isinstance(node, dict):
         if "file" in node:

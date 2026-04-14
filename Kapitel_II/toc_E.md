@@ -7,7 +7,7 @@
 
 
 
-```{include} ../Präambel/Lernziele.md
+```{include} ../Einstieg/Lernziele.md
 :start-after: "<!-- START: Datenvisualisierung -->"
 :end-before: "<!-- END: Datenvisualisierung -->"
 ```
@@ -23,7 +23,7 @@ Im vorangegangen Kapitel haben wir ein Annotationspaket mit der AdA-Ontologie er
 
 ```{admonition} Bearbeitungszeit
 :class: zeitinfo
-Die geschätzte Bearbeitungszeit dieser Lerneinheit beträgt ca. 45-60 Min. Dies schließt die gekennzeichneten Übungsaufgaben, deren Bearbeitungsdauer individuell variiert, aus. 
+Die geschätzte Bearbeitungszeit dieser Lerneinheit beträgt ca. 45-60 Min. Dies schließt die gekennzeichneten Übungsaufgaben, deren Bearbeitungsdauer individuell variiert, aus.
 
 Die geschätzte Bearbeitungsdauer **inklusive** der einzelnen Übungsaufgaben beträgt ca. 4 bis 4,5 Stunden.
 

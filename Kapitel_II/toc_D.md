@@ -7,7 +7,7 @@
 
 
 
-```{include} ../Präambel/Lernziele.md
+```{include} ../Einstieg/Lernziele.md
 :start-after: "<!-- START: Annotieren mit einer Filmontologie -->"
 :end-before: "<!-- END: Annotieren mit einer Filmontologie -->"
 ```
@@ -19,7 +19,7 @@ In diesem Kapitel erstellen wir Annotationen mit einer Filmontologie.
 ![Aufgabe 3](../assets/Aufgabenstruktur-04.png)
 
 Im vorigen Kapitel haben wir gezeigt, wie anhand von Semantic Web Prinzipien eine filmanalytische Ontologie entstehen kann. Mehr Infos dazu, was eine filmanalytische Datenontolgie ist und leistet, gibt es [hier](Aufgabe_C) <br>
-In diesem Schritt soll es nun darum gehen mit der AdA-Filmontologie in der Videoannotationssoftware <a href="https://www.advene.org/" class="external-link" target="_blank">Advene</a> zu arbeiten. 
+In diesem Schritt soll es nun darum gehen mit der AdA-Filmontologie in der Videoannotationssoftware <a href="https://www.advene.org/" class="external-link" target="_blank">Advene</a> zu arbeiten.
 
 ```{admonition} Kurz erklärt: Was ist die AdA-Filmontologie?
 :class: hinweis, dropdown
@@ -29,7 +29,7 @@ Hierzu werden im ersten Teil die jeweiligen [Schritte und der Workflow für die 
 
 ```{admonition} Bearbeitungszeit
 :class: zeitinfo
-Die geschätzte Bearbeitungszeit dieser Lerneinheit beträgt ca. 45-60 Min. Dies schließt die gekennzeichneten Übungsaufgaben, deren Bearbeitungsdauer individuell variiert, aus. 
+Die geschätzte Bearbeitungszeit dieser Lerneinheit beträgt ca. 45-60 Min. Dies schließt die gekennzeichneten Übungsaufgaben, deren Bearbeitungsdauer individuell variiert, aus.
 
 Die geschätzte Bearbeitungsdauer **inklusive** der einzelnen Übungsaufgaben beträgt ca. 4,5 bis 5 Stunden.
 

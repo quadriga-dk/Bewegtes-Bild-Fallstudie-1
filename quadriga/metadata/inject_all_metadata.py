@@ -164,9 +164,7 @@ def _build_chapter_lookup(jsonld_data: dict) -> dict[str, dict]:
     return lookup
 
 
-def _match_toc_file_to_chapter(
-    toc_file: str, chapter_lookup: dict[str, dict]
-) -> dict | None:
+def _match_toc_file_to_chapter(toc_file: str, chapter_lookup: dict[str, dict]) -> dict | None:
     """
     Match a _toc.yml file path to a metadata.jsonld chapter entry.
 
@@ -239,7 +237,7 @@ def get_html_path_from_url(url: str, build_dir: Path) -> Path | None:
     Extract the HTML file path from a chapter URL.
 
     Args:
-        url (str): Full URL like "https://quadriga-dk.github.io/Book_Template/präambel/toc.html"
+        url (str): Full URL like "https://quadriga-dk.github.io/Book_Template/einstieg/toc.html"
         build_dir (Path): Path to _build/html directory
 
     Returns
@@ -258,8 +256,8 @@ def get_html_path_from_url(url: str, build_dir: Path) -> Path | None:
         path = path.removeprefix("/")
 
         # If base_url provided, try to extract relative path
-        # e.g., from "https://quadriga-dk.github.io/Book_Template/präambel/toc.html"
-        # we want "präambel/toc.html"
+        # e.g., from "https://quadriga-dk.github.io/Book_Template/einstieg/toc.html"
+        # we want "einstieg/toc.html"
         parts = path.split("/")
         if len(parts) > 1:
             # Assume first part might be the repo name, try both with and without it
@@ -993,14 +991,14 @@ def inject_all_metadata(
                 # Resolve HTML path from _toc.yml file entry
                 # _toc.yml may have paths with or without extensions
                 # e.g., "einstieg/einleitung.md" or "abschluss/toc"
-                toc_stem = str(Path(toc_file).with_suffix("")) if Path(toc_file).suffix else toc_file
+                toc_stem = (
+                    str(Path(toc_file).with_suffix("")) if Path(toc_file).suffix else toc_file
+                )
                 html_relative = f"{toc_stem}.html"
                 chapter_html_path = _find_path_normalized(build_dir, html_relative)
 
                 if not chapter_html_path:
-                    logger.warning(
-                        "Could not find HTML file for toc entry: %s", toc_file
-                    )
+                    logger.warning("Could not find HTML file for toc entry: %s", toc_file)
                     continue
 
                 # Skip the root page (already processed above)
@@ -1072,9 +1070,7 @@ def inject_all_metadata(
                 ):
                     chapters_injected += 1
                 else:
-                    logger.warning(
-                        "Failed to inject metadata into: %s", chapter_html_path.name
-                    )
+                    logger.warning("Failed to inject metadata into: %s", chapter_html_path.name)
 
             logger.info("Injected metadata into %d chapter pages", chapters_injected)
         elif jsonld_data.get("hasPart"):

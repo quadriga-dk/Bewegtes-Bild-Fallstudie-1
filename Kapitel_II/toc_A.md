@@ -7,7 +7,7 @@
 - [](./Aufgabe_A_UK-4.md)
 
 
-```{include} ../Präambel/Lernziele.md
+```{include} ../Einstieg/Lernziele.md
 :start-after: "<!-- START: Tabellarische Annotation (optional) -->"
 :end-before: "<!-- END: Tabellarische Annotation (optional) -->"
 ```
@@ -18,7 +18,7 @@ In diesem Kapitel werden die Grundlagen tabellarischer Annotationsarbeit abgedec
 +++
 Im ersten Unterkapitel [Durchführung und Schritte](../Kapitel_II/Aufgabe_A_UK-2.md) wird zunächst eine Auswahl der zu annotierenden Basisparameter (also Grundkategorien der Filmanalyse) festgelegt. Anschließend wird eine für den Untersuchungsgegenstand passende Logik der Segmentierung gewählt, um im letzten Schritt der Durchführung ein Einstellungsprotokoll zu erstellen und mit Annotationen erste filmanalytische Daten herzustellen.
 
-Im zweiten Unterkapitel [Übung, Ergebnisauswertung und Diskussion](../Kapitel_II/Aufgabe_A_UK-3.md) widmen wir uns einer punktuellen Auswertung der Ergebnisse sowie der Diskussion über die Vor- und Nachteile dieser Methode. 
+Im zweiten Unterkapitel [Übung, Ergebnisauswertung und Diskussion](../Kapitel_II/Aufgabe_A_UK-3.md) widmen wir uns einer punktuellen Auswertung der Ergebnisse sowie der Diskussion über die Vor- und Nachteile dieser Methode.
 
 
 ```{admonition} Bearbeitungszeit
