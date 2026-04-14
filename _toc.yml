@@ -6,12 +6,12 @@ root: intro
 options:
   numbered: 3
 chapters:
-  - file: Präambel/toc
+  - file: Einstieg/toc
     sections:
-      - file: Präambel/Lernziele
-      - file: Präambel/Technische Voraussetzungen.md
+      - file: Einstieg/Lernziele
+      - file: Einstieg/Technische Voraussetzungen.md
   - file: Kapitel_I/toc
-    sections: 
+    sections:
       - file: Kapitel_I/Einführung_in_die_datengestützte_Filmanalyse
       - file: Kapitel_I/weiterführende_Informationen
       - file: Kapitel_I/Empirische_Methoden
@@ -52,17 +52,17 @@ chapters:
       - file: Kapitel_II/Aufgabe_E_UK-3
       - file: Kapitel_II/Assessment_E
   - file: Kapitel_III/toc
-    sections: 
+    sections:
       - file: Kapitel_III/Reflexion_Resümee
       - file: Kapitel_III/Ausblick
       - file: Kapitel_III/Summatives_Assessment
-  - file: Epilog/toc
+  - file: Abschluss/toc
     sections:
-      - file: Epilog/Fragen und Feedback
-      - file: Epilog/Bibliographie
-      - file: Epilog/Nachgenutzte_Materialien
-      - file: Epilog/Autor_innen
-      - file: Epilog/QUADRIGA
-      - file: Epilog/Impressum
+      - file: Abschluss/Fragen und Feedback
+      - file: Abschluss/Bibliographie
+      - file: Abschluss/Nachgenutzte_Materialien
+      - file: Abschluss/Autor_innen
+      - file: Abschluss/QUADRIGA
+      - file: Abschluss/Impressum
 
 

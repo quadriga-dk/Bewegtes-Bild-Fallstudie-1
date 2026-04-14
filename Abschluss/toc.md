@@ -1,4 +1,4 @@
-# Epilog
+# Abschluss
 - [](./Fragen%20und%20Feedback.md)
 - [](./Bibliographie.md)
 - [](./Autor_innen.md)
