@@ -4,7 +4,21 @@
 title: "Affektrhetorik in Online-Videos zur Klimakrise. Datengestützte Analysen audiovisueller Muster"
 author: Derya Demir & Matthias Grotkopp
 logo: Bild1.png
-exclude_patterns: [_build, Thumbs.db, .DS_Store, "**.ipynb_checkpoints", conda, venv, README.md, LICENSE.md, "**-Reviewbogen.md", "Reviewbogen.md", "Checkliste_Finalisierung.md", "Dokumentation_Videolizenz_350org.md"]
+exclude_patterns:
+  [
+    _build,
+    Thumbs.db,
+    .DS_Store,
+    "**.ipynb_checkpoints",
+    conda,
+    venv,
+    README.md,
+    LICENSE.md,
+    "**-Reviewbogen.md",
+    "Reviewbogen.md",
+    "Checkliste_Finalisierung.md",
+    "Dokumentation_Videolizenz_350org.md",
+  ]
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
@@ -24,7 +38,7 @@ bibtex_bibfiles:
 repository:
   url: https://github.com/quadriga-dk/Bewegtes-Bild-Fallstudie-1
   #path_to_book: book  # Optional path to your book, relative to the repository root
-  branch: main  # Which branch of the repository should be used when creating links (optional)
+  branch: main # Which branch of the repository should be used when creating links (optional)
 
 launch_buttons:
   notebook_interface: jupyterlab
@@ -47,12 +61,12 @@ sphinx:
     - sphinx_apa_references
   config:
     html_show_copyright: false
-    html_static_path: ['_static']
+    html_static_path: ["_static"]
     html_css_files:
       - quadriga.css
       - carousel.css
     html_js_files:
       - carousel.js
 
-# Ignore duplicate citation      
+    # Ignore duplicate citation
     suppress_warnings: ["bibtex.duplicate_citation"]
