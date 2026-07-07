@@ -6,14 +6,14 @@ abstract: Diese OER vermittelt datengestützte Methoden der Filmanalyse mit digi
   Annotationswerkzeugen. Anhand eines Online-Videos zur Klimakrise werden audiovisuelle
   Inszenierungsmuster analysiert, um affektive Rhetoriken politischer Zielsetzungen
   zu erkennen und zu verstehen.
+type: software
 message: Please cite this software using the metadata from `preferred-citation` in
   `CITATION.cff`.
-type: software
 authors: &id001
 - given-names: Derya
   family-names: Demir
-  affiliation: Freie Universität Berlin
   orcid: https://orcid.org/0009-0000-2237-9400
+  affiliation: Freie Universität Berlin
 - given-names: Matthias
   family-names: Grotkopp
   orcid: https://orcid.org/0000-0002-0954-3111
@@ -50,6 +50,6 @@ preferred-citation:
   languages:
   - deu
   copyright: CC-BY-SA-4.0
-  version: 1.0.0
   keywords: *id002
+  version: 1.0.0
 version: 1.0.0
