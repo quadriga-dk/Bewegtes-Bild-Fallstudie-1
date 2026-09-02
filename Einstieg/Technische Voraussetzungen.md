@@ -58,7 +58,7 @@ Für das Installationspaket und -anleitung siehe: <a href="https://www.advene.or
 
 #### Einrichtung Repository
 
-Um *Ubuntu* das Installieren aus einem unbekannten Repository zu genemigen, wird hier das Git-Repository des Entwicklers Olivier Aubert als vertrauenswürdige Quelle im System hinterlegt:
+Um *Ubuntu* das Installieren aus einem unbekannten Repository zu genehmigen, wird hier das Git-Repository des Entwicklers Olivier Aubert als vertrauenswürdige Quelle im System hinterlegt:
 
 ````{margin}
 ```{admonition} Hinweis
