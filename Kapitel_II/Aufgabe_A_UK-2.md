@@ -34,8 +34,8 @@ ____________________
 
 Kurzdefinitionen zu unseren Basisparametern haben wir hier zusammengefasst:
 
-(Kurdzefinition-Parameter)=
-### Kurzdefinition der ausgewählen Parameter
+(Kurzdefinition-Parameter)=
+### Kurzdefinition der ausgewählten Parameter
 
 <ins>**Einstellungsgröße:** </ins> <br>
 Größenverhältnis des abgebildeten Subjekts (Person)/Objekts zur Kadrage (Bildfeld)  
@@ -58,7 +58,7 @@ ____________________
 <ins>**Licht:** </ins> <br>
 Gestaltung der Hell-Dunkel-Kontraste sowie Lichtstärke 
 
-Um die für unser Beispielvideo spezifischen Gestaltungsebenen ebenfalls adäquat erfassen zu können, haben wir - neben den oben gelistetet allgemeineren Analysekategorien - den Parameter <ins>**Bildinhalt** </ins> hinzugefügt und diesen wie folgt kategorisiert: 
+Um die für unser Beispielvideo spezifischen Gestaltungsebenen ebenfalls adäquat erfassen zu können, haben wir - neben den oben gelisteten allgemeineren Analysekategorien - den Parameter <ins>**Bildinhalt** </ins> hinzugefügt und diesen wie folgt kategorisiert: 
 
 1. Bühne
 2. Publikum
@@ -119,15 +119,15 @@ Die Annotationen bzw. Annotationsmethode kann sich in einigen Punkten auch unter
 ```{admonition} Übungsaufgabe
 :class: exercise
 <span style="color:purple">**Ziel**</span>:
-In dieser Übung sollen Sie die tabellarische Annotation eigenständig reproduzieren, um ein grundlegendes Verständis für die strukturierte Erfassung filmanalytischer Metadaten zu erlangen.
+In dieser Übung sollen Sie die tabellarische Annotation eigenständig reproduzieren, um ein grundlegendes Verständnis für die strukturierte Erfassung filmanalytischer Metadaten zu erlangen.
 
 <span style="color:purple">**Aufgabe**</span>:
 1. Gehen Sie die Durchführung der Schritte nochmals genau durch 
 2. Orientieren Sie sich an den hier dargestellten Beispielen
 3. Erstellen Sie ein Einstellungsprotokoll für den hier ausgewählten [Untersuchungsgegenstand](../Kapitel_I/Untersuchungsgegenstand.md) (“To understand climate change, understand these three numbers”) mit dem Themenschwerpunkt Klimawandel.
-4. Vergleichen Sie Ihre Annotationsergebnisse mit der bereitgestellten[ Musterlösung](../assets/Tabellarische-Annotation-Musterlösung-Quadriga.pdf) und refektieren Sie eventuelle Unterschiede und Abweichungen
+4. Vergleichen Sie Ihre Annotationsergebnisse mit der bereitgestellten [Musterlösung](../assets/Tabellarische-Annotation-Musterlösung-Quadriga.pdf) und reflektieren Sie eventuelle Unterschiede und Abweichungen
 
-<span style="color:purple">**Bearbeitungzeit**</span>: Ca. 120 Min.
+<span style="color:purple">**Bearbeitungszeit**</span>: Ca. 120 Min.
 ```
 
 Im nächsten Schritt werden gezielte Übungsfragen eingesetzt, um die Ergebnisse zu überprüfen und näher zu erläutern.
