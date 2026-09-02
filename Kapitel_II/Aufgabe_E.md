@@ -1,7 +1,7 @@
 ---
 lang: de_DE
 ---
-# AdA-Timelime
+# AdA-Timeline
 
 Wie können Annotationsdaten repräsentierfähig gemacht werden und welche Möglichkeiten der Datenexploration kann es geben?
 
@@ -19,7 +19,7 @@ Bearbeitung von Annotationen ausgelegt, sondern dient der **Datenexploration** u
 ## Warum wurde diese spezifische Form der Visualisierung entwickelt?
 
 Filme sind zeitbasierte Medien. Eine empirische Auseinandersetzung sollte also stets immer versuchen darauf abzuzielen, diese zeitliche Beschaffenheit als Teil der ästhetischen Erfahrung einzuholen. Im Konkreten heißt das, dass die sich zeitlich entfaltenden Dynamiken der Gestaltungsebenen (z.B. Kamerabewegung, Musik, Farbe etc.) nicht nur in ihrem Verlauf, sondern auch insbesondere in ihrer Synchronität zueinander berücksichtigt werden müssen. <br>
-Deskriptive Methoden heben diese zeitliche Beschaffenheit von Filmen auf, indem sie die Bewegungsdynamik, beispielsweise durch das Anhalten, Aufteilen und Segmentieren des Gegenstandes, unterbrechen. Dies führt zwangsläufig zu einer  Diskrepanz zwischen Versuchen der empirischen Erfassung von [Ausdrucksbewegungen](../Kapitel_I/Empirische_Methoden.md) und der verkörperten Zuschauendenerfahrung im konkreten Wahrnehmungsakt. 
+Deskriptive Methoden heben diese zeitliche Beschaffenheit von Filmen auf, indem sie die Bewegungsdynamik, beispielsweise durch das Anhalten, Aufteilen und Segmentieren des Gegenstandes, unterbrechen. Dies führt zwangsläufig zu einer Diskrepanz zwischen Versuchen der empirischen Erfassung von [Ausdrucksbewegungen](../Kapitel_I/Empirische_Methoden.md) und der verkörperten Zuschauendenerfahrung im konkreten Wahrnehmungsakt. 
 +++
 Welche Möglichkeiten deskriptiver Analyse kann es geben, um trotz dieser vorherrschenden Diskrepanz filmische Ausdrucksbewegungen auf empirischer Ebene greifbar zu machen? Mit der AdA-Timeline wurde – in Anlehnung an diese Fragestellung – eine Methode entwickelt, die den Fokus der Datenexploration- und Auswertung auf die temporale und multimodale Spezifik von Filmen und anderen Bewegtbildmedien richtet.
 +++
