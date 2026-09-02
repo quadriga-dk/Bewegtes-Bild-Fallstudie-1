@@ -1,7 +1,7 @@
 # AdA-Filmontologie: Filmanalyse und Semantic Web
 
 In der vorigen Übung haben wir gezeigt, wie ein Set an filmanalytischen Beschreibungen in eine Ontologie nach Semantic Web Standards überführt werden kann. Schrittweise soll so nachvollzogen werden können, wie mit einem semantischen Modell formalästhetische Relationen als maschinenlesbare Triple hergestellt werden können.
-Ausgehend von dieser Systematisierung hat die BMBF-geförderte Nachwuchsgruppe "<a href="https://www.ada.cinepoetics.fu-berlin.de/index.html" class="external-link" target="_blank">Affektrhetoriken des Audiovisuellen</a>" (kurz: AdA, Laufzeit: 2016-2021) eine Filmontologie entwickelt, die in enger Zusammenarbeit mit Informatiker und Entwickler von <a href="https://www.advene.org/" class="external-link" target="_blank">Advene</a>, <a href="https://www.olivieraubert.net/" class="external-link" target="_blank">Dr. Olivier Aubert</a> entstanden ist.
+Ausgehend von dieser Systematisierung hat die BMBF-geförderte Nachwuchsgruppe "<a href="https://www.ada.cinepoetics.fu-berlin.de/index.html" class="external-link" target="_blank">Affektrhetoriken des Audiovisuellen</a>" (kurz: AdA, Laufzeit: 2016-2021) eine Filmontologie entwickelt, die in enger Zusammenarbeit mit dem Informatiker und Entwickler von <a href="https://www.advene.org/" class="external-link" target="_blank">Advene</a>, <a href="https://www.olivieraubert.net/" class="external-link" target="_blank">Dr. Olivier Aubert</a> entstanden ist.
 
 ## Methode
 
@@ -38,7 +38,7 @@ Mehr Infos zu den Prinzipien von Linked Open Data gibt es beispielsweise in eine
 ```
 ### Struktur der AdA-Ontologie
 
-Die AdA-Ontologie umfasst 502 einzelne Annotationswerte, die 78  Annotationstypenzugeordnet sind, welche wiederum auf 8 Beschreibungsebenen, wie z.B. Akustik, Montage, Bildkomposition oder Kamera, organisiert sind:
+Die AdA-Ontologie umfasst 502 einzelne Annotationswerte, die 78 Annotationstypen zugeordnet sind, welche wiederum auf 8 Beschreibungsebenen, wie z.B. Akustik, Montage, Bildkomposition oder Kamera, organisiert sind:
 ```{figure} ../assets/AdA-Struktur-LodLive.png
 :align: center
 :height: 450px
@@ -68,7 +68,7 @@ Visualisierung mit OntoViz, © Bildquelle: [AdA-Ontoviz](https://ada.cinepoetics
 
 ### Annotationsmodell und Architektur
 
-Die Ontologie umfasst ein Annotationsmodell für semantische Videoannotationen. Annotationsdaten werden auf Basis des <a href="https://www.w3.org/TR/annotation-model/" class="external-link" target="_blank">WC3 Web Annotation Data Model</a> erstellt. Sie bestehen immer aus einem "Annotationtarget" (also ein Ziel, hier: ein Zeitfragment eines Videos) sowie einen "Annotationbody" (also dem Inhalt der Annotation mit Informationen zu Annotationstypen/-werten, Autor und weiteren Metadaten). Das Videofragment basiert auf der Vewendung des <a href="https://www.w3.org/TR/media-frags/" class="external-link" target="_blank">W3C Media Fragment URI</a> Spezifikation {cite}`bakels2023`.
+Die Ontologie umfasst ein Annotationsmodell für semantische Videoannotationen. Annotationsdaten werden auf Basis des <a href="https://www.w3.org/TR/annotation-model/" class="external-link" target="_blank">WC3 Web Annotation Data Model</a> erstellt. Sie bestehen immer aus einem "Annotationtarget" (also ein Ziel, hier: ein Zeitfragment eines Videos) sowie einem "Annotationbody" (also dem Inhalt der Annotation mit Informationen zu Annotationstypen/-werten, Autor und weiteren Metadaten). Das Videofragment basiert auf der Verwendung des <a href="https://www.w3.org/TR/media-frags/" class="external-link" target="_blank">W3C Media Fragment URI</a> Spezifikation {cite}`bakels2023`.
 ```{figure} ../assets/AdA-Struktur-RDF.png
 :align: center
 :height: 350px
@@ -86,7 +86,7 @@ Des weiteren werden die Annotationsarten wie folgt unterschieden:
 * **ContrastingAnnotationType** [VS]: Beschreibt die Möglichkeit, ein Syntaxelement zu verwenden, das zwei kontrastierende Werte aus der Ontologie verbindet
 * **EvolvingAnnotationType** [TO]: Beschreibt die Möglichkeit, ein Syntaxelement zu verwenden, das eine kontinuierliche Entwicklung zwischen zwei Werten der Ontologie anzeigt
 +++
-Ebenso wird unterscheiden in:
+Ebenso wird unterschieden in:
 +++
 * **Single Value**: Nur ein einziger Wert pro Annotation kann gewählt werden
 * **Multiple Value**: Mehrere Werte pro Annotation können gewählt werden
@@ -95,7 +95,7 @@ Ebenso wird unterscheiden in:
 Die gesamte Ontologie steht auf <a href="https://github.com/ProjectAdA/public/tree/master/ontology" class="external-link" target="_blank">Github</a> zur Verfügung. Eine PDF-Version, besonders geeignet für die Annotationsarbeit, ist auf der Website als Teil des <a href="https://www.ada.cinepoetics.fu-berlin.de/ada-toolkit/index.html" class="external-link" target="_blank">AdA-Toolkits</a> sowie [hier](../assets/Ada_Filmontologie_Deu_23_07_2021.pdf) in der deutschen Fassung Version 1.0. (Stand Juli 2021) als Download hinterlegt.
 
 ---
-Lizenzhinweis: "AdA-Filmontologie" von <a href="https://www.ada.cinepoetics.fu-berlin.de/index.html" class="external-link" target="_blank">Affektrhetoriken des Audiovisuellen</a> unter der Lizenz <a href="https://creativecommons.org/licenses/by-sa/3.0/de/deed.de" class="external-link" target="_blank">CC BY-SA 3.0</a> via  <a href="https://www.ada.cinepoetics.fu-berlin.de/ada-toolkit/index.html" class="external-link" target="_blank">AdA-Toolkit FU Berlin</a>
+Lizenzhinweis: "AdA-Filmontologie" von <a href="https://www.ada.cinepoetics.fu-berlin.de/index.html" class="external-link" target="_blank">Affektrhetoriken des Audiovisuellen</a> unter der Lizenz <a href="https://creativecommons.org/licenses/by-sa/3.0/de/deed.de" class="external-link" target="_blank">CC BY-SA 3.0</a> via <a href="https://www.ada.cinepoetics.fu-berlin.de/ada-toolkit/index.html" class="external-link" target="_blank">AdA-Toolkit FU Berlin</a>
 
 ---
 
@@ -109,14 +109,14 @@ Die <a href="https://ada.cinepoetics.org/resource/2021/05/19/eMAEXannotationMeth
 
 ## Videoannotation
 
-Die Ontologie selbst stellt das methodische Framework bereit, welches als grundlegendes Analysegerüst für die Videoannotation genutzt werden kann. Die Annotationen werden in der frei zugänglichen Videoannotationssoftware <a href="https://www.advene.org/" class="external-link" target="_blank">Advene</a> angelegt. Hierzu wurden in enger Kollaboration mit dem Entwickler von Advene die Funktionsweisen angepasst und erweitert, um den spezifischen Anforderungen  filmwissenschaftlicher Analyse gerecht zu werden und diese direkt mit der entwickelten Ontologie zu verknüpfen. 
+Die Ontologie selbst stellt das methodische Framework bereit, welches als grundlegendes Analysegerüst für die Videoannotation genutzt werden kann. Die Annotationen werden in der frei zugänglichen Videoannotationssoftware <a href="https://www.advene.org/" class="external-link" target="_blank">Advene</a> angelegt. Hierzu wurden in enger Kollaboration mit dem Entwickler von Advene die Funktionsweisen angepasst und erweitert, um den spezifischen Anforderungen filmwissenschaftlicher Analyse gerecht zu werden und diese direkt mit der entwickelten Ontologie zu verknüpfen. 
 
 ````{admonition} Wichtig
 :class: caution
 Grundsätzlich gilt, dass es sich bei dieser Ontologie um ein Datenframework handelt. Das heißt, dass die Ontologie in ihren Prinzipien und ihrer Logik **toolagnostisch** ist.
 ```{admonition} Was bedeutet toolagnostisch?
 :class: hinweis, dropdown
-Insbesondere oft im Kontext der Softwareentwicklung oder in der IT-Infrastuktur verwendeter Begriff, meint toolagnostisch, dass bestimmte Methoden, Konzepte oder Frameworks unabhängig von einem spezifischen Werkzeug angewendet werden können. Wichtig ist, dass das Prinzip oder die Methode mit verschiedenen Tools umgesetzt werden kann. <br> 
+Insbesondere oft im Kontext der Softwareentwicklung oder in der IT-Infrastruktur verwendeter Begriff, meint toolagnostisch, dass bestimmte Methoden, Konzepte oder Frameworks unabhängig von einem spezifischen Werkzeug angewendet werden können. Wichtig ist, dass das Prinzip oder die Methode mit verschiedenen Tools umgesetzt werden kann. <br> 
 Das Framework ist somit die Entwicklung einer maschinenlesbaren, filmanalytischen Ontologie, welche im Rahmen des AdA-Projekts in die Funktionsweisen von Advene integriert wurde. Die Möglichkeit der Integrierung in andere Tools, wie z.B. <a href="https://archive.mpi.nl/tla/elan" class="external-link" target="_blank">ELAN</a>, steht somit offen und ist in der Theorie umsetzbar. 
 ```
 ````
