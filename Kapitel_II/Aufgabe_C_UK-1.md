@@ -24,7 +24,7 @@ from quadriga import colors
 
 ```{admonition} Übungsaufgabe
 :class: exercise
-<span style="color:purple">**Ziel**</span>: Einordnung filmanayltischer Termini in eine Ontologiestruktur nach Triplen.
+<span style="color:purple">**Ziel**</span>: Einordnung filmanalytischer Termini in eine Ontologiestruktur nach Triplen.
 
 
 <span style="color:purple">**Aufgabe**</span>:
@@ -33,9 +33,9 @@ Im Folgenden ist eine alphabetisch sortierte Liste mit basisschematischen Begrif
 1. Betrachten Sie die alphabetisch sortierte Liste mit 30 filmanalytischen Begriffen.
 2. Ordnen Sie jeden Begriff als Typ oder Wert ein und bestimmen Sie die hierarchischen Beziehungen.
 3. Begründen Sie Ihre Entscheidungen anhand der semantischen Eigenschaften der Begriffe.
-4. Vegleichen Sie Ihre Ergebnisse mit der [Lösung](../assets/Lösung_Aufgabe_1_Semantic_Web.pdf).
+4. Vergleichen Sie Ihre Ergebnisse mit der [Lösung](../assets/Lösung_Aufgabe_1_Semantic_Web.pdf).
 
-<span style="color:purple">**Bearbeitungzeit**</span>: Ca. 20 Min.
+<span style="color:purple">**Bearbeitungszeit**</span>: Ca. 20 Min.
 ```
 
 ---
@@ -114,7 +114,7 @@ und bestimmen Sie, welche Triple-Struktur die Beschreibung semantisch korrekt un
 * Präzision der semantischen Beziehungen
 * Konformität mit ontologischen Grundprinzipien
 
-<span style="color:purple">**Bearbeitungzeit**</span>: Ca. 10 Min.
+<span style="color:purple">**Bearbeitungszeit**</span>: Ca. 10 Min.
 ```
 ### Antwortoptionen
 
