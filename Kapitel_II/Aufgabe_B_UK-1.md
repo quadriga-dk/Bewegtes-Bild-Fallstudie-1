@@ -20,7 +20,7 @@ from quadriga import colors
 
 # Annotieren mit Advene 
 
-Für detailreiche Erklärungen zu der Bedienung von Advene stehen <a href="https://github.com/oaubert/advene/wiki/AdveneUserGuide" class="external-link" target="_blank">hier</a>  sowie <a href="https://www.advene.org/screencasts.html#screencasts" class="external-link" target="_blank">hier</a> Userguides zur Verfügung, in denen die wesentlichen Funktionen und Optionen von Advene erklärt werden.
+Für detailreiche Erklärungen zu der Bedienung von Advene stehen <a href="https://github.com/oaubert/advene/wiki/AdveneUserGuide" class="external-link" target="_blank">hier</a> sowie <a href="https://www.advene.org/screencasts.html#screencasts" class="external-link" target="_blank">hier</a> Userguides zur Verfügung, in denen die wesentlichen Funktionen und Optionen von Advene erklärt werden.
 
 Die für *unseren* Workflow wichtigen Funktionen sollen im Folgenden in einem Schritt-für-Schritt Guide reproduziert und nachvollzogen werden.
 
@@ -86,7 +86,7 @@ display_quiz("../quizzes/B_UK-1_Quiz_1.json", colors = colors.jupyterquiz)
 
 ```{admonition} Antwort
 :class: solution, dropdown
-Die Typen **Dauer**, **Einstellungsgröße**, **Montage** (hier annotieren wir die Form des Übergangs), **Kameraperspektive** sowie **Kamerabewegung**  annotieren wir zunächst Einstellung für Einstellung, denn hier ist es wichtig, die Relationen, Wiederholungen und Veränderungen von Einstellung zu Einstellung sichtbar zu machen. Die Typen **Bildinhalt**, **Musik**, **Dialog**, **Licht** sowie **Farbe** werden nach ihren je spezifischen Verläufen annotiert. 
+Die Typen **Dauer**, **Einstellungsgröße**, **Montage** (hier annotieren wir die Form des Übergangs), **Kameraperspektive** sowie **Kamerabewegung** annotieren wir zunächst Einstellung für Einstellung, denn hier ist es wichtig, die Relationen, Wiederholungen und Veränderungen von Einstellung zu Einstellung sichtbar zu machen. Die Typen **Bildinhalt**, **Musik**, **Dialog**, **Licht** sowie **Farbe** werden nach ihren je spezifischen Verläufen annotiert. 
 ```
 
 ````{margin}
@@ -126,7 +126,7 @@ Wer die tabellarische Annotation bereits vollständig erarbeitet hat, kann natü
 ````{margin}
 ```{admonition} Achtung
 :class: caution
-Jedes neue Package enthält bereits eine standartisiert eingestellte Annotationsspur ('text annotation'). Diese ggf. im Vorfeld löschen!
+Jedes neue Package enthält bereits eine standardisiert eingestellte Annotationsspur ('text annotation'). Diese ggf. im Vorfeld löschen!
 ```
 ````
 
@@ -141,9 +141,9 @@ In dieser Übung sollen Sie sich mit den Funktionsweisen des Annotationstools Ad
 3. Als nächstes können nun die Annotationen auf der Timeline erstellt werden. Wer sehr präzise Annotationsgrenzen haben möchte, kann über die Frametaste in der Wiedergabesteuerung Annotationsabschnitte erstellen und anpassen
 4. Überprüfen und Annotationen ggf. nachbearbeiten
 5. Für die Weiterverarbeitung der Daten das Paket in ein Zielformat exportieren
-6. Ist das Paket vollständig ausgefüllt? Dann können die Ergebnisse mit unserer [Musterlösung](../assets/QUADRIGA-Advene-A2-Annotationspaket.azp) vergleichen werden. 
+6. Ist das Paket vollständig ausgefüllt? Dann können die Ergebnisse mit unserer [Musterlösung](../assets/QUADRIGA-Advene-A2-Annotationspaket.azp) verglichen werden. 
 
-<span style="color:purple">**Bearbeitungzeit**</span>: Ca. 120-180 Min.
+<span style="color:purple">**Bearbeitungszeit**</span>: Ca. 120-180 Min.
 ```
 
 Als nächstes wiederholen wir die Annotationsarbeit mit einem anderen Tool – und zwar ELAN. Dieser Schritt soll insbesondere dazu dienen, toolagnostische Perspektiven für Datenanalysen zu veranschaulichen. 
