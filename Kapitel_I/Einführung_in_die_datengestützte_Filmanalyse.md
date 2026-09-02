@@ -25,7 +25,7 @@ An einem exemplarischen Video sollen in einem dreistufigen Prozess filmanalytisc
 ```{admonition} Subjektive Einordnung der Daten vs. quantitative Erhebung
 :class: hinweis
 
-Eine wichtiges Anliegen der Fallstudie ist es, die Emotionalisierung als subjektives Erleben in Relation zu quantifizierbaren, objektivierbaren Metadaten zu setzen, d.h. die Bedeutung der Visualisierungen und der qualifizierenden Beschreibung audivisueller Bilder als einen notwendigen Schritt anzusehen, um diese Subjektivierungseffekte des Filme-Sehens überhaupt erst greifen zu können. Daher ist es im Rahmen der Fallstudie wichtig, die erhobenen Datensätze stets qualifizierbar zu machen.
+Ein wichtiges Anliegen der Fallstudie ist es, die Emotionalisierung als subjektives Erleben in Relation zu quantifizierbaren, objektivierbaren Metadaten zu setzen, d.h. die Bedeutung der Visualisierungen und der qualifizierenden Beschreibung audivisueller Bilder als einen notwendigen Schritt anzusehen, um diese Subjektivierungseffekte des Filme-Sehens überhaupt erst greifen zu können. Daher ist es im Rahmen der Fallstudie wichtig, die erhobenen Datensätze stets qualifizierbar zu machen.
 ```
 ### Die zentralen Aufgaben der Fallstudie umfassen:
 * Filmwissenschaftliche Methoden als digitale Methoden verständlich zu machen.
