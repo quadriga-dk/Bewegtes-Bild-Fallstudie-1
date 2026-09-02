@@ -20,7 +20,7 @@ from quadriga import colors
 (Schritte-und-Arbeitsprozess)=
 # Annotation mit dem AdA-Template: Schritte und Arbeitsprozess
 
-Für die Arbeit mit dem AdA-Template muss Advene installiert sein und ausgeführt werden. Installationsanweisungen und Hinweise gibt unter [Technische Voraussetzungen](../Einstieg/Technische%20Voraussetzungen.md).
+Für die Arbeit mit dem AdA-Template muss Advene installiert sein und ausgeführt werden. Installationsanweisungen und Hinweise gibt es unter [Technische Voraussetzungen](../Einstieg/Technische%20Voraussetzungen.md).
 
 ```{admonition} Übungsaufgabe
 :class: exercise
@@ -30,17 +30,17 @@ Für die Arbeit mit dem AdA-Template muss Advene installiert sein und ausgeführ
 Erstellen Sie ein Annotationspaket in Advene basierend auf der AdA-Ontologie. Nutzen Sie dafür das AdA-Core-Template, das bereits ein vordefiniertes Set an Annotationstypen enthält. Diese decken die wichtigsten Analysekategorien ab und erleichtern Ihnen den Einstieg.
 In den folgenden Abschnitten finden Sie eine detaillierte Beschreibung des gesamten Workflows mit präzisen Schritt-für-Schritt-Anweisungen.
 
-<span style="color:purple">**Bearbeitungzeit**</span>: Ca. 180 Min.
+<span style="color:purple">**Bearbeitungszeit**</span>: Ca. 180 Min.
 ```
 
 ## Übungsanleitung: Grundlagen der ontologiebasierten Annotation mit Advene
 ### Einrichtung und Vorbereitung der Annotationsumgebung
 
-1.	Installieren Sie Advene und laden sie das [AdA-Template](../assets/AdA_template_07_2021.azp), die [AdA-Filmontologie](../assets/Ada_Filmontologie_Deu_23_07_2021.pdf) und das [Manual](../assets/Manual_Advene_AdA_D_Vers1_0.pdf) herunter.
-2.	Starten Sie Advene. Wird die Developement-Version von Advene über eine virtuelle Maschine für Linux genutzt, muss einer dieser beiden Befehle im Ubuntu-Terminal eingegeben werden:
+1.	Installieren Sie Advene und laden Sie das [AdA-Template](../assets/AdA_template_07_2021.azp), die [AdA-Filmontologie](../assets/Ada_Filmontologie_Deu_23_07_2021.pdf) und das [Manual](../assets/Manual_Advene_AdA_D_Vers1_0.pdf) herunter.
+2.	Starten Sie Advene. Wird die Development-Version von Advene über eine virtuelle Maschine für Linux genutzt, muss einer dieser beiden Befehle im Ubuntu-Terminal eingegeben werden:
 `cd src/advene` oder `GDK_BACKEND=x11 advene`.
 Advene öffnet automatisch bei jedem Start ein neues Paket als advenespezifische **.azp-Datei**
-3.	Importieren sie das AdA-Template (.azp-Datei) in das Paket und verknüpfen Sie das Video (<a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=71ca2ea8-b7ee-492f-a9ef-b20300a665d3&start=126" target="_blank" class="external-link" >Video: Ada-Template: Package</a>, Manual: S. 4)
+3.	Importieren Sie das AdA-Template (.azp-Datei) in das Paket und verknüpfen Sie das Video (<a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=71ca2ea8-b7ee-492f-a9ef-b20300a665d3&start=126" target="_blank" class="external-link" >Video: Ada-Template: Package</a>, Manual: S. 4)
 ````{margin}
 ```{admonition} Hinweis
 :class: hinweis
@@ -110,7 +110,7 @@ display_quiz("../quizzes/D_UK-1_Quiz_3.json", colors = colors.jupyterquiz)
 
 ```{admonition} Tipp
 :class: hinweis
-Für die Erstellung korrekter bzw. präsizer Start- und Endzeit der Annotationen kann die Wiedergabegeschwindigkeit angepasst und mit den Frame-Tasten gearbeitet werden.
+Für die Erstellung korrekter bzw. präziser Start- und Endzeit der Annotationen kann die Wiedergabegeschwindigkeit angepasst und mit den Frame-Tasten gearbeitet werden.
 ```
 
 Für einige Annotationstypen haben wir die Annotationen als Verläufe angelegt, für andere haben wir nach dem Einstellungsprinzip segmentiert. Folgende Tabelle soll als Annotationshilfe dienen:
@@ -166,7 +166,7 @@ display_quiz("../quizzes/D_UK-1_Quiz-4.json", colors = colors.jupyterquiz)
 :class: solution, dropdown
 Die korrekte Antwort ist: 8
 
-Die Verwendung von Syntaxelementen ermöglicht es kontinuierliche Entwicklungen wie auch synchrone Kontraste, die beispielsweise innerhalb einer Einstellung auftauchen, miteinander zu verbinden. Ein gutes Beispiel für für die Verwendung des Syntaxelement [TO] ist der Wechsel von Einstellungsgrößen innerhalb einer Einstellung. Ein gutes Beispiel für die Verwendung des Syntaxelement [VS] sind synchron inszenierte Dialog Emotionen bei mehreren Figuren innerhalb einer Einstellung.
+Die Verwendung von Syntaxelementen ermöglicht es kontinuierliche Entwicklungen wie auch synchrone Kontraste, die beispielsweise innerhalb einer Einstellung auftauchen, miteinander zu verbinden. Ein gutes Beispiel für die Verwendung des Syntaxelements [TO] ist der Wechsel von Einstellungsgrößen innerhalb einer Einstellung. Ein gutes Beispiel für die Verwendung des Syntaxelements [VS] sind synchron inszenierte Dialog Emotionen bei mehreren Figuren innerhalb einer Einstellung.
 
 Für folgende Annotationstypen des Core-Templates können Syntaxelemente verwendet werden:
 1. Dialogue Emotion [VS]

@@ -11,19 +11,19 @@ Eine kurze Inhaltsübersicht soll zur Orientierung dienen. Wer ab einem bestimmt
 +++
 ## Video: AdA-Timeline
 
-* <a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=e1e937e6-7bd3-43fa-a4f3-b20300a66b54&start=0" target="_blank" class="external-link">Introduction: AdA Timeline<a>
-* <a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=e1e937e6-7bd3-43fa-a4f3-b20300a66b54&start=21" target="_blank" class="external-link">Opening the AdA Timeline in Advene<a>
-* <a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=e1e937e6-7bd3-43fa-a4f3-b20300a66b54&start=96" target="_blank" class="external-link">Structure and Functionality<a>
-* <a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=e1e937e6-7bd3-43fa-a4f3-b20300a66b54&start=229" target="_blank" class="external-link">Display Customization (URL, Edit Window, and Syntax Elements)<a>  
-* <a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=e1e937e6-7bd3-43fa-a4f3-b20300a66b54&start=405" target="_blank" class="external-link">Setting for Types<a>
-* <a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=e1e937e6-7bd3-43fa-a4f3-b20300a66b54&start=660" target="_blank" class="external-link">Saving Timeline Settings<a>
-* <a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=e1e937e6-7bd3-43fa-a4f3-b20300a66b54&start=708" target="_blank" class="external-link">Export<a>
+* <a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=e1e937e6-7bd3-43fa-a4f3-b20300a66b54&start=0" target="_blank" class="external-link">Introduction: AdA Timeline</a>
+* <a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=e1e937e6-7bd3-43fa-a4f3-b20300a66b54&start=21" target="_blank" class="external-link">Opening the AdA Timeline in Advene</a>
+* <a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=e1e937e6-7bd3-43fa-a4f3-b20300a66b54&start=96" target="_blank" class="external-link">Structure and Functionality</a>
+* <a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=e1e937e6-7bd3-43fa-a4f3-b20300a66b54&start=229" target="_blank" class="external-link">Display Customization (URL, Edit Window, and Syntax Elements)</a>  
+* <a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=e1e937e6-7bd3-43fa-a4f3-b20300a66b54&start=405" target="_blank" class="external-link">Setting for Types</a>
+* <a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=e1e937e6-7bd3-43fa-a4f3-b20300a66b54&start=660" target="_blank" class="external-link">Saving Timeline Settings</a>
+* <a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=e1e937e6-7bd3-43fa-a4f3-b20300a66b54&start=708" target="_blank" class="external-link">Export</a>
 
 
 <iframe src="https://videoup.uni-potsdam.de/Panopto/Pages/Embed.aspx?id=e1e937e6-7bd3-43fa-a4f3-b20300a66b54&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
 ---
-Lizenzhinweis: Video "AdA-Timeline" von <a href="https://www.ada.cinepoetics.fu-berlin.de/index.html" class="external-link" target="_blank">Affektrhetoriken des Audiovisuellen</a>" unter der Lizenz <a href="https://creativecommons.org/licenses/by-sa/3.0/de/deed.de" class="external-link" target="_blank">CC BY-SA 3.0</a> via  <a href="https://www.ada.cinepoetics.fu-berlin.de/ada-toolkit/index.html" class="external-link" target="_blank">AdA-Toolkit FU Berlin</a>
+Lizenzhinweis: Video "AdA-Timeline" von <a href="https://www.ada.cinepoetics.fu-berlin.de/index.html" class="external-link" target="_blank">Affektrhetoriken des Audiovisuellen</a> unter der Lizenz <a href="https://creativecommons.org/licenses/by-sa/3.0/de/deed.de" class="external-link" target="_blank">CC BY-SA 3.0</a> via <a href="https://www.ada.cinepoetics.fu-berlin.de/ada-toolkit/index.html" class="external-link" target="_blank">AdA-Toolkit FU Berlin</a>
 
 ---
 
@@ -105,7 +105,7 @@ Danach können verschiedene Syntaxelemente eingesetzt werden, zum Beispiel `refe
 +++
 Nach der Id können für jeden Annotationstyp in einer Klammer verschiedene Darstellungsoptionen angegeben werden (s. [Übersicht der Syntaxelemente](../assets/Übersicht-Syntaxelemente-AdA-Timeline.pdf))
 +++
-Die Eingabe erfolgt immer in der Syntaxform DARSTELLUNGOPTION:WERT, ein Beispiel für die Darstellung als Histogramm wäre: `representation:hist`.
+Die Eingabe erfolgt immer in der Syntaxform DARSTELLUNGSOPTION:WERT, ein Beispiel für die Darstellung als Histogramm wäre: `representation:hist`.
 ![screenshot-A5-07](../assets/_images/A5-S07.png)
 ```{admonition} Achtung
 :class: caution
@@ -123,7 +123,7 @@ Werden für einen Annotationstyp mehrere Optionen definiert, werden diese mit ei
 
 Es gibt verschiedene Darstellungsformen, um die Timeline zu konfigurieren. Umfassende Informationen zu **allen** Darstellungsformen sind auf S. 138 im Manual einsehbar. Hier die wichtigsten in Kürze:
 
-* **Säulenansicht**, z.B. zur Darstellung von des Schnittrhythmus. Breite und Höhe der einzelnen Blöcke entsprechen in dieser Darstellung jeweils der Dauer einer Annotation.
+* **Säulenansicht**, z.B. zur Darstellung des Schnittrhythmus. Breite und Höhe der einzelnen Blöcke entsprechen in dieser Darstellung jeweils der Dauer einer Annotation.
 * **Balkendiagramm**: Die Annotationen werden in Zeilen mit je eigenen Farben als Balken angezeigt.
 * **Wellenform**: Nummerische Werte können als Wellenform dargestellt werden.
 * **Einzeilige Darstellung**: Eine einzeilige Darstellung bietet sich bei Annotationstypen ohne Überlappungen von Werten an.

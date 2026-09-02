@@ -41,12 +41,12 @@ Wird die Anwendung gestartet öffnet sich zunächst ein blankes Interface. In de
 ```
 Sobald die Datei verknüpft ist, erscheint die Annotationsoberfläche. Unter der Videoanzeige ist eine **Wiedergabesteuerung** zu sehen. Die Steuerung kann über die Scroll,- Pixel,- Frame-, oder Sekundentasten vorgenommen werden. 
 +++
-Der **Auswahlsteuerung** neben der Wiedergabesteuerung kann angepasst werden. Folgende Optionen (der Reihenfolge nach) sind möglich: <br>
+Die **Auswahlsteuerung** neben der Wiedergabesteuerung kann angepasst werden. Folgende Optionen (der Reihenfolge nach) sind möglich: <br>
 1. Ausgewählter Bereich wird abgespielt
 2. Auswahl wird aufgehoben
 3. Fadenkreuz bewegt sich an den Anfang oder an das Ende des markierten Bereichs
 4. Der Cursor springt zur vorigen/nächsten oder drüber/drunterliegenden Annotation
-5. 'Auswahl-Modus aktivieren': Bereich wird bei Wiedergabe oder vorwärt/rückwärts-Bewegung markiert
+5. 'Auswahl-Modus aktivieren': Bereich wird bei Wiedergabe oder vorwärts/rückwärts-Bewegung markiert
 +++
 Der **Schleifenmodus** spielt den ausgewählten Bereich im Loop ab.
 +++
@@ -66,7 +66,7 @@ Manchmal kann es sehr nützlich sein, die Wiedergabegeschwindigkeit an den eigen
 ````
 `````
 
-Solbald das Video mit dem ELAN-Projekt verknüpft ist, können Annotationszeilen – "Tiers" gennant – sowie Annotationen angelegt werden. 
+Sobald das Video mit dem ELAN-Projekt verknüpft ist, können Annotationszeilen – "Tiers" genannt – sowie Annotationen angelegt werden. 
 ## Annotationszeilen (Tiers) und Annotationen
 ### Zeilen
 Eine 'default'-Zeile wird automatisch bei jedem neuen Annotationsdokument angelegt. Diese kann im Vorfeld entweder umbenannt oder gelöscht werden. 
@@ -94,7 +94,7 @@ Die Farben des Zeilentitels sowie der Zeilenleiste selbst können nach eigenen B
 ````
 ### Erstellen von Templates
 
-Mit Elan ist es möglich Annotationsprojekte als Templates zu sichern. Die Erstellung eines Templates empfiehlt sich insbesondere, wenn für mehrere Filme oder Filmausschnitte Annotationen mit dem gleichen Set an Parametern erstellt werden sollen. Hierzu können Basisspuren, also Annotationszeilen, vordefiniert und anschließend die Datei als Vorlage gesichert werden. 
+Mit ELAN ist es möglich Annotationsprojekte als Templates zu sichern. Die Erstellung eines Templates empfiehlt sich insbesondere, wenn für mehrere Filme oder Filmausschnitte Annotationen mit dem gleichen Set an Parametern erstellt werden sollen. Hierzu können Basisspuren, also Annotationszeilen, vordefiniert und anschließend die Datei als Vorlage gesichert werden. 
 +++
 Um ein Template zu erstellen, einfach vorgehen wie beim Start eines regulären Annotationsprojektes. Anschließend die Zeilen erstellen und die Datei unter 'Speichern als Vorlage' im **.etf-Format** sichern.
 +++
@@ -102,7 +102,7 @@ Zur Nutzung der Vorlage ELAN starten und unter 'Datei > Neu…' die Vorlagedatei
 
 ### Annotationen
 
-Annotationen werden als Zeitsegmente entlang der Timeline angelegt. Es gibt die Möglichkeit Annotationen A) **"frei Hand"** zu erstellen oder B) **präzisere Zeitabschnitte** durch beispielswseise die Frame- und Pixeltaste anzulegen.
+Annotationen werden als Zeitsegmente entlang der Timeline angelegt. Es gibt die Möglichkeit Annotationen A) **"frei Hand"** zu erstellen oder B) **präzisere Zeitabschnitte** durch beispielsweise die Frame- und Pixeltaste anzulegen.
 +++
 #### Variante A
 Der schnellste Weg eine Annotation zu erstellen ist mit dem Zeiger in das Feld der Annotationen an die Zeitstelle zu klicken, an der es losgehen soll, gedrückt halten und den Zeiger bis zum gewünschten Ende ziehen (geht vorwärts wie rückwärts). Der markierte Bereich erscheint violett. Mit einem Doppelklick in die gewünschte Zeile kann der Annotation ein Inhalt bzw. Wert beigeordnet werden. Zum Speichern 'Enter' drücken.
@@ -177,12 +177,12 @@ Beim Anlegen der Annotationszeilen kann die *default*-Zeile im Vorfeld gelöscht
 Für eine vergleichende Perspektive sollen Sie sich in dieser Übung mit den Funktionsweisen des Annotationstools ELAN vertraut machen und anschließend ein Annotationsprojekt mit filmanalytischen Metadaten auf Basis von Freitextannotationen erstellen.
 
 <span style="color:purple">**Aufgabe**</span>:
-1.	Elan starten und Videodatei verknüpfen, automatische Sicherheitskopie aktivieren 
+1.	ELAN starten und Videodatei verknüpfen, automatische Sicherheitskopie aktivieren 
 2.	Sobald das Video verknüpft ist und die Datei gesichert wurde, kann mit der Annotation begonnen werden. Als erste legen wir auch hier unsere Parameter also "Tiers" in ELAN an, die Auswahl der Parameter entnehmen wir unserer [vorherigen Bestimmung](#Aufgabe_B)
 3.	Als nächstes können nun die Annotationen auf der Timeline erstellt werden. Wer sehr präzise Annotationsgrenzen haben möchte, kann über die Frametaste bzw. Pixeltaste Annotationsabschnitte erstellen und anpassen
 4.	Überprüfen und Annotationen ggf. nachbearbeiten 
 5.	Für die Weiterverarbeitung der Daten das Projekt in ein Zielformat exportieren
 6. Zum Abgleich der Annotationsergebnisse steht hier unser ausgefülltes ELAN-Projekt als **.eaf-Datei** zum [Download](../assets/QUADRIGA-ELAN-Annotationspaket.zip) bereit.
 
-<span style="color:purple">**Bearbeitungzeit**</span>: Ca. 120-180 Min.
+<span style="color:purple">**Bearbeitungszeit**</span>: Ca. 120-180 Min.
 ```

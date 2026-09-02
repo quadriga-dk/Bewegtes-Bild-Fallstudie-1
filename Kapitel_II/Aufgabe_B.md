@@ -9,7 +9,7 @@ Die Annotationen in dieser Übung basieren auf Freitexteingaben. Das bedeutet, d
 Die konkrete Arbeit mit einem solchen Schema, einer sogenannten Ontologie, wird Teil der nächsten drei Aufgaben sein. Zunächst soll es hier darum gehen, grundlegende Funktionen von Tools zu erlernen und anzuwenden. **Toolagnostische Perspektiven** sollen damit ebenfalls adressiert werden.
 ```{admonition} Was ist mit "toolagnostischen Perspektiven" gemeint?
 :class: hinweis
-Insbesondere oft im Kontext der Softwareentwicklung oder in der IT-Infrastuktur verwendeter Begriff, meint toolagnostisch, dass bestimmte Methoden, Konzepte oder Frameworks unabhängig von einem spezifischen Werkzeug angewendet werden können. Wichtig ist, dass das Prinzip oder die Methode mit verschiedenen Tools umgesetzt werden kann. Das Framework für unsere Fallstudie ist somit die Entwicklung einer maschinenlesbaren, filmanalytischen Ontologie (mehr Infos zum Begriff der "Datenontologie" gibt es unter [Weiterführende Informationen](/Kapitel_I/weiterführende_Informationen) sowie im [dritten Kapitel](Aufgabe_C)).
+Insbesondere oft im Kontext der Softwareentwicklung oder in der IT-Infrastruktur verwendeter Begriff, meint toolagnostisch, dass bestimmte Methoden, Konzepte oder Frameworks unabhängig von einem spezifischen Werkzeug angewendet werden können. Wichtig ist, dass das Prinzip oder die Methode mit verschiedenen Tools umgesetzt werden kann. Das Framework für unsere Fallstudie ist somit die Entwicklung einer maschinenlesbaren, filmanalytischen Ontologie (mehr Infos zum Begriff der "Datenontologie" gibt es unter [Weiterführende Informationen](/Kapitel_I/weiterführende_Informationen) sowie im [dritten Kapitel](Aufgabe_C)).
 ```
 ```{admonition} Kleiner Hinweis
 :class: caution
@@ -19,7 +19,7 @@ Im Kapitel [Annotieren mit einer Filmontologie](Aufgabe_D) gibt es ein auf die A
 ## Parameterbestimmung und -erweiterung
 
 ````{margin}
-```{admonition} Hinnweis
+```{admonition} Hinweis
 :class: hinweis
 Aus der ersten Übung hat sich gezeigt, dass Parameter, wie z.B. Sound oder Kamera, mehrere Inhaltsebenen haben können. Damit wir diese Elemente ebenfalls abdecken, splitten wir für diese beiden Beispiele (also Sound & Kamera) die Parameter in je einzelne Bestandteile.
 ```

@@ -378,7 +378,7 @@ create_answer_box('Assessment_B-10')
 
 1.	Akustik: In vielen Filmen und Videos zur Klimakrise spielt die akustische Dimension eine wichtige Rolle für die emotionale Wirkung. Besonders relevante Typen wären Musik Stimmung, um die emotionale Färbung von Szenen zu erfassen, und die Gestendynamik von Geräuschen, um dramatische Akzente wie bei Naturkatastrophendarstellungen zu analysieren.
 
-2.	Bildkomposition: Die visuelle Darstellung von Umweltveränderungen ist zentral für viele Filme. Durch die Analyse von Farbspektren und Lichtverhältnissen könnten kontrastierende Darstellungen (z.B. intakte vs. zerstörte Natur) systematisch erfasst werden. Ebenso werden oftmals Animationsgrafiken  sowie animierte Muster/Elemente verwendet, um abstrakte Phänomene auch in der bildlichen Darstellung greifbar zu machen.
+2.	Bildkomposition: Die visuelle Darstellung von Umweltveränderungen ist zentral für viele Filme. Durch die Analyse von Farbspektren und Lichtverhältnissen könnten kontrastierende Darstellungen (z.B. intakte vs. zerstörte Natur) systematisch erfasst werden. Ebenso werden oftmals Animationsgrafiken sowie animierte Muster/Elemente verwendet, um abstrakte Phänomene auch in der bildlichen Darstellung greifbar zu machen.
 
 3.	Kamera: Kamerabewegungen und -perspektiven können rhetorische Strategien offenlegen, z.B. könnten Vogelperspektiven für Überblicksdarstellungen globaler Phänomene oder dynamische Kamerafahrten für dramatische Inszenierungen von Veränderungsprozessen verwendet werden.
 

@@ -50,7 +50,7 @@ Ein ausführlicherer Guide für das Importieren findet sich sowohl unter Punkt 3
 ### Aufgabe 1
 ```{admonition} Übungsaufgabe
 :class: exercise
-<span style="color:purple">**Ziel**</span>: Vegleich und Analyse verschiedener ontologiebasierte Annotationspakete in Advene
+<span style="color:purple">**Ziel**</span>: Vergleich und Analyse verschiedener ontologiebasierter Annotationspakete in Advene
 
 <span style="color:purple">**Aufgabe**</span>:
 1. Laden Sie die [Musterlösung](../assets/QUADRIGA-Fallstudie-Annotationspackage.azp) herunter
@@ -58,7 +58,7 @@ Ein ausführlicherer Guide für das Importieren findet sich sowohl unter Punkt 3
 3. Nutzen Sie die Importfunktion, um Ihr eigenes Annotationspaket mit der Musterlösung zu vergleichen
 4. Vergleichen Sie anschließend Ihre Annotationsergebnisse und -entscheidungen mit der Musterlösung 
 
-<span style="color:purple">**Bearbeitungzeit**</span>: Ca. 20 Min.
+<span style="color:purple">**Bearbeitungszeit**</span>: Ca. 20 Min.
 ```
 
 ## Error-Package: Fehlersuche & Korrektur
@@ -76,7 +76,7 @@ Im Folgenden steht hier ein [Annotationspaket](../assets/QUADRIGA-Errorpackage.a
 3. Identifizieren Sie alle Fehler
 4. Korrigieren Sie die gefundenen Fehler mit den passenden Advene-Werkzeugen
 
-<span style="color:purple">**Bearbeitungzeit**</span>: Ca. 25-30 Min.
+<span style="color:purple">**Bearbeitungszeit**</span>: Ca. 25-30 Min.
 ```
 
 `````{admonition} Welche Fehler konnten gefunden werden?
@@ -93,7 +93,7 @@ Im Folgenden steht hier ein [Annotationspaket](../assets/QUADRIGA-Errorpackage.a
 Weitere Fehler können durch eine Überprüfung mit der Checker-Funktion gefunden werden. Um den Checker als View zu öffnen, oben in der Menüleiste auf 'View > Open View' gehen und den Checker anklicken. Folgende Fehler sind über den Checker auffindbar:
 +++
 5. a) Overlapping: Annotationen, die sich in ihrer Dauer überlappen
-6. b) Completions: Undefinierte Keywords, die von den Keywords der Ada-Ontologie abweichen
+6. b) Completions: Undefinierte Keywords, die von den Keywords der AdA-Ontologie abweichen
 7. c) Empty Content: Annotationen ohne Inhalt
 ![screenshot-A4-E-S03](../assets/_images/A4-Errorpackage-S03.png)
 `````
@@ -106,7 +106,7 @@ Es kann auch hier für einen direkten Abgleich nützlich sein das korrekte Annot
 +++
 Nachfolgend gehen wir alle Fehler kurz durch und stellen eine Lösung bereit:
 +++
-1. Annotation neu hinzufügen und durch Freitext-Eingabe Untertitel als Annotionswert ergänzen. ODER: Import der Lösungsdatei und die fehlende Annotation aus der Spur reinkopieren; ebenso kann die Gesamtzahl der Annotationen für einen Typ durch einen Rechtsklick (ganz unten in der Pop-up-Liste) angezeigt werden, so kann durch die Überprüfung der Gesamtzahl der Annotationen für eine Spur direkt nach Abweichungen kontrolliert werden
+1. Annotation neu hinzufügen und durch Freitext-Eingabe Untertitel als Annotationswert ergänzen. ODER: Import der Lösungsdatei und die fehlende Annotation aus der Spur reinkopieren; ebenso kann die Gesamtzahl der Annotationen für einen Typ durch einen Rechtsklick (ganz unten in der Pop-up-Liste) angezeigt werden, so kann durch die Überprüfung der Gesamtzahl der Annotationen für eine Spur direkt nach Abweichungen kontrolliert werden
 2. Shots wieder richtig segmentieren und korrekt renummerieren 
 3. Falschen Wert korrigieren 
 4. Durch Import des Templates kann der Annotationstyp 'Volume' erneut importiert werden. Anschließend automatische Erkenner für 'Waveform' durchführen und die automatisch generierte Annotation auf die Spur 'Volume' duplizieren; danach die neu erstellte Spur löschen (so bleibt die Spur als Teil der vordefinierten AdA-Syntax erhalten)
@@ -118,7 +118,7 @@ Nachfolgend gehen wir alle Fehler kurz durch und stellen eine Lösung bereit:
 
 Mit der AdA-Filmontologie kann ermöglicht werden auf der Grundlage eines Klassifikationsschemas filmanalytische Beobachtungen zu systematisieren. Die Systematisierung ist also ein notwendiger Schritt, um Metadaten einerseits unter ganz spezifischen Kriterien herzustellen als auch anschließend vergleichen zu können. 
 +++
-Ziel dieser Fallstudie ist es in einem nächsten Schritt durch die Visualisierung dieser Metadaten audiovisuelle Inszenierungsmuster zu analysieren und als Affekrhetorik zu qualifizieren. Doch bevor wir uns der eigentlichen Analyse widmen, wollen wir die Ergebnisse der Annotationsarbeit diskutieren. Denn Annotationsentscheidungen sind nicht immer selbsterklärend. Und auch eine Ontologie kann ihre Grenzen aufweisen. 
+Ziel dieser Fallstudie ist es in einem nächsten Schritt durch die Visualisierung dieser Metadaten audiovisuelle Inszenierungsmuster zu analysieren und als Affektrhetorik zu qualifizieren. Doch bevor wir uns der eigentlichen Analyse widmen, wollen wir die Ergebnisse der Annotationsarbeit diskutieren. Denn Annotationsentscheidungen sind nicht immer selbsterklärend. Und auch eine Ontologie kann ihre Grenzen aufweisen. 
 +++
 Für die Diskussion gehen wir nachfolgend punktuell auf konkrete Probleme und Fragen ein, die während des Annotierens aufgekommen sind. Da eine ganzheitliche Diskussion aller Annotationsentscheidungen und Schritte den Rahmen dieser Übungen sprengt, adressieren wir hier die wichtigsten.
 
@@ -184,7 +184,7 @@ In Bezug auf unser Beispielvideo betrifft dies insbesondere jene Einstellungen, 
 ```
 ### Annotationstyp: Recording/Playback Speed
 
-Durch den Annotationstyp Recording/Playback Speed kann die Aufnahmegeschwindigkeit erfasst werden. Es gibt Annotationen von sehr kurzer Dauer, die einen Timelaps markieren. Definiert wird der Timelapse folgendermaßen:
+Durch den Annotationstyp Recording/Playback Speed kann die Aufnahmegeschwindigkeit erfasst werden. Es gibt Annotationen von sehr kurzer Dauer, die einen Timelapse markieren. Definiert wird der Timelapse folgendermaßen:
 
 > Noticeable acceleration of the viewers' time perception.
 Movements appear as unnaturally fast. Objects, such as
@@ -209,7 +209,7 @@ display_quiz("../quizzes/D_UK-2_Quiz-1.json", colors = colors.jupyterquiz)
 
 ```{admonition} Antwort
 :class: solution, dropdown
-Die Bewegungsrichtung der Kamera korreliert mit den Timelaps. Mit der Änderung der Bewegungsrichtung synchron zu dem Einsatz des Timelaps entsteht eine dynamische Bildkomposition, die sich durch Geschwindkeitszunahme sowie Bewegungsveränderung von der restlichen zeitlichen Anordnung des Videos unterscheidet. 
+Die Bewegungsrichtung der Kamera korreliert mit den Timelaps. Mit der Änderung der Bewegungsrichtung synchron zu dem Einsatz des Timelaps entsteht eine dynamische Bildkomposition, die sich durch Geschwindigkeitszunahme sowie Bewegungsveränderung von der restlichen zeitlichen Anordnung des Videos unterscheidet. 
 Interessant ist ebenso, dass die markantesten Bewegungsveränderungen der Kamera mit den animierten Einstellungen einhergehen. Die 2D-Animationen wirken, insbesondere im Kontrast zu den im Vergleich recht statischen Szenen auf der Bühne oder im Interview, wesentlich energetischer.
 ```
 
@@ -229,7 +229,7 @@ Eine ausführliche Datenexploration sowie Hypothesenpräsentation führen wir da
 
 Für eine präzise und vollständige Annotation empfiehlt es sich mit allen Annotationstypen der Ontologie zu arbeiten. Da die Annotation aller Typen der Ontologie weitaus mehr Zeit in Anspruch nimmt als im Rahmen der Übungen vorgesehen, haben wir uns für die Annotation mit dem AdA Core-Template entschieden. 
 +++
-Wie sieht jedoch mit den Annotationstypen 'Splitscreen', 'Frame-in-Frame' oder 'Visual Pattern' aus? Inwiefern könnten diese Typen die spezifischen Charakteristika unseres Beispielgegenstandes hervorheben?
+Wie sieht es jedoch mit den Annotationstypen 'Splitscreen', 'Frame-in-Frame' oder 'Visual Pattern' aus? Inwiefern könnten diese Typen die spezifischen Charakteristika unseres Beispielgegenstandes hervorheben?
 
 ### Splitscreen
 
@@ -237,7 +237,7 @@ Eine sehr dominante und für das Video entscheidende Inszenierungsmodalität ist
 
 ![screenshot-A4-S09](../assets/_images/A4-S09.png)
 
-In den je abgetrennten Screens werden die drei kritischen Zahlen für eine Einhaltung der 2-Grad-Grenze in Bezug auf den Co2-Austoß als visuelle Einheit inszeniert. 
+In den je abgetrennten Screens werden die drei kritischen Zahlen für eine Einhaltung der 2-Grad-Grenze in Bezug auf den Co2-Ausstoß als visuelle Einheit inszeniert. 
 +++
 Durch die Miteinbeziehung der Annotationstypen für Splitscreens könnten die Häufigkeit, die Anzahl der verwendeten Splitscreens innerhalb einer Einstellung und darüber hinaus die Splitscreen-Dynamiken erfasst werden.  
 
@@ -249,7 +249,7 @@ Die auffälligsten Frame-in-Frame Kompositionen finden sich in den Einstellungen
 :width: 700px
 :align: center
 ```
-Ebenso könnte diskutiert werden, inwiefern sowohl die Frame-in-Frame Einbindungen des Found Footage Materials als auch die animierten Einstellungen Teil des Vortragsarrangements auf der Bühne sind, wie in dem ersten Bild der Reihe als auch in diesem diesem Beispiel zu sehen ist:
+Ebenso könnte diskutiert werden, inwiefern sowohl die Frame-in-Frame Einbindungen des Found Footage Materials als auch die animierten Einstellungen Teil des Vortragsarrangements auf der Bühne sind, wie in dem ersten Bild der Reihe als auch in diesem Beispiel zu sehen ist:
 
 ```{image} ../assets/_images/A4-S10.png
 :align: center

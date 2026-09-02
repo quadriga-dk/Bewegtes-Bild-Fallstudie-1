@@ -1,6 +1,6 @@
 # Empirische Medienästhetik: Die eMAEX-Methode
 
-Neben Handbüchern, Lexika und Glossaren gibt es auch empirische Ansätze, die in ihrem methodischen Vorgehen darauf abzielen, deskriptive Datenmodelle und Designs für die Filmwissenschaft aufzubereiten. Nachfolgend skizzieren wir eine für unsere Fallstudie relevante empirische Methode - die eMEAX-Methode. Die eMAEX-Methode bildet die Forschungsgrundlage für empirische Untersuchungen im Bereich deskriptiv-qualitativer Filmanalyse und wurde im Rahmen des BMBF-geförderten Projekts "<a href="https://www.ada.cinepoetics.fu-berlin.de/" class="external-link" target="_blank">Affektrhetoriken des Audiovisuellen</a>" in eine auf Semantic Web basierende Datenontologie weiterentwickelt. Da die Fallstudie mit dieser Ontologie arbeitet (s. hierzu [Annotieren mit einer Filmontologie](../Kapitel_II/toc_D.md)), möchten wir die Vorarbeiten und Grundideen kurz umreißen.
+Neben Handbüchern, Lexika und Glossaren gibt es auch empirische Ansätze, die in ihrem methodischen Vorgehen darauf abzielen, deskriptive Datenmodelle und Designs für die Filmwissenschaft aufzubereiten. Nachfolgend skizzieren wir eine für unsere Fallstudie relevante empirische Methode - die eMAEX-Methode. Die eMAEX-Methode bildet die Forschungsgrundlage für empirische Untersuchungen im Bereich deskriptiv-qualitativer Filmanalyse und wurde im Rahmen des BMBF-geförderten Projekts "<a href="https://www.ada.cinepoetics.fu-berlin.de/" class="external-link" target="_blank">Affektrhetoriken des Audiovisuellen</a>" in eine auf Semantic Web basierende Datenontologie weiterentwickelt. Da die Fallstudie mit dieser Ontologie arbeitet (s. hierzu [Annotieren mit einer Filmontologie](../Kapitel_II/toc_D.md)), möchten wir die Vorarbeiten und Grundideen kurz umreißen.
 
 ## Was ist die eMAEX-Methode?
 
@@ -33,7 +33,7 @@ Im Rahmen der Filmsegmentierung der eMAEX-Methode wurden genrespezifische Standa
 ````
  
 **Identifikation**
- 1. Szenensegmentierung Pathosszenen: Die zeitliche Segmentierung eines Film nach Szenen und die Bestimmung dieser Szenen nach Pathoskategorien (die affektdramaturgische Makrostruktur eines Films, visualisiert als zeitliche Abfolge von Pathosszenen) 
+ 1. Szenensegmentierung Pathosszenen: Die zeitliche Segmentierung eines Films nach Szenen und die Bestimmung dieser Szenen nach Pathoskategorien (die affektdramaturgische Makrostruktur eines Films, visualisiert als zeitliche Abfolge von Pathosszenen) 
 +++
 **Evaluation**
 

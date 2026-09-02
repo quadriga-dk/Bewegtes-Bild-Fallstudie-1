@@ -10,7 +10,7 @@ Demir, D. & Grotkopp, M. (2024). _Affektrhetorik in Online-Videos zur Klimakrise
 ````
 `````
 
-Hier finden Sie die gesamte Literatur, die in dieser OER referenziert wurde. Sie können Sie zudem als [BibTeX-Datei](../references.bib) (`.bib`) herunterladen, um Sie bspw. in Ihr Literaturverwaltungsprogramm zu importieren.
+Hier finden Sie die gesamte Literatur, die in dieser OER referenziert wurde. Sie können sie zudem als [BibTeX-Datei](../references.bib) (`.bib`) herunterladen, um sie bspw. in Ihr Literaturverwaltungsprogramm zu importieren.
 
 ```{bibliography}
 :list: bullet

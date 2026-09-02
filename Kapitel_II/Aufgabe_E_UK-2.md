@@ -33,7 +33,7 @@ Unten ist eine konfigurierte Visualisierung der Timeline zu sehen.
 2. Analysieren Sie die dargestellten Eigenschaften (Höhe, Repräsentation, Labels, Farbschemata usw.)
 3. Wählen Sie aus den gegebenen Optionen die korrekte Syntax-Kombination aus
 
-<span style="color:purple">**Bearbeitungzeit**</span>: Ca. 10 Min.
+<span style="color:purple">**Bearbeitungszeit**</span>: Ca. 10 Min.
 ```
 
 ````{margin}
@@ -128,7 +128,7 @@ Der Annotationstyp **Recording/Playback Speed** soll als Balkendiagramm mit eine
 3. Dokumentieren Sie die verwendete Syntax für die Konfiguration
 4. Erstellen Sie einen Screenshot der fertigen Visualisierung und vergleichen Sie Ihr Ergebnis mit der Lösung
 
-<span style="color:purple">**Bearbeitungzeit**</span>: Ca. 10-15 Min.
+<span style="color:purple">**Bearbeitungszeit**</span>: Ca. 10-15 Min.
 
 ```{admonition} Hilfestellung zur Antwort
 :class: solution, dropdown
@@ -179,7 +179,7 @@ Andererseits geht es um **Dateninterpretation**, d.h. danach zu fragen, wie die 
 ````
 
 Die Datenvisualisierung spielt eine zentrale Rolle bei der Qualifizierung des Datensatzes. Mithilfe spezifischer Anpassungsoptionen, die wir für die Analyseabschnitte konfiguriert haben, veranschaulichen wir exemplarisch, wie die visualisierten Annotationsdaten filmwissenschaftlich interpretiert werden können.
-Unsere analytischen Studie konzentiert sich dabei stets auf die Interdependenzen zwischen quantitativen Datenmustern und ihrer fachspezifischen Einordnung. Welche Erkenntnisse liefern bestimmte Variablen unserer Annotationsdaten über Schnittfrequenz, Montagemuster oder Helligkeitsverhältnisse? Und wie lassen sich diese erhobenen Visualiserungsmuster des Datensatzes auf unseren audiovisuellen Gegenstand zurückbeziehen?
+Unsere analytische Studie konzentriert sich dabei stets auf die Interdependenzen zwischen quantitativen Datenmustern und ihrer fachspezifischen Einordnung. Welche Erkenntnisse liefern bestimmte Variablen unserer Annotationsdaten über Schnittfrequenz, Montagemuster oder Helligkeitsverhältnisse? Und wie lassen sich diese erhobenen Visualisierungsmuster des Datensatzes auf unseren audiovisuellen Gegenstand zurückbeziehen?
 
 Sowohl die Visualisierungen als auch die Annotationen selbst sollen jedoch nicht einzig als reines Hilfsmittel begriffen werden, die lediglich dazu dienen empirische Evidenz für vorab gegebene Erkenntnisse zu liefern. Wir begreifen den Prozess der Datenerhebung und die Annotationen sowie Visualisierungen der Annotationsdaten als genuine Medien und Verfahren des Denkens mit und über Bewegtbilder {cite}`drucker2020`. 
 
@@ -193,8 +193,8 @@ Die Weiterverarbeitung der Daten und die Rückbeziehung auf eine filmanalytisch 
 <span style="color:purple">**Ziel**</span>: Filmwissenschaftliche Analyse und Interpretation der visualisierten Annotationsdaten
 
 <span style="color:purple">**Aufgabe**</span>:
-1. Untersuchen Sie Ihre erstellte Visualisierung auf Inszernierungsmuster und Auffälligkeiten, die sich anhand der Annotationsdaten erkennen lassen
-2. Analysieren Sie mindestens drei identifizierbare Gestaltungweisen im Hinblick auf:
+1. Untersuchen Sie Ihre erstellte Visualisierung auf Inszenierungsmuster und Auffälligkeiten, die sich anhand der Annotationsdaten erkennen lassen
+2. Analysieren Sie mindestens drei identifizierbare Gestaltungsweisen im Hinblick auf:
 * Schnittfrequenz oder Montagemuster
 * Helligkeitsverhältnisse oder Bewegungsformen
 * Temporale und multimodale Interdependenzen zwischen verschiedenen Annotationstypen
@@ -203,13 +203,13 @@ Die Weiterverarbeitung der Daten und die Rückbeziehung auf eine filmanalytisch 
 * Die Annotationsdaten filmwissenschaftlich qualifiziert
 * Reflektiert, wie die Visualisierungen als "Medien und Verfahren des Denkens" Ihren Analyseprozess beeinflusst haben
 
-<span style="color:purple">**Bearbeitungzeit**</span>: Ca. 180 Min.
+<span style="color:purple">**Bearbeitungszeit**</span>: Ca. 180 Min.
 ```
 
 (Slideshow-Analyse)=
 ### Slideshow der Analyse
 
-Unseren Dateninterpretationsansatz haben wir im Folgenden in Form eines kommentierten Foliensets bereitgestellt, welches mit Ausschnitten der Visualiserung eine beispielhafte Analyse unseres Gegenstandes zeigt.
+Unseren Dateninterpretationsansatz haben wir im Folgenden in Form eines kommentierten Foliensets bereitgestellt, welches mit Ausschnitten der Visualisierung eine beispielhafte Analyse unseres Gegenstandes zeigt.
 Eine ausführliche Analyse in Textform (mit direkten Verweisen auf die jeweiligen Folienabschnitte) steht hier als [PDF-Download](../assets/QUADRIGA_Dateninterpretation_Fallstudie_Bewegtes_Bild_1.pdf) zur Verfügung. Die integrierten Folien können ebenfalls als [Datei](../assets/QUADRIGA-Slideshow-Analyse.pdf) heruntergeladen werden. Dieses Material dient als Anregung zur Vertiefung und soll mögliche Deutungsansätze illustrieren.
 
 ````{card-carousel} 1

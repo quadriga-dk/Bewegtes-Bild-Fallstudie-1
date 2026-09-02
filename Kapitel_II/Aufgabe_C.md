@@ -16,7 +16,7 @@ In diesem Kapitel soll es darum gehen, diese Konzeptualisierung bzw. Systematisi
 (Semantische-Triple)=
 ## Semantische Triple
 
-Nachdem wir die die praktischen Möglichkeiten der digitalen Annotation kennengelernt haben, stellt sich nun die zentrale Frage: Wie können diese beiden Bereiche – also filmanalytische Beschreibungen (Annotationen) und [Semantic Web](semantic:web) Prinzipien – konkret zusammengeführt werden? Anders formuliert: Wie lassen sich die durch Annotationen erfassten filmanalytischen Beschreibungen in ontologische Strukturen des Semantic Web integrieren?
+Nachdem wir die praktischen Möglichkeiten der digitalen Annotation kennengelernt haben, stellt sich nun die zentrale Frage: Wie können diese beiden Bereiche – also filmanalytische Beschreibungen (Annotationen) und [Semantic Web](semantic:web) Prinzipien – konkret zusammengeführt werden? Anders formuliert: Wie lassen sich die durch Annotationen erfassten filmanalytischen Beschreibungen in ontologische Strukturen des Semantic Web integrieren?
 
 Der Schlüssel liegt in der Transformation der Annotationsdaten in ein Format, das sowohl den Semantic Web Standards entspricht als auch für filmanalytische Zwecke praktikabel ist. Denn die in den Annotationstools erfassten Informationen – seien es Einstellungsgrößen, Schnittrhythmen oder Farbwerte – müssen so strukturiert werden, dass sie Teil einer maschinenlesbaren Ontologie werden können.
 
@@ -26,10 +26,10 @@ Dazu müssen die filmanalytischen Beschreibungen der Annotationen maschinenlesba
 :name: annotation-triple
 :width: 600px
 
-Abstrakte Visualisierung: Tranformation filmanalytischer Begriffe in Triple-Struktur nach Semantic Web
+Abstrakte Visualisierung: Transformation filmanalytischer Begriffe in Triple-Struktur nach Semantic Web
 ```
 
-Darin bezeichnet das "Prädikat" eine spezifische Relation zwischen dem "Subjekt" und dem "Objekt". Der entscheidende Schritt zur Maschienenlesbarkeit ist, dass alle drei Teile dieser Aussage mit eindeutigen "identifiern (URI)" verknüpft sind. Das kann für geschlossene Datensysteme eine einfache Zahlenkombination oder ein QR-Code sein, im Sinne der Vernetzung von Wissen sind es i.d.R. eine **URL**, also nach dem Format von Webadressen.
+Darin bezeichnet das "Prädikat" eine spezifische Relation zwischen dem "Subjekt" und dem "Objekt". Der entscheidende Schritt zur Maschinenlesbarkeit ist, dass alle drei Teile dieser Aussage mit eindeutigen "identifiern (URI)" verknüpft sind. Das kann für geschlossene Datensysteme eine einfache Zahlenkombination oder ein QR-Code sein, im Sinne der Vernetzung von Wissen sind es i.d.R. eine **URL**, also nach dem Format von Webadressen.
 
 Ein einfaches Beispiel:
 
@@ -67,7 +67,7 @@ Vereinfachte Darstellung der Triple-Struktur nach dem AdA-Ontologieprinzip
 ## Ontologie 
 
 Eine Auflistung aller Subjekte/Individuen, Prädikate/Klassen/Typen oder Objekte/Eigenschaften/Werte eines Wissensgebiets wird in diesem Kontext als “**Ontologie**” bezeichnet. <br>
-Insofern beschreiben Ontologien ein semantisches Modell, das Wissen struktuiert. Sie beschreiben und ordnen Begriffe und Beziehungen zueinander, um das formulierte Wissen maschinenlesbar zu machen. Wie bereits erwähnt, ermöglichen spezifische Sprachen, wie z.B. **RDF**, **OWL** oder **XSD**, Standards für die Formulierung sowie Formalisierung von Ontologien.
+Insofern beschreiben Ontologien ein semantisches Modell, das Wissen strukturiert. Sie beschreiben und ordnen Begriffe und Beziehungen zueinander, um das formulierte Wissen maschinenlesbar zu machen. Wie bereits erwähnt, ermöglichen spezifische Sprachen, wie z.B. **RDF**, **OWL** oder **XSD**, Standards für die Formulierung sowie Formalisierung von Ontologien.
 
 Für eine bessere Übersicht fassen wir die Kernprinzipien des Semantic Web kurz zusammen:
 

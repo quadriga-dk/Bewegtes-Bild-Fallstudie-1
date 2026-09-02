@@ -37,7 +37,7 @@ Abstrakte Visualisierung von verknüpftem Wissen im Semantic Web (KI-generiert)
 
 Einfach erklärt: Das Semantic Web, auch Web 3.0 genannt, erweitert das klassische Web, indem es Informationen so aufbereitet, dass sie nicht nur für Menschen, sondern auch für Maschinen lesbar sind. Ziel ist es, Daten strukturierter und miteinander verknüpft bereitzustellen, um eine automatisierte, kontextbezogene Verarbeitung und eine gezielte Verknüpfung verschiedener Datenquellen zu ermöglichen. Mehr Informationen zum Semantic Web finden Sie auch in unserer QUADRIGA-Fallstudie: <a href="https://quadriga-dk.github.io/Tabelle-Fallstudie-2/semantic_web/Semantic_Web_Linked_Data.html" class="external-link" target="_blank">"Offene Daten im urbanen Raum: Datenportale, Metadaten und die Datenabfrage mit SPARQL."</a> {cite}`Plomin_Fallstudie_2_2026`.
 
-Eine Ontologie nach Semantic Web Standards ist ein semantisches Modell, das Wissen struktuiert. Sie beschreibt und ordnet Begriffe und Beziehungen zueinander, um das formulierte Wissen maschinenlesbar zu machen. Spezifische Sprachen, wie z.B. **RDF**, **OWL** oder **XSD**, ermöglichen Standards für die Formulierung von Ontologien. Mehr Infos hierzu können Sie in dem Kapitel [Einarbeiten in die Filmontologie](../Kapitel_II/toc_C.md) nachlesen.
+Eine Ontologie nach Semantic Web Standards ist ein semantisches Modell, das Wissen strukturiert. Sie beschreibt und ordnet Begriffe und Beziehungen zueinander, um das formulierte Wissen maschinenlesbar zu machen. Spezifische Sprachen, wie z.B. **RDF**, **OWL** oder **XSD**, ermöglichen Standards für die Formulierung von Ontologien. Mehr Infos hierzu können Sie in dem Kapitel [Einarbeiten in die Filmontologie](../Kapitel_II/toc_C.md) nachlesen.
 
 
 ### Welche Tools gibt es für die digitale Annotation von Film- und Videomaterial?
@@ -62,7 +62,7 @@ Eine einheitliche Systematisierung gibt es dabei nicht. Durch Ansätze verschied
 ```{admonition} Glossare & Nachschlagewerke (z.B. für Grundbegriffe)
 :class: seealso
 * Universität Wien: <a href="https://filmanalyse.at" class="external-link" target="_blank">https://filmanalyse.at</a>
-* Netzwerk Cinema: <a href="https://www.netzwerk-cinema.ch/uploads/files/Glossaire_reaseau_cinema_ch.pdf" class="external-link" target="_blank">https://www.netzwerk-cinema.ch/uploads/files/Glossaire_reaseau_cinema_ch.pdf"</a>
+* Netzwerk Cinema: <a href="https://www.netzwerk-cinema.ch/uploads/files/Glossaire_reaseau_cinema_ch.pdf" class="external-link" target="_blank">https://www.netzwerk-cinema.ch/uploads/files/Glossaire_reaseau_cinema_ch.pdf</a>
 * Universität Kiel: <a href="https://filmlexikon.uni-kiel.de/" class="external-link" target="_blank">https://filmlexikon.uni-kiel.de/</a>
 * Kinofenster: <a href="https://www.kinofenster.de/lehrmaterial/glossar/" class="external-link" target="_blank">https://www.kinofenster.de/lehrmaterial/glossar/</a>
 ```

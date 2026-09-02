@@ -67,7 +67,7 @@ Nach erfolgreichem Durchlaufen dieses JupyterNotebooks können im Erfolgsfall di
 2. Ein filmanalytischer Datensatz kann in den Annotationstools erstellt werden.
 <!-- competency: 2.1 Erhebung | bloom: 3 Anwenden -->
 
-3. Zwischen den verschiedenen Annotationstypen und Werten kann differenziert und ihr Einsatz für spezifische filmanalytische Fragestellungen begründen werden.
+3. Zwischen den verschiedenen Annotationstypen und Werten kann differenziert und ihr Einsatz für spezifische filmanalytische Fragestellungen begründet werden.
 <!-- competency: 3.2 Erschließung | bloom: 4 Analysieren -->
 
 4. Die Unterschiede in der Datenqualität zwischen manueller tabellarischer und toolbasierter Annotation können analysiert und bewertet werden.
@@ -129,7 +129,7 @@ Nach erfolgreichem Durchlaufen dieses JupyterNotebooks können im Erfolgsfall di
 <!-- END: Annotieren mit einer Filmontologie -->
 
 <!-- START: Datenvisualisierung -->
-```{admonition} [Syntaxbasierte Datenvisualisierung -,exploration und -interpretation](visualisierung:daten)
+```{admonition} [Syntaxbasierte Datenvisualisierung, -exploration und -interpretation](visualisierung:daten)
 :class: lernziele
 
 <!-- learning-goal: Ontologiebasierte Annotationsdaten können mit der AdA-Timeline konfiguriert

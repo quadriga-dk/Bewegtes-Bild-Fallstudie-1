@@ -286,7 +286,7 @@ create_answer_box('Assessment_A-8')
 :class: solution, dropdown
 **Hilfestellung zur Antwort:**
 
-Überlegen Sie, welche zeitlichen oder relationalen Aspekte schwierig zu dokumentieren waren. Reflektieren Sie, wie die Segmentierungsmethode Ihre den Prozess der Analyse beeinflusst haben könnte.
+Überlegen Sie, welche zeitlichen oder relationalen Aspekte schwierig zu dokumentieren waren. Reflektieren Sie, wie die Segmentierungsmethode den Prozess der Analyse beeinflusst haben könnte.
 
 **Feedback:**
 
