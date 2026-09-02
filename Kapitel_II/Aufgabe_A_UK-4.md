@@ -2,15 +2,15 @@
 
 ```{admonition} Keypoints
 :class: keypoint
-* Identifikation und korrekte Kategorisierung filmischer [Grundeiheiten](Grundeinheiten-Film) und [Basisparameter](Kurdzefinition-Parameter) 
-* Systematische Erfassung filmanalytischer Primärdaten durch tabellarische Dokumentation audiovisueller Gestaltungsmittel anahnd eines [Einstellungsprotokolls](Tabellarischer-Auzug)
+* Identifikation und korrekte Kategorisierung filmischer [Grundeinheiten](Grundeinheiten-Film) und [Basisparameter](Kurzdefinition-Parameter) 
+* Systematische Erfassung filmanalytischer Primärdaten durch tabellarische Dokumentation audiovisueller Gestaltungsmittel anhand eines [Einstellungsprotokolls](Tabellarischer-Auzug)
 * Methodische Unterscheidung zwischen verschiedenen Segmentierungsformen bei der zeitbasierten Datenerfassung
 * Vergleich und Auswertung der Ergebnisse durch praxisnahe [Übungssektion](Tabelle-Übung)
 * [Kritische Reflexion](Vorteile-Nachteile) der Möglichkeiten und Grenzen tabellarischer Annotation für die Filmanalyse
 ```
 ## Resümee des Kapitels
 
-Die erste Aufgabe beeinhaltete das Erstellen erster, grobstrukturierter Annotationsdaten mittel eines [Einstellungsprotokolls](../Kapitel_II/Aufgabe_A_UK-2.md). Dafür wurde eine Auswahl der zu annotierenden Basisparameter getroffen. Aus der Beschaffenheit des Videomaterials heraus hat sich die Segmentierung in Einstellungen ergeben. Mit [punktuellen Auswertungen](../Kapitel_II/Aufgabe_A_UK-3.md) des Protokolls konnten wir erste Analyseansätze verschriftlichen. 
+Die erste Aufgabe beinhaltete das Erstellen erster, grobstrukturierter Annotationsdaten mittels eines [Einstellungsprotokolls](../Kapitel_II/Aufgabe_A_UK-2.md). Dafür wurde eine Auswahl der zu annotierenden Basisparameter getroffen. Aus der Beschaffenheit des Videomaterials heraus hat sich die Segmentierung in Einstellungen ergeben. Mit [punktuellen Auswertungen](../Kapitel_II/Aufgabe_A_UK-3.md) des Protokolls konnten wir erste Analyseansätze verschriftlichen. 
 
 ## Methodenreflexion
 
