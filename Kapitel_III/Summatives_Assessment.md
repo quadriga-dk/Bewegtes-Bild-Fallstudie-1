@@ -14,7 +14,7 @@ Sie können die Fragen bzw. Aufgaben in beliebiger Reihenfolge beantworten und a
 
 Es erfolgt keine Bewertung oder Speicherung Ihrer Ergebnisse. Nutzen Sie dieses Assessment, um Wissenslücken zu identifizieren und gegebenenfalls die entsprechenden Lernmodule nochmals zu bearbeiten.
 
-**Geschätzte Zeit**: Die Bearbeitunngszeit kann aufgrund des Umfangs der einzelnen Aufgaben stark variieren. Eine konkrete Zeit kann hier nicht vorgegeben werden, da die Dauer der Bearbeitung von Ihrer individuellen Arbeitsweise, Ihrem Vorwissen und der Tiefe Ihrer Auseinandersetzung mit den Inhalten abhängt.
+**Geschätzte Zeit**: Die Bearbeitungszeit kann aufgrund des Umfangs der einzelnen Aufgaben stark variieren. Eine konkrete Zeit kann hier nicht vorgegeben werden, da die Dauer der Bearbeitung von Ihrer individuellen Arbeitsweise, Ihrem Vorwissen und der Tiefe Ihrer Auseinandersetzung mit den Inhalten abhängt.
 
 Am Ende dieses abschließenden Kapitels gibt es einen Selbsteinschätzungsbogen, der Ihnen helfen soll Ihre erworbenen Kompetenzen zu reflektieren und Bereiche zu identifizieren, in denen Sie sich weiterentwickeln können.
 
@@ -51,7 +51,7 @@ Semantic Web Prinzipien beschreiben Grundsätze zur maschinenlesbaren Organisati
 
 4. Ontologiebasierte Annotation
 
-Bei der ontologiebasierten Annotation werden Beobachtungen zu audiovisuellem Material mithilfe eines standardisierten, hierarchisch strukturierten Begriffsystems (Ontologie) digital erfasst. Im Gegensatz zur Freitextannotation werden analytische Untersuchungen dabei spezifischen, vordefinierten Kategorien (Ebenen), Typen und Werten zugeordnet, die in semantischen Relationen zueinander stehen. Diese Methode kombiniert die Präzision tabellarischer Annotation mit der Flexibilität, komplexe semantische Beziehungen zwischen filmischen Elementen zu erfassen. Durch die einheitliche Terminologie und die maschinenlesbare Struktur ermöglicht die ontologiebasierte Annotation konsistente, vergleichbare und interoperable Analysen, die für quantitative Auswertungen und die Identifikation von Mustern in großen Datenkorpora geeignet sind.
+Bei der ontologiebasierten Annotation werden Beobachtungen zu audiovisuellem Material mithilfe eines standardisierten, hierarchisch strukturierten Begriffssystems (Ontologie) digital erfasst. Im Gegensatz zur Freitextannotation werden analytische Untersuchungen dabei spezifischen, vordefinierten Kategorien (Ebenen), Typen und Werten zugeordnet, die in semantischen Relationen zueinander stehen. Diese Methode kombiniert die Präzision tabellarischer Annotation mit der Flexibilität, komplexe semantische Beziehungen zwischen filmischen Elementen zu erfassen. Durch die einheitliche Terminologie und die maschinenlesbare Struktur ermöglicht die ontologiebasierte Annotation konsistente, vergleichbare und interoperable Analysen, die für quantitative Auswertungen und die Identifikation von Mustern in großen Datenkorpora geeignet sind.
 
 5. Temporale Verlaufsdynamik
 
@@ -106,7 +106,7 @@ Folgende Punkte sollen Ihnen bei der Konzeption helfen:
 :class: hinweis
 Nutzen Sie für Ihre Visualisierung die AdA-Timeline und explorieren Sie unter Zuhilfenahme entsprechender Konfigurationsoptionen die Annotationsdaten. Welche Rückschlüsse lassen die empirischen Datensätze in Bezug auf affektrhetorische Mittel und Inszenierungsmuster zu? Wie korrelieren verschiedene Annotationsspuren, z.B. hinsichtlich der Schnittfrequenz, der rhythmischen Komposition oder den dialogischen Sprechakten, miteinander? 
 ```
-Der Workflow der datengestützen Filmanalyse, den wir in unserer [Einführung](../intro.md) vorgestellt haben, soll Ihnen bei der Konzeption Ihres eigenen Forschungsvorhabens als Orientierung dienen:
+Der Workflow der datengestützten Filmanalyse, den wir in unserer [Einführung](../intro.md) vorgestellt haben, soll Ihnen bei der Konzeption Ihres eigenen Forschungsvorhabens als Orientierung dienen:
 
 ```{figure} ../assets/Workflow_datengestützte_Filmanalyse.png
 :name: workflow-filmanalyse
@@ -114,7 +114,7 @@ Der Workflow der datengestützen Filmanalyse, den wir in unserer [Einführung](.
 Workflow der datengestützten Filmanalyse
 ```
 
-Zudem haben wir eine detaillierte [Dokumentation dieses Workflows](../assets/QUADRIGA_Workflowdokumentation_Fallstudie_Bewegtes_Bild_1.pdf) zusammengestellt, in denen Sie konkrete Anhaltspunkte zur methodischen Vorgehensweise erhalten und gleichzeitig unseren Forschungsprozess transparent nachvollziehen können. Selbstverständlich können und sollten Sie den präsentierten Workflow an Ihre spezifischen Forschungsfragen und persönlichen Arbeitspräferenzen anpassen. 
+Zudem haben wir eine detaillierte [Dokumentation dieses Workflows](../assets/QUADRIGA_Workflowdokumentation_Fallstudie_Bewegtes_Bild_1.pdf) zusammengestellt, in der Sie konkrete Anhaltspunkte zur methodischen Vorgehensweise erhalten und gleichzeitig unseren Forschungsprozess transparent nachvollziehen können. Selbstverständlich können und sollten Sie den präsentierten Workflow an Ihre spezifischen Forschungsfragen und persönlichen Arbeitspräferenzen anpassen. 
 
 ## Übergreifende methodenkritische Evaluation
 
