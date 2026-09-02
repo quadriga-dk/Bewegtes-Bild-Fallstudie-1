@@ -71,7 +71,7 @@ Um die Dauer einer Einstellung bei der tabellarischen Annotation zu erheben, kö
 **Doch was sagt die Dauer der jeweiligen Einstellungen über die Einstellung selbst aus?**
 +++
 In unserem Videobeispiel ist die Dauer der Einstellungen für eine Analyse zeitlicher Relationen relevant. Die Einstellungen mit der längsten Dauer sind überwiegend welche, in denen eine 2D-Animation Sachverhalte simuliert. Die 2D-Animationen werden eingesetzt, um komplexe Prozesse und Relationen, die Einfluss auf den Klimawandel haben, bildlich greifbar zu machen und aus ihrer Abstraktion zu lösen.
-Abstrakten Zahlen, wie zum Beipiel die kommunizierte 2 Grad-Grenze, werden affektive Bedeutungen ("Gefahr" oder "Bedrohung") beigemessen.
+Abstrakten Zahlen, wie zum Beispiel die kommunizierte 2 Grad-Grenze, werden affektive Bedeutungen ("Gefahr" oder "Bedrohung") beigemessen.
 
 ![2d-animationsverlauf](../assets/2D-Animationsverlauf.png)
 
@@ -83,7 +83,7 @@ Abstrakten Zahlen, wie zum Beipiel die kommunizierte 2 Grad-Grenze, werden affek
 ```{admonition} Found Footage
 :class: hinweis
 Als **Found Footage** wird Bildmaterial bezeichnet, das aus anderen medialen Kontexten stammt und wahrnehmbar aus den audiovisuellen Zusammenhängen eines Films heraussticht. 
-Found Footage, also die Einbettung 'vorgefunden Materials', ist eine Gestaltungsmethode filmischer Inszenierung und kann auf vielfältige Weise eingesetzt werden.
+Found Footage, also die Einbettung 'vorgefundenen Materials', ist eine Gestaltungsmethode filmischer Inszenierung und kann auf vielfältige Weise eingesetzt werden.
 ```
 ````
 
@@ -94,7 +94,7 @@ display_quiz("../quizzes/A_UK-3_Quiz_3.json", colors = colors.jupyterquiz)
 
 ```{admonition} Lösung
 :class: solution, dropdown
-Die Found Footage-Aufnahmen stammen von der 15. Klimakonferenz in Kopenhagen im Jahr 2009 der UNFCCC (15th Conference of the Parties to the United Nations Framework Convention on Climate Change). Durch die Einbindung dieses Videomaterials wird die historische wie auch politsche Dringlichkeit der Klimakrise als globales Problem klar herausgestellt. <br>
+Die Found Footage-Aufnahmen stammen von der 15. Klimakonferenz in Kopenhagen im Jahr 2009 der UNFCCC (15th Conference of the Parties to the United Nations Framework Convention on Climate Change). Durch die Einbindung dieses Videomaterials wird die historische wie auch politische Dringlichkeit der Klimakrise als globales Problem klar herausgestellt. <br>
 Hinsichtlich ihrer Gestaltung unterscheiden sich die Found Footage-Aufnahmen von den anderen Inszenierungsweisen des Films und bilden eine sich zur Tonebene synchron verhaltene Montagekette. <br>
 Das Found Footage-Material wird in dem Videoausschnitt als Bild-in-Bild-Komposition eingebettet. Als Referenzobjekt für die Entfernung, beispielsweise für die Bestimmung von Einstellungsgrößen, können hier entweder die Menschen und/oder das gesamte Arrangement (inkl. der umgebenden Rahmung) gesetzt werden.
 
