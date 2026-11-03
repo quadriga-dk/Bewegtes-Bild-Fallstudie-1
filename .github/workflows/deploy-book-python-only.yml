@@ -19,11 +19,11 @@ jobs:
     if: ${{ github.event.workflow_run.conclusion == 'success' }}
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       # Python
-      - name: Set up Python 3.11
-        uses: actions/setup-python@v5
+      - name: Set up Python
+        uses: actions/setup-python@v7
         with:
           python-version-file: .python-version
           cache: pip
@@ -41,7 +41,7 @@ jobs:
       # execute:
       #   execute_notebooks: cache
       - name: Cache executed notebooks
-        uses: actions/cache@v3
+        uses: actions/cache@v6
         with:
           path: _build/.jupyter_cache
           key: jupyter-book-cache-${{ hashFiles('requirements.txt') }}
@@ -68,4 +68,4 @@ jobs:
 
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
