@@ -1,7 +1,7 @@
 # Affektrhetorik in Online-Videos zur Klimakrise. Datengestützte Analysen audiovisueller Muster
 
 ````{margin}
-```{admonition} Fragen oder Feedback 
+```{admonition} Fragen oder Feedback
 :class: frage-feedback
 
 <a href="https://github.com/quadriga-dk/Bewegtes-Bild-Fallstudie-1/issues/new?template=frage.yml" class="external-link" target="_blank">
@@ -22,7 +22,7 @@ Mit Ihren Rückmeldungen können wir unser interaktives Lehrbuch gezielt an Ihre
 ```{literalinclude} /CITATION.bib
 :language: bibtex
 ```
-Demir, D. & Grotkopp, M. (2024). _Affektrhetorik in Online-Videos zur Klimakrise. Datengestützte Analysen audiovisueller Muster._ https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/
+Demir, D. & Grotkopp, M. (2024). _Affektrhetorik in Online-Videos zur Klimakrise. Datengestützte Analysen audiovisueller Muster. QUADRIGA Open Educational Resources: Bewegtes Bild 1_ https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/
 ````
 `````
 
@@ -38,11 +38,11 @@ Laut der Definition der UNESCO sind "Open Educational Resources (OER) Bildungsma
 ```
 ````
 
-Die vorliegende Fallstudie "Affektrhetorik in Online-Videos zur Klimakrise. Datengestützte Analysen audiovisueller Muster", die als <a href="https://open-educational-resources.de/was-ist-oer-3-2/" class="external-link" target="_blank">Open Educational Ressource</a> in Form eines interaktiven <a href="https://jupyterbook.org/en/stable/intro.html" class="external-link" target="_blank">Jupyter Books</a> als Lehrbuch zur Verfügung steht, soll am Beispiel von Online-Videos zur Klimakrise modellhaft zeigen, inwiefern sich politische Zielsetzungen in audiovisuellen Diskursen auf die ihnen zugrunde liegenden Inszenierungsmuster (im Konkreten: Gestaltungsweisen durch Musik, Montage, Farb- und Helligkeitsbeziehungen usw.) beziehen lassen. 
+Die vorliegende Fallstudie "Affektrhetorik in Online-Videos zur Klimakrise. Datengestützte Analysen audiovisueller Muster", die als <a href="https://open-educational-resources.de/was-ist-oer-3-2/" class="external-link" target="_blank">Open Educational Ressource</a> in Form eines interaktiven <a href="https://jupyterbook.org/en/stable/intro.html" class="external-link" target="_blank">Jupyter Books</a> als Lehrbuch zur Verfügung steht, soll am Beispiel von Online-Videos zur Klimakrise modellhaft zeigen, inwiefern sich politische Zielsetzungen in audiovisuellen Diskursen auf die ihnen zugrunde liegenden Inszenierungsmuster (im Konkreten: Gestaltungsweisen durch Musik, Montage, Farb- und Helligkeitsbeziehungen usw.) beziehen lassen.
 Im Vordergrund des Forschungsansatzes steht die Fähigkeit, multimodale und temporale Muster – wie etwa wiederkehrende Kombinationen von Musik und Bild oder bestimmte farbliche oder rhythmische Abläufe – durch die Anreicherung und Visualisierung von filmanalytischen Daten erkennen und qualifizieren zu können. Dafür werden die Videos mithilfe sogenannter [Annotationen](./Kapitel_II/Aufgabe_A.md) untersucht. Das heißt: Die Videos werden Schritt für Schritt analysiert (z.B. Bildkomposition, Musik, Dialogebene, Montage uvm.) und mit Zusatzinformationen versehen, etwa zu bestimmten Bildabschnitten oder Tonereignissen. Mit diesen Daten soll am Ende anhand eines Beispielgegenstandes gezeigt werden, welche emotionalen Strategien und Inszenierungen in Online-Videos zur Klimakrise eingesetzt werden.
 
 
-## Zielgruppe und Vorkenntnisse 
+## Zielgruppe und Vorkenntnisse
 Die Fallstudie richtet sich an:
 
 * Forschende (Postdocs)
@@ -56,7 +56,7 @@ Bitte beachten Sie, dass dieses Lehrangebot keine umfassende Einführung in das 
 
 ## Workflow der datengestützten Filmanalyse
 
-Basierend auf der Arbeit an unserer Fallstudie stellen wir Ihnen einen systematischen Workflow vor, den wir entwickelt und visualisiert haben, um einen Gesamtüberblick über die Arbeitsschritte zu ermöglichen. Wer unsere OER vollständig durcharbeitet, soll am Ende in der Lage sein, ein eigenes Forschungsvorhaben entlang dieses Schemas zu konzipieren. Im [letzten Abschnitt](konzeption:forschungsvorhaben) findet sich dazu ein anwendungsorientiertes Assessment, das zur Übertragung des Gelernten auf ein eigenes Projekt anleitet – ergänzt durch eine umfangreiche Dokumentation des hier präsentierten Workflows als Orientierungshilfe. 
+Basierend auf der Arbeit an unserer Fallstudie stellen wir Ihnen einen systematischen Workflow vor, den wir entwickelt und visualisiert haben, um einen Gesamtüberblick über die Arbeitsschritte zu ermöglichen. Wer unsere OER vollständig durcharbeitet, soll am Ende in der Lage sein, ein eigenes Forschungsvorhaben entlang dieses Schemas zu konzipieren. Im [letzten Abschnitt](konzeption:forschungsvorhaben) findet sich dazu ein anwendungsorientiertes Assessment, das zur Übertragung des Gelernten auf ein eigenes Projekt anleitet – ergänzt durch eine umfangreiche Dokumentation des hier präsentierten Workflows als Orientierungshilfe.
 
 ```{figure} ../Bewegtes-Bild-Fallstudie-1/assets/Workflow_datengestützte_Filmanalyse.png
 :name: workflow-filmanalyse-2
@@ -67,7 +67,7 @@ Workflow der datengestützten Filmanalyse
 ```{admonition} Hinweis zum Workflow
 :class: hinweis
 Der entwickelte Workflow reflektiert die zentralen Arbeitsschritte unseres methodischen Vorgehens. Diese OER soll es Ihnen ermöglichen, auf Grundlage dieses Schemas ein eigenes, fundiertes Forschungsvorhaben zu entwerfen.
-``` 
+```
 
 ## Aufbau der Lernmodule
 
@@ -83,29 +83,29 @@ Die Fallstudie verfolgt das Ziel, den Zusammenhang zwischen einem Einstellungspr
 ````{margin}
 ➡️ <span style="color:blue">*optional*</span>
 ````
-* <span style="background-color:#ADD8E6;">**Lernmodul A:**</span> 
+* <span style="background-color:#ADD8E6;">**Lernmodul A:**</span>
 Anhand des ausgewählten Videos sollen in einem [**ersten Schritt**](./Kapitel_II/toc_A.md) tabellarische Annotationsdaten erfasst werden. Dazu wird auf Grundlage filmanalytischer Basisparameter ein Einstellungsprotokoll erstellt.
 
 ````{margin}
 ➡️ <span style="color:blue">*optional*</span>
 ````
-* <span style="background-color:#ADD8E6;">**Lernmodul B:**</span> 
+* <span style="background-color:#ADD8E6;">**Lernmodul B:**</span>
 Der [**zweite Schritt**](./Kapitel_II/toc_B.md) umfasst die Herstellung und Anreicherung von Annotationsdaten mit Tools. Beispielhaft soll mit den Videoannotationstools <a href="https://www.advene.org/" class="external-link" target="_blank">Advene</a> und <a href="https://archive.mpi.nl/tla/elan" class="external-link" target="_blank">ELAN</a> gearbeitet werden.
 
 ````{margin}
 ➡️ <span style="color:red">**erforderlich**</span>
 ````
-* <span style="background-color:#FF7F7F;">**Lernmodul C:**</span> 
+* <span style="background-color:#FF7F7F;">**Lernmodul C:**</span>
 Anschließend sollen die basisschematischen Parameter filmanalytischer Termini im [**dritten Schritt**](./Kapitel_II/toc_C.md) nach Semantic Web Prinzipien in eine Filmontologie überführt werden.
 ````{margin}
 ➡️ <span style="color:red">**erforderlich**</span>
 ````
-* <span style="background-color:#FF7F7F;">**Lernmodul D:**</span> 
+* <span style="background-color:#FF7F7F;">**Lernmodul D:**</span>
 Der [**vierte Schritt**](./Kapitel_II/toc_D.md) umfasst die Implementierung und das Arbeiten mit einer Filmontologie zur Herstellung von Annotationsdaten mit dem Tool Advene.
 ````{margin}
 ➡️ <span style="color:red">**erforderlich**</span>
 ````
-* <span style="background-color:#FF7F7F;">**Lernmodul E:**</span> 
+* <span style="background-color:#FF7F7F;">**Lernmodul E:**</span>
 Im [**fünften Schritt**](./Kapitel_II/toc_E.md) sollen die Daten als Verlaufsdynamiken visualisiert, die Visualisierung angepasst und die Daten ausgewertet bzw. qualifiziert werden.
 
 Die folgende Übersicht zeigt den Fluss der Aufgabenstruktur und die notwendigen Kompetenzen zur Durchführung der jeweiligen Übungen der Fallstudie:
@@ -124,6 +124,6 @@ Dieses interaktive Lehrbuch wird Ihnen im "📘 Book Only Mode" bereitgestellt. 
 
 Zu Beginn jeder Lerneinheit wird die geschätzte Bearbeitungszeit angegeben. Dies hilft Ihnen, Ihre Zeit effektiv zu planen und die Lerneinheiten strukturiert zu bearbeiten. Für das Self-Assessment am Ende jeder Lerneinheit wird die Bearbeitungsdauer separat angegeben und ist nicht in der geschätzten Dauer der Lerneinheit selbst enthalten.
 
-Im nächsten Kapitel stellen wir die für unsere Fallstudie relevanten Informationen sowie theoretischen Grundlagen vor. Der Fokus liegt hierbei auf der Vermittlung empirischer Herangehensweisen datengestützter Filmanalyse. 
+Im nächsten Kapitel stellen wir die für unsere Fallstudie relevanten Informationen sowie theoretischen Grundlagen vor. Der Fokus liegt hierbei auf der Vermittlung empirischer Herangehensweisen datengestützter Filmanalyse.
 
 [^url-unesco]: <https://www.unesco.de/themen/bildung/bildungsqualitaet/weltbildungsempfehlung/global-citizenship-education/friedens-und-menschen/open-educational-resources/>
