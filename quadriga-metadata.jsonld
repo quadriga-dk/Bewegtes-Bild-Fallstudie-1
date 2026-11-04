@@ -19,7 +19,7 @@
     "value": "10.5281/zenodo.15585269",
     "url": "https://doi.org/10.5281/zenodo.15585269"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "schemaVersion": "2.0.0",
   "url": "https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/",
   "workExample": {
@@ -28,7 +28,7 @@
     "codeRepository": "https://github.com/quadriga-dk/Bewegtes-Bild-Fallstudie-1"
   },
   "datePublished": "2025-06-04",
-  "dateModified": "2026-04-14",
+  "dateModified": "2026-11-04",
   "author": [
     {
       "@type": "Person",
