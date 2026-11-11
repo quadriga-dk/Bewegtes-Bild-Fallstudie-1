@@ -1,6 +1,6 @@
 [
     {
-        "question": "Welchem Annotationstypen können die Untertitel zugeordnet werden?",
+        "question": "Welchem Annotationstyp können die Untertitel zugeordnet werden?",
         "type": "many_choice",
         "answers": [
             {
