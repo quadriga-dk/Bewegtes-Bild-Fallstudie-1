@@ -47,19 +47,19 @@ In Advene muss zunächst das mit dem AdA-Template erstellte Annotationspaket ge�
 :class: hinweis
 In der Online-Variante werden aktuelle Visualisierungsdatenbanken von der Homepage des Entwicklers abgerufen, in der Offline-Variante werden lokale Ressourcen der jeweiligen aktuellen Advene-Version genutzt.
 ```
-Am oberen Rand umfasst die Timeline zwei fixierte Spuren: 1. Die zoom control, mit der man frei skalieren kann und 2. die Referenzspur, welche den jeweils ausgewählten Bereich anhand eines festgelegten Annotationstypen anzeigt.
+Am oberen Rand umfasst die Timeline zwei fixierte Spuren: 1. Die zoom control, mit der man frei skalieren kann und 2. die Referenzspur, welche den jeweils ausgewählten Bereich anhand eines festgelegten Annotationstyps anzeigt.
 
 ````{margin}
 ```{admonition} Hinweis
 :class: hinweis
-Beim Öffnen ist die Referenzspur automatisch auf den Annotationstypen 'shot' festgelegt. Dies kann über das Edit-Fenster geändert werden. Mehr Infos zur Anpassung s.u.
+Beim Öffnen ist die Referenzspur automatisch auf den Annotationstyp 'shot' festgelegt. Dies kann über das Edit-Fenster geändert werden. Mehr Infos zur Anpassung s.u.
 ```
 ````
 ![screenshot-A5-03](../assets/_images/A5-S03.png)
 
 Die Zoom-Funktion erlaubt sowohl die Übersicht über einen gesamten Film als auch das beliebige Hineinzoomen in Detailansichten. Um die 'zoom control' zu bedienen, die linke Maustaste gedrückt halten und den Bereich skalieren, der angezeigt werden soll. Den Browser danach aktualisieren.
 +++
-Alle weiteren im Hauptbereich der Timeline angezeigten Spuren zeigen die einzelnen Annotationstypen untereinander. Sie sind auf den denselben Zeitabschnitt wie die Referenzspur bezogen, sodass alle untereinander angezeigten, spurenübergreifenden Werte zeitgleiche Phänomene adressieren.
+Alle weiteren im Hauptbereich der Timeline angezeigten Spuren zeigen die einzelnen Annotationstypen untereinander. Sie sind auf denselben Zeitabschnitt wie die Referenzspur bezogen, sodass alle untereinander angezeigten, spurenübergreifenden Werte zeitgleiche Phänomene adressieren.
 +++
 Die einzelnen Werte der Annotationstypen werden links als Legende angezeigt. 
 ![screenshot-A5-04](../assets/_images/A5-S04.png)
@@ -125,7 +125,7 @@ Es gibt verschiedene Darstellungsformen, um die Timeline zu konfigurieren. Umfas
 
 * **Säulenansicht**, z.B. zur Darstellung des Schnittrhythmus. Breite und Höhe der einzelnen Blöcke entsprechen in dieser Darstellung jeweils der Dauer einer Annotation.
 * **Balkendiagramm**: Die Annotationen werden in Zeilen mit je eigenen Farben als Balken angezeigt.
-* **Wellenform**: Nummerische Werte können als Wellenform dargestellt werden.
+* **Wellenform**: Numerische Werte können als Wellenform dargestellt werden.
 * **Einzeilige Darstellung**: Eine einzeilige Darstellung bietet sich bei Annotationstypen ohne Überlappungen von Werten an.
 * **Farbwerte**: Balkendiagramm, bei dem die Balkenfarben den annotierten Farben entsprechen. 
 ![screenshot-A5-09](../assets/_images/A5-S09.png)
