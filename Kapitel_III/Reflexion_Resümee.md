@@ -45,7 +45,7 @@ Eine nähere Auseinandersetzung mit der Datenerhebung erforderte hier zunächst 
 :height: 450px
 :name: ada-ontoviz-2
 ```
-Für die Datenerhebung unserer Fallstudie haben wir mit der AdA-Filmontologie in dem Tool Advene gearbeitet. Anhand eines Beispielvideos zur Klimakrise, das den Konflikt zwischen der fossilen Brennstoffindustrie und internationalen Bemühungen zur Senkung des Co2-Ausstoßes adressiert, wurde ein Set an Annotationsdaten erstellt: 
+Für die Datenerhebung unserer Fallstudie haben wir mit der AdA-Filmontologie in dem Tool Advene gearbeitet. Anhand eines Beispielvideos zur Klimakrise, das den Konflikt zwischen der fossilen Brennstoffindustrie und internationalen Bemühungen zur Senkung des CO2-Ausstoßes adressiert, wurde ein Set an Annotationsdaten erstellt: 
 
 ```{figure} ../assets/Advene-Oberfläche-2.png
 ---
