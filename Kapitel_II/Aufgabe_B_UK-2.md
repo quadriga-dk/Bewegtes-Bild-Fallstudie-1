@@ -21,7 +21,7 @@ from quadriga import colors
 # Annotieren mit ELAN
 In diesem Unterkapitel soll das Annotationstool ELAN vorgestellt sowie die wesentlichen Funktionen und Bedienungsweisen kurz und übersichtlich umrissen werden. Umfassende Anleitungen aller Grundfunktionen im Detail können unter "Documentation" auf der <a href="https://archive.mpi.nl/tla/elan" class="external-link" target="_blank">Seite des Entwicklers</a> aufgerufen werden. Ein Quick Guide vom Entwickler <a href="https://www.mpi.nl/" class="external-link" target="_blank">Max Planck Institute for Psycholinguistics</a> kann <a href="https://www.mpi.nl/tools/elan/docs/How-to-pages_9.pdf" class="external-link" target="_blank">hier</a> eingesehen werden.
 +++
-ELAN (Eudico Linguistik Annotator) ist eine Open Source Transkriptions- und Annotationssoftware für Mediendateien mit Schwerpunkt Video. Entwickelt wurde die Software vom Max Planck Institute for Psycholinguistics. ELAN kennzeichnet sich insbesondere durch die Möglichkeit der Herstellung multimodaler Annotationen aus, wie zum Beispiel durch simultane Annotationsarbeiten an Bild und Ton. 
+ELAN (EUDICO Linguistic Annotator) ist eine Open Source Transkriptions- und Annotationssoftware für Mediendateien mit Schwerpunkt Video. Entwickelt wurde die Software vom Max Planck Institute for Psycholinguistics. ELAN zeichnet sich insbesondere durch die Möglichkeit der Herstellung multimodaler Annotationen aus, wie zum Beispiel durch simultane Annotationsarbeiten an Bild und Ton. 
 +++
 Ähnlich wie in Advene, können in ELAN ebenfalls Annotationen auf einer Timeline angefertigt werden. Durch verschiedene Exportmöglichkeiten in andere Formate (wie z.B. als **CSV**-Datei) können die Annotationsergebnisse für Präsentationen und andere Projekte genutzt werden.
 
@@ -39,7 +39,7 @@ Wird die Anwendung gestartet öffnet sich zunächst ein blankes Interface. In de
 :height: 400px
 :name: a2-s09
 ```
-Sobald die Datei verknüpft ist, erscheint die Annotationsoberfläche. Unter der Videoanzeige ist eine **Wiedergabesteuerung** zu sehen. Die Steuerung kann über die Scroll,- Pixel,- Frame-, oder Sekundentasten vorgenommen werden. 
+Sobald die Datei verknüpft ist, erscheint die Annotationsoberfläche. Unter der Videoanzeige ist eine **Wiedergabesteuerung** zu sehen. Die Steuerung kann über die Scroll-, Pixel-, Frame- oder Sekundentasten vorgenommen werden. 
 +++
 Die **Auswahlsteuerung** neben der Wiedergabesteuerung kann angepasst werden. Folgende Optionen (der Reihenfolge nach) sind möglich: <br>
 1. Ausgewählter Bereich wird abgespielt
@@ -85,7 +85,7 @@ Um eine neue Zeile bzw. "Tier" anzulegen, im Menüpunkt auf 'Zeile > Neue Zeile 
 ```
 ````{admonition} Hinweis
 :class: hinweis
-Die Farben des Zeilentitels sowie der Zeilenleiste selbst können nach eigenen Belieben angepasst werden. Hierzu im Fenster der Zeileneigenschaften 'Weitere Optionen' wählen. 
+Die Farben des Zeilentitels sowie der Zeilenleiste selbst können nach eigenem Belieben angepasst werden. Hierzu im Fenster der Zeileneigenschaften 'Weitere Optionen' wählen. 
 ```{image} ../assets/_images/A2-S12.png
 :align: center
 :height: 250px
@@ -135,14 +135,14 @@ display_quiz("../quizzes/B_UK-2_Quiz_1.json", colors = colors.jupyterquiz)
 Bereits angelegte Annotationen können ganz einfach geändert werden. Der Annotationsinhalt kann am schnellsten über einen Doppelklick auf die Annotation bearbeitet werden. Weitere Optionen können anschließend mit einem Rechtsklick aufgerufen werden. Hier die wichtigsten kurz erklärt:
 
 * 'Annotationswert ändern' = der Inhalt der Annotation kann bearbeitet werden
-* Annotation aufteilen' = die Annotation wird am Punkt des Mausanzeigers aufgeteilt
+* 'Annotation aufteilen' = die Annotation wird am Punkt des Mausanzeigers aufgeteilt
 ````{margin}
 ```{admonition} Hinweis
 :class: hinweis
 Das Löschen von Annotationen oder Zeilen kann über die obere Menüleiste unter 'Bearbeiten' rückgängig gemacht werden.
 ```
 ````
-* Zusammenfügen mit der vorigen oder nächsten Annotation' = Annotationen können "gemerged", also zu einer Annotation verbunden werden
+* 'Zusammenfügen mit der vorigen oder nächsten Annotation' = Annotationen können "gemerged", also zu einer Annotation verbunden werden
 * 'Annotationswert löschen' = der Inhalt der Annotation wird gelöscht
 * 'Annotation löschen' = die gesamte Annotation wird gelöscht 
 +++
