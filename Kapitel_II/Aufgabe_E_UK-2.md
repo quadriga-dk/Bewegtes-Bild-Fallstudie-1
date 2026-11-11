@@ -91,7 +91,7 @@ Für **DominantMovementDirection** gilt:
 +++
 `colorfield`: der Wert `content` ist korrekt, an der rechten Seite ist eine Legende aller annotierten Werte mit dem Syntaxelement `content` (also ihrem Inhalt) zu sehen.
 +++
-`labels`: der Wert `true` ist korrekt, da wir die Timecode-Leiste für den Annotationstypen konfiguriert haben.
+`labels`: der Wert `true` ist korrekt, da wir die Timecode-Leiste für den Annotationstyp konfiguriert haben.
 +++
 `representation`: der Wert `rect` ist korrekt, die Darstellungsform entspricht einem Balkendiagramm.
 +++
@@ -105,7 +105,7 @@ Für **ImageIntrinsicMovement** gilt:
 +++
 `representation`: der Wert `line` ist korrekt, auch hier sehen die anderen Werte der Darstellungsoption `representation` ganz anders aus (durch ein wenig Ausprobieren kommt man schnell zur Lösung…).
 +++
-`labels`: der Wert `false` ist korrekt, wir haben die Timecode-Leiste für den Annotationstypen ausgeblendet.
+`labels`: der Wert `false` ist korrekt, wir haben die Timecode-Leiste für den Annotationstyp ausgeblendet.
 ````
 ## Aufgabe 2
 
@@ -125,14 +125,14 @@ Der Annotationstyp **Recording/Playback Speed** soll als Balkendiagramm mit eine
 
 <span style="color:purple">**Aufgabe**</span>:
 1. Erstellen Sie eine Visualisierung mit den oben festgelegten Kriterien
-3. Dokumentieren Sie die verwendete Syntax für die Konfiguration
-4. Erstellen Sie einen Screenshot der fertigen Visualisierung und vergleichen Sie Ihr Ergebnis mit der Lösung
+2. Dokumentieren Sie die verwendete Syntax für die Konfiguration
+3. Erstellen Sie einen Screenshot der fertigen Visualisierung und vergleichen Sie Ihr Ergebnis mit der Lösung
 
 <span style="color:purple">**Bearbeitungszeit**</span>: Ca. 10-15 Min.
 
 ```{admonition} Hilfestellung zur Antwort
 :class: solution, dropdown
-Lesen Sie sich das Kapitel "7. Visualisierung" (S. 133) des Manuals nochmals gründlich durch. Auf was muss geachtet werden, damit die Visualisierung korrekt konfiguriert wird? Wie setzt sich die Syntax richtig zusammen (d.h, welche Elemente dürfen nicht fehlen und wie müssen sie genau angeordnet sein)? Können alle Annotationstypen mit allen Repräsentationswerten angezeigt werden oder gibt es möglicherweise Einschränkungen?
+Lesen Sie sich das Kapitel "7. Visualisierung" (S. 133) des Manuals nochmals gründlich durch. Auf was muss geachtet werden, damit die Visualisierung korrekt konfiguriert wird? Wie setzt sich die Syntax richtig zusammen (d.h., welche Elemente dürfen nicht fehlen und wie müssen sie genau angeordnet sein)? Können alle Annotationstypen mit allen Repräsentationswerten angezeigt werden oder gibt es möglicherweise Einschränkungen?
 ```
 ````
 
