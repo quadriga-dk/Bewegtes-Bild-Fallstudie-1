@@ -192,7 +192,7 @@ multiple_choice5 = [{
         {
             "answer": "Eine hierarchische Struktur aus Leveln (Ebenen), Typen und Werten",
             "correct": True,
-            "feedback": """✓ Korrekt! Die AdA-Filmontologie ist hierarchisch in Ebenen (Levels), Typen und Werte gegliedert. Diese Struktur ermöglicht eine präzise und differenzierte Erfassung filmanalytischer Konzepte sowie die Umsetzung der Relation in eine Triple-Struktur."""
+            "feedback": """✓ Korrekt! Die AdA-Filmontologie ist hierarchisch in Ebenen (Levels), Typen und Werten gegliedert. Diese Struktur ermöglicht eine präzise und differenzierte Erfassung filmanalytischer Konzepte sowie die Umsetzung der Relation in eine Triple-Struktur."""
         },
         {
             "answer": "Eine zufällige Sammlung von Triples ohne übergeordnete Organisation",
@@ -233,12 +233,12 @@ multiple_choice6 = [{
         {
             "answer": "A. Kamerabewegung Tempo, B. Kamera, C. Langsam, D. Montage",
             "correct": False,
-            "feedback": "x Nicht korrekt. Überprüfen Sie die hierarchische Struktur der AdA-Filmontologie und die korrekte Zuordnung der Begriffe zu den Ebenen."
+            "feedback": "× Nicht korrekt. Überprüfen Sie die hierarchische Struktur der AdA-Filmontologie und die korrekte Zuordnung der Begriffe zu den Ebenen."
         },
         {
             "answer": "A. Kamera, B. Langsam, C. Kamerabewegung Tempo, D. Montage",
             "correct": False,
-            "feedback": "x Nicht korrekt. Überprüfen Sie die hierarchische Struktur der AdA-Filmontologie und die korrekte Zuordnung der Begriffe zu den Ebenen."
+            "feedback": "× Nicht korrekt. Überprüfen Sie die hierarchische Struktur der AdA-Filmontologie und die korrekte Zuordnung der Begriffe zu den Ebenen."
         },
         {
             "answer": "A. Montage, B. Kamera, C. Kamerabewegung Tempo, D. Langsam",
