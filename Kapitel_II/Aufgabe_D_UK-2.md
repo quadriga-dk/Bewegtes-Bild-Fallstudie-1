@@ -39,7 +39,7 @@ Diese Funktion ist hilfreich, um beispielsweise verschiedene Annotationen, die z
 Hierzu folgende Schritte durchführen:
 
 1. Unter “File” die Option “Import package” anklicken
-2. Das zu importierende Packet auswählen
+2. Das zu importierende Paket auswählen
 3. Im “Package importer view” zur Unterscheidung der Annotationstypen einen Titelzusatz, wie z.B. IMPORTED, angeben. Dieser Zusatz wird hinter die importierten Annotationstypen gehängt
 4. Anschließend die gewünschten Annotationstypen, die importiert werden sollen, anklicken
 5. Die importierten Annotationstypen stehen nun zur Verfügung und können in der Timeline View angezeigt werden
@@ -165,7 +165,7 @@ Dort, wo Fragen nach Skalierungen und Referenzbestimmungen komplexer werden, zei
 
 In Bezug auf die Frame-in-Frame-Einstellungen gilt folgende Entscheidung innerhalb unseres Workflows: 
 
-Sowohl der äußere Rahmen als auch das in diesem Rahmen eingesetzte Bild können als Referenzobjekt bestimmt werden. Daher haben wir uns für den Wert 'neither' und dem Wert für die Einstellungsgröße entschieden, der aus dem zweiten Frame hervorgeht. Ein Annotationsbeispiel mit den Werten 'neither' und 'medium close up' ist hier und unter folgender UUID `3fc06a7e-00a8-11ef-a9a8-001c42d38318` zu sehen:
+Sowohl der äußere Rahmen als auch das in diesem Rahmen eingesetzte Bild können als Referenzobjekt bestimmt werden. Daher haben wir uns für den Wert 'neither' und den Wert für die Einstellungsgröße entschieden, der aus dem zweiten Frame hervorgeht. Ein Annotationsbeispiel mit den Werten 'neither' und 'medium close up' ist hier und unter folgender UUID `3fc06a7e-00a8-11ef-a9a8-001c42d38318` zu sehen:
 ```{image} ../assets/_images/A4-S06.png
 :align: center
 :height: 300px
@@ -209,7 +209,7 @@ display_quiz("../quizzes/D_UK-2_Quiz-1.json", colors = colors.jupyterquiz)
 
 ```{admonition} Antwort
 :class: solution, dropdown
-Die Bewegungsrichtung der Kamera korreliert mit den Timelaps. Mit der Änderung der Bewegungsrichtung synchron zu dem Einsatz des Timelaps entsteht eine dynamische Bildkomposition, die sich durch Geschwindigkeitszunahme sowie Bewegungsveränderung von der restlichen zeitlichen Anordnung des Videos unterscheidet. 
+Die Bewegungsrichtung der Kamera korreliert mit den Timelapses. Mit der Änderung der Bewegungsrichtung synchron zu dem Einsatz des Timelapse entsteht eine dynamische Bildkomposition, die sich durch Geschwindigkeitszunahme sowie Bewegungsveränderung von der restlichen zeitlichen Anordnung des Videos unterscheidet. 
 Interessant ist ebenso, dass die markantesten Bewegungsveränderungen der Kamera mit den animierten Einstellungen einhergehen. Die 2D-Animationen wirken, insbesondere im Kontrast zu den im Vergleich recht statischen Szenen auf der Bühne oder im Interview, wesentlich energetischer.
 ```
 
@@ -237,7 +237,7 @@ Eine sehr dominante und für das Video entscheidende Inszenierungsmodalität ist
 
 ![screenshot-A4-S09](../assets/_images/A4-S09.png)
 
-In den je abgetrennten Screens werden die drei kritischen Zahlen für eine Einhaltung der 2-Grad-Grenze in Bezug auf den Co2-Ausstoß als visuelle Einheit inszeniert. 
+In den je abgetrennten Screens werden die drei kritischen Zahlen für eine Einhaltung der 2-Grad-Grenze in Bezug auf den CO2-Ausstoß als visuelle Einheit inszeniert. 
 +++
 Durch die Miteinbeziehung der Annotationstypen für Splitscreens könnten die Häufigkeit, die Anzahl der verwendeten Splitscreens innerhalb einer Einstellung und darüber hinaus die Splitscreen-Dynamiken erfasst werden.  
 
