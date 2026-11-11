@@ -11,7 +11,7 @@ Wir verstehen Film als Medium, das sich in der Zeit entfaltet. Dabei ist die Zus
 Was wir wahrnehmen und fühlen, setzt sich aus dem Zusammenspiel von Intensitäten zusammen, die sich über die Zeit und den Raum gestalten: "Atmosphären entfalten sich, Gedanken kommen plötzlich, Gefühle schleichen sich ein… Film und andere audiovisuelle Medien sind in der Lage dies nicht nur in Bildern und Tönen auszudrücken, sondern auch als Erleben für den Zuschauer zu gestalten" {cite}`kappelhoff2007`
 ```
 
-<h2>2.2.2. Warum digitale Methoden? Was gibt es für Tools?</h2>
+<h2>Warum digitale Methoden? Was gibt es für Tools?</h2>
 
 ````{margin}
 ```{admonition} Was sind Annotationen
