@@ -359,7 +359,7 @@ create_answer_box('Assessment_E-9')
 
 Gehen Sie näher auf den Zusammenhang zwischen der Visualisierung und der Identifikation von Mustern ein – was wird sichtbar?
 
-Wie kann die Synchronizität verschiedener Parameter analytisch greifbar gemacht werden? Reflektieren sie über die Rolle der Visualisierung im Interpretationsprozess und berücksichtigen Sie sowohl quantitative als auch qualitative Aspekte der Dateninterpretation.
+Wie kann die Synchronizität verschiedener Parameter analytisch greifbar gemacht werden? Reflektieren Sie über die Rolle der Visualisierung im Interpretationsprozess und berücksichtigen Sie sowohl quantitative als auch qualitative Aspekte der Dateninterpretation.
 
 ````
 
