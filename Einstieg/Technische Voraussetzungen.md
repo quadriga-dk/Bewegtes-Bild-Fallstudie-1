@@ -11,14 +11,14 @@ ELAN bietet mehrere Versionen zum Download an:
 
 ![Elan-Download-Versionen](../assets/Elan-Download-Screenshot.png)
 
-Wir empfehlen mit der neusten Release-Version zu arbeiten, da diese die wichtigsten Updates und Fehlerbehebungen enthält. Die aktuelleste Version (letzter Release Dezember 2024) ist `ELAN 6.9`. Mehr Infos zu den release notes gibt es auf der <a href="https://archive.mpi.nl/tla/elan/release-notes" class="external-link" target="_blank"> Projektseite</a>.
+Wir empfehlen mit der neuesten Release-Version zu arbeiten, da diese die wichtigsten Updates und Fehlerbehebungen enthält. Die aktuellste Version (letzter Release Dezember 2024) ist `ELAN 6.9`. Mehr Infos zu den release notes gibt es auf der <a href="https://archive.mpi.nl/tla/elan/release-notes" class="external-link" target="_blank"> Projektseite</a>.
 
 ## Advene Download 
 
 ````{margin}
 ```{admonition} Wichtiger Hinweis
 :class: caution
-Bei Problemen mit dem Download oder der Software können Sie über den <a href="https://github.com/oaubert/advene/issues" class="external-link" target="_blank"> Github-Projektaccount</a> von Advene direkt ein Issue erstellen. Hierzu benötigen Sie einen (kostenlosen) Github-Account.
+Bei Problemen mit dem Download oder der Software können Sie über den <a href="https://github.com/oaubert/advene/issues" class="external-link" target="_blank"> Github-Projektaccount</a> von Advene direkt ein Issue erstellen. Hierzu benötigen Sie einen (kostenlosen) GitHub-Account.
 ```
 ````
 
@@ -26,7 +26,7 @@ Auf der Seite von Advene wird immer die aktuellste Version der Software zum Down
 
 Der Download der **Windows-Version** muss über einen Admin-Account des genutzten Rechners erfolgen.
 
-Über die <a href="https://github.com/oaubert/advene/" class="external-link" target="_blank">Projektseite</a> auf Github kann ebenfalls die Advene Development-Version für Linux heruntergeladen werden.
+Über die <a href="https://github.com/oaubert/advene/" class="external-link" target="_blank">Projektseite</a> auf GitHub kann ebenfalls die Advene Development-Version für Linux heruntergeladen werden.
 
 ```{admonition} Für wen ist die Development-Version geeignet?
 :class: hinweis
@@ -54,7 +54,7 @@ Diese Installationsmethode empfehlen wir für technisch versiertere Nutzer:innen
 
 ### Schritt-für-Schritt Anleitung
 
-Für das Installationspaket und -anleitung siehe: <a href="https://www.advene.org/download.html#download" class="external-link" target="_blank">http://advene.org/download.html#download</a>
+Für das Installationspaket und die Anleitung siehe: <a href="https://www.advene.org/download.html#download" class="external-link" target="_blank">http://advene.org/download.html#download</a>
 
 #### Einrichtung Repository
 
