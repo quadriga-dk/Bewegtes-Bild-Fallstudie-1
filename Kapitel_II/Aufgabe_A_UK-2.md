@@ -14,7 +14,7 @@ ____________________
 ➝ **Szene**  
 * Teilabschnitt eines Filmes  
 * Folge von Einstellungen  
-* Kontinuität von Raum, Zeit & Figuren ist gegeben, Abgeschlossener Bereich eines Films  
+* Kontinuität von Raum, Zeit & Figuren ist gegeben, abgeschlossener Bereich eines Films  
 ____________________
 ➝ **Einstellung**  
 * Kleinste filmische Einheit  
@@ -47,7 +47,7 @@ ____________________
 Blickorientierung der Kamera auf ein Objekt/Subjekt oder das Geschehen  
 ____________________
 <ins>**Kamerabewegung:**</ins> <br>
-Alle Bewegungen, bei der die Kamera ihren Standort oder ihre Bewegungsrichtung ändert  
+Alle Bewegungen, bei denen die Kamera ihren Standort oder ihre Bewegungsrichtung ändert  
 ____________________
 <ins>**Ton:**</ins> <br>
 Alle Geräusche, einschl. Musik, die im Offscreen oder Onscreen wahrnehmbar sind  
@@ -79,7 +79,7 @@ Für eine vertiefende Beschäftigung mit den Grundbegriffen empfehlen wir folgen
 ````{margin}
 ```{admonition} Szenen und Einstellungen
 :class: caution
-Bei ganzen Filmen ist es zunächst sinnvoller nach Sequenzen und/oder Szenen zu segmentieren. Einzelne Szenen wiederrum können dann in Einstellungen eingeteilt werden.
+Bei ganzen Filmen ist es zunächst sinnvoller nach Sequenzen und/oder Szenen zu segmentieren. Einzelne Szenen wiederum können dann in Einstellungen eingeteilt werden.
 ```
 ````
 
