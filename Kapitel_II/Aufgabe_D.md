@@ -10,7 +10,7 @@ Voraussetzung für die Annotationsarbeit in der Videoannotationssoftware Advene 
 :class: hinweis
 Wer erst bei diesem Schritt einsteigt, kann sich notwendiges Vorwissen jeweils hier aneignen:
 +++
-[Einführung in die datengestütze Filmanalyse, Forschungsfragen und Lernziele](../Kapitel_I/Einführung_in_die_datengestützte_Filmanalyse) <br>
+[Einführung in die datengestützte Filmanalyse, Forschungsfragen und Lernziele](../Kapitel_I/Einführung_in_die_datengestützte_Filmanalyse) <br>
 [Untersuchungsgegenstand](../Kapitel_I/Untersuchungsgegenstand) <br>
 [Einarbeiten in die Filmontologie](/Kapitel_II/Aufgabe_C)
 ```
@@ -22,7 +22,7 @@ Wer erst bei diesem Schritt einsteigt, kann sich notwendiges Vorwissen jeweils h
 Die Videotutorials sind auf Englisch. Ein ausführliches Manual in deutscher Sprache (s.u.) steht ebenfalls zur Verfügung.
 ```
 ````
-Für die Annotationsarbeit mit der Ontologie wurden zwei Videotutorials erstellt {cite}`stratil2024a`, {cite}`stratil2024b` . Eine kurze Inhaltsübersicht soll zur Orientierung dienen. Wer ab einem bestimmten Inhaltsabschnitt starten möchte, kann auf den jeweiligen Titel-Link klicken. Unten sind die Videos in voller Länge abrufbar.
+Für die Annotationsarbeit mit der Ontologie wurden zwei Videotutorials erstellt {cite}`stratil2024a`, {cite}`stratil2024b`. Eine kurze Inhaltsübersicht soll zur Orientierung dienen. Wer ab einem bestimmten Inhaltsabschnitt starten möchte, kann auf den jeweiligen Titel-Link klicken. Unten sind die Videos in voller Länge abrufbar.
 
 ### Video: Advene Basics
 
@@ -70,11 +70,11 @@ Beide Videotutorials bieten gute Einstiegshilfen und Erklärungen der wichtigste
 ````{margin}
 ```{admonition} Lizenzangabe AdA-Publikationen
 :class: hinweis
-Die AdA-Publikationen wurden unter der Lizenzangabe <a href="https://creativecommons.org/licenses/by-sa/3.0/de/deed.de" class="external-link" target="_blank">CC BY-SA 3.0</a> veröffentlicht. D.h, dass die Werke unter Namensnennung weiterverwendet und verändert werden dürfen, solange sie unter derselben Lizenz (ShareAlike) weitergegeben werden. Detaillierte Informationen zur Lizenzangabe gibt es auf der <a href="https://github.com/ProjectAdA/public/blob/v1.1/License" class="external-link" target="_blank">Github-Projektseite</a> von AdA.
+Die AdA-Publikationen wurden unter der Lizenzangabe <a href="https://creativecommons.org/licenses/by-sa/3.0/de/deed.de" class="external-link" target="_blank">CC BY-SA 3.0</a> veröffentlicht. D.h., dass die Werke unter Namensnennung weiterverwendet und verändert werden dürfen, solange sie unter derselben Lizenz (ShareAlike) weitergegeben werden. Detaillierte Informationen zur Lizenzangabe gibt es auf der <a href="https://github.com/ProjectAdA/public/blob/v1.1/License" class="external-link" target="_blank">GitHub-Projektseite</a> von AdA.
 ```
 ````
 
-Im Rahmen des AdA-Projekts wurde als Teil des AdA-Toolkits ein Manual entwickelt, welches darüber hinaus noch ausführlichere Anweisungen bereitstellt {cite}`ada2021`. Detaillierte und spezifische Hilfen zu den je einzelnen Funktionen können dem Manual entnommen werden. Hier steht das Manual in deutscher Fassung zum Dowload bereit: [AdA-Manual](../assets/Manual_Advene_AdA_D_Vers1_0.pdf). Eine englische Version kann vom <a href="https://www.ada.cinepoetics.fu-berlin.de/ada-toolkit/index.html" class="external-link" target="_blank">AdA-Toolkit</a> bezogen werden.
+Im Rahmen des AdA-Projekts wurde als Teil des AdA-Toolkits ein Manual entwickelt, welches darüber hinaus noch ausführlichere Anweisungen bereitstellt {cite}`ada2021`. Detaillierte und spezifische Hilfen zu den je einzelnen Funktionen können dem Manual entnommen werden. Hier steht das Manual in deutscher Fassung zum Download bereit: [AdA-Manual](../assets/Manual_Advene_AdA_D_Vers1_0.pdf). Eine englische Version kann vom <a href="https://www.ada.cinepoetics.fu-berlin.de/ada-toolkit/index.html" class="external-link" target="_blank">AdA-Toolkit</a> bezogen werden.
 
 ---
 Lizenzhinweis: "AdA-Manual" von <a href="https://www.ada.cinepoetics.fu-berlin.de/index.html" class="external-link" target="_blank">Affektrhetoriken des Audiovisuellen</a> unter der Lizenz <a href="https://creativecommons.org/licenses/by-sa/3.0/de/deed.de" class="external-link" target="_blank">CC BY-SA 3.0</a> via <a href="https://www.ada.cinepoetics.fu-berlin.de/ada-toolkit/index.html" class="external-link" target="_blank">AdA-Toolkit FU Berlin</a>
