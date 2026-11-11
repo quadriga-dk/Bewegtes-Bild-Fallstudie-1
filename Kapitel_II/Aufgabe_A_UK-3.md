@@ -40,7 +40,7 @@ display_quiz("../quizzes/A_UK-3_Quiz_1.json", colors = colors.jupyterquiz)
 
 `````{admonition} Lösung
 :class: solution, dropdown
-Durch das Segmentieren in Dynamiken können ganz spezifische Verläufe, wie z.B. eine durchgehende musikalische Spur, die über die Dauer einer einzelnen Einstellung hinaus geht, annotiert werden. Da wir es bei diesem Beispiel mit einem kurzen Ausschnitt zu tun haben, ist eine Einteilung in Szenen weniger ergiebig.  
+Durch das Segmentieren in Dynamiken können ganz spezifische Verläufe, wie z.B. eine durchgehende musikalische Spur, die über die Dauer einer einzelnen Einstellung hinausgeht, annotiert werden. Da wir es bei diesem Beispiel mit einem kurzen Ausschnitt zu tun haben, ist eine Einteilung in Szenen weniger ergiebig.  
 +++
 Die nachfolgende Tabelle zeigt eine beispielhafte Segmentierungsstruktur. Hier wurde das Material nach ganz spezifischen Verläufen annotiert. Wichtig ist die Herausarbeitung repetitiver Strukturen und Dynamiken, wie z.B. das Spektrum von Lichtverhältnissen.
 
