@@ -240,7 +240,7 @@ sys.path.append("..")
 from quadriga import colors
 
 multiple_choice7 = [{
-    "question": """Welches der folgenden Antwortmöglichkeiten ist kein Nachteil tabellarischer Annotationsmethoden?""",
+    "question": """Welche der folgenden Antwortmöglichkeiten ist kein Nachteil tabellarischer Annotationsmethoden?""",
     "type": "multiple_choice",
     "answers": [
         {
