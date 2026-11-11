@@ -1,6 +1,6 @@
 # Lernziele
 
-Nach erfolgreichem Durchlaufen dieses JupyterNotebooks können im Erfolgsfall die folgenden Lernziele erreicht werden:
+Nach erfolgreichem Durchlaufen dieses Jupyter Notebooks können im Erfolgsfall die folgenden Lernziele erreicht werden:
 
 <!-- START: Einführung -->
 ```{admonition} [Grundlagen datengestützter Filmanalyse](einführung:filmanalyse)
