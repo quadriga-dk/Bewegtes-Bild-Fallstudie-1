@@ -16,7 +16,7 @@
         ]
     },
     {
-        "question": "Welche Zeitformat muss gewählt werden",
+        "question": "Welches Zeitformat muss gewählt werden?",
         "type": "many_choice",
         "answers": [
             {

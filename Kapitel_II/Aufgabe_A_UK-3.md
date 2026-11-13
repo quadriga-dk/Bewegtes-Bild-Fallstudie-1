@@ -40,7 +40,7 @@ display_quiz("../quizzes/A_UK-3_Quiz_1.json", colors = colors.jupyterquiz)
 
 `````{admonition} Lösung
 :class: solution, dropdown
-Durch das Segmentieren in Dynamiken können ganz spezifische Verläufe, wie z.B. eine durchgehende musikalische Spur, die über die Dauer einer einzelnen Einstellung hinaus geht, annotiert werden. Da wir es bei diesem Beispiel mit einem kurzen Ausschnitt zu tun haben, ist eine Einteilung in Szenen weniger ergiebig.  
+Durch das Segmentieren in Dynamiken können ganz spezifische Verläufe, wie z.B. eine durchgehende musikalische Spur, die über die Dauer einer einzelnen Einstellung hinausgeht, annotiert werden. Da wir es bei diesem Beispiel mit einem kurzen Ausschnitt zu tun haben, ist eine Einteilung in Szenen weniger ergiebig.  
 +++
 Die nachfolgende Tabelle zeigt eine beispielhafte Segmentierungsstruktur. Hier wurde das Material nach ganz spezifischen Verläufen annotiert. Wichtig ist die Herausarbeitung repetitiver Strukturen und Dynamiken, wie z.B. das Spektrum von Lichtverhältnissen.
 
@@ -71,7 +71,7 @@ Um die Dauer einer Einstellung bei der tabellarischen Annotation zu erheben, kö
 **Doch was sagt die Dauer der jeweiligen Einstellungen über die Einstellung selbst aus?**
 +++
 In unserem Videobeispiel ist die Dauer der Einstellungen für eine Analyse zeitlicher Relationen relevant. Die Einstellungen mit der längsten Dauer sind überwiegend welche, in denen eine 2D-Animation Sachverhalte simuliert. Die 2D-Animationen werden eingesetzt, um komplexe Prozesse und Relationen, die Einfluss auf den Klimawandel haben, bildlich greifbar zu machen und aus ihrer Abstraktion zu lösen.
-Abstrakten Zahlen, wie zum Beispiel die kommunizierte 2 Grad-Grenze, werden affektive Bedeutungen ("Gefahr" oder "Bedrohung") beigemessen.
+Abstrakten Zahlen, wie zum Beispiel die kommunizierte 2 Grad-Grenze, werden affektive Bedeutungen („Gefahr“ oder „Bedrohung“) beigemessen.
 
 ![2d-animationsverlauf](../assets/2D-Animationsverlauf.png)
 
@@ -83,7 +83,7 @@ Abstrakten Zahlen, wie zum Beispiel die kommunizierte 2 Grad-Grenze, werden affe
 ```{admonition} Found Footage
 :class: hinweis
 Als **Found Footage** wird Bildmaterial bezeichnet, das aus anderen medialen Kontexten stammt und wahrnehmbar aus den audiovisuellen Zusammenhängen eines Films heraussticht. 
-Found Footage, also die Einbettung 'vorgefundenen Materials', ist eine Gestaltungsmethode filmischer Inszenierung und kann auf vielfältige Weise eingesetzt werden.
+Found Footage, also die Einbettung ‚vorgefundenen Materials‘, ist eine Gestaltungsmethode filmischer Inszenierung und kann auf vielfältige Weise eingesetzt werden.
 ```
 ````
 
@@ -121,4 +121,4 @@ Welche Vor- und Nachteile ergeben sich aus der bisherigen Arbeit mit der Methode
 
 Die tabellarische Annotation ist für einen Einstieg in Methoden deskriptiver Analyse gut geeignet. Sie kann die Arbeit am Filmmaterial sinnvoll ergänzen sowie im Kontext wissenschaftlicher Arbeiten eingesetzt werden, um auf konkrete analytische Beschreibungen verweisen zu können. Insofern ist die tabellarische Annotation ein einfaches Hilfsmittel.
 +++
-Wie gezeigt werden konnte, gibt es zwar Möglichkeiten manuelle Annotationen ebenfalls als Verlaufsdynamiken zu visualisieren (Tools für Tabellen, Bildbearbeitungsprogramme o.Ä.), jedoch gibt es keine Exportmöglichkeiten für solche Visualisierungen. Da es keine festgelegte Annotationstaxonomie gibt, fehlt hier auch eine Grundlage für filmübergreifende Vergleiche. Ebenso ist das Moment der zeitlichen Beschaffenheit des Materials schwer einzuholen. Dies ist dem Umstand der Trennung von Player und Dokument geschuldet, denn es gibt keine 'synchrone' Annotationsmöglichkeit durch das Fehlen der Einbindung des Videos und der Einbettung einer Timeline. Die Auswertung der Daten erfolgt, wie wir es hier durch die Abfrage von Ergebnissen und Quantitäten versucht haben zu reproduzieren, nur punktuell. Eine maschinenlesbare Produktion der Daten als visuelle Verlaufsdynamik ist nicht möglich.
+Wie gezeigt werden konnte, gibt es zwar Möglichkeiten manuelle Annotationen ebenfalls als Verlaufsdynamiken zu visualisieren (Tools für Tabellen, Bildbearbeitungsprogramme o.Ä.), jedoch gibt es keine Exportmöglichkeiten für solche Visualisierungen. Da es keine festgelegte Annotationstaxonomie gibt, fehlt hier auch eine Grundlage für filmübergreifende Vergleiche. Ebenso ist das Moment der zeitlichen Beschaffenheit des Materials schwer einzuholen. Dies ist dem Umstand der Trennung von Player und Dokument geschuldet, denn es gibt keine ‚synchrone‘ Annotationsmöglichkeit durch das Fehlen der Einbindung des Videos und der Einbettung einer Timeline. Die Auswertung der Daten erfolgt, wie wir es hier durch die Abfrage von Ergebnissen und Quantitäten versucht haben zu reproduzieren, nur punktuell. Eine maschinenlesbare Produktion der Daten als visuelle Verlaufsdynamik ist nicht möglich.

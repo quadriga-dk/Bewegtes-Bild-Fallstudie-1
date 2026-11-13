@@ -133,11 +133,11 @@ quiz.create_matching_quiz(
         "Standardformat zur Angabe des Dateityps und Inhalts",
         "Methoden unabhängig von spezifischen Werkzeugen anwenden"
     ],
-    options=["Tiers", "Content Type", "Mime Type", "Toolagnostische Perspektive"],
+    options=["Tiers", "Content Type", "MIME Type", "Toolagnostische Perspektive"],
     correct_mapping={
         "Annotationszeilen in ELAN": "Tiers",
         "Format für den Inhalt einer Annotation": "Content Type",
-        "Standardformat zur Angabe des Dateityps und Inhalts": "Mime Type",
+        "Standardformat zur Angabe des Dateityps und Inhalts": "MIME Type",
         "Methoden unabhängig von spezifischen Werkzeugen anwenden": "Toolagnostische Perspektive"
     }
 )
@@ -201,7 +201,7 @@ create_answer_box('Assessment_B-5')
 :class: solution, dropdown
 **Beispiel für korrekte Antwort:**
 
-Durch Rechtsklick auf die gewünschte Spur und Auswahl von 'New annotation at player time', da dies den aktuellen Videoplayer-Timecode verwendet, was präziser ist als die Positionierung per Mauszeiger. Für noch präzisere Grenzen kann die Frametaste in der Wiedergabesteuerung genutzt werden.
+Durch Rechtsklick auf die gewünschte Spur und Auswahl von ‚New annotation at player time‘, da dies den aktuellen Videoplayer-Timecode verwendet, was präziser ist als die Positionierung per Mauszeiger. Für noch präzisere Grenzen kann die Frametaste in der Wiedergabesteuerung genutzt werden.
 
 ````
 
@@ -224,10 +224,10 @@ create_answer_box('Assessment_B-6')
 **Beispiel für korrekte Antwort:**
 
 - Rechtsklick auf die zu duplizierende Annotation
-- Option 'Duplicate' wählen
+- Option ‚Duplicate‘ wählen
 - Die duplizierte Annotation wird erstellt
-- Anschließend auf die neue Annotation klicken und mit 'Enter' das Textfeld öffnen
-- Den Text ändern und erneut 'Enter' drücken, um die Änderung zu speichern
+- Anschließend auf die neue Annotation klicken und mit ‚Enter‘ das Textfeld öffnen
+- Den Text ändern und erneut ‚Enter‘ drücken, um die Änderung zu speichern
 ````
 
 ## Sektion III: Arbeiten mit ELAN

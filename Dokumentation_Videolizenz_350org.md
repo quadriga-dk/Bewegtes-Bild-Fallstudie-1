@@ -11,7 +11,7 @@ lang: de-DE
 - **YouTube-Link**:  <a href="https://www.youtube.com/watch?v=5KtGg-Lvxso" class="external-link" target="_blank">https://www.youtube.com/watch?v=5KtGg-Lvxso</a> 
 - **Veröffentlichungsdatum**: 5. Oktober 2013
 
-## Bereitstellung in der OER "Affektrhetorik in Online-Videos zur Klimakrise"
+## Bereitstellung in der OER „Affektrhetorik in Online-Videos zur Klimakrise“
 
 Das Video wird im Rahmen dieser OER über einen **externen Download-Link (FU-Box)** zur Verfügung gestellt.
 
@@ -52,7 +52,7 @@ Nach deutschem Urheberrecht und den Creative-Commons-Richtlinien gilt:
 
 [^url-oer]: <https://open-educational-resources.de/creative-commons-lizenzen-zuruecknehmen-oder-aendern/>
 
-Das Video wird in der QUADRIGA-OER "Affektrhetorik in Online-Videos zur Klimakrise" als Untersuchungsgegenstand und kommentiertes Material verwendet, um digitale Filmanalysen exemplarisch durchzuführen. 
+Das Video wird in der QUADRIGA-OER „Affektrhetorik in Online-Videos zur Klimakrise“ als Untersuchungsgegenstand und kommentiertes Material verwendet, um digitale Filmanalysen exemplarisch durchzuführen. 
 
 ## Hinweis
 

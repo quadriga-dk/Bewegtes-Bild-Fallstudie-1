@@ -3,7 +3,7 @@ lang: de-DE
 ---
 # Reflexion
 
-In unserer Fallstudie "Affektrhetoriken in Online-Videos zur Klimakrise" wurden anhand von digitalen Annotationsverfahren filmanalytische Primärdaten hergestellt, durch die spezifische Inszenierungsmuster, Verlaufsdynamiken und Affektrhetoriken erkennbar werden. 
+In unserer Fallstudie „Affektrhetoriken in Online-Videos zur Klimakrise“ wurden anhand von digitalen Annotationsverfahren filmanalytische Primärdaten hergestellt, durch die spezifische Inszenierungsmuster, Verlaufsdynamiken und Affektrhetoriken erkennbar werden. 
 
 Fünf übergeordnete Lernmodule führen hierbei Schritt für Schritt beispielhaft durch den Prozess der Datenerstellung – und Organisation durch:
 
@@ -36,7 +36,7 @@ Interface der Annotationsanwendung Advene
 ```
 ## Von Freitextannotation zur Ontologie
 
-Sowohl die tabellarische Annotation als auch die Arbeit mit digitalen Tools haben gezeigt, dass ein Datenframework für die Vereinheitlichung, Vergleichbarkeit und Taxonomisierung filmanalytischer Termini eine Leerstelle hinsichtlich der Datenproduktion darstellt. Das Vorhaben zur Entwicklung eines systematischen Datenmodells für die Herstellung feingliederiger und präziser Annotationen ergibt sich somit aus dieser vorherrschenden Lücke. Dies betrifft insbesondere die Frage danach, wie vergleichende Analysen größerer Korpora ohne automatische Erkenneralgorithmen überhaupt zu bewältigen wären. Unter der Leitung von Prof. Dr. Jan-Hendrik Bakels entwickelte das BMBF geförderte Projekt "<a href="https://www.ada.cinepoetics.fu-berlin.de/index.html" class="external-link" target="_blank">Affektrhetoriken des Audiovisuellen</a>" (kurz: AdA, Laufzeit 2016-2021) eine Datenontologie, die diese spezifischen Anforderungen digitaler Analysen für die Filmwissenschaft in den Blick nimmt. Wie kann filmanalytisches Vokabular in eine Filmontologie überführt werden? Was ist das Ergebnis dieses Prozesses und wie kann die Arbeit mit einer solchen speziell entwickelten Ontologie im Forschungsalltag von Film- und Medienwissenschaftler:innen aussehen? In den drei folgenden Lernmodulen haben wir diese Fragen unter Berücksichtigung etwaiger Probleme und Grenzen der angewandten Analysemethode adressiert. 
+Sowohl die tabellarische Annotation als auch die Arbeit mit digitalen Tools haben gezeigt, dass ein Datenframework für die Vereinheitlichung, Vergleichbarkeit und Taxonomisierung filmanalytischer Termini eine Leerstelle hinsichtlich der Datenproduktion darstellt. Das Vorhaben zur Entwicklung eines systematischen Datenmodells für die Herstellung feingliederiger und präziser Annotationen ergibt sich somit aus dieser vorherrschenden Lücke. Dies betrifft insbesondere die Frage danach, wie vergleichende Analysen größerer Korpora ohne automatische Erkenneralgorithmen überhaupt zu bewältigen wären. Unter der Leitung von Prof. Dr. Jan-Hendrik Bakels entwickelte das BMBF geförderte Projekt „<a href="https://www.ada.cinepoetics.fu-berlin.de/index.html" class="external-link" target="_blank">Affektrhetoriken des Audiovisuellen</a>“ (kurz: AdA, Laufzeit 2016–2021) eine Datenontologie, die diese spezifischen Anforderungen digitaler Analysen für die Filmwissenschaft in den Blick nimmt. Wie kann filmanalytisches Vokabular in eine Filmontologie überführt werden? Was ist das Ergebnis dieses Prozesses und wie kann die Arbeit mit einer solchen speziell entwickelten Ontologie im Forschungsalltag von Film- und Medienwissenschaftler:innen aussehen? In den drei folgenden Lernmodulen haben wir diese Fragen unter Berücksichtigung etwaiger Probleme und Grenzen der angewandten Analysemethode adressiert. 
 
 Eine nähere Auseinandersetzung mit der Datenerhebung erforderte hier zunächst das Nachvollziehbarmachen von Prinzipien und Logiken des [Semantic Web](../Kapitel_II/Aufgabe_C.md). Anschließend konnte gezeigt werden, wie anhand dieser Prinzipien eine Überführung filmanalytischer Grundbegriffe und Konzepte in eine semantisch strukturierte Datenarchitektur – die AdA-Filmontologie – vollzogen werden kann. Die AdA-Filmontologie ist ein Datenframework, das feingliedrige Annotationen ermöglicht.
 
@@ -45,7 +45,7 @@ Eine nähere Auseinandersetzung mit der Datenerhebung erforderte hier zunächst 
 :height: 450px
 :name: ada-ontoviz-2
 ```
-Für die Datenerhebung unserer Fallstudie haben wir mit der AdA-Filmontologie in dem Tool Advene gearbeitet. Anhand eines Beispielvideos zur Klimakrise, das den Konflikt zwischen der fossilen Brennstoffindustrie und internationalen Bemühungen zur Senkung des Co2-Ausstoßes adressiert, wurde ein Set an Annotationsdaten erstellt: 
+Für die Datenerhebung unserer Fallstudie haben wir mit der AdA-Filmontologie in dem Tool Advene gearbeitet. Anhand eines Beispielvideos zur Klimakrise, das den Konflikt zwischen der fossilen Brennstoffindustrie und internationalen Bemühungen zur Senkung des CO2-Ausstoßes adressiert, wurde ein Set an Annotationsdaten erstellt: 
 
 ```{figure} ../assets/Advene-Oberfläche-2.png
 ---

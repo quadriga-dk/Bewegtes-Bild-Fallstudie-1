@@ -5,7 +5,7 @@
 
 Dieses interaktive Lehrbuch (OER) ist im Rahmen des Projekts <a href="https://www.quadriga-dk.de" class="external-link" target="_blank">QUADRIGA</a> als 1. Fallstudie des Datentyps Bewegtes Bild entstanden.
 
-Die OER wurde im Jahr 2024 erstmals als Work-in-Progress-Version über Github als Jupyter Notebook veröffentlicht. Die vorliegende Version stellt die offiziell veröffentlichte Fassung dar, die am 3. Juni 2025 auf Zenodo archiviert wurde.
+Die OER wurde im Jahr 2024 erstmals als Work-in-Progress-Version über GitHub als Jupyter Notebook veröffentlicht. Die vorliegende Version stellt die offiziell veröffentlichte Fassung dar, die am 3. Juni 2025 auf Zenodo archiviert wurde.
 
 ## Datenkompetenzzentrum QUADRIGA
 

@@ -19,9 +19,9 @@ from quadriga import colors
 ```
 
 # Annotieren mit ELAN
-In diesem Unterkapitel soll das Annotationstool ELAN vorgestellt sowie die wesentlichen Funktionen und Bedienungsweisen kurz und übersichtlich umrissen werden. Umfassende Anleitungen aller Grundfunktionen im Detail können unter "Documentation" auf der <a href="https://archive.mpi.nl/tla/elan" class="external-link" target="_blank">Seite des Entwicklers</a> aufgerufen werden. Ein Quick Guide vom Entwickler <a href="https://www.mpi.nl/" class="external-link" target="_blank">Max Planck Institute for Psycholinguistics</a> kann <a href="https://www.mpi.nl/tools/elan/docs/How-to-pages_9.pdf" class="external-link" target="_blank">hier</a> eingesehen werden.
+In diesem Unterkapitel soll das Annotationstool ELAN vorgestellt sowie die wesentlichen Funktionen und Bedienungsweisen kurz und übersichtlich umrissen werden. Umfassende Anleitungen aller Grundfunktionen im Detail können unter „Documentation“ auf der <a href="https://archive.mpi.nl/tla/elan" class="external-link" target="_blank">Seite des Entwicklers</a> aufgerufen werden. Ein Quick Guide vom Entwickler <a href="https://www.mpi.nl/" class="external-link" target="_blank">Max Planck Institute for Psycholinguistics</a> kann <a href="https://www.mpi.nl/tools/elan/docs/How-to-pages_9.pdf" class="external-link" target="_blank">hier</a> eingesehen werden.
 +++
-ELAN (Eudico Linguistik Annotator) ist eine Open Source Transkriptions- und Annotationssoftware für Mediendateien mit Schwerpunkt Video. Entwickelt wurde die Software vom Max Planck Institute for Psycholinguistics. ELAN kennzeichnet sich insbesondere durch die Möglichkeit der Herstellung multimodaler Annotationen aus, wie zum Beispiel durch simultane Annotationsarbeiten an Bild und Ton. 
+ELAN (EUDICO Linguistic Annotator) ist eine Open Source Transkriptions- und Annotationssoftware für Mediendateien mit Schwerpunkt Video. Entwickelt wurde die Software vom Max Planck Institute for Psycholinguistics. ELAN zeichnet sich insbesondere durch die Möglichkeit der Herstellung multimodaler Annotationen aus, wie zum Beispiel durch simultane Annotationsarbeiten an Bild und Ton. 
 +++
 Ähnlich wie in Advene, können in ELAN ebenfalls Annotationen auf einer Timeline angefertigt werden. Durch verschiedene Exportmöglichkeiten in andere Formate (wie z.B. als **CSV**-Datei) können die Annotationsergebnisse für Präsentationen und andere Projekte genutzt werden.
 
@@ -30,23 +30,23 @@ ELAN (Eudico Linguistik Annotator) ist eine Open Source Transkriptions- und Anno
 ````{margin}
 ```{admonition} Wichtig
 :class: caution
-Die Videodatei ist erstmal undefiniert. Um Sicherheitskopien erstellen zu können, muss die Datei (im elanspezifischen **.eaf**-Format) gespeichert werden. Hierzu unter 'Datei > Speichern unter…' die Datei benennen und speichern. Anschließend ebenfalls unter 'Datei' die automatische Sicherheitskopie aktivieren.
+Die Videodatei ist erstmal undefiniert. Um Sicherheitskopien erstellen zu können, muss die Datei (im elanspezifischen **.eaf**-Format) gespeichert werden. Hierzu unter ‚Datei > Speichern unter…‘ die Datei benennen und speichern. Anschließend ebenfalls unter ‚Datei‘ die automatische Sicherheitskopie aktivieren.
 ```
 ````
-Wird die Anwendung gestartet öffnet sich zunächst ein blankes Interface. In der Menüleiste am oberen Rand kann die Videodatei, die annotiert werden soll, über den Reiter 'Datei' und 'Neu' hinzugefügt werden.
+Wird die Anwendung gestartet öffnet sich zunächst ein blankes Interface. In der Menüleiste am oberen Rand kann die Videodatei, die annotiert werden soll, über den Reiter ‚Datei‘ und ‚Neu‘ hinzugefügt werden.
 ```{image} ../assets/_images/A2-S09.png
 :align: center
 :height: 400px
 :name: a2-s09
 ```
-Sobald die Datei verknüpft ist, erscheint die Annotationsoberfläche. Unter der Videoanzeige ist eine **Wiedergabesteuerung** zu sehen. Die Steuerung kann über die Scroll,- Pixel,- Frame-, oder Sekundentasten vorgenommen werden. 
+Sobald die Datei verknüpft ist, erscheint die Annotationsoberfläche. Unter der Videoanzeige ist eine **Wiedergabesteuerung** zu sehen. Die Steuerung kann über die Scroll-, Pixel-, Frame- oder Sekundentasten vorgenommen werden. 
 +++
 Die **Auswahlsteuerung** neben der Wiedergabesteuerung kann angepasst werden. Folgende Optionen (der Reihenfolge nach) sind möglich: <br>
 1. Ausgewählter Bereich wird abgespielt
 2. Auswahl wird aufgehoben
 3. Fadenkreuz bewegt sich an den Anfang oder an das Ende des markierten Bereichs
 4. Der Cursor springt zur vorigen/nächsten oder drüber/drunterliegenden Annotation
-5. 'Auswahl-Modus aktivieren': Bereich wird bei Wiedergabe oder vorwärts/rückwärts-Bewegung markiert
+5. ‚Auswahl-Modus aktivieren‘: Bereich wird bei Wiedergabe oder vorwärts/rückwärts-Bewegung markiert
 +++
 Der **Schleifenmodus** spielt den ausgewählten Bereich im Loop ab.
 +++
@@ -54,7 +54,7 @@ Die **Navigation der Timeline** erfolgt durch den grauen Balken unter der Wieder
 +++
 Die **Größenskalierung** der Timeline erfolgt über den Regler am unteren rechten Rand.
 +++
-Im Fenster rechts neben dem Videoplayer kann unter 'Steuerung' die Wiedergabegeschwindigkeit des Videos angepasst werden. 
+Im Fenster rechts neben dem Videoplayer kann unter ‚Steuerung‘ die Wiedergabegeschwindigkeit des Videos angepasst werden. 
 ![screenshot-A2-10](../assets/_images/A2-S10.png)
 +++
 
@@ -66,10 +66,10 @@ Manchmal kann es sehr nützlich sein, die Wiedergabegeschwindigkeit an den eigen
 ````
 `````
 
-Sobald das Video mit dem ELAN-Projekt verknüpft ist, können Annotationszeilen – "Tiers" genannt – sowie Annotationen angelegt werden. 
+Sobald das Video mit dem ELAN-Projekt verknüpft ist, können Annotationszeilen – „Tiers“ genannt – sowie Annotationen angelegt werden. 
 ## Annotationszeilen (Tiers) und Annotationen
 ### Zeilen
-Eine 'default'-Zeile wird automatisch bei jedem neuen Annotationsdokument angelegt. Diese kann im Vorfeld entweder umbenannt oder gelöscht werden. 
+Eine ‚default‘-Zeile wird automatisch bei jedem neuen Annotationsdokument angelegt. Diese kann im Vorfeld entweder umbenannt oder gelöscht werden. 
 +++
 ````{margin}
 ```{admonition} Achtung
@@ -77,7 +77,7 @@ Eine 'default'-Zeile wird automatisch bei jedem neuen Annotationsdokument angele
 Beim Schließen des Bearbeitungsfensters ohne die Einfügung der Zeile wird die Zeile nicht gespeichert.
 ```
 ````
-Um eine neue Zeile bzw. "Tier" anzulegen, im Menüpunkt auf 'Zeile > Neue Zeile einfügen…' klicken. Das sich öffnende Bearbeitungsfenster ermöglicht die Benennung der Zeile. Weitere Attribute (wie z.B. "Teilnehmer" oder "Annotator") können ebenfalls ergänzt werden. Um die Zeile zu speichern, auf 'Einfügen' klicken. 
+Um eine neue Zeile bzw. „Tier“ anzulegen, im Menüpunkt auf ‚Zeile > Neue Zeile einfügen…‘ klicken. Das sich öffnende Bearbeitungsfenster ermöglicht die Benennung der Zeile. Weitere Attribute (wie z.B. „Teilnehmer“ oder „Annotator“) können ebenfalls ergänzt werden. Um die Zeile zu speichern, auf ‚Einfügen‘ klicken. 
 ```{image} ../assets/_images/A2-S11.png
 :align: center
 :height: 500px
@@ -85,7 +85,7 @@ Um eine neue Zeile bzw. "Tier" anzulegen, im Menüpunkt auf 'Zeile > Neue Zeile 
 ```
 ````{admonition} Hinweis
 :class: hinweis
-Die Farben des Zeilentitels sowie der Zeilenleiste selbst können nach eigenen Belieben angepasst werden. Hierzu im Fenster der Zeileneigenschaften 'Weitere Optionen' wählen. 
+Die Farben des Zeilentitels sowie der Zeilenleiste selbst können nach eigenem Belieben angepasst werden. Hierzu im Fenster der Zeileneigenschaften ‚Weitere Optionen‘ wählen. 
 ```{image} ../assets/_images/A2-S12.png
 :align: center
 :height: 250px
@@ -96,16 +96,16 @@ Die Farben des Zeilentitels sowie der Zeilenleiste selbst können nach eigenen B
 
 Mit ELAN ist es möglich Annotationsprojekte als Templates zu sichern. Die Erstellung eines Templates empfiehlt sich insbesondere, wenn für mehrere Filme oder Filmausschnitte Annotationen mit dem gleichen Set an Parametern erstellt werden sollen. Hierzu können Basisspuren, also Annotationszeilen, vordefiniert und anschließend die Datei als Vorlage gesichert werden. 
 +++
-Um ein Template zu erstellen, einfach vorgehen wie beim Start eines regulären Annotationsprojektes. Anschließend die Zeilen erstellen und die Datei unter 'Speichern als Vorlage' im **.etf-Format** sichern.
+Um ein Template zu erstellen, einfach vorgehen wie beim Start eines regulären Annotationsprojektes. Anschließend die Zeilen erstellen und die Datei unter ‚Speichern als Vorlage‘ im **.etf-Format** sichern.
 +++
-Zur Nutzung der Vorlage ELAN starten und unter 'Datei > Neu…' die Vorlagedatei wählen und öffnen.
+Zur Nutzung der Vorlage ELAN starten und unter ‚Datei > Neu…‘ die Vorlagedatei wählen und öffnen.
 
 ### Annotationen
 
-Annotationen werden als Zeitsegmente entlang der Timeline angelegt. Es gibt die Möglichkeit Annotationen A) **"frei Hand"** zu erstellen oder B) **präzisere Zeitabschnitte** durch beispielsweise die Frame- und Pixeltaste anzulegen.
+Annotationen werden als Zeitsegmente entlang der Timeline angelegt. Es gibt die Möglichkeit Annotationen A) **„frei Hand“** zu erstellen oder B) **präzisere Zeitabschnitte** durch beispielsweise die Frame- und Pixeltaste anzulegen.
 +++
 #### Variante A
-Der schnellste Weg eine Annotation zu erstellen ist mit dem Zeiger in das Feld der Annotationen an die Zeitstelle zu klicken, an der es losgehen soll, gedrückt halten und den Zeiger bis zum gewünschten Ende ziehen (geht vorwärts wie rückwärts). Der markierte Bereich erscheint violett. Mit einem Doppelklick in die gewünschte Zeile kann der Annotation ein Inhalt bzw. Wert beigeordnet werden. Zum Speichern 'Enter' drücken.
+Der schnellste Weg eine Annotation zu erstellen ist mit dem Zeiger in das Feld der Annotationen an die Zeitstelle zu klicken, an der es losgehen soll, gedrückt halten und den Zeiger bis zum gewünschten Ende ziehen (geht vorwärts wie rückwärts). Der markierte Bereich erscheint violett. Mit einem Doppelklick in die gewünschte Zeile kann der Annotation ein Inhalt bzw. Wert beigeordnet werden. Zum Speichern ‚Enter‘ drücken.
 +++
 ![screenshot-A2-13](../assets/_images/A2-S13.png)
 +++
@@ -116,13 +116,13 @@ Jetzt kann man entweder…:
 
 #### Variante B
 
-Wer präzise Annotationen erstellen möchte, kann mit der Bedienung der Wiedergabesteuerung arbeiten. Hierfür ist es wichtig, dass unter dem Medienfenster die Zeitanzeige auf Frames eingestellt ist. Mit einem Rechtsklick auf die Zeitanzeige kann das Ausgabeformat geändert werden. Abhängig von der **Frame Rate** des Videos "PAL" oder "NTSC" wählen. 
-Zur Erstellung der Annotation dann an den ungefähren Bereich des Anfangs navigieren und mit der Frametaste bzw. Pixeltaste den genauen Anfang bestimmen. Dann den 'Auswahl-Modus' aktivieren und erneut mit der Frametaste/Pixeltaste zur Endzeit der Annotation steuern. Den 'Auswahl-Modus' deaktivieren und mit einem Doppelklick die Annotation erstellen bzw. einen Wert einfügen. 
+Wer präzise Annotationen erstellen möchte, kann mit der Bedienung der Wiedergabesteuerung arbeiten. Hierfür ist es wichtig, dass unter dem Medienfenster die Zeitanzeige auf Frames eingestellt ist. Mit einem Rechtsklick auf die Zeitanzeige kann das Ausgabeformat geändert werden. Abhängig von der **Frame Rate** des Videos „PAL“ oder „NTSC“ wählen. 
+Zur Erstellung der Annotation dann an den ungefähren Bereich des Anfangs navigieren und mit der Frametaste bzw. Pixeltaste den genauen Anfang bestimmen. Dann den ‚Auswahl-Modus‘ aktivieren und erneut mit der Frametaste/Pixeltaste zur Endzeit der Annotation steuern. Den ‚Auswahl-Modus‘ deaktivieren und mit einem Doppelklick die Annotation erstellen bzw. einen Wert einfügen. 
 ```{admonition} Was ist "PAL" oder "NTSC"?
 :class: hinweis
 Die Zeitformate **PAL** oder **NTSC** beziehen sich auf die Bildfrequenz – also Frame Rate. PAL-Videos werden üblicherweise mit einer Frame Rate von 25 Bildern pro Sekunde (FPS = frames per second) aufgenommen während NTSC mit einer Frame Rate von 30 Bildern pro Sekunde arbeitet. <br>
 Die Frame Rate eines Videos kann über gängige Videoabspielprogramme herausgefunden werden. Hierzu die Metadateninformationen abrufen: 
-Beispielsweise unter VLC im Abspielmodus mit cmd + I (Mac)  bzw. Strg + J (Windows) und dann unter 'Codecdetails > Bildwiederholrate'.
+Beispielsweise unter VLC im Abspielmodus mit cmd + I (Mac)  bzw. Strg + J (Windows) und dann unter ‚Codecdetails > Bildwiederholrate‘.
 ```
 
 ```{code-cell} ipython3
@@ -134,32 +134,32 @@ display_quiz("../quizzes/B_UK-2_Quiz_1.json", colors = colors.jupyterquiz)
 
 Bereits angelegte Annotationen können ganz einfach geändert werden. Der Annotationsinhalt kann am schnellsten über einen Doppelklick auf die Annotation bearbeitet werden. Weitere Optionen können anschließend mit einem Rechtsklick aufgerufen werden. Hier die wichtigsten kurz erklärt:
 
-* 'Annotationswert ändern' = der Inhalt der Annotation kann bearbeitet werden
-* Annotation aufteilen' = die Annotation wird am Punkt des Mausanzeigers aufgeteilt
+* ‚Annotationswert ändern‘ = der Inhalt der Annotation kann bearbeitet werden
+* ‚Annotation aufteilen‘ = die Annotation wird am Punkt des Mausanzeigers aufgeteilt
 ````{margin}
 ```{admonition} Hinweis
 :class: hinweis
-Das Löschen von Annotationen oder Zeilen kann über die obere Menüleiste unter 'Bearbeiten' rückgängig gemacht werden.
+Das Löschen von Annotationen oder Zeilen kann über die obere Menüleiste unter ‚Bearbeiten‘ rückgängig gemacht werden.
 ```
 ````
-* Zusammenfügen mit der vorigen oder nächsten Annotation' = Annotationen können "gemerged", also zu einer Annotation verbunden werden
-* 'Annotationswert löschen' = der Inhalt der Annotation wird gelöscht
-* 'Annotation löschen' = die gesamte Annotation wird gelöscht 
+* ‚Zusammenfügen mit der vorigen oder nächsten Annotation‘ = Annotationen können „gemerged“, also zu einer Annotation verbunden werden
+* ‚Annotationswert löschen‘ = der Inhalt der Annotation wird gelöscht
+* ‚Annotation löschen‘ = die gesamte Annotation wird gelöscht 
 +++
-Fertige Annotationen können auch a) bewegt oder b) in ihrer Länge verändert werden, indem man die 'ALT' (Windows) bzw. 'Option-Taste' (Mac) gedrückt haltend auf den Strich klickt (wechselt zu grün). Anschließend zum a) Verschieben die Annotation entlang der Zeitleiste bewegen, um die Position zu verändern oder b) am Ende der Annotation an der Zeitmarke vorwärts oder rückwärts bewegen.
+Fertige Annotationen können auch a) bewegt oder b) in ihrer Länge verändert werden, indem man die ‚ALT‘ (Windows) bzw. ‚Option-Taste‘ (Mac) gedrückt haltend auf den Strich klickt (wechselt zu grün). Anschließend zum a) Verschieben die Annotation entlang der Zeitleiste bewegen, um die Position zu verändern oder b) am Ende der Annotation an der Zeitmarke vorwärts oder rückwärts bewegen.
 +++
 ![screenshot-A2-14](../assets/_images/A2-S14.png)
 +++
 #### Kopieren und Löschen von Annotationen und Werten
 
-Parameter, also Annotationszeilen, die zum Beispiel nach dem Einstellungsprinzip annotiert werden, können auch auf eine andere Zeile kopiert werden. Dafür unter dem Reiter 'Zeile' auf 'Copy Annotations from Tier to Tier' klicken. In dem sich öffnenden Bearbeitungsfenster kann dann die Zeile ausgewählt werden, aus der die Annotationen kopiert werden sollen. Anschließend kann die Zielzeile ausgewählt werden. Mit 'Beenden' werden die Änderungen übernommen.
+Parameter, also Annotationszeilen, die zum Beispiel nach dem Einstellungsprinzip annotiert werden, können auch auf eine andere Zeile kopiert werden. Dafür unter dem Reiter ‚Zeile‘ auf ‚Copy Annotations from Tier to Tier‘ klicken. In dem sich öffnenden Bearbeitungsfenster kann dann die Zeile ausgewählt werden, aus der die Annotationen kopiert werden sollen. Anschließend kann die Zielzeile ausgewählt werden. Mit ‚Beenden‘ werden die Änderungen übernommen.
 +++
-Zum Löschen der Werte über 'Zeile' auf 'Entferne Annotationen oder Werte' klicken und alle (oder ausgewählte) Werte für die gewünschte Zeile löschen. So können neue Werte in der Zielzeile eingetragen werden.
+Zum Löschen der Werte über ‚Zeile‘ auf ‚Entferne Annotationen oder Werte‘ klicken und alle (oder ausgewählte) Werte für die gewünschte Zeile löschen. So können neue Werte in der Zielzeile eingetragen werden.
 ![screenshot-A2-15](../assets/_images/A2-S15.png)
 
 ### Exportieren
 
-ELAN-Projekte können in unterschiedliche Datenformate exportiert werden. Hierzu unter 'Datei' auf 'Exportieren als' gehen. Eine Liste an Exportformaten wird angezeigt. Der Export ermöglicht die Weiterverarbeitung der Daten, zum Beispiel als **CSV-File**. Eine ausführliche Anleitung der einzelnen Formate kann <a href="https://www.mpi.nl/corpus/html/elan/ch01s04.html#Sec_Export_as" class="external-link" target="_blank">hier</a> eingesehen werden.
+ELAN-Projekte können in unterschiedliche Datenformate exportiert werden. Hierzu unter ‚Datei‘ auf ‚Exportieren als‘ gehen. Eine Liste an Exportformaten wird angezeigt. Der Export ermöglicht die Weiterverarbeitung der Daten, zum Beispiel als **CSV-File**. Eine ausführliche Anleitung der einzelnen Formate kann <a href="https://www.mpi.nl/corpus/html/elan/ch01s04.html#Sec_Export_as" class="external-link" target="_blank">hier</a> eingesehen werden.
 
 
 ````{margin}
@@ -178,11 +178,11 @@ Für eine vergleichende Perspektive sollen Sie sich in dieser Übung mit den Fun
 
 <span style="color:purple">**Aufgabe**</span>:
 1.	ELAN starten und Videodatei verknüpfen, automatische Sicherheitskopie aktivieren 
-2.	Sobald das Video verknüpft ist und die Datei gesichert wurde, kann mit der Annotation begonnen werden. Als erste legen wir auch hier unsere Parameter also "Tiers" in ELAN an, die Auswahl der Parameter entnehmen wir unserer [vorherigen Bestimmung](#Aufgabe_B)
+2.	Sobald das Video verknüpft ist und die Datei gesichert wurde, kann mit der Annotation begonnen werden. Als erste legen wir auch hier unsere Parameter also „Tiers“ in ELAN an, die Auswahl der Parameter entnehmen wir unserer [vorherigen Bestimmung](#Aufgabe_B)
 3.	Als nächstes können nun die Annotationen auf der Timeline erstellt werden. Wer sehr präzise Annotationsgrenzen haben möchte, kann über die Frametaste bzw. Pixeltaste Annotationsabschnitte erstellen und anpassen
 4.	Überprüfen und Annotationen ggf. nachbearbeiten 
 5.	Für die Weiterverarbeitung der Daten das Projekt in ein Zielformat exportieren
 6. Zum Abgleich der Annotationsergebnisse steht hier unser ausgefülltes ELAN-Projekt als **.eaf-Datei** zum [Download](../assets/QUADRIGA-ELAN-Annotationspaket.zip) bereit.
 
-<span style="color:purple">**Bearbeitungszeit**</span>: Ca. 120-180 Min.
+<span style="color:purple">**Bearbeitungszeit**</span>: Ca. 120–180 Min.
 ```
