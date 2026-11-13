@@ -32,13 +32,13 @@ Demir, D. & Grotkopp, M. (2024). _Affektrhetorik in Online-Videos zur Klimakrise
 Auszug einer Visualisierungsansicht der AdA-Timeline
 ```
 ````{margin}
-```{admonition} Was ist eine Open Educational Ressource?
+```{admonition} Was ist eine Open Educational Resource?
 :class: hinweis
 Laut der Definition der UNESCO sind "Open Educational Resources (OER) Bildungsmaterialien jeglicher Art und in jedem Medium, die unter einer offenen Lizenz stehen. Eine solche Lizenz ermöglicht den kostenlosen Zugang sowie die kostenlose Nutzung, Bearbeitung und Weiterverbreitung durch Dritte ohne oder mit geringfügigen Einschränkungen"[^url-unesco].
 ```
 ````
 
-Die vorliegende Fallstudie "Affektrhetorik in Online-Videos zur Klimakrise. Datengestützte Analysen audiovisueller Muster", die als <a href="https://open-educational-resources.de/was-ist-oer-3-2/" class="external-link" target="_blank">Open Educational Ressource</a> in Form eines interaktiven <a href="https://jupyterbook.org/en/stable/intro.html" class="external-link" target="_blank">Jupyter Books</a> als Lehrbuch zur Verfügung steht, soll am Beispiel von Online-Videos zur Klimakrise modellhaft zeigen, inwiefern sich politische Zielsetzungen in audiovisuellen Diskursen auf die ihnen zugrunde liegenden Inszenierungsmuster (im Konkreten: Gestaltungsweisen durch Musik, Montage, Farb- und Helligkeitsbeziehungen usw.) beziehen lassen.
+Die vorliegende Fallstudie "Affektrhetorik in Online-Videos zur Klimakrise. Datengestützte Analysen audiovisueller Muster", die als <a href="https://open-educational-resources.de/was-ist-oer-3-2/" class="external-link" target="_blank">Open Educational Resource</a> in Form eines interaktiven <a href="https://jupyterbook.org/en/stable/intro.html" class="external-link" target="_blank">Jupyter Books</a> als Lehrbuch zur Verfügung steht, soll am Beispiel von Online-Videos zur Klimakrise modellhaft zeigen, inwiefern sich politische Zielsetzungen in audiovisuellen Diskursen auf die ihnen zugrunde liegenden Inszenierungsmuster (im Konkreten: Gestaltungsweisen durch Musik, Montage, Farb- und Helligkeitsbeziehungen usw.) beziehen lassen.
 Im Vordergrund des Forschungsansatzes steht die Fähigkeit, multimodale und temporale Muster – wie etwa wiederkehrende Kombinationen von Musik und Bild oder bestimmte farbliche oder rhythmische Abläufe – durch die Anreicherung und Visualisierung von filmanalytischen Daten erkennen und qualifizieren zu können. Dafür werden die Videos mithilfe sogenannter [Annotationen](./Kapitel_II/Aufgabe_A.md) untersucht. Das heißt: Die Videos werden Schritt für Schritt analysiert (z.B. Bildkomposition, Musik, Dialogebene, Montage uvm.) und mit Zusatzinformationen versehen, etwa zu bestimmten Bildabschnitten oder Tonereignissen. Mit diesen Daten soll am Ende anhand eines Beispielgegenstandes gezeigt werden, welche emotionalen Strategien und Inszenierungen in Online-Videos zur Klimakrise eingesetzt werden.
 
 
