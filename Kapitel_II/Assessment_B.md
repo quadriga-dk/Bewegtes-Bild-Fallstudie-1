@@ -133,11 +133,11 @@ quiz.create_matching_quiz(
         "Standardformat zur Angabe des Dateityps und Inhalts",
         "Methoden unabhängig von spezifischen Werkzeugen anwenden"
     ],
-    options=["Tiers", "Content Type", "Mime Type", "Toolagnostische Perspektive"],
+    options=["Tiers", "Content Type", "MIME Type", "Toolagnostische Perspektive"],
     correct_mapping={
         "Annotationszeilen in ELAN": "Tiers",
         "Format für den Inhalt einer Annotation": "Content Type",
-        "Standardformat zur Angabe des Dateityps und Inhalts": "Mime Type",
+        "Standardformat zur Angabe des Dateityps und Inhalts": "MIME Type",
         "Methoden unabhängig von spezifischen Werkzeugen anwenden": "Toolagnostische Perspektive"
     }
 )
