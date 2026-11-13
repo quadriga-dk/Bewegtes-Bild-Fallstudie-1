@@ -157,11 +157,11 @@ Nach erfolgreichem Durchlaufen dieses Jupyter Notebooks können im Erfolgsfall d
 :class: lernziele
 
 <!-- learning-goal: Die Entwicklung von tabellarischer Annotation zur ontologiebasierten
-    Annotation kann zusammengefassst und die Methoden kritisch reflektiert werden. -->
+    Annotation kann zusammengefasst und die Methoden kritisch reflektiert werden. -->
 
 <!-- START: Reflexion und Resümee -->
 <!-- learning-goal: Die Entwicklung von tabellarischer Annotation zur ontologiebasierten
-    Annotation kann zusammengefassst und die Methoden kritisch reflektiert werden. -->
+    Annotation kann zusammengefasst und die Methoden kritisch reflektiert werden. -->
 
 1. Der Übergang von tabellarischer Annotation zur Ontologie kann rekapituliert werden.
 <!-- competency: Orientierungswissen | bloom: 1 Erinnern -->
