@@ -34,11 +34,11 @@ Auszug einer Visualisierungsansicht der AdA-Timeline
 ````{margin}
 ```{admonition} Was ist eine Open Educational Resource?
 :class: hinweis
-Laut der Definition der UNESCO sind "Open Educational Resources (OER) Bildungsmaterialien jeglicher Art und in jedem Medium, die unter einer offenen Lizenz stehen. Eine solche Lizenz ermöglicht den kostenlosen Zugang sowie die kostenlose Nutzung, Bearbeitung und Weiterverbreitung durch Dritte ohne oder mit geringfügigen Einschränkungen"[^url-unesco].
+Laut der Definition der UNESCO sind „Open Educational Resources (OER) Bildungsmaterialien jeglicher Art und in jedem Medium, die unter einer offenen Lizenz stehen. Eine solche Lizenz ermöglicht den kostenlosen Zugang sowie die kostenlose Nutzung, Bearbeitung und Weiterverbreitung durch Dritte ohne oder mit geringfügigen Einschränkungen“[^url-unesco].
 ```
 ````
 
-Die vorliegende Fallstudie "Affektrhetorik in Online-Videos zur Klimakrise. Datengestützte Analysen audiovisueller Muster", die als <a href="https://open-educational-resources.de/was-ist-oer-3-2/" class="external-link" target="_blank">Open Educational Resource</a> in Form eines interaktiven <a href="https://jupyterbook.org/en/stable/intro.html" class="external-link" target="_blank">Jupyter Books</a> als Lehrbuch zur Verfügung steht, soll am Beispiel von Online-Videos zur Klimakrise modellhaft zeigen, inwiefern sich politische Zielsetzungen in audiovisuellen Diskursen auf die ihnen zugrunde liegenden Inszenierungsmuster (im Konkreten: Gestaltungsweisen durch Musik, Montage, Farb- und Helligkeitsbeziehungen usw.) beziehen lassen.
+Die vorliegende Fallstudie „Affektrhetorik in Online-Videos zur Klimakrise. Datengestützte Analysen audiovisueller Muster“, die als <a href="https://open-educational-resources.de/was-ist-oer-3-2/" class="external-link" target="_blank">Open Educational Resource</a> in Form eines interaktiven <a href="https://jupyterbook.org/en/stable/intro.html" class="external-link" target="_blank">Jupyter Books</a> als Lehrbuch zur Verfügung steht, soll am Beispiel von Online-Videos zur Klimakrise modellhaft zeigen, inwiefern sich politische Zielsetzungen in audiovisuellen Diskursen auf die ihnen zugrunde liegenden Inszenierungsmuster (im Konkreten: Gestaltungsweisen durch Musik, Montage, Farb- und Helligkeitsbeziehungen usw.) beziehen lassen.
 Im Vordergrund des Forschungsansatzes steht die Fähigkeit, multimodale und temporale Muster – wie etwa wiederkehrende Kombinationen von Musik und Bild oder bestimmte farbliche oder rhythmische Abläufe – durch die Anreicherung und Visualisierung von filmanalytischen Daten erkennen und qualifizieren zu können. Dafür werden die Videos mithilfe sogenannter [Annotationen](./Kapitel_II/Aufgabe_A.md) untersucht. Das heißt: Die Videos werden Schritt für Schritt analysiert (z.B. Bildkomposition, Musik, Dialogebene, Montage uvm.) und mit Zusatzinformationen versehen, etwa zu bestimmten Bildabschnitten oder Tonereignissen. Mit diesen Daten soll am Ende anhand eines Beispielgegenstandes gezeigt werden, welche emotionalen Strategien und Inszenierungen in Online-Videos zur Klimakrise eingesetzt werden.
 
 
@@ -120,7 +120,7 @@ Aufgabenfluss der OER
 ```
 ## Zugangsweg und Bearbeitungszeit
 
-Dieses interaktive Lehrbuch wird Ihnen im "📘 Book Only Mode" bereitgestellt. Dies bedeutet, dass Sie das Lehrbuch in Ihrem Browser mit eingeschränkten Interaktionsmöglichkeiten durcharbeiten können. Für diesen Zugangsweg benötigen Sie keine Programmierkenntnisse oder Erfahrung mit Jupyter Notebooks. Beachten Sie jedoch, dass einige Lerneinheiten die lokale Installation externer Anwendungen oder das Herunterladen und Verwenden von Dateien (z.B. Manuals) erfordern.
+Dieses interaktive Lehrbuch wird Ihnen im „📘 Book Only Mode“ bereitgestellt. Dies bedeutet, dass Sie das Lehrbuch in Ihrem Browser mit eingeschränkten Interaktionsmöglichkeiten durcharbeiten können. Für diesen Zugangsweg benötigen Sie keine Programmierkenntnisse oder Erfahrung mit Jupyter Notebooks. Beachten Sie jedoch, dass einige Lerneinheiten die lokale Installation externer Anwendungen oder das Herunterladen und Verwenden von Dateien (z.B. Manuals) erfordern.
 
 Zu Beginn jeder Lerneinheit wird die geschätzte Bearbeitungszeit angegeben. Dies hilft Ihnen, Ihre Zeit effektiv zu planen und die Lerneinheiten strukturiert zu bearbeiten. Für das Self-Assessment am Ende jeder Lerneinheit wird die Bearbeitungsdauer separat angegeben und ist nicht in der geschätzten Dauer der Lerneinheit selbst enthalten.
 

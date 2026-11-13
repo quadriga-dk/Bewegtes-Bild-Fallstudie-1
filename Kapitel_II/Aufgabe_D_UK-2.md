@@ -38,9 +38,9 @@ Diese Funktion ist hilfreich, um beispielsweise verschiedene Annotationen, die z
 
 Hierzu folgende Schritte durchführen:
 
-1. Unter “File” die Option “Import package” anklicken
+1. Unter „File“ die Option „Import package“ anklicken
 2. Das zu importierende Paket auswählen
-3. Im “Package importer view” zur Unterscheidung der Annotationstypen einen Titelzusatz, wie z.B. IMPORTED, angeben. Dieser Zusatz wird hinter die importierten Annotationstypen gehängt
+3. Im „Package importer view“ zur Unterscheidung der Annotationstypen einen Titelzusatz, wie z.B. IMPORTED, angeben. Dieser Zusatz wird hinter die importierten Annotationstypen gehängt
 4. Anschließend die gewünschten Annotationstypen, die importiert werden sollen, anklicken
 5. Die importierten Annotationstypen stehen nun zur Verfügung und können in der Timeline View angezeigt werden
 `````
@@ -76,21 +76,21 @@ Im Folgenden steht hier ein [Annotationspaket](../assets/QUADRIGA-Errorpackage.a
 3. Identifizieren Sie alle Fehler
 4. Korrigieren Sie die gefundenen Fehler mit den passenden Advene-Werkzeugen
 
-<span style="color:purple">**Bearbeitungszeit**</span>: Ca. 25-30 Min.
+<span style="color:purple">**Bearbeitungszeit**</span>: Ca. 25–30 Min.
 ```
 
 `````{admonition} Welche Fehler konnten gefunden werden?
 :class: exercise
 ````{admonition} Lösung
 :class: solution, dropdown
-1. Auf der Spur 'Dialogue Text' wurden 2 Annotationen gelöscht
+1. Auf der Spur ‚Dialogue Text‘ wurden 2 Annotationen gelöscht
 ![screenshot-A4-E-S01](../assets/_images/A4-Errorpackage-S01.png)
-2. Auf der Spur 'Shot' wurden Annotationen gemerged und nicht renummeriert 
+2. Auf der Spur ‚Shot‘ wurden Annotationen gemerged und nicht renummeriert 
 ![screenshot-A4-E-S02](../assets/_images/A4-Errorpackage-S02.png)
-3. Auf der Spur 'Recording/Playback Speed' hat die erste Annotation einen falschen Wert ➡️ statt 'timelapse' müsste dort 'normal' eingetragen werden 
-4. Der Annotationstyp 'Volume' wurde gelöscht
+3. Auf der Spur ‚Recording/Playback Speed‘ hat die erste Annotation einen falschen Wert ➡️ statt ‚timelapse‘ müsste dort ‚normal‘ eingetragen werden 
+4. Der Annotationstyp ‚Volume‘ wurde gelöscht
 +++
-Weitere Fehler können durch eine Überprüfung mit der Checker-Funktion gefunden werden. Um den Checker als View zu öffnen, oben in der Menüleiste auf 'View > Open View' gehen und den Checker anklicken. Folgende Fehler sind über den Checker auffindbar:
+Weitere Fehler können durch eine Überprüfung mit der Checker-Funktion gefunden werden. Um den Checker als View zu öffnen, oben in der Menüleiste auf ‚View > Open View‘ gehen und den Checker anklicken. Folgende Fehler sind über den Checker auffindbar:
 +++
 5. a) Overlapping: Annotationen, die sich in ihrer Dauer überlappen
 6. b) Completions: Undefinierte Keywords, die von den Keywords der AdA-Ontologie abweichen
@@ -109,7 +109,7 @@ Nachfolgend gehen wir alle Fehler kurz durch und stellen eine Lösung bereit:
 1. Annotation neu hinzufügen und durch Freitext-Eingabe Untertitel als Annotationswert ergänzen. ODER: Import der Lösungsdatei und die fehlende Annotation aus der Spur reinkopieren; ebenso kann die Gesamtzahl der Annotationen für einen Typ durch einen Rechtsklick (ganz unten in der Pop-up-Liste) angezeigt werden, so kann durch die Überprüfung der Gesamtzahl der Annotationen für eine Spur direkt nach Abweichungen kontrolliert werden
 2. Shots wieder richtig segmentieren und korrekt renummerieren 
 3. Falschen Wert korrigieren 
-4. Durch Import des Templates kann der Annotationstyp 'Volume' erneut importiert werden. Anschließend automatische Erkenner für 'Waveform' durchführen und die automatisch generierte Annotation auf die Spur 'Volume' duplizieren; danach die neu erstellte Spur löschen (so bleibt die Spur als Teil der vordefinierten AdA-Syntax erhalten)
+4. Durch Import des Templates kann der Annotationstyp ‚Volume‘ erneut importiert werden. Anschließend automatische Erkenner für ‚Waveform‘ durchführen und die automatisch generierte Annotation auf die Spur ‚Volume‘ duplizieren; danach die neu erstellte Spur löschen (so bleibt die Spur als Teil der vordefinierten AdA-Syntax erhalten)
 5. a) Overlapping Annotations, b) Unspecified Keywords und c) Empty Content: hier zunächst die Checker Funktion aktivieren. Anschließend Fehler beheben indem für a) eine Korrektur des Timecodes für die sich überschneidenden Annotationen durchführt, für b) die richtigen Keywords gemäß Ontologie einträgt und c) den leeren Annotationen die richtigen Werte zuordnet
 `````
 
@@ -126,7 +126,7 @@ Für die Diskussion gehen wir nachfolgend punktuell auf konkrete Probleme und Fr
 
 Die Frage nach dem Referenzobjekt zur Bestimmung der Einstellungsgröße ist nicht immer eindeutig. Dies gilt insbesondere für die Einstellungen, die 2D animiert sind oder in denen eine Frame-in-Frame Anordnung zu sehen ist.
 +++
-Bei Einstellungen also, in denen die Bestimmung des Referenzobjekts zur Messung der Einstellungsgröße unklar blieb, haben wir den Wert 'neither' eingetragen, wie beispielsweise hier:
+Bei Einstellungen also, in denen die Bestimmung des Referenzobjekts zur Messung der Einstellungsgröße unklar blieb, haben wir den Wert ‚neither‘ eingetragen, wie beispielsweise hier:
 +++
 ```{image} ../assets/_images/A4-S04.png
 :align: center
@@ -136,8 +136,8 @@ Bei Einstellungen also, in denen die Bestimmung des Referenzobjekts zur Messung 
 ````{margin}
 ```{admonition} Hinweis
 :class: hinweis
-Um UUIDs (universally unique identifier) zu suchen, muss die Suchfunktion angepasst werden. Dazu einen Rechtsklick auf das Lupen-Symbol neben dem Suchfeld und die Option 'Searched
-elements' auswählen. Im sich öffnenden Fenster die Option 'Ids' (am Ende der Liste, Liste ggf. aufziehen) auswählen.
+Um UUIDs (universally unique identifier) zu suchen, muss die Suchfunktion angepasst werden. Dazu einen Rechtsklick auf das Lupen-Symbol neben dem Suchfeld und die Option ‚Searched
+elements‘ auswählen. Im sich öffnenden Fenster die Option ‚Ids‘ (am Ende der Liste, Liste ggf. aufziehen) auswählen.
 ```
 ````
 Die UUID dieser Annotation ist folgende: `0aac70ea-219b-11ef-9bca-90b11c948b9a`
@@ -147,7 +147,7 @@ Die UUID dieser Annotation ist folgende: `0aac70ea-219b-11ef-9bca-90b11c948b9a`
 :class: exercise
 ````{admonition} Antwort
 :class: solution, dropdown
-Auf eine 2D simulierte Ansicht eines Papierblocks blendet sich von links nach rechts der in blau gefärbte Schriftzug "The Numbers" ein. Diese Ansicht erinnert an eine Präsentationsfolie. Obwohl die Einstellung im Verhältnis zu unserem Standpunkt nah wirken mag, lässt sich eine Distanz nicht eindeutig festlegen, da die Einbettung in eine räumliche Umgebung fehlt, die eine Skalierung zulassen würde. 
+Auf eine 2D simulierte Ansicht eines Papierblocks blendet sich von links nach rechts der in blau gefärbte Schriftzug „The Numbers“ ein. Diese Ansicht erinnert an eine Präsentationsfolie. Obwohl die Einstellung im Verhältnis zu unserem Standpunkt nah wirken mag, lässt sich eine Distanz nicht eindeutig festlegen, da die Einbettung in eine räumliche Umgebung fehlt, die eine Skalierung zulassen würde. 
 `````
 
 #### 2D-Animationen
@@ -158,14 +158,14 @@ Bei multiplen und/oder simultan auftretenden Animationselementen sieht es ähnli
 :height: 300px
 :name: A4-S05
 ```
-In diesem Beispiel wäre die Möglichkeit für ein kontrastierendes Syntaxelement wie [VS] ebenfalls sinnvoll, da durch die Trennung der verschiedenen Bildgrenzen multiple Elemente zu sehen sind. Wir haben uns für die Werte 'neither' sowie 'extreme long shot' entschieden. Der Wert 'extreme long shot' ist anwendbar auf das rechte Bild im animierten Splitscreen. Die Referenzobjekte zur Bemessung der Entfernung sind hier die Kräne. <br>
+In diesem Beispiel wäre die Möglichkeit für ein kontrastierendes Syntaxelement wie [VS] ebenfalls sinnvoll, da durch die Trennung der verschiedenen Bildgrenzen multiple Elemente zu sehen sind. Wir haben uns für die Werte ‚neither‘ sowie ‚extreme long shot‘ entschieden. Der Wert ‚extreme long shot‘ ist anwendbar auf das rechte Bild im animierten Splitscreen. Die Referenzobjekte zur Bemessung der Entfernung sind hier die Kräne. <br>
 Dort, wo Fragen nach Skalierungen und Referenzbestimmungen komplexer werden, zeigen sich jedoch gleichzeitig auch die Grenzen einer Ontologie.
 
 #### Frame-in-Frame
 
 In Bezug auf die Frame-in-Frame-Einstellungen gilt folgende Entscheidung innerhalb unseres Workflows: 
 
-Sowohl der äußere Rahmen als auch das in diesem Rahmen eingesetzte Bild können als Referenzobjekt bestimmt werden. Daher haben wir uns für den Wert 'neither' und den Wert für die Einstellungsgröße entschieden, der aus dem zweiten Frame hervorgeht. Ein Annotationsbeispiel mit den Werten 'neither' und 'medium close up' ist hier und unter folgender UUID `3fc06a7e-00a8-11ef-a9a8-001c42d38318` zu sehen:
+Sowohl der äußere Rahmen als auch das in diesem Rahmen eingesetzte Bild können als Referenzobjekt bestimmt werden. Daher haben wir uns für den Wert ‚neither‘ und den Wert für die Einstellungsgröße entschieden, der aus dem zweiten Frame hervorgeht. Ein Annotationsbeispiel mit den Werten ‚neither‘ und ‚medium close up‘ ist hier und unter folgender UUID `3fc06a7e-00a8-11ef-a9a8-001c42d38318` zu sehen:
 ```{image} ../assets/_images/A4-S06.png
 :align: center
 :height: 300px
@@ -173,7 +173,7 @@ Sowohl der äußere Rahmen als auch das in diesem Rahmen eingesetzte Bild könne
 ```
 ### Annotationstyp Setting 
 
-Das 'Setting' wird innerhalb der Ontologie als Ort des narrativen Handlungsgeschehens definiert. Doch wie geht man mit Einstellungen um, die nur schwer narrativ zu fassen sind und deren örtliche Bestimmung kaum möglich ist?
+Das ‚Setting‘ wird innerhalb der Ontologie als Ort des narrativen Handlungsgeschehens definiert. Doch wie geht man mit Einstellungen um, die nur schwer narrativ zu fassen sind und deren örtliche Bestimmung kaum möglich ist?
 +++
 In Bezug auf unser Beispielvideo betrifft dies insbesondere jene Einstellungen, die 2D animiert sind. Denn dort beziehen sich die animierten Elemente – insbesondere die Schriftzüge, die Nummerneinblendungen oder die Simulationen der Weltkugel – auf keine realen Verhältnisse oder räumlichen Anordnungen. Bei Einstellungen, in denen das Setting nicht ohne weiteres bestimmbar war, haben wir keine Annotationen erstellt. Diese leeren Abschnitte verweisen insofern direkt auf die Grenzen bzw. Leerstellen der Ontologie. Folgende Annotation unter der UUID  
 `860166ff-21a4-11ef-a632-90b11c948b9a` macht dieses Problem exemplarisch sichtbar: 
@@ -186,7 +186,7 @@ In Bezug auf unser Beispielvideo betrifft dies insbesondere jene Einstellungen, 
 
 Durch den Annotationstyp Recording/Playback Speed kann die Aufnahmegeschwindigkeit erfasst werden. Es gibt Annotationen von sehr kurzer Dauer, die einen Timelapse markieren. Definiert wird der Timelapse folgendermaßen:
 
-> Noticeable acceleration of the viewers' time perception.
+> Noticeable acceleration of the viewers’ time perception.
 Movements appear as unnaturally fast. Objects, such as
 plants, that may otherwise be perceived as static can get
 animated through this technique in comparison to everyday
@@ -229,7 +229,7 @@ Eine ausführliche Datenexploration sowie Hypothesenpräsentation führen wir da
 
 Für eine präzise und vollständige Annotation empfiehlt es sich mit allen Annotationstypen der Ontologie zu arbeiten. Da die Annotation aller Typen der Ontologie weitaus mehr Zeit in Anspruch nimmt als im Rahmen der Übungen vorgesehen, haben wir uns für die Annotation mit dem AdA Core-Template entschieden. 
 +++
-Wie sieht es jedoch mit den Annotationstypen 'Splitscreen', 'Frame-in-Frame' oder 'Visual Pattern' aus? Inwiefern könnten diese Typen die spezifischen Charakteristika unseres Beispielgegenstandes hervorheben?
+Wie sieht es jedoch mit den Annotationstypen ‚Splitscreen‘, ‚Frame-in-Frame‘ oder ‚Visual Pattern‘ aus? Inwiefern könnten diese Typen die spezifischen Charakteristika unseres Beispielgegenstandes hervorheben?
 
 ### Splitscreen
 
@@ -263,7 +263,7 @@ Eine freitextliche Erhebung von Frame-in-Frame Kompositionen könnte die spezifi
 
 ### Visual Pattern
 
-Unter dem Annotationstyp 'Visual Pattern' werden abstrakte Muster oder Formen erfasst. Insbesondere in den animierten Einstellungen könnten unter Miteinbeziehung dieses Annotationstyps grafische Elemente, Synchronizitäten von Mustern und abstrakte Visualisierungsstrukturen bestimmt werden. Ein Beispiel für eine Annotation der Werte 'centre Figure, circular' wäre folgende Ansicht:
+Unter dem Annotationstyp ‚Visual Pattern‘ werden abstrakte Muster oder Formen erfasst. Insbesondere in den animierten Einstellungen könnten unter Miteinbeziehung dieses Annotationstyps grafische Elemente, Synchronizitäten von Mustern und abstrakte Visualisierungsstrukturen bestimmt werden. Ein Beispiel für eine Annotation der Werte ‚centre Figure, circular‘ wäre folgende Ansicht:
 
 ```{image} ../assets/_images/A4-S11.png
 :align: center

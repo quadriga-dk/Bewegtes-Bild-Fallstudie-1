@@ -6,7 +6,7 @@ Die Anwendbarkeit bereits bestehender Erkenneralgorithmen, wie die shot detectio
 
 Die Weiterentwicklung der Ontologie ist für Anpassungen und kollaborativen Austausch offen. Insofern stehen hier Prinzip und Methodik einer qualitativen Empirie stets im Vordergrund. Wichtig dabei ist, dass die quantitative Produktion von Daten und Metadaten für uns immer als Hilfsmittel begriffen werden, sie dienen nicht dem reinen Selbstzweck und bedürfen einer Einordnung und Interpretation. 
 
-Ein Auszug aus der Publikation "Audiovisuelle Rhetorik als politische Intervention" von Jasper Stratil (Mitentwickler der AdA-Ontologie) zeigt exemplarisch, wie die Nutzung quantitativer Annotationsdaten innerhalb eines konkreten Forschungsvorhabens mit Fokus auf qualitativer Empirie aussehen kann:
+Ein Auszug aus der Publikation „Audiovisuelle Rhetorik als politische Intervention“ von Jasper Stratil (Mitentwickler der AdA-Ontologie) zeigt exemplarisch, wie die Nutzung quantitativer Annotationsdaten innerhalb eines konkreten Forschungsvorhabens mit Fokus auf qualitativer Empirie aussehen kann:
 
 ```{figure} ../assets/Dissauszug-JS.png
 ---
@@ -16,7 +16,7 @@ name: dissauszug-jasper-stratil
 
 Annotationsbasierte Ausdrucksbewegungsanalyse zu <span style="font-variant: small-caps;" >Occupy Wall Street </span> © Jasper Stratil
 ```
-Die Relation zwischen einer subjektiven Seherfahrung und ihrer Greifbarmachung durch Daten stellt insofern das Hauptinteresse unseres Verständnisses digitaler Filmanalyse dar. Ein wichtiger Bestandteil hierbei ist die Datenvisualisierung in Form einer dynamischen Timeline. Konkret können komplexe Metadaten "lesbar" gemacht werden. Entscheidend sind dabei nicht einzelne Annotationswerte, sondern die zeitliche Dynamik multipler, synchroner und asynchroner Werte verschiedener Annotationsebenen im Verhältnis zueinander {cite}`stratil2024`. 
+Die Relation zwischen einer subjektiven Seherfahrung und ihrer Greifbarmachung durch Daten stellt insofern das Hauptinteresse unseres Verständnisses digitaler Filmanalyse dar. Ein wichtiger Bestandteil hierbei ist die Datenvisualisierung in Form einer dynamischen Timeline. Konkret können komplexe Metadaten „lesbar“ gemacht werden. Entscheidend sind dabei nicht einzelne Annotationswerte, sondern die zeitliche Dynamik multipler, synchroner und asynchroner Werte verschiedener Annotationsebenen im Verhältnis zueinander {cite}`stratil2024`. 
 
 ## Datenmanagement 
 

@@ -71,7 +71,7 @@ display_quiz("../quizzes/D_UK-1_Quiz_1.json", colors = colors.jupyterquiz)
 :class: exercise
 ````{admonition} Antwort
 :class: solution, dropdown
-Um die automatische Videoanalyse durchzuführen auf ‘File’ und ‘Process Video’ gehen. Anschließend öffnet sich der ‘Importer’. Unter 'Filter' werden Auswahloptionen angezeigt.
+Um die automatische Videoanalyse durchzuführen auf ‚File‘ und ‚Process Video‘ gehen. Anschließend öffnet sich der ‚Importer‘. Unter ‚Filter‘ werden Auswahloptionen angezeigt.
 `````
 
 ```{code-cell} ipython3
@@ -95,7 +95,7 @@ display_quiz("../quizzes/D_UK-1_Quiz_3.json", colors = colors.jupyterquiz)
 
 ### Erstellung der Annotationen
 
-7. Erstellen Sie Annotationen als Zeiteinheiten entlang der Timeline und wenden Sie dabei, wie unten beschrieben, das korrekte Segmentierungsprinzip an. Ordnen Sie den Annotationen Werte zu - nutzen Sie dafür:
+7. Erstellen Sie Annotationen als Zeiteinheiten entlang der Timeline und wenden Sie dabei, wie unten beschrieben, das korrekte Segmentierungsprinzip an. Ordnen Sie den Annotationen Werte zu – nutzen Sie dafür:
 * Short Cuts und Quick Fill für ontologiebasierte Einträge
 * Freitext-Eingaben für Werte ohne Ontologiebezug
 (<a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=71ca2ea8-b7ee-492f-a9ef-b20300a665d3&start=623" target="_blank" class="external-link" >Video: Annotate with Short Cuts</a>, Manual: S. 69ff & 131ff)
@@ -123,12 +123,12 @@ Diese Annotationssegmentierung kann von Gegenstand zu Gegenstand, je nach den Fo
 ````{margin}
 ```{admonition} Tipp
 :class: hinweis
-Mit der Funktion 'Search/replace content' können die erstellten und bereinigten Annotationen, die beispielsweise für den Typ 'Montg | Shot' als Einstellungen segmentiert wurden, in jede weitere Spur kopiert werden, die ebenfalls nach dem Einstellungsprinzip segmentiert wird. Um alle darin enthaltenen Werte zu löschen, das 'Replace by' Feld leer lassen.
+Mit der Funktion ‚Search/replace content‘ können die erstellten und bereinigten Annotationen, die beispielsweise für den Typ ‚Montg | Shot‘ als Einstellungen segmentiert wurden, in jede weitere Spur kopiert werden, die ebenfalls nach dem Einstellungsprinzip segmentiert wird. Um alle darin enthaltenen Werte zu löschen, das ‚Replace by‘ Feld leer lassen.
 ```
 ````
 
 ````{margin}
-➡️ Die Annotation des Typs 'Volume' wird über automatische Erkenner als Verlauf generiert.
+➡️ Die Annotation des Typs ‚Volume‘ wird über automatische Erkenner als Verlauf generiert.
 ````
 
 | Segmentierung nach Einstellung      | Segmentierung nach Verlauf            |
@@ -179,7 +179,7 @@ Für folgende Annotationstypen des Core-Templates können Syntaxelemente verwend
 8. Dominant Movement Direction [TO], [VS]
 ```
 
-8. Nutzen Sie die 'Search/replace'-Funktion zur effizienten Übertragung von Segmentierungen
+8. Nutzen Sie die ‚Search/replace‘-Funktion zur effizienten Übertragung von Segmentierungen
 9. Überprüfen und bereinigen Sie Ihre Annotationen mit der Checker-Funktion (<a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=71ca2ea8-b7ee-492f-a9ef-b20300a665d3&start=698" target="_blank" class="external-link" >Video: Checker Function</a>, Manual: S. 91ff)
 10.	Exportieren Sie Ihre Ergebnisse in ein geeignetes Dateiformat zur [Visualisierung](Aufgabe_D) und weiteren Analyse (<a href="https://videoup.uni-potsdam.de/Panopto/Pages/Viewer.aspx?id=cf912751-5223-4132-80bb-b20300a60e55&start=1172" target="_blank" class="external-link ">Video: Export & Visualization</a>, Manual: S. 106ff & 133ff)
 

@@ -1,7 +1,7 @@
 # AdA-Filmontologie: Filmanalyse und Semantic Web
 
 In der vorigen Übung haben wir gezeigt, wie ein Set an filmanalytischen Beschreibungen in eine Ontologie nach Semantic Web Standards überführt werden kann. Schrittweise soll so nachvollzogen werden können, wie mit einem semantischen Modell formalästhetische Relationen als maschinenlesbare Triple hergestellt werden können.
-Ausgehend von dieser Systematisierung hat die BMBF-geförderte Nachwuchsgruppe "<a href="https://www.ada.cinepoetics.fu-berlin.de/index.html" class="external-link" target="_blank">Affektrhetoriken des Audiovisuellen</a>" (kurz: AdA, Laufzeit: 2016-2021) eine Filmontologie entwickelt, die in enger Zusammenarbeit mit dem Informatiker und Entwickler von <a href="https://www.advene.org/" class="external-link" target="_blank">Advene</a>, <a href="https://www.olivieraubert.net/" class="external-link" target="_blank">Dr. Olivier Aubert</a> entstanden ist.
+Ausgehend von dieser Systematisierung hat die BMBF-geförderte Nachwuchsgruppe „<a href="https://www.ada.cinepoetics.fu-berlin.de/index.html" class="external-link" target="_blank">Affektrhetoriken des Audiovisuellen</a>“ (kurz: AdA, Laufzeit: 2016–2021) eine Filmontologie entwickelt, die in enger Zusammenarbeit mit dem Informatiker und Entwickler von <a href="https://www.advene.org/" class="external-link" target="_blank">Advene</a>, <a href="https://www.olivieraubert.net/" class="external-link" target="_blank">Dr. Olivier Aubert</a> entstanden ist.
 
 ## Methode
 
@@ -68,7 +68,7 @@ Visualisierung mit OntoViz, © Bildquelle: [AdA-Ontoviz](https://ada.cinepoetics
 
 ### Annotationsmodell und Architektur
 
-Die Ontologie umfasst ein Annotationsmodell für semantische Videoannotationen. Annotationsdaten werden auf Basis des <a href="https://www.w3.org/TR/annotation-model/" class="external-link" target="_blank">W3C Web Annotation Data Model</a> erstellt. Sie bestehen immer aus einem "Annotationtarget" (also ein Ziel, hier: ein Zeitfragment eines Videos) sowie einem "Annotationbody" (also dem Inhalt der Annotation mit Informationen zu Annotationstypen/-werten, Autor und weiteren Metadaten). Das Videofragment basiert auf der Verwendung des <a href="https://www.w3.org/TR/media-frags/" class="external-link" target="_blank">W3C Media Fragment URI</a> Spezifikation {cite}`bakels2023`.
+Die Ontologie umfasst ein Annotationsmodell für semantische Videoannotationen. Annotationsdaten werden auf Basis des <a href="https://www.w3.org/TR/annotation-model/" class="external-link" target="_blank">W3C Web Annotation Data Model</a> erstellt. Sie bestehen immer aus einem „Annotationtarget“ (also ein Ziel, hier: ein Zeitfragment eines Videos) sowie einem „Annotationbody“ (also dem Inhalt der Annotation mit Informationen zu Annotationstypen/-werten, Autor und weiteren Metadaten). Das Videofragment basiert auf der Verwendung des <a href="https://www.w3.org/TR/media-frags/" class="external-link" target="_blank">W3C Media Fragment URI</a> Spezifikation {cite}`bakels2023`.
 ```{figure} ../assets/AdA-Struktur-RDF.png
 :align: center
 :height: 350px
@@ -95,7 +95,7 @@ Ebenso wird unterschieden in:
 Die gesamte Ontologie steht auf <a href="https://github.com/ProjectAdA/public/tree/master/ontology" class="external-link" target="_blank">GitHub</a> zur Verfügung. Eine PDF-Version, besonders geeignet für die Annotationsarbeit, ist auf der Website als Teil des <a href="https://www.ada.cinepoetics.fu-berlin.de/ada-toolkit/index.html" class="external-link" target="_blank">AdA-Toolkits</a> sowie [hier](../assets/Ada_Filmontologie_Deu_23_07_2021.pdf) in der deutschen Fassung Version 1.0 (Stand Juli 2021) als Download hinterlegt.
 
 ---
-Lizenzhinweis: "AdA-Filmontologie" von <a href="https://www.ada.cinepoetics.fu-berlin.de/index.html" class="external-link" target="_blank">Affektrhetoriken des Audiovisuellen</a> unter der Lizenz <a href="https://creativecommons.org/licenses/by-sa/3.0/de/deed.de" class="external-link" target="_blank">CC BY-SA 3.0</a> via <a href="https://www.ada.cinepoetics.fu-berlin.de/ada-toolkit/index.html" class="external-link" target="_blank">AdA-Toolkit FU Berlin</a>
+Lizenzhinweis: „AdA-Filmontologie“ von <a href="https://www.ada.cinepoetics.fu-berlin.de/index.html" class="external-link" target="_blank">Affektrhetoriken des Audiovisuellen</a> unter der Lizenz <a href="https://creativecommons.org/licenses/by-sa/3.0/de/deed.de" class="external-link" target="_blank">CC BY-SA 3.0</a> via <a href="https://www.ada.cinepoetics.fu-berlin.de/ada-toolkit/index.html" class="external-link" target="_blank">AdA-Toolkit FU Berlin</a>
 
 ---
 

@@ -8,7 +8,7 @@ Die Filmanalyse ist – neben der Filmtheorie und der Filmgeschichte – eine de
 ```{admonition} Wie verstehen wir Filmanalyse?
 :class: hinweis
 Wir verstehen Film als Medium, das sich in der Zeit entfaltet. Dabei ist die Zuschauendenempfindung nicht zu trennen von Inszenierungsdynamiken und der Zirkulation von Affekten, die Filme immer in Relation zu ihrem Publikum herstellen. Die Filmanalyse kann dabei als Schnittstelle zwischen der Zuschauendenerfahrung und den filmischen Gegenständen beschrieben werden.
-Was wir wahrnehmen und fühlen, setzt sich aus dem Zusammenspiel von Intensitäten zusammen, die sich über die Zeit und den Raum gestalten: "Atmosphären entfalten sich, Gedanken kommen plötzlich, Gefühle schleichen sich ein… Film und andere audiovisuelle Medien sind in der Lage dies nicht nur in Bildern und Tönen auszudrücken, sondern auch als Erleben für den Zuschauer zu gestalten" {cite}`kappelhoff2007`
+Was wir wahrnehmen und fühlen, setzt sich aus dem Zusammenspiel von Intensitäten zusammen, die sich über die Zeit und den Raum gestalten: „Atmosphären entfalten sich, Gedanken kommen plötzlich, Gefühle schleichen sich ein… Film und andere audiovisuelle Medien sind in der Lage dies nicht nur in Bildern und Tönen auszudrücken, sondern auch als Erleben für den Zuschauer zu gestalten“ {cite}`kappelhoff2007`
 ```
 
 ## Warum digitale Methoden? Was gibt es für Tools?
@@ -16,7 +16,7 @@ Was wir wahrnehmen und fühlen, setzt sich aus dem Zusammenspiel von Intensität
 ````{margin}
 ```{admonition} Was sind Annotationen
 :class: hinweis
-Ausführliche Informationen zum Begriff "Annotation" gibt es [hier](../Kapitel_II/Aufgabe_A.md).
+Ausführliche Informationen zum Begriff „Annotation“ gibt es [hier](../Kapitel_II/Aufgabe_A.md).
 ```
 ````
 Digitale Methoden ermöglichen eine empirisch fundierte Auseinandersetzung mit Bewegtbildern. Insofern kann die Schnittstelle zwischen Medien und Zuschauenden durch digitale Methoden systematisiert werden. Die Erstellung von Metadaten hilft dabei, größere Sinnzusammenhänge und Dynamiken lesbar zu machen. Ebenso können Daten durch ihre Zirkulation in Austauschbewegungen zwischen verschiedenen Akteur:innen eingebunden werden. Im Fokus unserer Herangehensweisen steht die Methodik der Videoannotation. Die **Videoannotation** im Speziellen zielt hierbei darauf ab, die zeitliche Erscheinungsweise (*timeline based video analysis*) von Filmen in Form auswertbarer Daten erfahrbar sowie zugänglich zu machen. 
@@ -35,7 +35,7 @@ Durch digitale Herangehensweisen können Systematiken für filmanalytische Konze
 Abstrakte Visualisierung von verknüpftem Wissen im Semantic Web (KI-generiert)
 ```
 
-Einfach erklärt: Das Semantic Web, auch Web 3.0 genannt, erweitert das klassische Web, indem es Informationen so aufbereitet, dass sie nicht nur für Menschen, sondern auch für Maschinen lesbar sind. Ziel ist es, Daten strukturierter und miteinander verknüpft bereitzustellen, um eine automatisierte, kontextbezogene Verarbeitung und eine gezielte Verknüpfung verschiedener Datenquellen zu ermöglichen. Mehr Informationen zum Semantic Web finden Sie auch in unserer QUADRIGA-Fallstudie: <a href="https://quadriga-dk.github.io/Tabelle-Fallstudie-2/semantic_web/Semantic_Web_Linked_Data.html" class="external-link" target="_blank">"Offene Daten im urbanen Raum: Datenportale, Metadaten und die Datenabfrage mit SPARQL."</a> {cite}`Plomin_Fallstudie_2_2026`.
+Einfach erklärt: Das Semantic Web, auch Web 3.0 genannt, erweitert das klassische Web, indem es Informationen so aufbereitet, dass sie nicht nur für Menschen, sondern auch für Maschinen lesbar sind. Ziel ist es, Daten strukturierter und miteinander verknüpft bereitzustellen, um eine automatisierte, kontextbezogene Verarbeitung und eine gezielte Verknüpfung verschiedener Datenquellen zu ermöglichen. Mehr Informationen zum Semantic Web finden Sie auch in unserer QUADRIGA-Fallstudie: <a href="https://quadriga-dk.github.io/Tabelle-Fallstudie-2/semantic_web/Semantic_Web_Linked_Data.html" class="external-link" target="_blank">„Offene Daten im urbanen Raum: Datenportale, Metadaten und die Datenabfrage mit SPARQL.“</a> {cite}`Plomin_Fallstudie_2_2026`.
 
 Eine Ontologie nach Semantic Web Standards ist ein semantisches Modell, das Wissen strukturiert. Sie beschreibt und ordnet Begriffe und Beziehungen zueinander, um das formulierte Wissen maschinenlesbar zu machen. Spezifische Sprachen, wie z.B. **RDF**, **OWL** oder **XSD**, ermöglichen Standards für die Formulierung von Ontologien. Mehr Infos hierzu können Sie in dem Kapitel [Einarbeiten in die Filmontologie](../Kapitel_II/toc_C.md) nachlesen.
 

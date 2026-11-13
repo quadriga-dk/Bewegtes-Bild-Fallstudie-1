@@ -128,11 +128,11 @@ Der Annotationstyp **Recording/Playback Speed** soll als Balkendiagramm mit eine
 2. Dokumentieren Sie die verwendete Syntax für die Konfiguration
 3. Erstellen Sie einen Screenshot der fertigen Visualisierung und vergleichen Sie Ihr Ergebnis mit der Lösung
 
-<span style="color:purple">**Bearbeitungszeit**</span>: Ca. 10-15 Min.
+<span style="color:purple">**Bearbeitungszeit**</span>: Ca. 10–15 Min.
 
 ```{admonition} Hilfestellung zur Antwort
 :class: solution, dropdown
-Lesen Sie sich das Kapitel "7. Visualisierung" (S. 133) des Manuals nochmals gründlich durch. Auf was muss geachtet werden, damit die Visualisierung korrekt konfiguriert wird? Wie setzt sich die Syntax richtig zusammen (d.h., welche Elemente dürfen nicht fehlen und wie müssen sie genau angeordnet sein)? Können alle Annotationstypen mit allen Repräsentationswerten angezeigt werden oder gibt es möglicherweise Einschränkungen?
+Lesen Sie sich das Kapitel „7. Visualisierung“ (S. 133) des Manuals nochmals gründlich durch. Auf was muss geachtet werden, damit die Visualisierung korrekt konfiguriert wird? Wie setzt sich die Syntax richtig zusammen (d.h., welche Elemente dürfen nicht fehlen und wie müssen sie genau angeordnet sein)? Können alle Annotationstypen mit allen Repräsentationswerten angezeigt werden oder gibt es möglicherweise Einschränkungen?
 ```
 ````
 
@@ -157,7 +157,7 @@ RecordingPlaybackSpeed(representation:rect legend:true colorfield:content colors
 * Darstellungsoption und Wert werden mit einem Doppelpunkt ohne Leerzeichen voneinander getrennt
 * Mehrere Optionen für einen Annotationstypen werden durch Leerzeichen voneinander getrennt
 * Um eine einzeilige Darstellung zu konfigurieren, muss das Syntaxelement `single_line` angegeben werden (und nicht die Option `representation`)
-* Wird eine Timeline neu geöffnet, finden sich unter 'Expand' alle vordefinierten Syntaxeinstellungen. Die Timeline-Leiste ist bereits standardmäßig auf `labels:true` eingestellt und muss nicht nochmal definiert werden. Zum Ausblenden der Leiste muss die Option jedoch auf `labels:false` geändert werden
+* Wird eine Timeline neu geöffnet, finden sich unter ‚Expand‘ alle vordefinierten Syntaxeinstellungen. Die Timeline-Leiste ist bereits standardmäßig auf `labels:true` eingestellt und muss nicht nochmal definiert werden. Zum Ausblenden der Leiste muss die Option jedoch auf `labels:false` geändert werden
 * Nicht alle Annotationstypen können mit allen Repräsentationswerten angezeigt werden (hier am besten einfach ausprobieren!)
 
 So sieht die oben beschriebene Darstellung als Datenvisualisierung aus: <br>
@@ -198,10 +198,10 @@ Die Weiterverarbeitung der Daten und die Rückbeziehung auf eine filmanalytisch 
 * Schnittfrequenz oder Montagemuster
 * Helligkeitsverhältnisse oder Bewegungsformen
 * Temporale und multimodale Interdependenzen zwischen verschiedenen Annotationstypen
-3. Verfassen Sie eine kurze Analyse (max. 500-750 Wörter), die:
+3. Verfassen Sie eine kurze Analyse (max. 500–750 Wörter), die:
 * Konkrete Verweise auf spezifische Stellen Ihrer Visualisierung enthält
 * Die Annotationsdaten filmwissenschaftlich qualifiziert
-* Reflektiert, wie die Visualisierungen als "Medien und Verfahren des Denkens" Ihren Analyseprozess beeinflusst haben
+* Reflektiert, wie die Visualisierungen als „Medien und Verfahren des Denkens“ Ihren Analyseprozess beeinflusst haben
 
 <span style="color:purple">**Bearbeitungszeit**</span>: Ca. 180 Min.
 ```

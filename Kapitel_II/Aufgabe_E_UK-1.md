@@ -23,7 +23,7 @@ Eine kurze Inhaltsübersicht soll zur Orientierung dienen. Wer ab einem bestimmt
 <iframe src="https://videoup.uni-potsdam.de/Panopto/Pages/Embed.aspx?id=e1e937e6-7bd3-43fa-a4f3-b20300a66b54&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
 ---
-Lizenzhinweis: Video "AdA-Timeline" von <a href="https://www.ada.cinepoetics.fu-berlin.de/index.html" class="external-link" target="_blank">Affektrhetoriken des Audiovisuellen</a> unter der Lizenz <a href="https://creativecommons.org/licenses/by-sa/3.0/de/deed.de" class="external-link" target="_blank">CC BY-SA 3.0</a> via <a href="https://www.ada.cinepoetics.fu-berlin.de/ada-toolkit/index.html" class="external-link" target="_blank">AdA-Toolkit FU Berlin</a>
+Lizenzhinweis: Video „AdA-Timeline“ von <a href="https://www.ada.cinepoetics.fu-berlin.de/index.html" class="external-link" target="_blank">Affektrhetoriken des Audiovisuellen</a> unter der Lizenz <a href="https://creativecommons.org/licenses/by-sa/3.0/de/deed.de" class="external-link" target="_blank">CC BY-SA 3.0</a> via <a href="https://www.ada.cinepoetics.fu-berlin.de/ada-toolkit/index.html" class="external-link" target="_blank">AdA-Toolkit FU Berlin</a>
 
 ---
 
@@ -52,12 +52,12 @@ Am oberen Rand umfasst die Timeline zwei fixierte Spuren: 1. Die zoom control, m
 ````{margin}
 ```{admonition} Hinweis
 :class: hinweis
-Beim Öffnen ist die Referenzspur automatisch auf den Annotationstyp 'shot' festgelegt. Dies kann über das Edit-Fenster geändert werden. Mehr Infos zur Anpassung s.u.
+Beim Öffnen ist die Referenzspur automatisch auf den Annotationstyp ‚shot‘ festgelegt. Dies kann über das Edit-Fenster geändert werden. Mehr Infos zur Anpassung s.u.
 ```
 ````
 ![screenshot-A5-03](../assets/_images/A5-S03.png)
 
-Die Zoom-Funktion erlaubt sowohl die Übersicht über einen gesamten Film als auch das beliebige Hineinzoomen in Detailansichten. Um die 'zoom control' zu bedienen, die linke Maustaste gedrückt halten und den Bereich skalieren, der angezeigt werden soll. Den Browser danach aktualisieren.
+Die Zoom-Funktion erlaubt sowohl die Übersicht über einen gesamten Film als auch das beliebige Hineinzoomen in Detailansichten. Um die ‚zoom control‘ zu bedienen, die linke Maustaste gedrückt halten und den Bereich skalieren, der angezeigt werden soll. Den Browser danach aktualisieren.
 +++
 Alle weiteren im Hauptbereich der Timeline angezeigten Spuren zeigen die einzelnen Annotationstypen untereinander. Sie sind auf denselben Zeitabschnitt wie die Referenzspur bezogen, sodass alle untereinander angezeigten, spurenübergreifenden Werte zeitgleiche Phänomene adressieren.
 +++
@@ -79,7 +79,7 @@ Anpassungen der AdA-Timeline können sowohl direkt über die URL als auch über 
 
 ### Anpassungen mit dem Edit-Fenster
 
-Um das Edit-Fenster zu öffnen, oben rechts im Browser auf 'Edit' klicken. Nun öffnet sich das Fenster.
+Um das Edit-Fenster zu öffnen, oben rechts im Browser auf ‚Edit‘ klicken. Nun öffnet sich das Fenster.
 
 ```{image} ../assets/_images/A5-S05.png
 :align: center
@@ -101,7 +101,7 @@ Der Timecode kann über das Edit-Fenster angepasst werden. Hierzu einfach die ge
 Wie ein Video mit der Timeline verknüpft werden kann, wird im Manual ab S. 148 im Detail beschrieben. 
 ```
 ```` 
-Danach können verschiedene Syntaxelemente eingesetzt werden, zum Beispiel `reference=`, um den Annotationstyp festzulegen, der als Referenzspur verwendet wird, oder `media=`, um ein Video einzubinden. Nach dem Element `types=` werden die einzelnen Annotationstypen, die in der Visualisierung angezeigt werden sollen, angegeben. Als Name wird dabei immer die 'Id' des Annotationstyps verwendet. Die Ids der Annotationstypen werden mit einem Komma voneinander getrennt. Kopieren kann man die Id direkt aus Advene mit einem Rechtsklick auf den Annotationstyp und dann auf 'Copy id'.
+Danach können verschiedene Syntaxelemente eingesetzt werden, zum Beispiel `reference=`, um den Annotationstyp festzulegen, der als Referenzspur verwendet wird, oder `media=`, um ein Video einzubinden. Nach dem Element `types=` werden die einzelnen Annotationstypen, die in der Visualisierung angezeigt werden sollen, angegeben. Als Name wird dabei immer die ‚Id‘ des Annotationstyps verwendet. Die Ids der Annotationstypen werden mit einem Komma voneinander getrennt. Kopieren kann man die Id direkt aus Advene mit einem Rechtsklick auf den Annotationstyp und dann auf ‚Copy id‘.
 +++
 Nach der Id können für jeden Annotationstyp in einer Klammer verschiedene Darstellungsoptionen angegeben werden (s. [Übersicht der Syntaxelemente](../assets/Übersicht-Syntaxelemente-AdA-Timeline.pdf))
 +++
@@ -135,7 +135,7 @@ Es gibt verschiedene Darstellungsformen, um die Timeline zu konfigurieren. Umfas
 Um die erstellten Visualisierungen zu speichern, empfiehlt es sich den Inhalt des Edit-Fensters in ein gängiges Textprogramm zu kopieren. Öffnet man die Timeline erneut, so kann man den kopierten Inhalt einfügen und die gespeicherte Ansicht anzeigen lassen.
 ```{admonition} Gefahr
 :class: caution
-Um keine Ansichtsdaten zu verlieren, sollte zum Speichern der gewünschten Konfiguration wie oben beschrieben vorgegangen werden! Das Speichern über den 'Save'-Button im Edit-Fenster ist nicht möglich.
+Um keine Ansichtsdaten zu verlieren, sollte zum Speichern der gewünschten Konfiguration wie oben beschrieben vorgegangen werden! Das Speichern über den ‚Save‘-Button im Edit-Fenster ist nicht möglich.
 ```
 Um die Timeline-Visualisierung zu exportieren, auf die drei Punkte am oberen linken Rand klicken und eine Option auswählen. Für Publikationen oder Präsentationen bietet sich der Export als PNG-Datei an. 
 +++

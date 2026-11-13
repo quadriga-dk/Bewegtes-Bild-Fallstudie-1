@@ -41,7 +41,7 @@ Für die Annotationsarbeit mit der Ontologie wurden zwei Videotutorials erstellt
 
 ---
 
-Lizenzhinweis: Video "Advene Basics" von <a href="Jasper Stratil" class="external-link" target="_blank">Jasper Stratil</a>, <a href="https://orcid.org/0009-0000-2237-9400" class="external-link" target="_blank">Derya Demir</a> und Kevin Huthmann unter der Lizenz <a href="https://creativecommons.org/licenses/by-sa/3.0/de/deed.de" class="external-link" target="_blank">CC BY-SA 3.0</a> via <a href="https://www.cinepoetics.fu-berlin.de/methods/3_Tools/2_Annotieren_und_Visualisieren_mit_Advene/index.html" class="external-link" target="_blank">Cinepoetics – Freie Universität Berlin</a>.
+Lizenzhinweis: Video „Advene Basics“ von <a href="Jasper Stratil" class="external-link" target="_blank">Jasper Stratil</a>, <a href="https://orcid.org/0009-0000-2237-9400" class="external-link" target="_blank">Derya Demir</a> und Kevin Huthmann unter der Lizenz <a href="https://creativecommons.org/licenses/by-sa/3.0/de/deed.de" class="external-link" target="_blank">CC BY-SA 3.0</a> via <a href="https://www.cinepoetics.fu-berlin.de/methods/3_Tools/2_Annotieren_und_Visualisieren_mit_Advene/index.html" class="external-link" target="_blank">Cinepoetics – Freie Universität Berlin</a>.
 
 ---
 
@@ -59,7 +59,7 @@ Lizenzhinweis: Video "Advene Basics" von <a href="Jasper Stratil" class="externa
 
 ---
 
-Lizenzhinweis: Video "Advene Template" von <a href="Jasper Stratil" class="external-link" target="_blank">Jasper Stratil</a>, <a href="https://orcid.org/0009-0000-2237-9400" class="external-link" target="_blank">Derya Demir</a> und Kevin Huthmann unter der Lizenz <a href="https://creativecommons.org/licenses/by-sa/3.0/de/deed.de" class="external-link" target="_blank">CC BY-SA 3.0</a> via <a href="https://www.cinepoetics.fu-berlin.de/methods/3_Tools/2_Annotieren_und_Visualisieren_mit_Advene/index.html" class="external-link" target="_blank">Cinepoetics – Freie Universität Berlin</a>.
+Lizenzhinweis: Video „Advene Template“ von <a href="Jasper Stratil" class="external-link" target="_blank">Jasper Stratil</a>, <a href="https://orcid.org/0009-0000-2237-9400" class="external-link" target="_blank">Derya Demir</a> und Kevin Huthmann unter der Lizenz <a href="https://creativecommons.org/licenses/by-sa/3.0/de/deed.de" class="external-link" target="_blank">CC BY-SA 3.0</a> via <a href="https://www.cinepoetics.fu-berlin.de/methods/3_Tools/2_Annotieren_und_Visualisieren_mit_Advene/index.html" class="external-link" target="_blank">Cinepoetics – Freie Universität Berlin</a>.
 
 ---
 
@@ -77,7 +77,7 @@ Die AdA-Publikationen wurden unter der Lizenzangabe <a href="https://creativecom
 Im Rahmen des AdA-Projekts wurde als Teil des AdA-Toolkits ein Manual entwickelt, welches darüber hinaus noch ausführlichere Anweisungen bereitstellt {cite}`ada2021`. Detaillierte und spezifische Hilfen zu den je einzelnen Funktionen können dem Manual entnommen werden. Hier steht das Manual in deutscher Fassung zum Download bereit: [AdA-Manual](../assets/Manual_Advene_AdA_D_Vers1_0.pdf). Eine englische Version kann vom <a href="https://www.ada.cinepoetics.fu-berlin.de/ada-toolkit/index.html" class="external-link" target="_blank">AdA-Toolkit</a> bezogen werden.
 
 ---
-Lizenzhinweis: "AdA-Manual" von <a href="https://www.ada.cinepoetics.fu-berlin.de/index.html" class="external-link" target="_blank">Affektrhetoriken des Audiovisuellen</a> unter der Lizenz <a href="https://creativecommons.org/licenses/by-sa/3.0/de/deed.de" class="external-link" target="_blank">CC BY-SA 3.0</a> via <a href="https://www.ada.cinepoetics.fu-berlin.de/ada-toolkit/index.html" class="external-link" target="_blank">AdA-Toolkit FU Berlin</a>
+Lizenzhinweis: „AdA-Manual“ von <a href="https://www.ada.cinepoetics.fu-berlin.de/index.html" class="external-link" target="_blank">Affektrhetoriken des Audiovisuellen</a> unter der Lizenz <a href="https://creativecommons.org/licenses/by-sa/3.0/de/deed.de" class="external-link" target="_blank">CC BY-SA 3.0</a> via <a href="https://www.ada.cinepoetics.fu-berlin.de/ada-toolkit/index.html" class="external-link" target="_blank">AdA-Toolkit FU Berlin</a>
 
 ---
 
