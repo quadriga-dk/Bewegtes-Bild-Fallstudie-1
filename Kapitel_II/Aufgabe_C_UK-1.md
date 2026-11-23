@@ -106,7 +106,7 @@ Matrix: Ebenen, Typen, Werte
 
 
 <span style="color:purple">**Aufgabe**</span>:
-Unten sind drei Antwortmöglichkeiten für die Freitext-Beschreibung: “Hier gibt es eine langsame Kamerafahrt nach links” aufgelistet.
+Unten sind drei Antwortmöglichkeiten für die Freitext-Beschreibung: „Hier gibt es eine langsame Kamerafahrt nach links“ aufgelistet.
 1. Analysieren Sie die drei unterschiedlichen Triple-Darstellungen (A, B und C).
 und bestimmen Sie, welche Triple-Struktur die Beschreibung semantisch korrekt und gemäß Semantic Web Prinzipien repräsentiert.
 2. Begründen Sie Ihre Entscheidung anhand der folgenden Kriterien:

@@ -1,6 +1,6 @@
 [
     {
-        "question": "Welcher weiterer Annotationstyp korreliert mit dem Timelapse?",
+        "question": "Welcher weitere Annotationstyp korreliert mit dem Timelapse?",
         "type": "many_choice",
         "answers": [
             {

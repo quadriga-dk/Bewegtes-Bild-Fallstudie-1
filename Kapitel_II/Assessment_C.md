@@ -146,7 +146,7 @@ quiz.create_matching_quiz(
 
 ### Frage 4
 
-Erläutern Sie, warum bei der filmanalytischen Anwendung von semantischen Triplen das "Segment X" als Subjekt verwendet wird und nicht direkt der Film als Ganzes?
+Erläutern Sie, warum bei der filmanalytischen Anwendung von semantischen Triplen das „Segment X“ als Subjekt verwendet wird und nicht direkt der Film als Ganzes?
 
 ```{code-cell} ipython3
 :tags: [remove-input]
@@ -161,7 +161,7 @@ create_answer_box('Assessment_C-4')
 :class: solution, dropdown
 **Beispiel für korrekte Antwort:**
 
-Die Verwendung von "Segment X" als Subjekt ermöglicht eine präzise zeitliche Lokalisierung der analytischen Beobachtungen innerhalb des Films. Da sich filmanalytische Eigenschaften wie Kamerabewegungen, Einstellungsgrößen oder Tonqualitäten im Verlauf eines Films ständig ändern, müssen die Annotationen an spezifische Zeitabschnitte gebunden sein. Mit "Segment X" können wir durch zusätzliche Tripel (z.B. "hat Timecode von") den genauen zeitlichen Bereich definieren, für den die Annotation gilt - sei es eine Einstellung, ein Frame oder eine frei gewählte Zeitspanne.
+Die Verwendung von „Segment X“ als Subjekt ermöglicht eine präzise zeitliche Lokalisierung der analytischen Beobachtungen innerhalb des Films. Da sich filmanalytische Eigenschaften wie Kamerabewegungen, Einstellungsgrößen oder Tonqualitäten im Verlauf eines Films ständig ändern, müssen die Annotationen an spezifische Zeitabschnitte gebunden sein. Mit „Segment X“ können wir durch zusätzliche Tripel (z.B. „hat Timecode von“) den genauen zeitlichen Bereich definieren, für den die Annotation gilt – sei es eine Einstellung, ein Frame oder eine frei gewählte Zeitspanne.
 
 ````
 
@@ -192,7 +192,7 @@ multiple_choice5 = [{
         {
             "answer": "Eine hierarchische Struktur aus Leveln (Ebenen), Typen und Werten",
             "correct": True,
-            "feedback": """✓ Korrekt! Die AdA-Filmontologie ist hierarchisch in Ebenen (Levels), Typen und Werte gegliedert. Diese Struktur ermöglicht eine präzise und differenzierte Erfassung filmanalytischer Konzepte sowie die Umsetzung der Relation in eine Triple-Struktur."""
+            "feedback": """✓ Korrekt! Die AdA-Filmontologie ist hierarchisch in Ebenen (Levels), Typen und Werten gegliedert. Diese Struktur ermöglicht eine präzise und differenzierte Erfassung filmanalytischer Konzepte sowie die Umsetzung der Relation in eine Triple-Struktur."""
         },
         {
             "answer": "Eine zufällige Sammlung von Triples ohne übergeordnete Organisation",
@@ -233,12 +233,12 @@ multiple_choice6 = [{
         {
             "answer": "A. Kamerabewegung Tempo, B. Kamera, C. Langsam, D. Montage",
             "correct": False,
-            "feedback": "x Nicht korrekt. Überprüfen Sie die hierarchische Struktur der AdA-Filmontologie und die korrekte Zuordnung der Begriffe zu den Ebenen."
+            "feedback": "× Nicht korrekt. Überprüfen Sie die hierarchische Struktur der AdA-Filmontologie und die korrekte Zuordnung der Begriffe zu den Ebenen."
         },
         {
             "answer": "A. Kamera, B. Langsam, C. Kamerabewegung Tempo, D. Montage",
             "correct": False,
-            "feedback": "x Nicht korrekt. Überprüfen Sie die hierarchische Struktur der AdA-Filmontologie und die korrekte Zuordnung der Begriffe zu den Ebenen."
+            "feedback": "× Nicht korrekt. Überprüfen Sie die hierarchische Struktur der AdA-Filmontologie und die korrekte Zuordnung der Begriffe zu den Ebenen."
         },
         {
             "answer": "A. Montage, B. Kamera, C. Kamerabewegung Tempo, D. Langsam",
@@ -360,7 +360,7 @@ display_quiz(multiple_choice9, colors=colors.jupyterquiz)
 
 ### Frage 10
 
-Sie planen ein eigenes Forschungsvorhaben mit dem Schwerpunkt "Bildproduktionen und Klimawandel". Überlegen Sie, welche analytischen Dimensionen (Levels) der AdA-Filmontologie besonders relevant sein könnten und begründen Sie Ihre Auswahl. 
+Sie planen ein eigenes Forschungsvorhaben mit dem Schwerpunkt „Bildproduktionen und Klimawandel“. Überlegen Sie, welche analytischen Dimensionen (Levels) der AdA-Filmontologie besonders relevant sein könnten und begründen Sie Ihre Auswahl. 
 
 ```{code-cell} ipython3
 :tags: [remove-input]

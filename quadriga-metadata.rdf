@@ -348,7 +348,7 @@ Förderkennzeichen: 16DKZ2034</schema:funding>
         <schema:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_6_objective_1" />
         <schema:educationalAlignment rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/#chapter_6_objective_2" />
         <schema:name>Reflexion und Resümee</schema:name>
-        <schema:teaches>Die Entwicklung von tabellarischer Annotation zur ontologiebasierten Annotation kann zusammengefassst und die Methoden kritisch reflektiert werden.</schema:teaches>
+        <schema:teaches>Die Entwicklung von tabellarischer Annotation zur ontologiebasierten Annotation kann zusammengefasst und die Methoden kritisch reflektiert werden.</schema:teaches>
         <schema:timeRequired>PT30M</schema:timeRequired>
         <schema:url rdf:resource="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-1/Kapitel_III/toc.html" />
       </schema:LearningResource>

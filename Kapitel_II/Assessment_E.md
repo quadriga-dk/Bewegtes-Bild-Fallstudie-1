@@ -128,8 +128,8 @@ quiz.create_matching_quiz(
         "Syntaxelemente im Edit-Fenster anpassen",
         "AdA-Template-Annotationspaket in Advene öffnen",
         "W3-Symbol in der Icon-Leiste klicken und Timeline-Variante auswählen",
-        "'Edit'-Button klicken, um das Edit-Fenster zu öffnen",
-        "Änderungen mit 'OK' bestätigen, um die Timeline neu zu laden",
+        "‚Edit‘-Button klicken, um das Edit-Fenster zu öffnen",
+        "Änderungen mit ‚OK‘ bestätigen, um die Timeline neu zu laden",
         "Im Browser öffnet sich die Timeline mit Standardkonfiguration"
     ],
     options=["1", "2", "3", "4", "5", "6"],
@@ -137,9 +137,9 @@ quiz.create_matching_quiz(
         "AdA-Template-Annotationspaket in Advene öffnen": "1",
         "W3-Symbol in der Icon-Leiste klicken und Timeline-Variante auswählen": "2",
         "Im Browser öffnet sich die Timeline mit Standardkonfiguration": "3",
-        "'Edit'-Button klicken, um das Edit-Fenster zu öffnen": "4",
+        "‚Edit‘-Button klicken, um das Edit-Fenster zu öffnen": "4",
         "Syntaxelemente im Edit-Fenster anpassen": "5",
-        "Änderungen mit 'OK' bestätigen, um die Timeline neu zu laden": "6"
+        "Änderungen mit ‚OK‘ bestätigen, um die Timeline neu zu laden": "6"
     }
 )
 ```
@@ -359,7 +359,7 @@ create_answer_box('Assessment_E-9')
 
 Gehen Sie näher auf den Zusammenhang zwischen der Visualisierung und der Identifikation von Mustern ein – was wird sichtbar?
 
-Wie kann die Synchronizität verschiedener Parameter analytisch greifbar gemacht werden? Reflektieren sie über die Rolle der Visualisierung im Interpretationsprozess und berücksichtigen Sie sowohl quantitative als auch qualitative Aspekte der Dateninterpretation.
+Wie kann die Synchronizität verschiedener Parameter analytisch greifbar gemacht werden? Reflektieren Sie über die Rolle der Visualisierung im Interpretationsprozess und berücksichtigen Sie sowohl quantitative als auch qualitative Aspekte der Dateninterpretation.
 
 ````
 

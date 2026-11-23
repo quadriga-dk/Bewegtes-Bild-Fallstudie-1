@@ -6,17 +6,17 @@
             {
                 "answer": "A",
                 "correct": false,
-                "feedback": "Diese Antwort ist falsch. Das Prädikat enthält das Level, muss aber die analytischen Dimensionen für 'Kamerabewegung' enthalten. "
+                "feedback": "Diese Antwort ist falsch. Das Prädikat enthält das Level, muss aber die analytischen Dimensionen für ‚Kamerabewegung‘ enthalten. "
             },
             {
                 "answer": "B",
                 "correct": true,
-                "feedback": "Korrekt. Die Anordnung erfolgt nach dem Schema 'Subjekt-Prädikat-Objekt' mit der jeweiligen analytischen Dimension als Prädikat und den dazugehörigen Werten als Objekt."
+                "feedback": "Korrekt. Die Anordnung erfolgt nach dem Schema ‚Subjekt-Prädikat-Objekt‘ mit der jeweiligen analytischen Dimension als Prädikat und den dazugehörigen Werten als Objekt."
             }, 
             {
                 "answer": "C",
                 "correct": false,
-                "feedback": "Diese Antwort ist falsch, da die Reihenfolge nicht nach dem Schema 'Subjekt – Prädikat – Objekt' erfolgt."
+                "feedback": "Diese Antwort ist falsch, da die Reihenfolge nicht nach dem Schema ‚Subjekt – Prädikat – Objekt‘ erfolgt."
             }
         ]
     }

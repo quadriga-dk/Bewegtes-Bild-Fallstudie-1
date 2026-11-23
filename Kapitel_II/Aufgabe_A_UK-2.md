@@ -14,7 +14,7 @@ ____________________
 ➝ **Szene**  
 * Teilabschnitt eines Filmes  
 * Folge von Einstellungen  
-* Kontinuität von Raum, Zeit & Figuren ist gegeben, Abgeschlossener Bereich eines Films  
+* Kontinuität von Raum, Zeit & Figuren ist gegeben, abgeschlossener Bereich eines Films  
 ____________________
 ➝ **Einstellung**  
 * Kleinste filmische Einheit  
@@ -47,7 +47,7 @@ ____________________
 Blickorientierung der Kamera auf ein Objekt/Subjekt oder das Geschehen  
 ____________________
 <ins>**Kamerabewegung:**</ins> <br>
-Alle Bewegungen, bei der die Kamera ihren Standort oder ihre Bewegungsrichtung ändert  
+Alle Bewegungen, bei denen die Kamera ihren Standort oder ihre Bewegungsrichtung ändert  
 ____________________
 <ins>**Ton:**</ins> <br>
 Alle Geräusche, einschl. Musik, die im Offscreen oder Onscreen wahrnehmbar sind  
@@ -58,7 +58,7 @@ ____________________
 <ins>**Licht:** </ins> <br>
 Gestaltung der Hell-Dunkel-Kontraste sowie Lichtstärke 
 
-Um die für unser Beispielvideo spezifischen Gestaltungsebenen ebenfalls adäquat erfassen zu können, haben wir - neben den oben gelisteten allgemeineren Analysekategorien - den Parameter <ins>**Bildinhalt** </ins> hinzugefügt und diesen wie folgt kategorisiert: 
+Um die für unser Beispielvideo spezifischen Gestaltungsebenen ebenfalls adäquat erfassen zu können, haben wir – neben den oben gelisteten allgemeineren Analysekategorien – den Parameter <ins>**Bildinhalt** </ins> hinzugefügt und diesen wie folgt kategorisiert: 
 
 1. Bühne
 2. Publikum
@@ -79,7 +79,7 @@ Für eine vertiefende Beschäftigung mit den Grundbegriffen empfehlen wir folgen
 ````{margin}
 ```{admonition} Szenen und Einstellungen
 :class: caution
-Bei ganzen Filmen ist es zunächst sinnvoller nach Sequenzen und/oder Szenen zu segmentieren. Einzelne Szenen wiederrum können dann in Einstellungen eingeteilt werden.
+Bei ganzen Filmen ist es zunächst sinnvoller nach Sequenzen und/oder Szenen zu segmentieren. Einzelne Szenen wiederum können dann in Einstellungen eingeteilt werden.
 ```
 ````
 
@@ -93,11 +93,11 @@ Um einen Eindruck davon zu bekommen, wie eine tabellarische Annotation aussehen 
 
 | Nr. | Dauer (sec.) | Screenshot                | Bildinhalt   | Einstellungsgröße  | Montage                     | Kamera                         | Ton/Musik                          | Farbe            | Licht        |
 |-----|-------------:|---------------------------|--------------|--------------------|-----------------------------|--------------------------------|------------------------------------|------------------|--------------|
-| 01  | 05''         | ![S01](../assets/S01.png) | Bühne        | medium shot        | harter Schnitt              | low-angle; Fahrt: leicht>links | Dialog/Rede (onscreen)             | schwarz          | dunkel       |
-| 02  | 07''         | ![S02](../assets/S02.png) | 2D-Animation | closeup            | harter Schnitt              | high-angle; Fahrt: unten>oben  | Dialog/Rede /Gelächter (offscreen) | weiß, braun, rot | dunkel; hell |
-| 03  | 04''         | ![S03](../assets/S03.png) | Bühne        | medium closeup     | harter Schnitt              | straight-angle; unbewegt       | Dialog/Rede (onscreen)             | schwarz; grau    | dunkel       |
-| 04  | 03''         | ![S04](../assets/S04.png) | Publikum     | shoulder closeup   | harter Schnitt; Gegenschuss | straight-angle; unbewegt       | Applaus (onscreen)                 | orange; schwarz  | dunkel       |
-| 05  | 03''         | ![S05](../assets/S05.png) | Bühne        | medium closeup     | harter Schnitt; Gegenschuss | straight-angle; unbewegt       | Dialog/Rede (onscreen)             | schwarz; grau    | dunkel       |
+| 01  | 05″         | ![S01](../assets/S01.png) | Bühne        | medium shot        | harter Schnitt              | low-angle; Fahrt: leicht>links | Dialog/Rede (onscreen)             | schwarz          | dunkel       |
+| 02  | 07″         | ![S02](../assets/S02.png) | 2D-Animation | closeup            | harter Schnitt              | high-angle; Fahrt: unten>oben  | Dialog/Rede /Gelächter (offscreen) | weiß, braun, rot | dunkel; hell |
+| 03  | 04″         | ![S03](../assets/S03.png) | Bühne        | medium closeup     | harter Schnitt              | straight-angle; unbewegt       | Dialog/Rede (onscreen)             | schwarz; grau    | dunkel       |
+| 04  | 03″         | ![S04](../assets/S04.png) | Publikum     | shoulder closeup   | harter Schnitt; Gegenschuss | straight-angle; unbewegt       | Applaus (onscreen)                 | orange; schwarz  | dunkel       |
+| 05  | 03″         | ![S05](../assets/S05.png) | Bühne        | medium closeup     | harter Schnitt; Gegenschuss | straight-angle; unbewegt       | Dialog/Rede (onscreen)             | schwarz; grau    | dunkel       |
 ```{admonition} Wichtig
 :class: caution
 Eine tabellarische Annotation erfordert viel Zeit und Aufmerksamkeit, da alle Daten, beispielsweise mit einem Textprogramm, manuell eingetragen werden müssen. 
@@ -124,7 +124,7 @@ In dieser Übung sollen Sie die tabellarische Annotation eigenständig reproduzi
 <span style="color:purple">**Aufgabe**</span>:
 1. Gehen Sie die Durchführung der Schritte nochmals genau durch 
 2. Orientieren Sie sich an den hier dargestellten Beispielen
-3. Erstellen Sie ein Einstellungsprotokoll für den hier ausgewählten [Untersuchungsgegenstand](../Kapitel_I/Untersuchungsgegenstand.md) (“To understand climate change, understand these three numbers”) mit dem Themenschwerpunkt Klimawandel.
+3. Erstellen Sie ein Einstellungsprotokoll für den hier ausgewählten [Untersuchungsgegenstand](../Kapitel_I/Untersuchungsgegenstand.md) („To understand climate change, understand these three numbers“) mit dem Themenschwerpunkt Klimawandel.
 4. Vergleichen Sie Ihre Annotationsergebnisse mit der bereitgestellten [Musterlösung](../assets/Tabellarische-Annotation-Musterlösung-Quadriga.pdf) und reflektieren Sie eventuelle Unterschiede und Abweichungen
 
 <span style="color:purple">**Bearbeitungszeit**</span>: Ca. 120 Min.

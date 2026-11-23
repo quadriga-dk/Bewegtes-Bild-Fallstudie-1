@@ -1,5 +1,5 @@
 ---
-lang: de_DE
+lang: de-DE
 ---
 # AdA-Timeline
 

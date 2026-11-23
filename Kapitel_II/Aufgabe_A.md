@@ -31,7 +31,7 @@ Sowohl die Entwicklung und Verwirklichung der Ontologie als Framework als auch d
 
 Für die erste Übung – besonders geeignet für Einsteiger:innen ohne Vorwissen und Interessierte am Umgang mit deskriptiven Methoden der Filmanalyse – werden tabellarische Annotationsdaten erstellt.
 
-<span style="font-variant: small-caps;" >Let's get started 🚀 ➡️</span>
+<span style="font-variant: small-caps;" >Let’s get started 🚀 ➡️</span>
 
 ## Literatur
 
